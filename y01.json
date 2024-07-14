@@ -34,7 +34,7 @@
     {
       "key": "常见问题",
       "name": "❓常见问题",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
+      "jar": "https://codeberg.org/aje/t/raw/branch/main/sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
@@ -44,7 +44,7 @@
     {
       "key": "应用商店",
       "name": "🛒大师小店",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
+      "jar": "https://codeberg.org/aje/t/raw/branch/main/sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
@@ -89,7 +89,7 @@
     {
       "key": "配置中心-PG",
       "name": "🔧配置中心",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
+      "jar": "https://codeberg.org/aje/t/raw/branch/main/gy/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
