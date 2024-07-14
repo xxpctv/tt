@@ -5,7 +5,7 @@
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://raw.gitcode.com/jeo/t/blobs/8deb973b127f68d59dda63e22d808035870e5b36/Aj.png",
+        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
         "version": "感谢支持"
       }
     ]
@@ -35,7 +35,7 @@
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://raw.gitcode.com/jeo/t/blobs/8deb973b127f68d59dda63e22d808035870e5b36/Aj.png",
+        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
         "version": "感谢支持"
       }
     ]
@@ -77,7 +77,7 @@
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://raw.gitcode.com/jeo/t/blobs/8deb973b127f68d59dda63e22d808035870e5b36/Aj.png",
+        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
         "version": "感谢支持"
       }
     ]
@@ -119,7 +119,7 @@
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://raw.gitcode.com/jeo/t/blobs/8deb973b127f68d59dda63e22d808035870e5b36/Aj.png",
+        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
         "version": "感谢支持"
       }
     ]
@@ -166,7 +166,7 @@
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://raw.gitcode.com/jeo/t/blobs/8deb973b127f68d59dda63e22d808035870e5b36/Aj.png",
+        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
         "version": "感谢支持"
       }
     ]
