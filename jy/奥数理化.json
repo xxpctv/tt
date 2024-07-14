@@ -1,0 +1,16 @@
+{
+  "classes": [
+    {
+      "type_name": "奥数",
+      "type_id": "奥数"
+    },
+    {
+      "type_name": "奥物",
+      "type_id": "奥林匹克物理"
+    },
+    {
+      "type_name": "奥化",
+      "type_id": "奥林匹克化学"
+    }
+  ]
+}
