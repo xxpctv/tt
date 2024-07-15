@@ -16,6 +16,8 @@
 
 {"name":"AV合集┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/AV合集.txt"},
 
+{"name":"测试合并","url":"https://codeberg.org/aje/t/raw/branch/main/av/测试合并.txt"},
+
 {"name":"测试418┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/测试24418.txt"},
 
 {"name":"测试715┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/测试24715.txt"},
