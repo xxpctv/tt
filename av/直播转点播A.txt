@@ -18,6 +18,8 @@
 
 {"name":"测试418┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/测试24418.txt"},
 
+{"name":"测试715┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/测试24715.txt"},
+
 {"name":"日本AV┃全网","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本AV.txt"},
 
 {"name":"日本女优┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本女优.txt"}
