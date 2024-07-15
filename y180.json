@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "直播转点播",
-      "name": "📡大师私藏┃5.15",
+      "name": "📡大师私藏7.15",
       "jar": "https://codeberg.org/aje/t/raw/branch/main/my/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
       "type": 3,
       "api": "./my/直播转点播.js",
@@ -207,6 +207,26 @@
 {"key": "香奶儿资源站","name": "香奶儿┃全网","type": 0,"api": "https://www.gdlsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "白嫖资源站","name": "白嫖┃全网","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "美少女资源站","name": "美少女┃电信","type": 0,"api": "https://www.msnii.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{
+		"key": "zp124",
+		"name": "色猫资源",
+		"type": 0,
+		"api": "https://api.maozyapi.com/inc/api.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	},
+ {
+		"key": "zp066",
+		"name": "花椒资源",
+		"type": 0,
+		"api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	},
+	
+
 
 	 {
             "key": "csp_xBPQ_香蕉国产",
