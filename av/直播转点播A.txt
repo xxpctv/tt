@@ -10,6 +10,8 @@
 
 {"name":"国产老片","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产老片.txt"},
 
+{"name":"福利","url":"https://codeberg.org/aje/t/raw/branch/main/av/福利.txt"},
+
 {"name":"视频点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/视频点播.txt"},
 
 {"name":"高清AV┃移动","url":"https://codeberg.org/aje/t/raw/branch/main/av/高清AV.txt"},
