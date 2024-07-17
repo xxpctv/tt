@@ -6,21 +6,17 @@
 
 {"name":"欧美轮播","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美轮播.txt"},
 
-{"name":"国产传媒","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产传媒.txt"},
+{"name":"传媒短片","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产传媒.txt"},
 
 {"name":"国产老片","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产老片.txt"},
 
-{"name":"福利","url":"https://codeberg.org/aje/t/raw/branch/main/av/福利.txt"},
+{"name":"日本正片","url":"https://codeberg.org/aje/t/raw/branch/main/av/高清AV.txt"},
 
-{"name":"视频点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/视频点播.txt"},
+{"name":"传媒正片","url":"https://codeberg.org/aje/t/raw/branch/main/av/传媒合辑.txt"},
 
-{"name":"高清AV┃移动","url":"https://codeberg.org/aje/t/raw/branch/main/av/高清AV.txt"},
-
-{"name":"传媒合辑┃移动","url":"https://codeberg.org/aje/t/raw/branch/main/av/传媒合辑.txt"},
+{"name":"欧美点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美AV.txt"},
 
 {"name":"精选AV┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/精选AV.txt"},
-
-{"name":"欧美AV┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美AV.txt"},
 
 {"name":"AV合集┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/AV合集.txt"},
 
