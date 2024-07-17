@@ -1,5 +1,7 @@
 👠｜轮播高清,#genre#
 Dorce,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+花花公子,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+日本高清DV,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6225/index.m3u8
 少女 720,http://cdn.adultiptv.net/teen.m3u8
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
 爆乳 720,http://cdn.adultiptv.net/bigtits.m3u8
@@ -26,8 +28,6 @@ Dorce,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 欧美频道11,http://cdn.adultiptv.net/lesbian.m3u8
 欧美频道12,http://cdn.adultiptv.net/bigdick.m3u8
 欧美频道13,http://cdn.adultiptv.net/anal.m3u8
-花花公子,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
-日本高清DV,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6225/index.m3u8
 Anal肛门,http://live.redtraffic.xyz/anal.m3u8
 Asian亚洲,http://live.redtraffic.xyz/asian.m3u8
 BigDick大屌,http://live.redtraffic.xyz/bigdick.m3u8
@@ -54,6 +54,9 @@ K频道欧美版,http://live.redtraffic.xyz/thirdsome.m3u8
 俄罗斯成人4台,http://live.redtraffic.xyz/lesbian.m3u8
 惊艳台欧美版,http://live.redtraffic.xyz/cuckold.m3u8
 👠｜直播LIVE,#genre#
+MyCamTVBrunetteGirls,http://live.mycamtv.com/brunette.m3u8
+MyCamTVEbonyGirls,http://live.mycamtv.com/ebony.m3u8
+MyCamTVMediumGirls,http://live.mycamtv.com/medium.m3u8
 LiveCams,http://live.redtraffic.xyz/livecams.m3u8
 MyCamTVAnal,http://live.mycamtv.com/anal.m3u8
 MyCamTVArabGirls,http://live.mycamtv.com/arab.m3u8
@@ -62,10 +65,7 @@ MyCamTVBigAssGirls,http://live.mycamtv.com/bigass.m3u8
 MyCamTVMature,http://live.mycamtv.com/bigtits.m3u8
 MyCamTVBlondeGirls,http://live.mycamtv.com/blonde.m3u8
 MyCamTVBlowjob,http://live.mycamtv.com/blowjob.m3u8
-MyCamTVBrunetteGirls,http://live.mycamtv.com/brunette.m3u8
-MyCamTVEbonyGirls,http://live.mycamtv.com/ebony.m3u8
 MyCamTVLatinaGirls,http://live.mycamtv.com/latina.m3u8
-MyCamTVMediumGirls,http://live.mycamtv.com/medium.m3u8
 MyCamTVMILF,http://live.mycamtv.com/milf.m3u8
 MyCamTVSkinnyGirls,http://live.mycamtv.com/skinny.m3u8
 MyCamTVGirlsSquirt,http://live.mycamtv.com/squirt.m3u8
