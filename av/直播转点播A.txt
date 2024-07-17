@@ -6,6 +6,10 @@
 
 {"name":"欧美轮播","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美轮播.txt"},
 
+{"name":"国产传媒","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产传媒.txt"},
+
+{"name":"国产老片","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产老片.txt"},
+
 {"name":"视频点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/视频点播.txt"},
 
 {"name":"高清AV┃移动","url":"https://codeberg.org/aje/t/raw/branch/main/av/高清AV.txt"},
