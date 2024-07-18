@@ -6,11 +6,11 @@
 
 {"name":"欧美轮播","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美轮播.txt"},
 
-{"name":"传媒短片","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产传媒.txt"},
+{"name":"传媒短片","url":"https://codeberg.org/aje/t/raw/branch/main/av/传媒短片.txt"},
 
-{"name":"传媒正片","url":"https://codeberg.org/aje/t/raw/branch/main/av/传媒合辑.txt"},
+{"name":"传媒正片","url":"https://codeberg.org/aje/t/raw/branch/main/av/传媒正片.txt"},
 
-{"name":"欧美点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美AV.txt"},
+{"name":"欧美点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美点播.txt"},
 
 {"name":"日片点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/日片点播.txt"},
 
