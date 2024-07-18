@@ -8,20 +8,16 @@
 
 {"name":"传媒短片","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产传媒.txt"},
 
-{"name":"国产老片","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产老片.txt"},
-
-{"name":"日本正片","url":"https://codeberg.org/aje/t/raw/branch/main/av/高清AV.txt"},
-
 {"name":"传媒正片","url":"https://codeberg.org/aje/t/raw/branch/main/av/传媒合辑.txt"},
 
 {"name":"欧美点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美AV.txt"},
 
-{"name":"精选AV┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/精选AV.txt"},
+{"name":"日片点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/日片点播.txt"},
 
-{"name":"AV合集┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/AV合集.txt"},
+{"name":"国产老片","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产老片.txt"},
 
-{"name":"日本AV┃全网","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本AV.txt"},
+{"name":"日本剧场","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本剧场.txt"},
 
-{"name":"日本女优┃电信","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本女优.txt"}
+{"name":"日本女优","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本女优.txt"}
 
 ]
