@@ -1,18 +1,22 @@
-
-👠｜测试高清,#genre#
-Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-Dorce,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-花花公子,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
-日本高清DV,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6225/index.m3u8
-一本道正片1,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102015_174-1pon/index.m3u8
-一本道正片2,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101015_169-1pon/index.m3u8
-一本道正片3,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100615_166-1pon/index.m3u8
-一本道正片4,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-121015_001/index.m3u8
-一本道正片5,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120815_203/index.m3u8
-日韩无码,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
+👠｜测试高清2k,#genre#
+轮播.Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+轮播.Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+轮播.Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+轮播.Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+轮播.Dorce,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+轮播.Eroxxx HD,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
+轮播.Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
+轮播.Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+轮播.SexArt,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
+点播.花花公子,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6242/index.m3u8
+点播.日本高清DV,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6225/index.m3u8
+点播.日本高清DV,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6225/index.m3u8 
+点播.一本道正片1,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102015_174-1pon/index.m3u8
+点播.一本道正片2,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101015_169-1pon/index.m3u8
+点播.一本道正片3,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100615_166-1pon/index.m3u8
+点播.一本道正片4,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-121015_001/index.m3u8
+点播.一本道正片5,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120815_203/index.m3u8
+点播.日韩无码,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
 👠｜欧美轮播,#genre#
 少女 720,http://cdn.adultiptv.net/teen.m3u8
 三人 720,http://cdn.adultiptv.net/threesome.m3u8
@@ -87,55 +91,16 @@ MyCamTVWhiteGirls,http://live.mycamtv.com/white.m3u8
 MyCamTVYoungGirls,http://live.mycamtv.com/young.m3u8
 Threesome,https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8
 
-👠｜欧美 TV,#genre#
-Miami TV JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-Miami TV Latino,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
-Miami TV Sun Beach,http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
-ТНТHD,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
-СТСHD,http://myott.tv/stream/S8JK2Q2BVB/138.m3u8
-СТСLove,http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
-Zoom TV,http://178.219.128.68:64889/ZOOMTVHD
-Zoom TV,http://37.48.101.149:7018/play/a01u/index.m3u8
-Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
-ExstasyHD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-IBizaHDTV1,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
-EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
-Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
-PinkoClub,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
-PinkoClub,http://93.152.174.144:4000/play/pinkotv/index.m3u8
-PinkErotic3,http://195.154.185.179/xx_hot_tv/index.m3u8
-PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
-A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-EroxHD,http://94.229.250.73:8008/play/a002
-MiamiTVLatino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-MiamiTVMéxico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-MiamiTVJennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
-RedlightHD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
-RedlightHD,http://109.200.130.123:7032/play/353
-Visit-XTV,https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
-VividRedHD,http://109.200.130.123:7032/play/a00g
-ShemaleTubeTVHD,https://www.ast.tv/stream/1/master.m3u8
-ShemaleTubeTV2HD,https://www.ast.tv/stream/2/master.m3u8
-HustlerTV,http://78.83.191.18:8000/play/a078
-
 👠｜欧美轮播2,#genre#
-
 BCU Charm,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/18053/index.m3u8
 Кино 18  HD,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18075/index.m3u8
 Кино 18 International,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18076/index.m3u8
 Dorcel TV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/878/index.m3u8
 Japan HDV,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6225/index.m3u8
-Eroxxx HD,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
 Eroxxx HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/5015/index.m3u8
 Eroxxx HD,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/5015/index.m3u8
 Eroxxx HD,http://ca.ukrainske.tv/596/3530225EDBD6B16/video.m3u8
-Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
 XXL,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26472
-Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
 VENUS,http://168.181.122.234:8000/play/a027/index.m3u8
 Brazzers TV,https://cdn-main.lolokoko.tv/brazzers.stream/chunks.m3u8
 Dorcel TV,https://cdn-main.lolokoko.tv/DorcelTV.stream/chunks.m3u8
@@ -145,7 +110,6 @@ Private TV,https://cdn-main.lolokoko.tv/private.stream/chunks.m3u8
 Redlight HD,https://cdn-main.lolokoko.tv/redlight.stream/chunks.m3u8
 SexArt,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6253/index.m3u8
 SexArt,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6253/index.m3u8
-SexArt,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
 Pornstar Red TV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6243/index.m3u8
 POV Adult TV,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6244/index.m3u8
 Japan HDV,http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6225/index.m3u8
@@ -192,62 +156,6 @@ MvH Hard,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6297/index.m3u8
 SuperOne HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6298/index.m3u8
 Dorcel HD orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9064/index.m3u8
 Redlight HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9066/index.m3u8
-👠｜欧美 TV2,#genre#
-Redlight HD,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/242/index.m3u8
-Dorcel TV HD orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9067/index.m3u8
-O-La-La orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9068/index.m3u8
-Family Hookups,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9345/index.m3u8
-EXXXOTICA HD orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9346/index.m3u8
-KinoXXX,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11052/index.m3u8
-EXTASY HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11051/index.m3u8
-VF Cartoon 18+,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11117/index.m3u8
-Kinoshka Adult HD,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18060/index.m3u8
-Eromania 4K,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/10049/index.m3u8
-DuckTV HD,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18138/index.m3u8
-Visit X TV,https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
-cum4K,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/6190/index.m3u8
-extasy4k,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/5014/index.m3u8
-tiny4k,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/6258/index.m3u8
-BANG,http://5.182.209.225:8080/live/MXnnadb2uK/2GsF8UK7QA/17675.ts
-META,http://5.182.209.225:8080/live/MXnnadb2uK/2GsF8UK7QA/17694.ts
-Siptare,http://5.182.209.225:8080/live/MXnnadb2uK/2GsF8UK7QA/17733.ts
-hot boys,http://23.158.200.7/live/491175347448pw/906956704666/82166.ts
-angey,http://5.182.209.225:8080/live/MXnnadb2uK/2GsF8UK7QA/17855.ts
- Blue Hustler TV,http://ca.ukrainske.tv/107/3530225EDBD6B16/video.m3u8
- Playboy,http://ca.ukrainske.tv/242/3530225EDBD6B16/video.m3u8
- Satisfaction HD,http://ca.ukrainske.tv/598/3530225EDBD6B16/video.m3u8
- Evil Angel HD,http://ca.ukrainske.tv/6891/3530225EDBD6B16/video.m3u8
- Brazzers TV Europe,http://ca.ukrainske.tv/76/3530225EDBD6B16/video.m3u8
- Barely Legal,http://ca.ukrainske.tv/4012/3530225EDBD6B16/video.m3u8
- PassionXXX,http://ca.ukrainske.tv/6869/3530225EDBD6B16/video.m3u8
- PassionXXX 2,http://ca.ukrainske.tv/6883/3530225EDBD6B16/video.m3u8
- PassionXXX Milf,http://ca.ukrainske.tv/6884/3530225EDBD6B16/video.m3u8
- Pinko Club,http://ca.ukrainske.tv/6867/3530225EDBD6B16/video.m3u8
- CentoXCento,http://ca.ukrainske.tv/6868/3530225EDBD6B16/video.m3u8
- XYPlus HD,http://ca.ukrainske.tv/6870/3530225EDBD6B16/video.m3u8
- XYMax HD,http://ca.ukrainske.tv/6871/3530225EDBD6B16/video.m3u8
- XYMix HD,http://ca.ukrainske.tv/6872/3530225EDBD6B16/video.m3u8
- Dorcel HD,http://ca.ukrainske.tv/6879/3530225EDBD6B16/video.m3u8
-Русская Ночь,http://ca.ukrainske.tv/132/3530225EDBD6B16/video.m3u8
-Шелк Шелк,http://ca.ukrainske.tv/7310/3530225EDBD6B16/video.m3u8
- Penthouse Quickies HD,http://ca.ukrainske.tv/6881/3530225EDBD6B16/video.m3u8
- Penthouse HD,http://ca.ukrainske.tv/1497/3530225EDBD6B16/video.m3u8
- Penthouse Gold HD,http://ca.ukrainske.tv/6880/3530225EDBD6B16/video.m3u8
- Kinoshka Adult HD,http://ca.ukrainske.tv/9997/3530225EDBD6B16/video.m3u8
-BCU Charm HD,http://ca.ukrainske.tv/7141/3530225EDBD6B16/video.m3u8
- YOSSO TV SEXY,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
- CineManExExEx,http://ca.ukrainske.tv/13020/3530225EDBD6B16/video.m3u8
- CineManExExEx TWO,http://ca.ukrainske.tv/13021/3530225EDBD6B16/video.m3u8
-Clarity4K Angel XXX Clarity4K Angel XXX,http://ca.ukrainske.tv/4607/3530225EDBD6B16/video.m3u8
-Adult Channel 2,http://82.214.84.142:8000/play/a00s/index.m3u8
-Adult Channel 3,http://82.214.84.142:8000/play/a00t/index.m3u8
-Adult Channel 4,http://82.214.84.142:8000/play/a005/index.m3u8
-Adult Channel 5,http://82.214.84.142:8000/play/a006/index.m3u8
-Adult Channel 6,http://82.214.84.142:8000/play/a007/index.m3u8
-Adult Channel 7,http://82.214.84.142:8000/play/a008/index.m3u8
-1pon_川原みのりエンドレスセックス,https://vip3.lbbf9.com/20220113/subsDqjy/1000kb/hls/index.m3u8
-1pon113017_612市来美保究極マゾ,https://www.lbbf9.com/20210617/BQKojYIM/700kb/hls/index.m3u8
-1pon061110_854,https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
 👠｜欧美轮播3,#genre#
 花花公子,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/527/index.m3u8
 电影XXX,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/11052/index.m3u8 
@@ -258,7 +166,6 @@ Adult Channel 7,http://82.214.84.142:8000/play/a008/index.m3u8
 花花公子+,http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/6242/index.m3u8
 花花公子+,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6242/index.m3u8
 日本高清DV,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6225/index.m3u8
-日本高清DV,http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6225/index.m3u8 
 BCU Charm,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/18053/index.m3u8 
 BCU Charm,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/18053/index.m3u8 
 BCU Charm,https://am01.spr24.net/20788/mpegts?token=a8AeihBVXNXmwW
@@ -346,3 +253,43 @@ MOM Фигуристая русская рыжая глубоко заглаты
 Межрассовое Трио 5,https://video2.tizam.cc/files/2483321/interracial_threesomes_5.mp4
 Межрассовое Трио 7,https://video1.tizam.cc/roliki/tizam80361.mp4
 tva-x1,https://ovhv47.twincdn.com/videos/43/43393/43393_720p.mp4?key_iptv.org.ua
+👠｜欧美1920 TV,#genre#
+
+СТСLove,http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
+CAMPUS TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+Dauerwerbung TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+RF.HD TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+25 TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+PUNTKUM TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+Dauerwerbung TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+MIc TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+OKD TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+w44,http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+OK TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+ТНТHD,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
+TV,https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+w37,http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+Miami TV JennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+NRWISION TV,https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+Zoom TV,http://178.219.128.68:64889/ZOOMTVHD
+
+👠｜欧美1280 TV,#genre#
+
+DuckTV HD,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18138/index.m3u8
+tiny4k,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/6258/index.m3u8
+cum4K,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/6190/index.m3u8
+extasy4k,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/5014/index.m3u8
+Family Hookups,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9345/index.m3u8
+KinoXXX,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11052/index.m3u8
+EXTASY HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11051/index.m3u8
+EXXXOTICA HD orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9346/index.m3u8
+VF Cartoon 18+,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/11117/index.m3u8
+Redlight HD,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/242/index.m3u8
+Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+Dorcel TV HD orig,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/9067/index.m3u8
+TVK TV,http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+Eromania 4K,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/10049/index.m3u8
+Kinoshka Adult HD,http://3b9673b8.cbilant.com/iptv/72ADL97PMPSR6F/18060/index.m3u8
+PIX TV,https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+1024x576,http://gargoyle.tomkow.pl/hls/tvt.m3u8
