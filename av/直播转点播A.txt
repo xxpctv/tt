@@ -18,6 +18,8 @@
 
 {"name":"日本剧场","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本剧场.txt"},
 
-{"name":"日本女优","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本女优.txt"}
+{"name":"日本女优","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本女优.txt"},
+
+{"name":"1280","url":"https://codeberg.org/aje/t/raw/branch/main/av/1280.txt"}
 
 ]
