@@ -1,25 +1,25 @@
 [
 
-{"name":"电台之声","url":"./my/电台之声.txt"},
+{"name":"电台之声","url":"https://codeberg.org/aje/t/raw/branch/main/my/电台之声.txt"},
 
-{"name":"大师吐血推荐","url":"./av/大师推荐.txt"},
+{"name":"大师吐血推荐","url":"https://codeberg.org/aje/t/raw/branch/main/av/大师推荐.txt"},
 
-{"name":"欧美轮播","url":"./av/欧美轮播.txt"},
+{"name":"欧美轮播","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美轮播.txt"},
 
-{"name":"欧美点播","url":"./av/欧美点播.txt"},
+{"name":"欧美点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美点播.txt"},
 
-{"name":"欧美点播┃移动线路","url":"./av/欧美点播移动.txt"},
+{"name":"欧美点播┃移动线路","url":"https://codeberg.org/aje/t/raw/branch/main/av/欧美点播移动.txt"},
 
-{"name":"传媒短片","url":"./av/传媒短片.txt"},
+{"name":"传媒短片","url":"https://codeberg.org/aje/t/raw/branch/main/av/传媒短片.txt"},
 
-{"name":"传媒正片","url":"./av/传媒正片.txt"},
+{"name":"传媒正片","url":"https://codeberg.org/aje/t/raw/branch/main/av/传媒正片.txt"},
 
-{"name":"国产老片","url":"./av/国产老片.txt"},
+{"name":"国产老片","url":"https://codeberg.org/aje/t/raw/branch/main/av/国产老片.txt"},
 
-{"name":"日片点播","url":"./av/日片点播.txt"},
+{"name":"日片点播","url":"https://codeberg.org/aje/t/raw/branch/main/av/日片点播.txt"},
 
-{"name":"日本剧场","url":"./av/日本剧场.txt"},
+{"name":"日本剧场","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本剧场.txt"},
 
-{"name":"日本女优","url":"./av/日本女优.txt"}
+{"name":"日本女优","url":"https://codeberg.org/aje/t/raw/branch/main/av/日本女优.txt"}
 
 ]
