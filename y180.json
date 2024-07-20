@@ -211,7 +211,71 @@
       "searchable": 0,
       "quickSearch": 0
     },
+	
+   
+   
+{"key": "爱爱影视","name": "欧美高清电信","type": 1,"api": "http://www.shangaiys.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
 	 {
+      "key": "色猫",
+      "name": "直播国产电信",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
+
+	{"key": "草榴资源","name": "草榴电信","type": 1,"api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+
+		
+       {
+            "key": "csp_xBPQ_香蕉直播",
+            "name": "香蕉直播电信",
+            "type": 3,
+			      "jar":"https://codeberg.org/aje/t/raw/branch/main/av/Yoursmile2.jar",
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://codeberg.org/aje/t/raw/branch/main/av/新香蕉实时直播.json"
+        },
+		
+     {
+            "key": "csp_xBPQ_香蕉废柴",
+            "name": "香蕉废柴电信",
+            "type": 3,
+			      "jar":"https://codeberg.org/aje/t/raw/branch/main/av/Yoursmile2.jar",
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://codeberg.org/aje/t/raw/branch/main/av/新香蕉废柴网.json"
+        },
+
+{"key": "老鸭资源","name": "老鸭电信","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+
+  
+  
+    {
+      "key": "fhapi9番号资源1",
+	  "name": "番号电信",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lovedan艾旦影视",
+	  "name": "艾旦电信",
+      "type": 1,
+      "api": "https://lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
       "key": "csp_CandyMuj_rou",
       "name": "肉视频┃墙",
 	  "jar":"https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
@@ -302,70 +366,6 @@
         "ratio": 0.68
       }
     },
-   
-{"key": "爱爱影视","name": "欧美高清电信","type": 1,"api": "http://www.shangaiys.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
-	 {
-      "key": "色猫",
-      "name": "直播国产电信",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-
-
-	{"key": "草榴资源","name": "草榴电信","type": 1,"api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-
-		
-       {
-            "key": "csp_xBPQ_香蕉直播",
-            "name": "香蕉直播电信",
-            "type": 3,
-			      "jar":"https://codeberg.org/aje/t/raw/branch/main/av/Yoursmile2.jar",
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://codeberg.org/aje/t/raw/branch/main/av/新香蕉实时直播.json"
-        },
-		
-     {
-            "key": "csp_xBPQ_香蕉废柴",
-            "name": "香蕉废柴电信",
-            "type": 3,
-			      "jar":"https://codeberg.org/aje/t/raw/branch/main/av/Yoursmile2.jar",
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://codeberg.org/aje/t/raw/branch/main/av/新香蕉废柴网.json"
-        },
-
-{"key": "老鸭资源","name": "老鸭电信","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-
-  
-  
-    {
-      "key": "fhapi9番号资源1",
-	  "name": "番号电信",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lovedan艾旦影视",
-	  "name": "艾旦电信",
-      "type": 1,
-      "api": "https://lovedan.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-  
-   
     {
       "key": "T4Demo",
       "name": "🔍T4 Demo‍",
