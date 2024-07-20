@@ -11,7 +11,7 @@
     ]
   },
    {
-    "name": "软件更新7.10",
+    "name": "软件更新7.20",
     "list": [
      
       {
@@ -22,9 +22,9 @@
       },
       {
         "name": "影视仓手机版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E5%90%89%E7%89%88_2.0.36%EF%BC%88%E7%9F%AD%E8%A7%86%E9%A2%91%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E5%90%89%E7%89%88_2.0.36.1%EF%BC%88%E7%9F%AD%E8%A7%86%E9%A2%91%EF%BC%89.apk",
         "icon": " ",
-        "version": "v2.0.36(短视版)"
+        "version": "v2.0.36.1(短视版)"
       },
 	   {
         "name": "电视直播手机版",
@@ -88,9 +88,9 @@
       
       {
         "name": "影视仓手机版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E6%9C%BA%E7%89%88_2.0.36%EF%BC%88%E6%B8%B8%E6%88%8F%E5%8E%85%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E6%9C%BA%E7%89%88_2.0.36.1%EF%BC%88%E6%B8%B8%E6%88%8F%E5%8E%85%EF%BC%89.apk",
         "icon": " ",
-        "version": "v2.0.36(游戏版)"
+        "version": "v2.0.36.1(游戏版)"
       },
       {
         "name": "影视仓海信版",
