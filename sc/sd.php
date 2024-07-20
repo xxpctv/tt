@@ -16,15 +16,15 @@
      
       {
         "name": "影视仓TV版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.33.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.34.3.apk",
         "icon": " ",
-        "version": "V5.0.33"
+        "version": "V5.0.34.3"
       },
       {
         "name": "影视仓手机版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E7%89%88_2.0.35%EF%BC%88%E7%9F%AD%E8%A7%86%E9%A2%91%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E5%90%89%E7%89%88_2.0.36%EF%BC%88%E7%9F%AD%E8%A7%86%E9%A2%91%EF%BC%89.apk",
         "icon": " ",
-        "version": "v2.0.35(短视版)"
+        "version": "v2.0.36(短视版)"
       },
 	   {
         "name": "电视直播手机版",
@@ -88,15 +88,15 @@
       
       {
         "name": "影视仓手机版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E6%9C%BA%E7%89%88_2.0.35%EF%BC%88%E6%B8%B8%E6%88%8F%E5%8E%85%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E6%9C%BA%E7%89%88_2.0.36%EF%BC%88%E6%B8%B8%E6%88%8F%E5%8E%85%EF%BC%89.apk",
         "icon": " ",
-        "version": "v2.0.35(游戏版)"
+        "version": "v2.0.36(游戏版)"
       },
       {
         "name": "影视仓海信版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.33%EF%BC%88%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E4%B8%93%E7%94%A8%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.34.3%EF%BC%88%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E4%B8%93%E7%94%A8%EF%BC%89.apk",
         "icon": " ",
-        "version": "v5.0.33(海信电视专用)"
+        "version": "v5.0.34.3(海信电视专用)"
       },
       {
         "name": "影视仓V3 TV版",
