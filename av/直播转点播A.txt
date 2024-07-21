@@ -8,7 +8,9 @@
 
 {"name":"欧美点播","url":"https://gitlab.com/jeossi/t/-/raw/main/av/欧美点播.txt"},
 
-{"name":"欧美点播┃移动线路","url":"https://gitlab.com/jeossi/t/-/raw/main/av/欧美点播移动.txt"},
+{"name":"欧美点播.移动","url":"https://gitlab.com/jeossi/t/-/raw/main/av/欧美点播移动.txt"},
+
+{"name":"亚州短片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/亚州短片.txt"},
 
 {"name":"传媒短片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/传媒短片.txt"},
 
