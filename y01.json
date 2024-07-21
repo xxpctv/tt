@@ -1,10 +1,10 @@
 {
-  "spider": "https://codeberg.org/aje/t/raw/branch/main/my/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
+  "spider": "./my/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://codeberg.org/aje/t/raw/branch/main/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt",
+      "url": "./%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -18,8 +18,8 @@
       "key": "直播转点播1_yun",
       "name": "🔐大师私藏",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.txt"
+      "api": "./my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
+      "ext": "./my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.txt"
     },
     {
       "key": "公告",
@@ -28,33 +28,33 @@
       "api": "csp_Notice",
       "searchable": 0,
       "changeable": 0,
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/公告.json"
+      "jar": "./my/danmu0625.jar",
+      "ext": "./my/公告.json"
     },
     {
       "key": "常见问题",
       "name": "❓常见问题",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
+      "jar": "./sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/sc/bofang.php"
+      "ext": "./sc/bofang.php"
     },
     {
       "key": "应用商店",
       "name": "🛒大师小店",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
+      "jar": "./sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/sc/sd.php"
+      "ext": "./sc/sd.php"
     },
     {
       "key": "豆瓣_欧歌",
       "name": "🎬豆瓣热播",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -62,7 +62,7 @@
     {
       "key": "csp_KungFu404-老刘备",
       "name": "🐲阿里设置",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/Token.jar",
+      "jar": "./my/Token.jar",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 0,
@@ -73,7 +73,7 @@
     {
       "key": "我的阿里-欧哥token线路",
       "name": "📂我的阿里",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
+      "jar": "./my/danmu0625.jar",
       "type": 3,
       "api": "csp_MyAli",
       "searchable": 0,
@@ -89,7 +89,7 @@
     {
       "key": "配置中心-PG",
       "name": "🔧配置中心",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/gy/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
+      "jar": "./gy/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -103,7 +103,7 @@
     {
       "key": "Local",
       "name": "📂本地播放",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/xc0126.jar",
+      "jar": "./my/xc0126.jar",
       "type": 3,
       "api": "csp_LocalFile",
       "searchable": 0,
@@ -143,12 +143,12 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/中医药区.json"
+      "ext": "./my/中医药区.json"
     },
     {
       "key": "看看影视-欧哥",
       "name": "🎬看看影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_WebIV",
       "searchable": 1,
@@ -158,7 +158,7 @@
     {
       "key": "快看影视-欧哥",
       "name": "🎬快看影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -168,7 +168,7 @@
 	    {
       "key": "天天影视",
       "name": "🎬天天影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
@@ -178,7 +178,7 @@
     {
       "key": "天天-巧技",
       "name": "🎬天天App",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/fix240620.jar",
+      "jar": "./my/fix240620.jar",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -187,7 +187,7 @@
     {
       "key": "追剧-巧技",
       "name": "🎬追剧App",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/fix240620.jar",
+      "jar": "./my/fix240620.jar",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -196,7 +196,7 @@
     {
       "key": "柠檬-巧技",
       "name": "🎬柠檬App",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/fix240620.jar",
+      "jar": "./my/fix240620.jar",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -213,7 +213,7 @@
     {
       "key": "云播-小米",
       "name": "🎬云播影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/0622.jar",
+      "jar": "./my/0622.jar",
       "type": 3,
       "api": "csp_Tvyb",
       "searchable": 1,
@@ -225,18 +225,18 @@
     {
       "key": "4K影视-天天开心",
       "name": "🎬4K影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx0613.jar",
+      "jar": "./my/ttkx0613.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/4K影视.json"
+      "ext": "./my/4K影视.json"
     },
     {
       "key": "原创-天天开心",
       "name": "🎬原创无广",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx0613.jar",
+      "jar": "./my/ttkx0613.jar",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -248,29 +248,29 @@
     {
       "key": "csp_xBPQ_九八-天天开心",
       "name": "🎬九八影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx0613.jar",
+      "jar": "./my/ttkx0613.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/98影视.json"
+      "ext": "./my/98影视.json"
     },
     {
       "key": "csp_七新-天天开心",
       "name": "🎬七新影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx0613.jar",
+      "jar": "./my/ttkx0613.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/开心七新影视.json"
+      "ext": "./my/开心七新影视.json"
     },
     {
       "key": "两个磁力-欧哥",
       "name": "🎬两个影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Wexbttwo",
       "searchable": 1,
@@ -279,7 +279,7 @@
     {
       "key": "素白白-欧哥",
       "name": "🎬素白影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Subaibai",
       "searchable": 1,
@@ -288,7 +288,7 @@
     {
       "key": "利播影视-欧哥",
       "name": "🎬利播影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Wexlibhd",
       "searchable": 1,
@@ -297,7 +297,7 @@
     {
       "key": "明日影视-欧哥",
       "name": "🎬明日影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_WexMingriys",
       "searchable": 1,
@@ -306,7 +306,7 @@
     {
       "key": "SP2345",
       "name": "🎬2345影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/Extra23419.jar",
+      "jar": "./my/Extra23419.jar",
       "type": 3,
       "api": "csp_SP2345",
       "searchable": 1,
@@ -316,7 +316,7 @@
     {
       "key": "天天弹幕-潇洒",
       "name": "🎬天天弹幕",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
+      "jar": "./my/danmu0625.jar",
       "type": 3,
       "api": "csp_TianTian",
       "searchable": 1,
@@ -329,7 +329,7 @@
     {
       "key": "一起看弹幕-潇洒",
       "name": "🎬一起看弹幕",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
+      "jar": "./my/danmu0625.jar",
       "type": 3,
       "api": "csp_Yqk",
       "searchable": 1,
@@ -342,7 +342,7 @@
     {
       "key": "三六零弹幕-潇洒",
       "name": "🎬360弹幕",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
+      "jar": "./my/danmu0625.jar",
       "type": 3,
       "api": "csp_Sp360",
       "searchable": 1,
@@ -355,7 +355,7 @@
     {
       "key": "兄弟影视-欧哥",
       "name": "🎬兄弟影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Wexxiongdiys",
       "searchable": 1,
@@ -364,7 +364,7 @@
     {
       "key": "啾啾影视-欧哥",
       "name": "🎬啾啾影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Wexjiohub",
       "searchable": 1,
@@ -373,7 +373,7 @@
     {
       "key": "圣城影视-欧哥",
       "name": "🎬圣城影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_AppNK",
       "searchable": 1,
@@ -383,59 +383,59 @@
     {
       "key": "drpy_js_奇珍异兽-看电影线路",
       "name": "🎬爱奇艺",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/奇珍异兽.js"
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/奇珍异兽.js"
     },
     {
       "key": "drpy_js_百忙无果-看电影线路",
       "name": "🎬芒果影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/百忙无果.js"
+      "ext": "./my/百忙无果.js"
     },
     {
       "key": "drpy_js_腾云驾雾-看电影线路",
       "name": "🎬腾讯影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/腾云驾雾.js"
+      "ext": "./my/腾云驾雾.js"
     },
     {
       "key": "drpy_js_菜狗-看电影线路",
       "name": "🎬搜狗影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/菜狗.js"
+      "ext": "./my/菜狗.js"
     },
     {
       "key": "drpy_js_优酷-看电影线路",
       "name": "🎬优酷影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/优酷.js"
+      "ext": "./my/优酷.js"
     },
     {
       "key": "csp_SP360-熊猫",
       "name": "🎬360官源",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -445,7 +445,7 @@
     {
       "key": "csp_CandyMuj_taoju-看电影线路",
       "name": "🎬淘剧影院",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/lem1225.jar",
+      "jar": "./my/lem1225.jar",
       "type": 3,
       "api": "csp_CandyMuj_taoju",
       "searchable": 1,
@@ -463,7 +463,7 @@
     {
       "key": "csp_hmhd-欧哥",
       "name": "🎬河马影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -475,7 +475,7 @@
     {
       "key": "农民影视-欧哥",
       "name": "🎬农民影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_WexNmys",
       "searchable": 1,
@@ -484,7 +484,7 @@
     {
       "key": "csp_ipianba-欧哥",
       "name": "🎬片吧影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -495,7 +495,7 @@
     {
       "key": "南瓜影视-欧哥",
       "name": "🎬南瓜影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_WexNgys",
       "searchable": 1,
@@ -505,7 +505,7 @@
     {
       "key": "影探蓝光-欧哥",
       "name": "🎬影探4K",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/欧哥jar.php;md5;md5;59F3F76C511C3B7BCAE01147C5B5AFC4",
+      "jar": "./my/欧哥jar.php;md5;md5;59F3F76C511C3B7BCAE01147C5B5AFC4",
       "type": 3,
       "api": "csp_WexYingtan4k",
       "searchable": 1,
@@ -514,7 +514,7 @@
     {
       "key": "厂长资源-欧哥",
       "name": "🎬厂长有广",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -525,7 +525,7 @@
     {
       "key": "剧圈影视-欧哥",
       "name": "🎬剧圈影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Juqq",
       "searchable": 1,
@@ -535,7 +535,7 @@
     {
       "key": "骚火影视-欧哥",
       "name": "🎬骚火影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Wexsaohuo",
       "searchable": 1,
@@ -544,7 +544,7 @@
     {
       "key": "csp_YCyz_南风",
       "name": "🎬南风2024",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624",
+      "jar": "./my/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624",
       "type": 3,
       "api": "csp_YCyz",
       "searchable": 1,
@@ -555,7 +555,7 @@
     {
       "key": "米米影视-潇洒",
       "name": "🎬米米影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/spider6.2.jar",
+      "jar": "./my/spider6.2.jar",
       "type": 3,
       "api": "csp_WebDM",
       "searchable": 1,
@@ -565,62 +565,62 @@
     {
       "key": "子子影视-潇洒",
       "name": "🎬子子影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/spider6.2.jar",
+      "jar": "./my/spider6.2.jar",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/子子影视.json"
+      "ext": "./my/子子影视.json"
     },
     {
       "key": "电影盒子-潇洒",
       "name": "🎬电影盒子",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/spider6.2.jar",
+      "jar": "./my/spider6.2.jar",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/电影盒子.json"
+      "ext": "./my/电影盒子.json"
     },
     {
       "key": "奇趣影视-潇洒",
       "name": "🎬奇趣影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/spider6.2.jar",
+      "jar": "./my/spider6.2.jar",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/奇趣影视.json"
+      "ext": "./my/奇趣影视.json"
     },
     {
       "key": "csp_xBPQ可可-开心",
       "name": "🎬可可影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/可可影视.json"
+      "ext": "./my/可可影视.json"
     },
     {
       "key": "csp_XYQBiu_骚火VIP_开心",
       "name": "🎬骚火外片",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/shyyVIP.json"
+      "ext": "./my/shyyVIP.json"
     },
     {
       "key": "悠云追剧-开心",
       "name": "🎬悠云追剧",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -632,7 +632,7 @@
     {
       "key": "凯奇追剧-开心",
       "name": "🎬凯奇短剧",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -780,29 +780,29 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/七新影视.json"
+      "ext": "./my/七新影视.json"
     },
     {
       "key": "csp_黑狐",
       "name": "🎬黑狐影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou0621.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou0621.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/黑狐影视.json"
+      "ext": "./my/黑狐影视.json"
     },
     {
       "key": "米爱影视_开心",
       "name": "🎬米爱2K",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/miaiys.json"
+      "ext": "./my/miaiys.json"
     },
     {
       "key": "量子资源",
@@ -883,7 +883,7 @@
     {
       "key": "白嫖者-开心",
       "name": "🎬白嫖者",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -896,16 +896,16 @@
     {
       "key": "云播影视-肥猫",
       "name": "🎬TVB云JS",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/PandaQ240416.jar;md5;9F15ADE02721F30F65880BEF1271BE69",
+      "jar": "./my/PandaQ240416.jar;md5;9F15ADE02721F30F65880BEF1271BE69",
       "type": 3,
       "playerType": "2",
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/TVB云播.js"
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/TVB云播.js"
     },
     {
       "key": "毛驴-肥猫",
       "name": "🎬毛驴影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/PandaQ240416.jar;md5;9F15ADE02721F30F65880BEF1271BE69",
+      "jar": "./my/PandaQ240416.jar;md5;9F15ADE02721F30F65880BEF1271BE69",
       "type": 3,
       "api": "csp_MaoLv",
       "searchable": 1,
@@ -951,7 +951,7 @@
     {
       "key": "热播影视",
       "name": "🎬热播有广",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_AppRB",
       "searchable": 1,
@@ -961,7 +961,7 @@
     {
       "key": "荐片-欧哥",
       "name": "🎬荐片磁力",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -973,7 +973,7 @@
     {
       "key": "美剧天堂-欧哥",
       "name": "🎬美剧磁力",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_MeijuTT",
       "searchable": 1,
@@ -983,7 +983,7 @@
     {
       "key": "csp_DiDuan_南风",
       "name": "🎬南风低端",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624",
+      "jar": "./my/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -1008,33 +1008,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/七月影视hccx.json"
+      "ext": "./my/七月影视hccx.json"
     },
     {
       "key": "drpy_js_网飞.TV",
       "name": "🎬网飞TV",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/网飞.TV.js"
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/网飞.TV.js"
     },
     {
       "key": "drpy_js_奇优影院",
       "name": "🎬奇优影院",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou0621.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou0621.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/奇优影院.js"
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/奇优影院.js"
     },
     {
       "key": "策驰影院_开心",
       "name": "🎬策驰影院",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/cechi.json"
+      "ext": "./my/cechi.json"
     },
     {
       "key": "csp_TVB_hechengchaxou",
@@ -1044,7 +1044,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/TVB云播hccx.json"
+      "ext": "./my/TVB云播hccx.json"
     },
     {
       "key": "csp_蛋蛋_hechengchaxou",
@@ -1054,7 +1054,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/蛋蛋影视hccx.json"
+      "ext": "./my/蛋蛋影视hccx.json"
     },
     {
       "key": "红牛资源",
@@ -1075,24 +1075,24 @@
       "key": "人人影视_cainis",
       "name": "🎬人人影视",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/人人影视_cainis.js"
+      "ext": "./my/人人影视_cainis.js"
     },
     {
       "key": "凌云影视_cainis",
       "name": "🎬凌云影视",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/凌云影视_cainis.js"
+      "ext": "./my/凌云影视_cainis.js"
     },
     {
       "key": "韩剧视频-欧哥",
       "name": "🎬韩剧影视",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/欧哥jar.php;md5;md5;59F3F76C511C3B7BCAE01147C5B5AFC4",
+      "jar": "./my/欧哥jar.php;md5;md5;59F3F76C511C3B7BCAE01147C5B5AFC4",
       "type": 3,
       "api": "csp_Wexhanjutv",
       "searchable": 1,
@@ -1102,7 +1102,7 @@
     {
       "key": "csp_YQKan_南风",
       "name": "🎬一起看┃墙",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624",
+      "jar": "./my/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -1112,7 +1112,7 @@
     {
       "key": "csp_Auete_南风",
       "name": "🎬奥特有广",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624",
+      "jar": "./my/Yoursmile.jar;md5;2BEDCF4A05B04F5687C082BB6C8CD624",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -1167,7 +1167,7 @@
     },
     {
       "key": "飘零影院_一个分享者",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "name": "🎬飘零影视",
       "type": 1,
       "api": "https://p2100.net/api.php/provide/vod/",
@@ -1179,7 +1179,7 @@
       "key": "暴風",
       "name": "🎬暴風2024",
       "type": 1,
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/95b1f35256b2ab1c404bb2e56f6dfedf98c69594/fan.jar;md5;69c44556911acb40c53846bd52873fee",
+      "jar": "./my/95b1f35256b2ab1c404bb2e56f6dfedf98c69594/fan.jar;md5;69c44556911acb40c53846bd52873fee",
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
@@ -1229,7 +1229,7 @@
     {
       "key": "良品短剧-欧哥",
       "name": "🎦良品┃短剧",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Wexduanjuvip",
       "searchable": 1,
@@ -1238,7 +1238,7 @@
     {
       "key": "精品短剧-欧哥",
       "name": "🎦精品┃短剧",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Wexduanjuvip",
       "searchable": 1,
@@ -1247,7 +1247,7 @@
     {
       "key": "星芽短剧_欧歌",
       "name": "🎦星芽┃短剧",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_AppXY",
       "searchable": 1,
@@ -1257,29 +1257,29 @@
     {
       "key": "剧圈圈-天天开心1",
       "name": "🎦圈圈┃短剧",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx0613.jar",
+      "jar": "./my/ttkx0613.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/剧圈圈.json"
+      "ext": "./my/剧圈圈.json"
     },
     {
       "key": "剧圈圈-天天开心2",
       "name": "🎦圈圈纪录片",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx0613.jar",
+      "jar": "./my/ttkx0613.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/剧圈圈.json"
+      "ext": "./my/剧圈圈.json"
     },
     {
       "key": "暮暮动漫_欧歌",
       "name": "🌼暮暮┃动漫",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_WebMuTeFun",
       "searchable": 1,
@@ -1291,10 +1291,10 @@
       "key": "58动漫网_cainis",
       "name": "🌼58动漫",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/58动漫_cainis.js"
+      "ext": "./my/58动漫_cainis.js"
     },
     {
       "key": "csp_Anime1_yun",
@@ -1309,22 +1309,22 @@
     {
       "key": "drpy_js_网易公版影像_乐享汇fans",
       "name": "🇨🇳珍贵┃史料",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/20240108.jar;md5;6A3B047776DF26AE0B3AB2140ED3BA62",
+      "jar": "./my/20240108.jar;md5;6A3B047776DF26AE0B3AB2140ED3BA62",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/网易公版影像_乐享汇.js"
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/网易公版影像_乐享汇.js"
     },
     {
       "key": "采集_中央",
       "name": "🇨🇳央视┃大全",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/cctv231121.jar",
+      "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "csp_CCTV",
       "searchable": 0,
       "changeable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/央视大全.json"
+      "ext": "./my/央视大全.json"
     },
     {
       "key": "py_cctvzh",
@@ -1334,7 +1334,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvzh_星河.py"
+      "ext": "./my/py_cctvzh_星河.py"
     },
     {
       "key": "py_cctvxw",
@@ -1344,7 +1344,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvxw_星河.py"
+      "ext": "./my/py_cctvxw_星河.py"
     },
     {
       "key": "py_cctvzy",
@@ -1354,7 +1354,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvzy_星河.py"
+      "ext": "./my/py_cctvzy_星河.py"
     },
     {
       "key": "py_cctvdc_欧哥",
@@ -1364,7 +1364,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvdc_ouge.json"
+      "ext": "./my/py_cctvdc_ouge.json"
     },
     {
       "key": "py_cctvdy",
@@ -1374,7 +1374,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvdy_星河.py"
+      "ext": "./my/py_cctvdy_星河.py"
     },
     {
       "key": "py_cctvty",
@@ -1384,7 +1384,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvty_星河.py"
+      "ext": "./my/py_cctvty_星河.py"
     },
     {
       "key": "py_cctvkj",
@@ -1394,7 +1394,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvkj_星河.py"
+      "ext": "./my/py_cctvkj_星河.py"
     },
     {
       "key": "py_cctvyy",
@@ -1404,7 +1404,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvyy_星河.py"
+      "ext": "./my/py_cctvyy_星河.py"
     },
     {
       "key": "py_cctvse",
@@ -1414,7 +1414,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvse_星河.py"
+      "ext": "./my/py_cctvse_星河.py"
     },
     {
       "key": "py_cctv_少儿_hechengchaxiu",
@@ -1424,7 +1424,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_央视少儿_hechengchaxiu.py"
+      "ext": "./my/py_央视少儿_hechengchaxiu.py"
     },
     {
       "key": "py_cctvny",
@@ -1434,7 +1434,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvny_星河.py"
+      "ext": "./my/py_cctvny_星河.py"
     },
     {
       "key": "py_cctvjs",
@@ -1444,7 +1444,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvjs_星河.py"
+      "ext": "./my/py_cctvjs_星河.py"
     },
     {
       "key": "py_cctvxq",
@@ -1454,7 +1454,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctvxq_星河.py"
+      "ext": "./my/py_cctvxq_星河.py"
     },
     {
       "key": "py_cctv",
@@ -1464,7 +1464,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/py_cctv_星河.py"
+      "ext": "./my/py_cctv_星河.py"
     },
     {
       "key": "哔哩央视经典_hechengchaxiu",
@@ -1474,19 +1474,19 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩经典_hechengchaxiu.json"
+      "ext": "./my/哔哩经典_hechengchaxiu.json"
     },
     {
       "key": "drpy_js_短视频_乐享汇fans",
       "name": "🎦短视频┃合集",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/短视频_乐享汇.js"
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/短视频_乐享汇.js"
     },
     {
       "key": " 在线┃直播1_feimao",
       "name": "📣直播┃竞技",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb",
+      "jar": "./my/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -1496,13 +1496,13 @@
     {
       "key": "js_310直播_duoduo",
       "name": "📣直播┃🏀⚽",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/310_duo.js"
+      "ext": "./my/310_duo.js"
     },
     {
       "key": "py_qie_duoduo",
@@ -1512,42 +1512,42 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/qie_duo.py"
+      "ext": "./my/qie_duo.py"
     },
     {
       "key": "斗鱼直播-天天开心",
       "name": "📣直播┃斗鱼",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/douyu.js"
+      "ext": "./my/douyu.js"
     },
     {
       "key": "drpy_js_斗鱼直播",
       "name": "📣直播┃斗鱼",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/斗鱼直播.js"
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/斗鱼直播.js"
     },
     {
       "key": "drpy_js_虎牙直播_壹梦线路",
       "name": "📣直播┃虎牙",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/虎牙直播_壹梦线路.js"
+      "ext": "./my/虎牙直播_壹梦线路.js"
     },
     {
       "key": " 在线┃直播2_feimao",
       "name": "📣直播┃聚合",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/ddrpy2.m_feimao.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/whLive_feimao.js",
+      "api": "./my/ddrpy2.m_feimao.js",
+      "ext": "./my/whLive_feimao.js",
       "gridview": "0-0-H",
       "style": {
         "type": "rect",
@@ -1558,8 +1558,8 @@
       "key": "drpy_js_哔哩直播",
       "name": "📣直播┃哔哩",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩直播.js"
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/哔哩直播.js"
     },
     {
       "key": "直播转点播1_壹梦线路",
@@ -1582,7 +1582,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/Blixs.json"
+      "ext": "./my/Blixs.json"
     },
     {
       "key": "戏 曲",
@@ -1592,19 +1592,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/Blixq.json"
+      "ext": "./my/Blixq.json"
     },
     {
       "key": "drpy_js_A8音乐",
       "name": "🎶MV┃A8",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/A8音乐.js"
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/A8音乐.js"
     },
     {
       "key": "Yinyuetai",
       "name": "🎶Live┃音悦台",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
+      "jar": "./my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
       "type": 3,
       "api": "csp_Yinyuetai",
       "searchable": 1,
@@ -1614,11 +1614,11 @@
       "key": "js_酷狗MV_duoduo",
       "name": "🎶MV┃酷狗",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/酷狗MV_duo.js"
+      "ext": "./my/酷狗MV_duo.js"
     },
     {
       "key": "酷奇MV_于氏影业",
@@ -1644,7 +1644,7 @@
 	 {
       "key": "ting-小白线路",
       "name": "📚️休闲┃听书",
-	  "jar": "https://codeberg.org/aje/t/raw/branch/main/my/YSZYZ%E5%B0%8F%E7%99%BD%E5%90%AC%E4%B9%A60701.jar",
+	  "jar": "./my/YSZYZ%E5%B0%8F%E7%99%BD%E5%90%AC%E4%B9%A60701.jar",
       "type": 3,
       "api": "csp_BookTing",
       "searchable": 1,
@@ -1654,80 +1654,80 @@
     {
       "key": "js_六月听书_duoduo",
       "name": "📚️听书┃六月",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/6yue_duo.js"
+      "ext": "./my/6yue_duo.js"
     },
     {
       "key": "js_i275听书_duoduo",
       "name": "📚️听书┃i275",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/i275_duo.js"
+      "ext": "./my/i275_duo.js"
     },
     {
       "key": "js_博看听书_duoduo",
       "name": "📚️听书┃博看",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/bokan_duo.js"
+      "ext": "./my/bokan_duo.js"
     },
     {
       "key": "js_中华听书网_duoduo",
       "name": "📚️听书┃中华",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/zhonghua_duo.js"
+      "ext": "./my/zhonghua_duo.js"
     },
     {
       "key": "drpy_js_清风DJ",
       "name": "🎧听DJ┃清风",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/清风DJ.js",
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/清风DJ.js",
       "playerType": "2"
     },
     {
       "key": "csp_XYQHiker_DJ呦呦音乐网_壹梦线路",
       "name": "🎧听DJ┃呦呦",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/dj4_乐享汇.jar;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "jar": "./my/dj4_乐享汇.jar;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/DJ呦呦音乐网_壹梦.json"
+      "ext": "./my/DJ呦呦音乐网_壹梦.json"
     },
     {
       "key": "哔哩drpy_js_相声随身听_乐享汇fans",
       "name": "🎧听相声┃1",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/相声随身听_乐享汇.js",
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/相声随身听_乐享汇.js",
       "playerType": "2"
     },
     {
@@ -1775,7 +1775,7 @@
       },
       "quickSearch": 0,
       "api": "csp_XBPQ",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/相声评书.txt;md5;BB155C3F0133BBCE4756AD52003F5968",
+      "jar": "./my/相声评书.txt;md5;BB155C3F0133BBCE4756AD52003F5968",
       "ext": {
         "主页url": "https://www.psmp3.com",
         "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -1803,31 +1803,31 @@
       "key": "drpy_js_蜻蜓FM",
       "name": "📻听广播┃蜻蜓",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/蜻蜓FM.js",
+      "api": "./my/drpy26.min.js",
+      "ext": "./my/蜻蜓FM.js",
       "playerType": "2"
     },
     {
       "key": "csp_BBB",
       "name": "🅱️┃套餐1",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩套餐1.json"
+      "ext": "./my/哔哩套餐1.json"
     },
     {
       "key": "Bili",
       "name": "🅱️┃套餐2",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩套餐2.json"
+      "ext": "./my/哔哩套餐2.json"
     },
     {
       "key": "哔哩哔哩",
@@ -1838,17 +1838,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/bilibili.json"
+      "ext": "./my/bilibili.json"
     },
     {
       "key": "哔哩s_B站精简",
       "name": "🅱️┃B站精简",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱05bibijingjian.js"
+      "ext": "./my/吾爱05bibijingjian.js"
     },
     {
       "key": "哔哩csp_Bili1_黄金影视",
@@ -1858,7 +1858,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩合集_黄金影视.json"
+      "ext": "./my/哔哩合集_黄金影视.json"
     },
     {
       "key": "哔哩csp_Bili_壹梦线路",
@@ -1868,7 +1868,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱动物世界.json"
+      "ext": "./my/吾爱动物世界.json"
     },
     {
       "key": "春节",
@@ -1878,7 +1878,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱春节.json"
+      "ext": "./my/吾爱春节.json"
     },
     {
       "key": "美食",
@@ -1888,7 +1888,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩美食.json"
+      "ext": "./my/哔哩美食.json"
     },
     {
       "key": "哔哩体育_yun",
@@ -1898,7 +1898,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱体育.json"
+      "ext": "./my/吾爱体育.json"
     },
     {
       "key": "csp_Bili1_yun",
@@ -1908,17 +1908,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩合集.json"
+      "ext": "./my/哔哩合集.json"
     },
     {
       "key": "哔哩dr_武享吧_壹梦线路",
       "name": "🅱️┃哔哩格斗",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/武享吧_壹梦.js"
+      "ext": "./my/武享吧_壹梦.js"
     },
     {
       "key": "哔哩足球",
@@ -1928,7 +1928,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/球星-哔哩0721.json"
+      "ext": "./my/球星-哔哩0721.json"
     },
     {
       "key": "哔哩球类_yun",
@@ -1938,7 +1938,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱球球.json"
+      "ext": "./my/吾爱球球.json"
     },
     {
       "key": "哔哩棋牌",
@@ -1949,7 +1949,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "pwd": "50905d7b2216bfeccb5b41016357176b",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱棋牌.json"
+      "ext": "./my/吾爱棋牌.json"
     },
     {
       "key": "哔哩吾爱乐器_壹梦线路",
@@ -1959,7 +1959,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱乐器_壹梦.json"
+      "ext": "./my/吾爱乐器_壹梦.json"
     },
     {
       "key": "哔哩Bili",
@@ -1969,7 +1969,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩0723.json"
+      "ext": "./my/哔哩0723.json"
     },
     {
       "key": "哔哩解说",
@@ -1979,7 +1979,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/影视解说.json"
+      "ext": "./my/影视解说.json"
     },
     {
       "key": "哔哩吾爱户外_壹梦线路",
@@ -1989,7 +1989,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱户外_壹梦.json"
+      "ext": "./my/吾爱户外_壹梦.json"
     },
     {
       "key": "哔哩MV_yun",
@@ -1999,7 +1999,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱MTV.json"
+      "ext": "./my/吾爱MTV.json"
     },
     {
       "key": "哔哩演唱会_肥猫",
@@ -2008,7 +2008,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/ych_feimao.json"
+      "ext": "./my/ych_feimao.json"
     },
     {
       "key": "哔哩音乐2023_hechengchaxou",
@@ -2018,7 +2018,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩音乐hccx.json"
+      "ext": "./my/哔哩音乐hccx.json"
     },
     {
       "key": "哔哩MV_yun",
@@ -2028,7 +2028,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/无损音乐.json"
+      "ext": "./my/无损音乐.json"
     },
     {
       "key": "哔哩演唱会自定义_yun",
@@ -2038,7 +2038,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱演唱会.json"
+      "ext": "./my/吾爱演唱会.json"
     },
     {
       "key": "哔哩演唱会自定义",
@@ -2048,7 +2048,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/演唱会-哔哩0723.json"
+      "ext": "./my/演唱会-哔哩0723.json"
     },
     {
       "key": "哔哩舞蹈_yun",
@@ -2058,7 +2058,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱舞蹈.json"
+      "ext": "./my/吾爱舞蹈.json"
     },
     {
       "key": "哔哩py_Nvtuan",
@@ -2068,7 +2068,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/女团热舞.json"
+      "ext": "./my/女团热舞.json"
     },
     {
       "key": "哔哩py_Meinvw",
@@ -2078,7 +2078,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/美女舞蹈.json"
+      "ext": "./my/美女舞蹈.json"
     },
     {
       "key": "歌舞",
@@ -2088,7 +2088,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/印度歌舞.json"
+      "ext": "./my/印度歌舞.json"
     },
     {
       "key": "哔哩车模_yun",
@@ -2098,7 +2098,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩车模.json"
+      "ext": "./my/哔哩车模.json"
     },
     {
       "key": "哔哩UP主_yun",
@@ -2108,7 +2108,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱UP主.json"
+      "ext": "./my/吾爱UP主.json"
     },
     {
       "key": "哔哩软件_yun",
@@ -2118,7 +2118,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/软件教程.json"
+      "ext": "./my/软件教程.json"
     },
     {
       "key": "哔哩PS_yun",
@@ -2128,7 +2128,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩PS.json"
+      "ext": "./my/哔哩PS.json"
     },
     {
       "key": "哔哩EXCEL_yun",
@@ -2138,7 +2138,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱Excel教程.json"
+      "ext": "./my/吾爱Excel教程.json"
     },
     {
       "key": "运动-欧哥",
@@ -2148,7 +2148,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱运动.json"
+      "ext": "./my/吾爱运动.json"
     },
     {
       "key": "演唱会-欧哥",
@@ -2162,7 +2162,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱演唱会-哔哩0723.json"
+      "ext": "./my/吾爱演唱会-哔哩0723.json"
     },
     {
       "key": "MTV合集",
@@ -2186,7 +2186,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/MTV-哔哩0723.json"
+      "ext": "./my/MTV-哔哩0723.json"
     },
     {
       "key": "儿童拼音",
@@ -2196,7 +2196,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/儿童拼音.json"
+      "ext": "./jy/儿童拼音.json"
     },
     {
       "key": "儿童识字",
@@ -2206,7 +2206,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/儿童识字.json"
+      "ext": "./jy/儿童识字.json"
     },
     {
       "key": "儿童英语",
@@ -2216,7 +2216,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/儿童英语.json"
+      "ext": "./jy/儿童英语.json"
     },
     {
       "key": "儿童硬笔",
@@ -2226,7 +2226,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/儿童硬笔.json"
+      "ext": "./jy/儿童硬笔.json"
     },
     {
       "key": "儿童思维",
@@ -2236,7 +2236,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/儿童思维.json"
+      "ext": "./jy/儿童思维.json"
     },
     {
       "key": "儿童口才",
@@ -2246,7 +2246,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/儿童口才.json"
+      "ext": "./jy/儿童口才.json"
     },
     {
       "key": "儿童编程",
@@ -2256,7 +2256,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/儿童编程.json"
+      "ext": "./jy/儿童编程.json"
     },
     {
       "key": "儿童武术",
@@ -2266,7 +2266,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/儿童武术.json"
+      "ext": "./jy/儿童武术.json"
     },
     {
       "key": "少儿教育",
@@ -2276,7 +2276,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/少儿教育.json"
+      "ext": "./jy/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -2286,7 +2286,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/小学课堂.json"
+      "ext": "./jy/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -2296,7 +2296,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/初中课堂.json"
+      "ext": "./jy/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -2306,7 +2306,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/高中课堂.json"
+      "ext": "./jy/高中课堂.json"
     },
     {
       "key": "哔哩吾爱学堂高考",
@@ -2316,7 +2316,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/哔哩哔哩高考.json"
+      "ext": "./my/哔哩哔哩高考.json"
     },
     {
       "key": "奥数理化",
@@ -2326,7 +2326,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/奥数理化.json"
+      "ext": "./jy/奥数理化.json"
     },
     {
       "key": "外语课堂",
@@ -2336,7 +2336,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/外语课堂.json"
+      "ext": "./jy/外语课堂.json"
     },
     {
       "key": "小灯塔百科",
@@ -2346,7 +2346,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/小灯塔百科.json"
+      "ext": "./jy/小灯塔百科.json"
     },
     {
       "key": "小灯塔科学",
@@ -2356,7 +2356,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/小灯塔科学.json"
+      "ext": "./jy/小灯塔科学.json"
     },
     {
       "key": "小灯塔地理",
@@ -2366,7 +2366,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/小灯塔地理.json"
+      "ext": "./jy/小灯塔地理.json"
     },
     {
       "key": "小灯塔国学",
@@ -2376,7 +2376,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/小灯塔国学.json"
+      "ext": "./jy/小灯塔国学.json"
     },
     {
       "key": "小灯塔人文",
@@ -2386,14 +2386,14 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/小灯塔人文.json"
+      "ext": "./jy/小灯塔人文.json"
     },
     {
       "key": "兔小贝",
       "name": "🐰兔小贝┃幼儿",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy2.min.js",
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/jy/兔小贝.js",
+      "api": "./my/drpy2.min.js",
+      "ext": "./jy/兔小贝.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -2406,7 +2406,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱搭讪.json"
+      "ext": "./my/吾爱搭讪.json"
     },
     {
       "key": "搭配",
@@ -2416,7 +2416,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/吾爱搭配.json"
+      "ext": "./my/吾爱搭配.json"
     },
     {
       "key": "py_中国文化",
@@ -2426,23 +2426,23 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/中国文化.json"
+      "ext": "./my/中国文化.json"
     },
     {
       "key": "云盘搜索-欧哥",
       "name": "🔎搜索4K",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/yps.json"
+      "ext": "./my/yps.json"
     },
     {
       "key": "Upyunso-欧哥",
       "name": "🔎云搜4K",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Upyunso",
       "searchable": 1,
@@ -2453,7 +2453,7 @@
     {
       "key": "AliPS-欧哥",
       "name": "🔎盘搜4K",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
@@ -2464,7 +2464,7 @@
     {
       "key": "Yisou-欧哥",
       "name": "🔎易搜4K",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_Yisou",
       "searchable": 1,
@@ -2524,7 +2524,7 @@
     {
       "key": "阿里合集-欧哥token线路",
       "name": "📀阿里合集",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
+      "jar": "./my/danmu0625.jar",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
@@ -2532,7 +2532,7 @@
       "filterable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-        "share": "https://codeberg.org/aje/t/raw/branch/main/my/阿里集合.json"
+        "share": "./my/阿里集合.json"
       },
       "style": {
         "type": "list"
@@ -2542,29 +2542,29 @@
     {
       "key": "玩偶弟-欧哥",
       "name": "📀玩偶弟4K",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/wod.json"
+      "ext": "./my/wod.json"
     },
     {
       "key": "玩偶妹-欧哥",
       "name": "📀玩妹多多4K",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/wom.json"
+      "ext": "./my/wom.json"
     },
 	 {
       "key": "夸克玩弹幕5-欧哥token线路",
       "name": "📀多多纪录",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
+      "jar": "./my/danmu0625.jar",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -2580,7 +2580,7 @@
 	 {
       "key": "玩弹幕-欧哥token线路",
       "name": "📀玩哥弹幕",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
+      "jar": "./my/danmu0625.jar",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -2595,63 +2595,63 @@
     {
       "key": "玩偶歌-欧哥",
       "name": "📀玩偶歌4K",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
+      "jar": "./my/ou240710.jar;md5;4faca299df1fcb258ca9128e620e5b22",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/wou.json"
+      "ext": "./my/wou.json"
     },
     {
       "key": "玩偶哥哥_开心",
       "name": "📀玩偶哥哥",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/玩偶哥哥.json"
+      "ext": "./my/玩偶哥哥.json"
     },
     {
       "key": "土豆阿里_开心",
       "name": "📀土豆阿里",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/土豆阿里.json"
+      "ext": "./my/土豆阿里.json"
     },
     {
       "key": "js_4KHDR_duoduo",
       "name": "📀玩偶姐4k",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
       "type": 3,
-      "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+      "api": "./my/drpy26.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/my/4KHDR_duo.js"
+      "ext": "./my/4KHDR_duo.js"
     },
     {
       "key": "Wobg",
       "name": "📀玩偶自营",
       "type": 3,
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
+      "jar": "./my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
       "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 15,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/gy/tokentemplate.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://codeberg.org/aje/t/raw/branch/main/gy/wogg.json"
+      "ext": "./gy/tokentemplate.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./gy/wogg.json"
     },
     {
       "key": "夸克玩弹幕4-欧哥token线路",
       "name": "📀玩姐夸克",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
+      "jar": "./my/danmu0625.jar",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -2668,7 +2668,7 @@
     {
       "key": "夸克玩弹幕6-欧哥token线路",
       "name": "📀蜡笔夸克",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/danmu0625.jar",
+      "jar": "./my/danmu0625.jar",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -2684,7 +2684,7 @@
     {
       "key": "AliShareEBook",
       "name": "📀书籍分享",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
+      "jar": "./my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
@@ -2692,7 +2692,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://127.0.0.1:9978/file/TV/token.json$$$https://codeberg.org/aje/t/raw/branch/main/gy/alishare.ebook.txt$$$db$$$1",
+      "ext": "http://127.0.0.1:9978/file/TV/token.json$$$./gy/alishare.ebook.txt$$$db$$$1",
       "style": {
         "type": "list"
       }
@@ -2700,7 +2700,7 @@
     {
       "key": "QuarkShare",
       "name": "📀夸克分享",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
+      "jar": "./my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
       "type": 3,
       "api": "csp_QuarkShare",
       "searchable": 1,
@@ -2708,12 +2708,12 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "http://127.0.0.1:9978/file/TV/token.json$$$https://codeberg.org/aje/t/raw/branch/main/gy/quarkshare.txt"
+      "ext": "http://127.0.0.1:9978/file/TV/token.json$$$./gy/quarkshare.txt"
     },
 	 {
       "key": "Iktv",
       "name": "🎤┃KTV",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/wex.txt;md5;CDC9664110746FC5217BD6795F2A681B",
+      "jar": "./my/wex.txt;md5;CDC9664110746FC5217BD6795F2A681B",
       "type": 3,
       "api": "csp_WexIktv",
       "searchable": 1,
