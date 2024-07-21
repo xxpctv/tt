@@ -1,10 +1,10 @@
 {
-  "spider": "https://codeberg.org/aje/t/raw/branch/main/av/xc0126.jar",
+  "spider": "./av/xc0126.jar",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://codeberg.org/aje/t/raw/branch/main/电视直播.txt",
+      "url": "./电视直播.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -15,7 +15,7 @@
     {
       "key": "直播转点播",
       "name": "📡大师私藏7.20",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
+      "jar": "./my/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
       "type": 3,
       "api": "./my/直播转点播.js",
       "ext": "./av/直播转点播A.txt"
@@ -39,8 +39,8 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/av/webdav0515.txt",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/custom_spider.jar"
+      "ext": "./av/webdav0515.txt",
+      "jar": "./my/custom_spider.jar"
     },
     {
       "key": "Alist",
@@ -51,7 +51,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://codeberg.org/aje/t/raw/branch/main/av/alist05155.txt"
+      "ext": "./av/alist05155.txt"
     },
     {
       "key": "采集_虎牙",
@@ -81,7 +81,7 @@
     {
       "key": "飞速资源",
       "name": "飞速全网",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/欧哥jar.php",
+      "jar": "./my/欧哥jar.php",
       "type": 1,
       "api": "https://www.feisuzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -102,7 +102,7 @@
 	 {
       "key": "csp_CandyMuj_dyls-看电影线路",
       "name": "🈲极速┃伦理",
-	  "jar":"https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+	  "jar":"./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "type": 3,
       "api": "csp_CandyMuj_dyls",
       "searchable": 1,
@@ -113,7 +113,7 @@
 	{
       "key": "csp_CandyMuj_haokongbu_一个分享者",
       "name": "🈲好恐怖┃伦理",
-	  "jar":"https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+	  "jar":"./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "type": 3,
       "api": "csp_CandyMuj_haokongbu",
       "searchable": 1,
@@ -125,7 +125,7 @@
 	  {
       "key": "腐剧视频-欧哥",
       "name": "🈲宅腐┃伦理",
-	  "jar":"https://codeberg.org/aje/t/raw/branch/main/my/欧哥jar.php;md5;md5;59F3F76C511C3B7BCAE01147C5B5AFC4",
+	  "jar":"./my/欧哥jar.php;md5;md5;59F3F76C511C3B7BCAE01147C5B5AFC4",
       "type": 3,
       "api": "csp_WexFujutv",
       "searchable": 1,
@@ -165,12 +165,12 @@
             "key": "csp_xBPQ_香蕉国产",
             "name": "传媒合集电信",
             "type": 3,
-		    "jar":"https://codeberg.org/aje/t/raw/branch/main/av/Yoursmile2.jar",
+		    "jar":"./av/Yoursmile2.jar",
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://codeberg.org/aje/t/raw/branch/main/av/新香蕉国产传媒.json"
+            "ext": "./av/新香蕉国产传媒.json"
         },
 {"key": "富二代资源","name": "直播录像电信","type":0,"api": "http://f2dcj6.com/sapi?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },  
 
@@ -194,7 +194,7 @@
 	 {
       "key": "八戒资源",
       "name": "八戒移动",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/欧哥jar.php",
+      "jar": "./my/欧哥jar.php",
       "type": 1,
       "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
       "playUrl": "",
@@ -205,7 +205,7 @@
     {
       "key": "1080库",
       "name": "1080库移动",
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/my/欧哥jar.php",
+      "jar": "./my/欧哥jar.php",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "searchable": 0,
@@ -233,24 +233,24 @@
             "key": "csp_xBPQ_香蕉直播",
             "name": "香蕉直播电信",
             "type": 3,
-			      "jar":"https://codeberg.org/aje/t/raw/branch/main/av/Yoursmile2.jar",
+			      "jar":"./av/Yoursmile2.jar",
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://codeberg.org/aje/t/raw/branch/main/av/新香蕉实时直播.json"
+            "ext": "./av/新香蕉实时直播.json"
         },
 		
      {
             "key": "csp_xBPQ_香蕉废柴",
             "name": "香蕉废柴电信",
             "type": 3,
-			      "jar":"https://codeberg.org/aje/t/raw/branch/main/av/Yoursmile2.jar",
+			      "jar":"./av/Yoursmile2.jar",
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://codeberg.org/aje/t/raw/branch/main/av/新香蕉废柴网.json"
+            "ext": "./av/新香蕉废柴网.json"
         },
 
 {"key": "老鸭资源","name": "老鸭电信","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
@@ -278,7 +278,7 @@
    {
       "key": "csp_CandyMuj_rou",
       "name": "肉视频┃墙",
-	  "jar":"https://codeberg.org/aje/t/raw/branch/main/my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+	  "jar":"./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "type": 3,
       "api": "csp_CandyMuj_rou",
       "searchable": 1,
@@ -294,12 +294,12 @@
             "key": "dr_玩偶姐姐",
             "name": "玩偶姐姐┃墙",
             "type": 3,
-			"jar":"https://codeberg.org/aje/t/raw/branch/main/av/Yoursmile2.jar",
-            "api": "https://codeberg.org/aje/t/raw/branch/main/my/drpy26.min.js",
+			"jar":"./av/Yoursmile2.jar",
+            "api": "./my/drpy26.min.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://codeberg.org/aje/t/raw/branch/main/av/玩偶姐姐.js"
+            "ext": "./av/玩偶姐姐.js"
      },
      {
       "key": "玉兔资源1",
@@ -331,7 +331,7 @@
       "key": "玩偶",
       "name": "玩偶┃墙",
       "type": 3,
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/av/pg.jar;md5;2b8ee1791855c6e977c13bf78ac9ea13",
+      "jar": "./av/pg.jar;md5;2b8ee1791855c6e977c13bf78ac9ea13",
       "api": "csp_Doll",
       "searchable": 1,
       "recordable": 0,
@@ -344,7 +344,7 @@
       "key": "MissAV",
       "name": "MissAV┃墙",
       "type": 3,
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/av/pg.jar;md5;2b8ee1791855c6e977c13bf78ac9ea13",
+      "jar": "./av/pg.jar;md5;2b8ee1791855c6e977c13bf78ac9ea13",
       "api": "csp_Miss",
       "searchable": 1,
       "recordable": 0,
@@ -357,7 +357,7 @@
       "key": "Hanime",
       "name": "Hanime┃墙",
       "type": 3,
-      "jar": "https://codeberg.org/aje/t/raw/branch/main/av/pg.jar;md5;2b8ee1791855c6e977c13bf78ac9ea13",
+      "jar": "./av/pg.jar;md5;2b8ee1791855c6e977c13bf78ac9ea13",
       "api": "csp_Hanime",
       "searchable": 1,
       "recordable": 0,
