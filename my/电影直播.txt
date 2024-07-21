@@ -84,7 +84,6 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 🎬频道-影视【直播】,#genre#
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-溧水影视,https://live.lsrmw.cn/ysyl/sd/live.m3u8
 烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 南京影视,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
