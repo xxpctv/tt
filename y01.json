@@ -216,26 +216,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "荐片-熊猫",
-      "name": "🎬荐片影视",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
-    },
-	{
-      "key": "凯奇追剧-开心",
-      "name": "🎬凯奇短剧",
-      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "+hl-content-text\">&&</span>",
-        "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
-      }
-    },
+   
 	 {
       "key": "csp_xml_爱坤-开心无广有轮理",
       "name": "🎬爱坤2K",
@@ -516,6 +497,26 @@
       "filterable": 1
     },
   
+	{
+      "key": "凯奇追剧-开心",
+      "name": "🎬凯奇短剧",
+      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "+hl-content-text\">&&</span>",
+        "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
+      }
+    },
+	 {
+      "key": "荐片-熊猫",
+      "name": "🎬荐片影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
+    },
     {
       "key": "csp_hmhd-欧哥",
       "name": "🎬河马影视",
