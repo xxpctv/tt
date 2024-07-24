@@ -16,9 +16,9 @@
      
       {
         "name": "影视仓TV版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.34.3.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.35.1.apk",
         "icon": " ",
-        "version": "V5.0.34.3"
+        "version": "V5.0.35.1"
       },
       {
         "name": "影视仓手机版",
@@ -94,9 +94,9 @@
       },
       {
         "name": "影视仓海信版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.34.3%EF%BC%88%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E4%B8%93%E7%94%A8%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.35.1%EF%BC%88%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E4%B8%93%E7%94%A8%EF%BC%89.apk",
         "icon": " ",
-        "version": "v5.0.34.3(海信电视专用)"
+        "version": "v5.0.35.1(海信电视专用)"
       },
       {
         "name": "影视仓V3 TV版",
