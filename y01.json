@@ -21,6 +21,13 @@
       "api": "./my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
       "ext": "./my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.txt"
     },
+	 {
+      "key": "直播转点播2",
+      "name": "🎤K歌MV",
+      "type": 3,
+      "api": "./my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
+      "ext": "./my/K歌MV.txt"
+    }
     {
       "key": "公告",
       "name": "📢公告7.22",
@@ -2501,16 +2508,7 @@
       "filterable": 1,
       "ext": "./my/4KHDR_duo.js"
     },  
-	 {
-      "key": "Iktv",
-      "name": "🎤┃KTV",
-      "type": 3,
-      "api": "./my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/ktv.txt"
-    }
+	
   ],
   
   "parses": [
