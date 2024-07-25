@@ -4,7 +4,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.txt",
+      "url": "./直播转点播.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -18,8 +18,8 @@
       "key": "直播转点播1_yun",
       "name": "🔐大师私藏",
       "type": 3,
-      "api": "./my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-      "ext": "./my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.txt"
+      "api": "./my/直播转点播.js",
+      "ext": "./my/直播转点播.txt"
     },
 	
     {
@@ -2506,7 +2506,7 @@
       "key": "直播转点播2",
       "name": "🎤K歌MV",
       "type": 3,
-      "api": "./my/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
+      "api": "./my/直播转点播.js",
       "ext": "./my/k歌mv.txt"
     }
   ],
