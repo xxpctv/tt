@@ -11,20 +11,20 @@
     ]
   },
    {
-    "name": "软件更新7.20",
+    "name": "软件更新8.1",
     "list": [
      
       {
         "name": "影视仓TV版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.35.1.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.36.1.apk",
         "icon": " ",
-        "version": "V5.0.35.1"
+        "version": "V5.0.36.1"
       },
       {
         "name": "影视仓手机版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E5%90%89%E7%89%88_2.0.38%EF%BC%88%E7%9F%AD%E8%A7%86%E9%A2%91%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E5%90%89%E7%89%88_2.0.39%EF%BC%88%E7%9F%AD%E8%A7%86%E9%A2%91%EF%BC%89.apk",
         "icon": " ",
-        "version": "v2.0.38(短视版)"
+        "version": "v2.0.39(短视版)"
       },
 	   {
         "name": "电视直播通用版",
@@ -52,9 +52,9 @@
      
       {
         "name": "IDM下载器-强推",
-        "url": "https://tc.feixunline.cn/down.php/2b6042d57906566981ec1256f99812fd.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/idm%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B716.1.apk",
         "icon": " ",
-        "version": "v12.3（影视仓必备）"
+        "version": "v16.1（影视仓必备）"
       },
       {
         "name": "一键TOken",
@@ -88,15 +88,15 @@
       
       {
         "name": "影视仓手机版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E6%9C%BA%E7%89%88_2.0.38%EF%BC%88%E6%B8%B8%E6%88%8F%E5%8E%85%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E6%9C%BA%E7%89%88_2.0.39%EF%BC%88%E6%B8%B8%E6%88%8F%E5%8E%85%EF%BC%89.apk",
         "icon": " ",
-        "version": "v2.0.38(游戏版)"
+        "version": "v2.0.39(游戏版)"
       },
       {
         "name": "影视仓海信版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.35.1%EF%BC%88%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E4%B8%93%E7%94%A8%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.36.1%EF%BC%88%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E4%B8%93%E7%94%A8%EF%BC%89.apk",
         "icon": " ",
-        "version": "v5.0.35.1(海信电视专用)"
+        "version": "v5.0.36.1(海信电视专用)"
       },
       {
         "name": "影视仓V3 TV版",
