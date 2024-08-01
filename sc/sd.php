@@ -13,7 +13,13 @@
    {
     "name": "软件更新8.1",
     "list": [
-     
+      {
+        "name": "应用管家-强推",
+        "url": "https://gitlab.com/jeossi/t/-/raw/main/app/应用管家v1.3.5_1350_.apk",
+        "icon": " ",
+        "version": "v1.3.5-带网盘资源"
+      },
+
       {
         "name": "影视仓TV版",
         "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.36.1.apk",
