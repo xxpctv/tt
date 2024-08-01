@@ -15,9 +15,9 @@
     "list": [
       {
         "name": "应用管家-强推",
-        "url": "https://gitlab.com/jeossi/t/-/raw/main/app/应用管家v1.3.5_1350_.apk",
+        "url": "https://gitlab.com/jeossi/t/-/raw/main/app/应用管家v1.4.3(1433).apk",
         "icon": " ",
-        "version": "v1.3.5-带网盘资源"
+        "version": "v1.4.3-带网盘资源"
       },
 
       {
