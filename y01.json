@@ -4,7 +4,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./直播转点播.txt",
+      "url": "./zby.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -24,7 +24,7 @@
 	
     {
       "key": "公告",
-      "name": "📢公告7.22",
+      "name": "📢公告8.4",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
