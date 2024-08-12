@@ -282,7 +282,7 @@
     {
       "key": "4K影视-天天开心",
       "name": "🎬4K影视",
-      "jar": "./my/ttkx0613.jar",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -293,7 +293,7 @@
     {
       "key": "原创-天天开心",
       "name": "🎬原创无广",
-      "jar": "./my/ttkx0613.jar",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -305,7 +305,7 @@
     {
       "key": "csp_xBPQ_九八-天天开心",
       "name": "🎬九八影视",
-      "jar": "./my/ttkx0613.jar",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -316,7 +316,7 @@
     {
       "key": "csp_七新-天天开心",
       "name": "🎬七新影视",
-      "jar": "./my/ttkx0613.jar",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -503,7 +503,7 @@
 	{
       "key": "凯奇追剧-开心",
       "name": "🎬凯奇短剧",
-      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -658,7 +658,7 @@
     {
       "key": "csp_xBPQ可可-开心",
       "name": "🎬可可影视",
-      "jar": "./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},
+      "jar": "./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -669,7 +669,7 @@
     {
       "key": "csp_XYQBiu_骚火VIP_开心",
       "name": "🎬骚火外片",
-      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -794,7 +794,7 @@
     {
       "key": "米爱影视_开心",
       "name": "🎬米爱2K",
-      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -881,7 +881,7 @@
     {
       "key": "白嫖者-开心",
       "name": "🎬白嫖者",
-      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -1026,7 +1026,7 @@
     {
       "key": "策驰影院_开心",
       "name": "🎬策驰影院",
-      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1256,7 +1256,7 @@
     {
       "key": "剧圈圈-天天开心1",
       "name": "🎦圈圈┃短剧",
-      "jar": "./my/ttkx0613.jar",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1268,7 +1268,7 @@
     {
       "key": "剧圈圈-天天开心2",
       "name": "🎦圈圈纪录片",
-      "jar": "./my/ttkx0613.jar",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1518,7 +1518,7 @@
     {
       "key": "斗鱼直播-天天开心",
       "name": "📣直播┃斗鱼",
-      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 0,
@@ -2518,19 +2518,19 @@
       "filterable": 1,
       "timeout": 10
     },
-	{"key":"腐剧视频-欧歌","name":"🎬┃腐剧影视","jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},"type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
-{"key":"荐片-开心","name":"🎬┃荐片秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
-{"key":"文采-开心","name":"🎬┃文采秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key": "奈飞影视-开心","name":"🎬┃奈飞秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
-{"key": "奈飞中文-开心","name":"🎬┃奈飞中文","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nfzw.json"},
-{"key": "csp_XYQBiu_骚火VIP-开心","name": "🎬┃骚火秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./my/shyyVIP.json"},
-{"key": "VIP影视-开心","name": "🎬┃VIP秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./my/VIPyingshi.json"},
-{"key":"看片狂人-开心","name":"🎬┃看片狂人","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"免嗅":"1","线路数组":"class=\"fed-drop-btns fed-padding&&</li>","搜索url":"https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}","分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]","分类":"国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"}},
-{"key": "csp_XYQHiker_兔小贝-开心","name":"🐰┃兔小贝1","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/兔小贝1.json"},
-{"key": "csp_XYQHiker_兔小贝-开心2","name":"🐰┃兔小贝2","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"./my/兔小贝2.json"},
-{"key":"哔哩直播-开心","name":"🅱️┃哔哩直播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api":"./my/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/blzb.js"},
-{"key":"csp_Bili短剧-开心","name":"🅱️┃哔哩短剧","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF"},"type":3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./my/Bili短剧.json"},
- 
+{"key":"腐剧视频-欧歌","name":"🎬┃腐剧影视","jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
+{"key":"荐片-开心","name":"🎬┃荐片秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
+{"key":"文采-开心","name":"🎬┃文采秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key": "奈飞影视-开心","name":"🎬┃奈飞秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
+{"key": "奈飞中文-开心","name":"🎬┃奈飞中文","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nfzw.json"},
+{"key": "csp_XYQBiu_骚火VIP-开心","name": "🎬┃骚火秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./my/shyyVIP.json"},
+{"key": "VIP影视-开心","name": "🎬┃VIP秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./my/VIPyingshi.json"},
+{"key":"看片狂人-开心","name":"🎬┃看片狂人","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"免嗅":"1","线路数组":"class=\"fed-drop-btns fed-padding&&</li>","搜索url":"https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}","分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]","分类":"国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"}},
+{"key": "csp_XYQHiker_兔小贝-开心","name":"🐰┃兔小贝1","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/兔小贝1.json"},
+{"key": "csp_XYQHiker_兔小贝-开心2","name":"🐰┃兔小贝2","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"./my/兔小贝2.json"},
+{"key":"哔哩直播-开心","name":"🅱️┃哔哩直播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"./my/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/blzb.js"},
+{"key":"csp_Bili短剧-开心","name":"🅱️┃哔哩短剧","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./my/Bili短剧.json"},
+
  
 
 	{
