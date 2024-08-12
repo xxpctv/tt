@@ -11,7 +11,7 @@
     ]
   },
    {
-    "name": "软件更新8.9",
+    "name": "软件更新8.12",
     "list": [
       {
         "name": "应用管家-强推",
@@ -22,9 +22,9 @@
 
       {
         "name": "影视仓TV版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.38_%E9%80%9A%E7%94%A8.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.39_%E9%80%9A%E7%94%A8.apk",
         "icon": " ",
-        "version": "V5.0.38"
+        "version": "V5.0.39"
       },
       {
         "name": "影视仓手机版",
@@ -34,9 +34,9 @@
       },
 	   {
         "name": "电视直播通用版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/my-tv-0-v1.3.4.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/my-tv-0.1.3.5.11.apk",
         "icon": " ",
-        "version": "我的电视v1.3.4"
+        "version": "我的电视v1.3.5.11"
       },
       {
         "name": "微信赞助打赏",
@@ -100,9 +100,9 @@
       },
       {
         "name": "影视仓海信版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.38_%E6%B5%B7%E4%BF%A1.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.39_%E6%B5%B7%E4%BF%A1.apk",
         "icon": " ",
-        "version": "v5.0.38(海信电视专用)"
+        "version": "v5.0.39(海信电视专用)"
       },
       {
         "name": "影视仓V3 TV版",
