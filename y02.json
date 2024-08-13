@@ -991,7 +991,7 @@
     {
       "key": "py_cctv_少儿_hechengchaxiu",
       "name": "🇨🇳央视┃动画",
-	  "jar": "./my/cctv231121.jar",
+      "jar":"./my/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
       "type": 3,
       "api": "py_cctv_full",
       "searchable": 0,
