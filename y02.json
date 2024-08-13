@@ -1,5 +1,6 @@
 {
-  "spider": "./my/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
+  "spider": "./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
+  
   "lives": [
     {
       "name": "live",
@@ -29,7 +30,7 @@
       "api": "csp_Notice",
       "searchable": 0,
       "changeable": 0,
-      "jar": "./my/danmu0722.jar",
+      "jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
       "ext": "./my/公告.json"
     },
     {
@@ -74,7 +75,7 @@
     {
       "key": "我的阿里-欧哥token线路",
       "name": "📂我的阿里",
-      "jar": "./my/danmu0722.jar",
+      "jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
       "type": 3,
       "api": "csp_MyAli",
       "searchable": 0,
@@ -87,8 +88,8 @@
         "type": "list"
       }
     },
-	{"key":"我的夸克","name":"📂我的夸克","type":3,"api":"csp_MyQuark","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"style":{"type":"list"},"jar": "danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"我的UC","name":"📂我的UC","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},"style":{"type":"list"},"jar": "danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+	{"key":"我的夸克","name":"📂我的夸克","type":3,"api":"csp_MyQuark","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"style":{"type":"list"},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"我的UC","name":"📂我的UC","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},"style":{"type":"list"},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
 
     {
       "key": "配置中心-PG",
@@ -272,7 +273,7 @@
     {
       "key": "一起看弹幕-潇洒",
       "name": "🎬一起看弹幕",
-      "jar": "./my/danmu0722.jar",
+      "jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
       "type": 3,
       "api": "csp_Yqk",
       "searchable": 1,
@@ -285,7 +286,7 @@
     {
       "key": "三六零弹幕-潇洒",
       "name": "🎬360弹幕",
-      "jar": "./my/danmu0722.jar",
+      "jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
       "type": 3,
       "api": "csp_Sp360",
       "searchable": 1,
@@ -402,7 +403,7 @@
       "ext": "http://api2.rinhome.com"
     },
    {"key":"荐片-开心","name":"🎬┃荐片秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
-   {"key":"荐片弹幕","name":"📀荐片弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+   {"key":"荐片弹幕","name":"📀荐片弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
 
     {
       "key": "农民影视-欧哥",
@@ -1472,7 +1473,7 @@
       "filterable": 1,
       "ext": "./my/哔哩美食.json"
     },
-{"key": "美食2","name": "🅱️┃美食哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./my/美食.json"},
+{"key": "美食2","name": "🅱️┃美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./my/美食.json"},
 {"key": "球类","name": "🅱️┃球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球类合集.json"}, 
 {"key": "球星","name": "🅱️┃球星合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球星合集.json"},
  {
@@ -1487,7 +1488,7 @@
     },
     {
       "key": "哔哩体育_yun",
-      "name": "🅱️┃哔哩体育",
+      "name": "🅱️┃体育合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1504,6 +1505,40 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./my/哔哩合集.json"
+    },
+	{
+      "key": "运动-欧哥",
+      "name": "🅱️┃健身合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./my/吾爱运动.json"
+    },
+	 {
+      "key": "MTV合集",
+      "name": "🅱️┃MTV合集",
+      "type": 1,
+      "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "MV-欧哥",
+      "name": "🅱️┃MTV热榜",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./my/MTV-哔哩0723.json"
     },
     {
       "key": "哔哩dr_武享吧_壹梦线路",
@@ -1708,16 +1743,7 @@
       "filterable": 1,
       "ext": "./my/吾爱Excel教程.json"
     },
-    {
-      "key": "运动-欧哥",
-      "name": "🅱️┃吾爱健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/吾爱运动.json"
-    },
+    
     {
       "key": "演唱会-欧哥",
       "name": "🅱️┃演唱会",
@@ -1732,30 +1758,7 @@
       "changeable": 0,
       "ext": "./my/吾爱演唱会-哔哩0723.json"
     },
-    {
-      "key": "MTV合集",
-      "name": "🅱️┃MTV合集",
-      "type": 1,
-      "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "MV-欧哥",
-      "name": "🅱️┃吾爱MTV",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./my/MTV-哔哩0723.json"
-    },
+   
     {
       "key": "儿童拼音",
       "name": "🅱️儿童┃拼音",
@@ -1999,28 +2002,28 @@
       "filterable": 1,
       "ext": "./my/中国文化.json"
     },
-    {"key":"夸克影搜弹幕","name":"🔎影搜弹幕","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"搜索弹幕","name":"🔎搜索弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"云云弹幕","name":"🔎云云弹幕","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"云搜弹幕","name":"🔎云搜弹幕","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"盘搜弹幕","name":"🔎盘搜弹幕","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"易搜弹幕","name":"🔎易搜弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true,"cookie":"satoken=60201207-5254-4d44-8ed9-db4ed5476163"},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"云盘弹幕","name":"🔎云盘弹幕","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"小纸条弹幕","name":"🔎小纸条弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"夸克趣盘搜弹幕","name":"🔎趣盘搜弹幕","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"夸克爱盘搜弹幕","name":"🔎爱盘搜弹幕","type":3,"api":"csp_AiPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"夸克盘搜弹幕","name":"🔎夸克搜弹幕","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+    {"key":"夸克影搜弹幕","name":"🔎影搜弹幕","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"搜索弹幕","name":"🔎搜索弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"云云弹幕","name":"🔎云云弹幕","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"云搜弹幕","name":"🔎云搜弹幕","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"盘搜弹幕","name":"🔎盘搜弹幕","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"易搜弹幕","name":"🔎易搜弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true,"cookie":"satoken=60201207-5254-4d44-8ed9-db4ed5476163"},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"云盘弹幕","name":"🔎云盘弹幕","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"小纸条弹幕","name":"🔎小纸条弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"夸克趣盘搜弹幕","name":"🔎趣盘搜弹幕","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"夸克爱盘搜弹幕","name":"🔎爱盘搜弹幕","type":3,"api":"csp_AiPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"夸克盘搜弹幕","name":"🔎夸克搜弹幕","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
 
 
 
-    {"key":"阿里合集","name":"❤阿里合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","share":"./my/阿里集合.json"},"style":{"type":"list"},"jar": "./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"玩弹幕1","name":"📀玩哥弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"玩弹幕2","name":"📀玩欧弹幕","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"夸克玩弹幕1","name":"📀玩偶弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"阿里玩弹幕3","name":"📀土豆弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://tudou.lvdoui.top","danmu":true},"jar":"./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"夸克玩弹幕4","name":"📀多多弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://tv.yydsys.top","danmu":true},"jar":"./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"夸克玩弹幕5","name":"📀蜡笔弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://duopan.fun","danmu":true},"jar":"./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
-    {"key":"夸克玩弹幕6","name":"📀至臻弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://mihdr.top","danmu":true},"jar":"./my/danmu0722.jar;md5;e52ed9ca0aa59469976be3f2d8f419f0"},
+    {"key":"阿里合集","name":"❤阿里合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","share":"./my/阿里集合.json"},"style":{"type":"list"},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"玩弹幕1","name":"📀玩哥弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"玩弹幕2","name":"📀玩欧弹幕","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"夸克玩弹幕1","name":"📀玩偶弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"阿里玩弹幕3","name":"📀土豆弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://tudou.lvdoui.top","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"夸克玩弹幕4","name":"📀多多弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://tv.yydsys.top","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"夸克玩弹幕5","name":"📀蜡笔弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://duopan.fun","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+    {"key":"夸克玩弹幕6","name":"📀至臻弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://mihdr.top","danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
 
    
     {
@@ -2037,7 +2040,7 @@
 	 {
       "key": "夸克玩弹幕5-欧哥token线路",
       "name": "📀多多纪录",
-      "jar": "./my/danmu0722.jar",
+      "jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
