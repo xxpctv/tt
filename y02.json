@@ -198,7 +198,7 @@
     {
       "key": "云播-小米1条",
       "name": "🎬云播影视",
-      "jar": "./my/0622.jar",
+
       "type": 3,
       "api": "csp_Tvyb",
       "searchable": 1,
@@ -210,7 +210,7 @@
     {
       "key": "4K影视-天天开心",
       "name": "🎬4K影视",
-      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
+
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -221,7 +221,7 @@
     {
       "key": "原创-天天开心",
       "name": "🎬原创无广",
-      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
+
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -310,7 +310,7 @@
     {
       "key": "drpy_js_奇珍异兽-看电影线路",
       "name": "🎬爱奇艺",
-      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "ext": "./my/奇珍异兽.js"
@@ -318,7 +318,7 @@
     {
       "key": "drpy_js_百忙无果-看电影线路",
       "name": "🎬芒果影视",
-      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 1,
@@ -329,7 +329,7 @@
     {
       "key": "drpy_js_腾云驾雾-看电影线路",
       "name": "🎬腾讯影视",
-      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 1,
@@ -340,7 +340,7 @@
     {
       "key": "drpy_js_菜狗-看电影线路",
       "name": "🎬搜狗影视",
-      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 1,
@@ -351,7 +351,7 @@
     {
       "key": "drpy_js_优酷-看电影线路",
       "name": "🎬优酷影视",
-      "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 1,
@@ -362,7 +362,7 @@
     {
       "key": "csp_SP360-熊猫1条",
       "name": "🎬360官源",
-      "jar": "./my/ttkx240504.jar;md5;3CA30FD6700D56A0A416136196C729BF",
+
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -373,7 +373,7 @@
 	{
       "key": "凯奇追剧-开心",
       "name": "🎬凯奇短剧",
-      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
+
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -402,7 +402,7 @@
       "filterable": 1,
       "ext": "http://api2.rinhome.com"
     },
-   {"key":"荐片-开心","name":"🎬┃荐片秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
+   {"key":"荐片-开心","name":"🎬┃荐片秒播","type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
    {"key":"荐片弹幕","name":"📀荐片弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
 
     {
@@ -436,7 +436,7 @@
       "searchable": 1,
       "changeable": 1
     },
-   {"key": "csp_XYQBiu_骚火VIP-开心","name": "🎬┃骚火秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./my/shyyVIP.json"},
+   {"key": "csp_XYQBiu_骚火VIP-开心","name": "🎬┃骚火秒播","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./my/shyyVIP.json"},
 
     {
       "key": "米米影视-潇洒2条",
@@ -636,7 +636,7 @@
     {
       "key": "云播影视-肥猫",
       "name": "🎬TVB云JS",
-      "jar": "./my/PandaQ240416.jar;md5;9F15ADE02721F30F65880BEF1271BE69",
+
       "type": 3,
       "playerType": "2",
       "api": "./my/drpy26.min.js",
@@ -645,7 +645,7 @@
     {
       "key": "毛驴-肥猫",
       "name": "🎬毛驴影视",
-      "jar": "./my/PandaQ240416.jar;md5;9F15ADE02721F30F65880BEF1271BE69",
+
       "type": 3,
       "api": "csp_MaoLv",
       "searchable": 1,
@@ -738,16 +738,7 @@
       "ext": "./my/网飞.TV.js"
     },
    
-    {
-      "key": "csp_蛋蛋_hechengchaxou",
-      "name": "🎬蛋蛋XBP",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/蛋蛋影视hccx.json"
-    },
+   
     {
       "key": "红牛资源",
       "name": "🎬红牛资源",
@@ -776,7 +767,7 @@
    
    
     {
-      "key": "飘零影院_一个分享者",
+      "key": "飘零影院_一个分享者1条",
       "jar": "./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "name": "🎬飘零影视",
       "type": 1,
@@ -789,7 +780,6 @@
       "key": "暴風",
       "name": "🎬暴風2024",
       "type": 1,
-      "jar": "./my/95b1f35256b2ab1c404bb2e56f6dfedf98c69594/fan.jar;md5;69c44556911acb40c53846bd52873fee",
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
@@ -890,7 +880,8 @@
     {
       "key": "drpy_js_网易公版影像_乐享汇fans",
       "name": "🇨🇳珍贵┃史料",
-      "jar": "./my/20240108.jar;md5;6A3B047776DF26AE0B3AB2140ED3BA62",
+     
+	  
       "type": 3,
       "api": "./my/drpy26.min.js",
       "ext": "./my/网易公版影像_乐享汇.js"
@@ -898,7 +889,7 @@
     {
       "key": "采集_中央",
       "name": "🇨🇳央视┃大全",
-      "jar": "./my/cctv231121.jar",
+
       "type": 3,
       "api": "csp_CCTV",
       "searchable": 0,
@@ -1067,7 +1058,7 @@
     {
       "key": " 在线┃直播1_feimao",
       "name": "📣直播┃竞技",
-      "jar": "./my/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb",
+
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -1077,7 +1068,7 @@
     {
       "key": "js_310直播_duoduo",
       "name": "📣直播┃🏀⚽",
-      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 1,
@@ -1098,7 +1089,7 @@
     {
       "key": "斗鱼直播-天天开心",
       "name": "📣直播┃斗鱼",
-      "jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 0,
@@ -1142,7 +1133,7 @@
       "api": "./my/drpy26.min.js",
       "ext": "./my/哔哩直播.js"
     },
-	{"key":"哔哩直播-开心","name":"🅱️┃哔哩直播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"./my/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/blzb.js"},
+	{"key":"哔哩直播-开心","name":"🅱️┃哔哩直播","type":3,"api":"./my/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/blzb.js"},
 
     {
       "key": "直播转点播1_壹梦线路",
@@ -1187,7 +1178,7 @@
     {
       "key": "Yinyuetai",
       "name": "🎶Live┃音悦台",
-      "jar": "./my/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
+
       "type": 3,
       "api": "csp_Yinyuetai",
       "searchable": 1,
@@ -1227,7 +1218,7 @@
 	 {
       "key": "ting-小白线路",
       "name": "📚️休闲┃听书",
-	  "jar": "./my/YSZYZ%E5%B0%8F%E7%99%BD%E5%90%AC%E4%B9%A60701.jar",
+
       "type": 3,
       "api": "csp_BookTing",
       "searchable": 1,
@@ -1237,7 +1228,7 @@
     {
       "key": "js_六月听书_duoduo",
       "name": "📚️听书┃六月",
-      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "changeable": 0,
@@ -1250,7 +1241,7 @@
     {
       "key": "js_i275听书_duoduo",
       "name": "📚️听书┃i275",
-      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "changeable": 0,
@@ -1263,7 +1254,7 @@
     {
       "key": "js_博看听书_duoduo",
       "name": "📚️听书┃博看",
-      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "changeable": 0,
@@ -1276,7 +1267,7 @@
     {
       "key": "js_中华听书网_duoduo",
       "name": "📚️听书┃中华",
-      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "changeable": 0,
@@ -1297,7 +1288,7 @@
     {
       "key": "csp_XYQHiker_DJ呦呦音乐网_壹梦线路1条",
       "name": "🎧听DJ┃呦呦",
-      "jar": "./my/dj4_乐享汇.jar;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -2087,12 +2078,12 @@
       "filterable": 1,
       "timeout": 10
     },
-{"key":"腐剧视频-欧歌","name":"🎬┃腐剧影视","jar":"./my/dm8.6.jar;md5;e0129dfc4f7caa454c7af98773e9ef72","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
-{"key":"文采-开心","name":"🎬┃文采秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key": "奈飞影视-开心","name":"🎬┃奈飞秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
-{"key": "奈飞中文-开心","name":"🎬┃奈飞中文","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nfzw.json"},
-{"key": "VIP影视-开心","name": "🎬┃VIP秒播","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./my/VIPyingshi.json"},
-{"key":"看片狂人-开心","name":"🎬┃看片狂人","jar":"./my/ttkx807.jar;md5;F81FE2717E9E117BCC17C95B3F700ECF","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"免嗅":"1","线路数组":"class=\"fed-drop-btns fed-padding&&</li>","搜索url":"https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}","分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]","分类":"国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"}},
+{"key":"腐剧视频-欧歌","name":"🎬┃腐剧影视", "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
+{"key":"文采-开心","name":"🎬┃文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key": "奈飞影视-开心","name":"🎬┃奈飞秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
+{"key": "奈飞中文-开心","name":"🎬┃奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nfzw.json"},
+{"key": "VIP影视-开心","name": "🎬┃VIP秒播","type":3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./my/VIPyingshi.json"},
+{"key":"看片狂人-开心","name":"🎬┃看片狂人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"免嗅":"1","线路数组":"class=\"fed-drop-btns fed-padding&&</li>","搜索url":"https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}","分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]","分类":"国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"}},
 
  
 
