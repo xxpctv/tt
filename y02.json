@@ -889,7 +889,7 @@
     {
       "key": "采集_中央",
       "name": "🇨🇳央视┃大全",
-
+      "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "csp_CCTV",
       "searchable": 0,
@@ -991,6 +991,7 @@
     {
       "key": "py_cctv_少儿_hechengchaxiu",
       "name": "🇨🇳央视┃动画",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv_full",
       "searchable": 0,
@@ -1041,6 +1042,7 @@
     {
       "key": "哔哩央视经典_hechengchaxiu",
       "name": "🇨🇳央视┃经典",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
