@@ -1,7 +1,17 @@
 {
   "classes": [
-   
-   
+   {
+      "type_name": "健身",
+      "type_id": "健身"
+    },
+    {
+      "type_name": "KEEP",
+      "type_id": "KEEP"
+    },
+    {
+      "type_name": "jo姐",
+      "type_id": "jo姐"
+    },
      {
       "type_name": "瑜伽",
       "type_id": "瑜伽"
@@ -14,15 +24,23 @@
       "type_name": "有氧操",
       "type_id": "有氧操"
     },
+	 {
+      "type_name": "帕梅拉",
+      "type_id": "帕梅拉"
+    },
+      {
+      "type_name": "郑多燕",
+      "type_id": "郑多燕"
+    },
     {
       "type_name": "太极",
       "type_id": "太极"
     },
-       {
-      "type_name": "瑜伽",
-      "type_id": "瑜伽"
+    {
+      "type_name": "游泳",
+      "type_id": "游泳"
     },
- {
+    {
       "type_name": "跳绳",
       "type_id": "跳绳"
     },
@@ -34,14 +52,7 @@
       "type_name": "SEVEN运动",
       "type_id": "SEVEN软件"
     },
-             {
-      "type_name": "帕梅拉",
-      "type_id": "帕梅拉"
-    },
-      {
-      "type_name": "郑多燕",
-      "type_id": "郑多燕"
-    },
+    
      {
       "type_name": "壶铃",
       "type_id": "壶铃"
@@ -54,7 +65,15 @@
       "type_name": "健身操",
       "type_id": "健身操"
     },
-              {
+	{
+      "type_name": "舞蹈",
+      "type_id": "舞蹈"
+    },
+    {
+      "type_name": "广场舞",
+      "type_id": "广场舞"
+    },
+    {
       "type_name": "搏击操",
       "type_id": "搏击操"
     },
