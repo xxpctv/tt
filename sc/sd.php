@@ -11,7 +11,7 @@
     ]
   },
    {
-    "name": "软件更新8.12",
+    "name": "软件更新8.18",
     "list": [
       {
         "name": "应用管家-强推",
@@ -28,15 +28,27 @@
       },
       {
         "name": "影视仓手机版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E5%90%89%E7%89%88_2.0.39%EF%BC%88%E7%9F%AD%E8%A7%86%E9%A2%91%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E5%90%89%E7%89%88_2.0.40.2%EF%BC%88%E7%9F%AD%E8%A7%86%E9%A2%91%EF%BC%89.apk",
         "icon": " ",
-        "version": "v2.0.39(短视版)"
+        "version": "v2.0.40.2(短视版)"
       },
 	   {
         "name": "电视直播通用版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/my-tv-0.1.3.5.11.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/my-tv-0.1.3.7.11.apk",
         "icon": " ",
-        "version": "我的电视v1.3.5.11"
+        "version": "我的电视v1.3.7.11"
+      },
+	     {
+        "name": "电视直播手机版",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/my-tv-0.1.3.7.11.china-mobile.apk",
+        "icon": " ",
+        "version": "我的电视v1.3.7.11"
+      },
+	  {
+        "name": "电视直播IPV6版",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/my-tv-0.1.3.7.11.ipv6.apk",
+        "icon": " ",
+        "version": "我的电视v1.3.7.11"
       },
       {
         "name": "微信赞助打赏",
@@ -94,9 +106,9 @@
       
       {
         "name": "影视仓手机版",
-        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E6%9C%BA%E7%89%88_2.0.39%EF%BC%88%E6%B8%B8%E6%88%8F%E5%8E%85%EF%BC%89.apk",
+        "url": "https://vip.123pan.cn/1830133167/tvbox/%E5%BD%B1%E8%A7%86%E4%BB%93%E6%89%8B%E6%9C%BA%E7%89%88_2.0.40.2%EF%BC%88%E6%B8%B8%E6%88%8F%E5%8E%85%EF%BC%89.apk",
         "icon": " ",
-        "version": "v2.0.39(游戏版)"
+        "version": "v2.0.40.2(游戏版)"
       },
       {
         "name": "影视仓海信版",
