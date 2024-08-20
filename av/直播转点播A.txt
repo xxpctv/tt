@@ -18,6 +18,8 @@
 
 {"name":"国产老片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/国产老片.txt"},
 
+{"name":"测试8.20","url":"https://gitlab.com/jeossi/t/-/raw/main/av/1989.txt"},
+
 {"name":"日片点播","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日片点播.txt"},
 
 {"name":"日本剧场","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日本剧场.txt"},
