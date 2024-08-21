@@ -5,7 +5,7 @@
 【海星】羽球直播.高清,https://v4-e472acfa091c90ed8db23b6dd22b5b22.livehwc3.cn/pullhw.zhaoyangyang.cn/live/8713172_lud.m3u8?sub_m3u8=true&edge_slice=true&auth_info=qVEN6iI08sGV75tk%2BuKhqNutdQ7tZ2swmSzq1b0DcXwhMfy11%2FSR5OePRrCcIHyr.6d616b363656386d3252453378463733&user_session_id=fe60f1d205911592263ad0c8ebeec1f0
 【海星】羽球直播.高清,https://v4-e472acfa091c90ed8db23b6dd22b5b22.livehwc3.cn/pullhw.zhaoyangyang.cn/live/8713172.m3u8?auth_info=HRHAqnNTyjoQj4KOSHCflZDt%2BTLUHGMlO8q14F7L5Ys%3D.477a44306159434550686f4b71416d79&edge_slice=true&user_session_id=679d790f6132c21b2f64c8a6a69fcb82&sub_m3u8=true
 
-🔒收藏.频道,#genre#
+🔒综合.频道,#genre#
 四屏导视,http://171.80.234.78:8888/udp/239.69.1.170:10656
 九屏导视,http://171.80.234.78:8888/udp/239.69.1.156:10572
 
@@ -13,11 +13,6 @@
 教育CETV1,http://171.80.234.78:8888/udp/239.69.1.110:10298
 教育CETV1,http://123.180.177.20:16000/udp/239.253.92.211:6069
 教育CETV4,http://123.180.177.20:16000/udp/239.253.92.200:6137
-
-凤凰卫视中文台,http://118.114.33.19:4022/udp/239.93.0.162:2192
-凤凰卫视中文台,http://118.114.33.19:4022/udp/239.93.1.9:2192
-凤凰卫视资讯台,http://118.114.33.19:4022/udp/239.93.0.118:2191
-凤凰卫视资讯台,http://118.114.33.19:4022/udp/239.93.1.4:2191
 CGTN纪录,http://171.80.234.78:8888/udp/239.69.1.233:11040
 CGTN俄语,http://171.80.234.78:8888/udp/239.69.1.222:10974
 CGTN法语,http://171.80.234.78:8888/udp/239.69.1.235:11052
@@ -26,43 +21,40 @@ CGTN阿拉伯语,http://171.80.234.78:8888/udp/239.69.1.221:10968
 CGTN,https://0472.org/hls/cgtn.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
-第一剧场,http://171.80.234.78:8888/udp/239.69.1.74:10084
 第一剧场,http://123.189.36.7:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://123.189.36.155:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://171.80.234.78:8888/udp/239.69.1.74:10084
 茶频道,http://171.80.234.78:8888/udp/239.69.1.144:10500
 兵器科技,http://171.80.234.78:8888/udp/239.69.1.79:10114
-世界地理,http://171.80.234.78:8888/udp/239.69.1.91:10186
 韩国综艺,http://159.75.85.63:35455/douyu/131977
-MoMo综,rtmp://f13h.mine.nu/sat/tv761
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+日本MoMo综,rtmp://f13h.mine.nu/sat/tv761
+日本纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+日本纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 DAZN1,rtmp://f13h.mine.nu/sat/tv731
 DAZN2,rtmp://f13h.mine.nu/sat/tv741
-韩国SBSonair.全网,rtmp://210.216.76.120/live/sbsonair
+韩国SBS.全网,rtmp://210.216.76.120/live/sbsonair
+韩国CJB.全网,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国KBC综艺.电信,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国MBC.电信,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+韩国BBS.全网,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 韩阿里郎.电信,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩阿里郎.电信,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 韩国电影.全网,rtmp://211.195.208.119/live/12
 韩国新闻.电信,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-韩国大田.移动,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 韩国国防.电信,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-金砖英文.移动,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 耀才财经频道.电信,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经频道.电信,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 环球电视.电信,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 澳门莲花频道.电信,http://php.jdshipin.com:8880/amlh.php
 泰国ASTV.电信,http://news1.live14.com/stream/news1_hi.m3u8
-朝鲜中央台.移动,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-朝鲜中央台.移动,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-日本QVC.移动,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 日本NHk.全网,http://61.221.215.25:8800/hls/51/index.m3u8
-日本24小时新闻台.全网,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-CNA 新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+日本24H新闻.全网,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+CNA 新闻.全网,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 探索亚洲.英.电信,http://61.221.215.25:8800/hls/50/index.m3u8
 台湾番薯音乐.电信,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 台湾八大戏剧.电信,http://61.221.215.25:8800/hls/39/index.m3u8
 台湾中天娱乐.电信,http://61.221.215.25:8800/hls/47/index.m3u8
-半岛新闻.阿拉伯.移动,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻.英文.全网,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 TVBS新闻.电信,http://livetv.skycf.eu.org/live.m3u8
 TVBS新闻.电信,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -71,18 +63,27 @@ TVBS新闻.电信,http://61.221.215.25:8800/hls/9/index.m3u8
 俄罗斯RT.电信,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 US WOW TV.电信,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 US Bloomberg TV+2.全网,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-SBS.移动,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 RU TivikomUlan-Udje.电信,http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-RU GITV.移动,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
-MBC.电信,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-KBC SBS 综艺.电信,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-DE Baden TV.移动,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+RU GITV.全网,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
+DE Baden TV.全网,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+中文AMC电影.电信,http://61.221.215.25:8800/hls/43/index.m3u8
 CA CanadaOne.移动,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-BBS.移动,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-AMC 电影.电信,http://61.221.215.25:8800/hls/43/index.m3u8
+半岛新闻.阿拉伯.移动,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+朝鲜中央台.移动,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+朝鲜中央台.移动,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+日本QVC.移动,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+韩国大田.移动,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+金砖英文.移动,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+世界地理,http://171.80.234.78:8888/udp/239.69.1.91:10186
+凤凰卫视中文台,http://118.114.33.19:4022/udp/239.93.0.162:2192
+凤凰卫视中文台,http://118.114.33.19:4022/udp/239.93.1.9:2192
+凤凰卫视资讯台,http://118.114.33.19:4022/udp/239.93.0.118:2191
+凤凰卫视资讯台,http://118.114.33.19:4022/udp/239.93.1.4:2191
+
 
 📡央视.电信,#genre#
 CCTV1-综合,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv1
+CCTV1-综合,http://live.dxms.top:80/dwy/mgak.php
 CCTV1-综合,http://wuzhij.top/wztv.php?id=cctv1
 CCTV1-综合,http://110.189.102.15:9901/tsfile/live/0001_1.m3u8
 CCTV1-综合,http://22725y284r.yicp.fun:9902/tsfile/live/0001_1.m3u8
@@ -198,6 +199,7 @@ CCTV12-社会与法,http://114.246.183.162:4022/rtp/239.3.1.64:8124
 CCTV12-社会与法,http://123.118.225.252:9090/rtp/239.3.1.64:8124
 CCTV12-社会与法,http://171.80.234.78:8888/udp/239.69.1.106:10274
 
+CCTV13-新闻,http://live.dxms.top:80/dwy/news.php
 CCTV13-新闻,http://110.189.102.15:9901/tsfile/live/0013_1.m3u8
 CCTV13-新闻,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=cctv13
 CCTV13-新闻,http://wuzhij.top/wztv.php?id=cctv13
@@ -492,16 +494,16 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 TVB奥运开幕式,https://c1.rrcdnbf3.com/video/2024niandi33jiebaliaoyunhuikaimushi/HD/index.m3u8
 安徽综艺体育.电信,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://123.189.36.7:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://123.189.36.155:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
-劲爆体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8
+风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+
 超级体育.电信,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育.电信,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
 精品体育.电信,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 央视台球,http://171.80.234.78:8888/udp/239.69.1.98:10224
 高尔夫网球,http://171.80.234.78:8888/udp/239.69.1.83:10138
-Red Bull TV.体育,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+RedBull TV.体育,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 🔒抖音.电台,#genre#
 电台轮播1,http://159.75.85.63:35455/douyin/868345207600
 电台轮播2,http://159.75.85.63:35455/douyin/796558607371
@@ -540,9 +542,9 @@ Red Bull TV.体育,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master
 斗鱼电影2y,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影3y,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影4y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-CCtv6影院2k,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://mtw.so/5NPX0U
+CCTV6影院,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+重温经典影院,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典影院,http://mtw.so/5NPX0U
 CHC-家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC-家庭影院,http://118.114.33.19:4022/udp/239.93.42.6:5140
 CHC-家庭影院,http://171.80.234.78:8888/udp/239.69.1.243:11100
