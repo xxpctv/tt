@@ -14,11 +14,11 @@
   "sites": [
     {
       "key": "直播转点播",
-      "name": "📡大师私藏7.20",
+      "name": "📡大师私藏8.22",
       "jar": "./my/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
       "type": 3,
       "api": "./my/直播转点播.js",
-      "ext": "./av/直播转点播A.txt"
+      "ext": "./av/zba.txt"
     },
     {
       "key": "Local",
