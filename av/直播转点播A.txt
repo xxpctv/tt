@@ -12,7 +12,7 @@
 
 {"name":"🎬亚州短片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/亚州短片.txt"},
 
-{"name":"🎬传媒短片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/传媒短片.txt"},
+{"name":"🎬国产传媒","url":"https://gitlab.com/jeossi/t/-/raw/main/av/国产传媒.txt"},
 
 {"name":"🎬传媒正片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/传媒正片.txt"},
 
