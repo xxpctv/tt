@@ -2,9 +2,9 @@
   "spider": "./av/xc0126.jar",
   "lives": [
     {
-      "name": "live",
+      "name": "大师",
       "type": 0,
-      "url": "./电视直播.txt",
+      "url": "./av/zba.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -18,7 +18,7 @@
       "jar": "./my/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
       "type": 3,
       "api": "./my/直播转点播.js",
-      "ext": "./av/zba.txt"
+      "ext": "./av/直播转点播A.txt"
     },
     {
       "key": "Local",
