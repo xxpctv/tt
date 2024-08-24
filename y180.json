@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "直播转点播",
-      "name": "📡大师私藏8.24",
+      "name": "📡大师私藏8.22",
       "type": 3,
       "api": "./my/直播转点播.js",
       "ext": "./av/直播转点播A.txt"
@@ -43,7 +43,7 @@
 	 {
       "key": "飞速资源",
       "name": "🎬飞速全网",
-      "type": 1,
+      "type": 3,
       "api": "https://www.feisuzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
@@ -75,7 +75,7 @@
 	 {
       "key": "yikanapi易看资源-伦理",
 	  "name": "🈲易看┃伦理",
-      "type": 1,
+      "type": 3,
       "api": "https://api.yikanapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
@@ -84,7 +84,7 @@
 	 {
       "key": "csp_CandyMuj_dyls-看电影线路",
       "name": "🈲极速┃伦理",
-      "type": 3,
+      "type": 1,
       "api": "csp_CandyMuj_dyls",
       "searchable": 1,
       "quickSearch": 1,
@@ -118,15 +118,7 @@
 {"key": "香奶儿资源站","name": "🔞香奶儿全网","type": 0,"api": "https://www.gdlsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "白嫖资源站","name": "🔞白嫖全网","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "美少女资源站","name": "🔞美少女电信","type": 0,"api": "https://www.msnii.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{
-		"key": "zp124",
-		"name": "🔞色猫资源",
-		"type": 0,
-		"api": "https://api.maozyapi.com/inc/api.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	},
+
  {
 		"key": "zp066",
 		"name": "🔞花椒资源",
@@ -137,14 +129,8 @@
 		"filterable": 0
 	},
 {"key": "富二代资源","name": "🔞直播录像电信","type":0,"api": "http://f2dcj6.com/sapi?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },  
-
 {"key":"奥斯卡资源","name":"🔞奥斯卡电信","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "黄AV资源站","name": "🔞黄AV电信","type": 0,"api": "https://www.pgxdy.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },	
-
 {"key": "155资源","name": "🔞155电信","type": 1,"api": "https://155api.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "滴滴资源1","name": "🔞滴滴1电信","type": 1,"api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "滴滴资源2","name": "🔞滴滴2电信","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key":"雪豹资源","name":"🔞雪豹电信","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 	 {
       "key": "天空资源",
       "name": "🔞天空电信",
@@ -174,15 +160,6 @@
       "quickSearch": 0
     },
 {"key": "爱爱影视","name": "🔞欧美高清电信","type": 1,"api": "http://www.shangaiys.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 }, 
-	 {
-      "key": "色猫",
-      "name": "🔞直播国产电信",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
 {"key": "草榴资源","name": "🔞草榴电信","type": 1,"api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "老鸭资源","name": "🔞老鸭电信","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
     {
@@ -202,6 +179,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+	{
+		"key": "zp124",
+		"name": "🔞色猫资源",
+		"type": 3,
+		"api": "https://api.maozyapi.com/inc/api.php",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0
+	},
+{
+      "key": "色猫",
+      "name": "🔞直播国产电信",
+      "type": 3,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
    {
       "key": "csp_CandyMuj_rou",
