@@ -43,6 +43,7 @@
 	 {
       "key": "飞速资源",
       "name": "🎬飞速全网",
+	  "jar":"./av/ou0723.jar",
       "type": 3,
       "api": "https://www.feisuzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -75,6 +76,7 @@
 	 {
       "key": "yikanapi易看资源-伦理",
 	  "name": "🈲易看┃伦理",
+	  "jar":"./av/ou0723.jar",
       "type": 3,
       "api": "https://api.yikanapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -94,6 +96,7 @@
 	{
       "key": "csp_CandyMuj_haokongbu_一个分享者",
       "name": "🈲好恐怖┃伦理",
+	  "jar":"./av/ou0723.jar",
       "type": 3,
       "api": "csp_CandyMuj_haokongbu",
       "searchable": 1,
@@ -105,6 +108,7 @@
 	  {
       "key": "腐剧视频-欧哥",
       "name": "🈲宅腐┃伦理",
+	  "jar":"./av/ou0723.jar",
       "type": 3,
       "api": "csp_WexFujutv",
       "searchable": 1,
@@ -183,7 +187,7 @@
 	{
 		"key": "zp124",
 		"name": "🔞色猫资源",
-		"type": 3,
+		"type": 1,
 		"api": "https://api.maozyapi.com/inc/api.php",
 		"searchable": 1,
 		"quickSearch": 1,
@@ -192,7 +196,7 @@
 {
       "key": "色猫",
       "name": "🔞直播国产电信",
-      "type": 3,
+      "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 0,
       "quickSearch": 0,
