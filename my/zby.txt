@@ -25,15 +25,11 @@ CNA 新闻.全网,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec9
 凤凰卫视中文台,http://118.114.33.19:4022/udp/239.93.1.9:2192
 凤凰卫视资讯台,http://118.114.33.19:4022/udp/239.93.0.118:2191
 凤凰卫视资讯台,http://118.114.33.19:4022/udp/239.93.1.4:2191
-
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
 
 🔒综合.频道,#genre#
 四屏导视,http://171.80.234.78:8888/udp/239.69.1.170:10656
 九屏导视,http://171.80.234.78:8888/udp/239.69.1.156:10572
-
-
 东方影视,http://101.229.227.246:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0$101.229.227.246
 第一剧场,http://123.189.36.155:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0$123.189.36.155
 第一剧场,http://123.189.36.7:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0$123.189.36.7
