@@ -27,20 +27,6 @@ PLAYBOY FHD,http://15110166167.com:80/241258546/v952z7581m/260418
 PLAYBOY HD,http://15110166167.com:80/241258546/v952z7581m/260419
 Sexy Hot HD,http://15110166167.com:80/241258546/v952z7581m/260420
 
-测试超清.2k,#genre#
-轮播.Eroxxx HD,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
-轮播.Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
-轮播.Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
-轮播.SexArt,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
-点播.花花公子,http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/6242/index.m3u8
-点播.playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-点播.日本高清DV720,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6225/index.m3u8
-点播.一本道正片1,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102015_174-1pon/index.m3u8
-点播.一本道正片2,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101015_169-1pon/index.m3u8
-点播.一本道正片3,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/100615_166-1pon/index.m3u8
-点播.一本道正片4,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-121015_001/index.m3u8
-点播.一本道正片5,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120815_203/index.m3u8
-点播.一本道正片6,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
 欧美轮播.高清,#genre#
 少女,http://cdn.adultiptv.net/teen.m3u8
 三人,http://cdn.adultiptv.net/threesome.m3u8
@@ -134,6 +120,10 @@ iptv04,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5009/index.m3u8
 iptv05,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5012/index.m3u8
 iptv06,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/878/index.m3u8
 欧美直播1.超清,#genre#
+💃Eroxxx HD,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/54982
+💃Brazzers TV Europe,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/62847
+💃Penthouse Quickies,http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
+💃SexArt,http://79060965569m.megogo.xyz/iptv/SQNLRPBE7FFE8V/6253/index.m3u8
 💃MY LIFE IN MIAMI,http://15110166167.com:80/241258546/v952z7581m/260504
 💃BANG BROS NETWORK,http://15110166167.com:80/241258546/v952z7581m/260423
 💃EROTIKVONBENAN-2k,http://15110166167.com:80/241258546/v952z7581m/260447
@@ -370,3 +360,4 @@ Zoom TV,http://178.219.128.68:64889/ZOOMTVHD
 OK TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
 kulturMD TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 25 TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+
