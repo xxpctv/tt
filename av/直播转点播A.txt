@@ -18,7 +18,7 @@
 
 {"name":"🎬国产老片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/国产老片.txt"},
 
-{"name":"🎬日片点播","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日韩点播.txt"},
+{"name":"🎬日韩点播","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日韩点播.txt"},
 
 {"name":"🎬日本女优","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日本女优.txt"}
 
