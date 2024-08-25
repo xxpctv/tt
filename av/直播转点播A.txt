@@ -20,8 +20,6 @@
 
 {"name":"🎬日片点播","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日片点播.txt"},
 
-{"name":"🎬日本剧场","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日本剧场.txt"},
-
 {"name":"🎬日本女优","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日本女优.txt"}
 
 ]
