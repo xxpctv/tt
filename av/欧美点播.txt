@@ -1,4 +1,4 @@
-欧美高清.1移动线路,#genre#
+欧美高清.1,#genre#
 001,https://vod.mycamtv.net/13487.m3u8
 002,https://vod.mycamtv.net/14024.m3u8
 003,https://vod.mycamtv.net/5778.m3u8
@@ -39,7 +39,7 @@
 038,https://vod.mycamtv.net/11792.m3u8
 039,https://vod.mycamtv.net/5752.m3u8
 040,https://vod.mycamtv.net/8923.m3u8
-欧美高清.2移动线路,#genre#
+欧美高清.2,#genre#
 041,https://vod.mycamtv.net/14006.m3u8
 042,https://vod.mycamtv.net/3564.m3u8
 043,https://vod.mycamtv.net/12339.m3u8
@@ -80,7 +80,7 @@
 078,https://vod.mycamtv.net/12359.m3u8
 079,https://vod.mycamtv.net/4805.m3u8
 080,https://vod.mycamtv.net/5826.m3u8
-欧美高清.2移动线路,#genre#
+欧美高清.2,#genre#
 081,https://vod.mycamtv.net/11680.m3u8
 082,https://vod.mycamtv.net/14043.m3u8
 083,https://vod.mycamtv.net/6664.m3u8
@@ -121,7 +121,7 @@
 118,https://vod.mycamtv.net/14799.m3u8
 119,https://vod.mycamtv.net/7774.m3u8
 120,https://vod.mycamtv.net/1924.m3u8
-欧美高清.3移动线路,#genre#
+欧美高清.3,#genre#
 121,https://vod.mycamtv.net/11624.m3u8
 122,https://vod.mycamtv.net/3587.m3u8
 123,https://vod.mycamtv.net/6392.m3u8
@@ -162,7 +162,7 @@
 158,https://vod.mycamtv.net/2431.m3u8
 159,https://vod.mycamtv.net/13478.m3u8
 160,https://vod.mycamtv.net/4605.m3u8
-欧美高清.4移动线路,#genre#
+欧美高清.4,#genre#
 161,https://vod.mycamtv.net/7151.m3u8
 162,https://vod.mycamtv.net/7187.m3u8
 163,https://vod.mycamtv.net/6601.m3u8
@@ -203,7 +203,7 @@
 198,https://vod.mycamtv.net/5311.m3u8
 199,https://vod.mycamtv.net/6350.m3u8
 200,https://vod.mycamtv.net/11766.m3u8
-欧美高清.5移动线路,#genre#
+欧美高清.5,#genre#
 201,https://vod.mycamtv.net/14011.m3u8
 202,https://vod.mycamtv.net/1866.m3u8
 203,https://vod.mycamtv.net/6631.m3u8
@@ -244,7 +244,7 @@
 238,https://vod.mycamtv.net/11638.m3u8
 239,https://vod.mycamtv.net/6653.m3u8
 240,https://vod.mycamtv.net/11260.m3u8
-欧美高清.6移动线路,#genre#
+欧美高清.6,#genre#
 241,https://vod.mycamtv.net/10110.m3u8
 242,https://vod.mycamtv.net/5787.m3u8
 243,https://vod.mycamtv.net/1207.m3u8
@@ -285,7 +285,7 @@
 278,https://vod.mycamtv.net/11719.m3u8
 279,https://vod.mycamtv.net/1289.m3u8
 280,https://vod.mycamtv.net/6680.m3u8
-欧美高清.7移动线路,#genre#
+欧美高清.7,#genre#
 281,https://vod.mycamtv.net/11674.m3u8
 282,https://vod.mycamtv.net/4488.m3u8
 283,https://vod.mycamtv.net/5749.m3u8
@@ -326,7 +326,7 @@
 318,https://vod.mycamtv.net/2644.m3u8
 319,https://vod.mycamtv.net/4171.m3u8
 320,https://vod.mycamtv.net/2874.m3u8
-欧美高清.8移动线路,#genre#
+欧美高清.8,#genre#
 321,https://vod.mycamtv.net/11737.m3u8
 322,https://vod.mycamtv.net/4868.m3u8
 323,https://vod.mycamtv.net/13458.m3u8
@@ -367,7 +367,7 @@
 358,https://vod.mycamtv.net/11125.m3u8
 359,https://vod.mycamtv.net/13435.m3u8
 360,https://vod.mycamtv.net/13411.m3u8
-欧美高清.9移动线路,#genre#
+欧美高清.9,#genre#
 361,https://vod.mycamtv.net/4823.m3u8
 362,https://vod.mycamtv.net/6553.m3u8
 363,https://vod.mycamtv.net/4903.m3u8
@@ -408,7 +408,7 @@
 398,https://vod.mycamtv.net/6549.m3u8
 399,https://vod.mycamtv.net/5409.m3u8
 400,https://vod.mycamtv.net/5288.m3u8
-欧美高清.10移动线路,#genre#
+欧美高清.10,#genre#
 401,https://vod.mycamtv.net/13392.m3u8
 402,https://vod.mycamtv.net/4639.m3u8
 403,https://vod.mycamtv.net/8775.m3u8
@@ -449,7 +449,7 @@
 438,https://vod.mycamtv.net/4773.m3u8
 439,https://vod.mycamtv.net/11801.m3u8
 440,https://vod.mycamtv.net/4856.m3u8
-欧美高清.11移动线路,#genre#
+欧美高清.11,#genre#
 441,https://vod.mycamtv.net/6139.m3u8
 442,https://vod.mycamtv.net/3399.m3u8
 443,https://vod.mycamtv.net/7131.m3u8
@@ -490,7 +490,7 @@
 478,https://vod.mycamtv.net/6545.m3u8
 479,https://vod.mycamtv.net/6596.m3u8
 480,https://vod.mycamtv.net/12355.m3u8
-欧美高清.12移动线路,#genre#
+欧美高清.12,#genre#
 481,https://vod.mycamtv.net/6588.m3u8
 482,https://vod.mycamtv.net/6993.m3u8
 483,https://vod.mycamtv.net/14584.m3u8
@@ -531,14 +531,13 @@
 518,https://vod.mycamtv.net/14596.m3u8
 519,https://vod.mycamtv.net/8304.m3u8
 520,https://vod.mycamtv.net/13390.m3u8
-欧美高清.13移动线路,#genre#
 521,https://vod.mycamtv.net/2809.m3u8
 522,https://vod.mycamtv.net/2134.m3u8
 523,https://vod.mycamtv.net/4726.m3u8
 524,https://vod.mycamtv.net/14471.m3u8
 525,https://vod.mycamtv.net/3027.m3u8
 
-欧美点播-1电信线路,#genre#
+欧美点播-1,#genre#
 Через Черный Ход (2022) ,https://video3.tizam.cc/films/by-the-backdoor-porn-1.mp4
 10MUSUME 011717_01,http://video1.rhsj520.com:8091/nyrm3/tianran/011717_01/1500kb/hls/index.m3u8
 10musume  030118_01 木村涼子,http://video1.rhsj520.com:8091/nyrm3/tianran/030118_01/1500kb/hls/index.m3u8
@@ -555,7 +554,7 @@ MOM Русская рыжая милфа в,http://12156.vod.adultiptv.net/ph574
 Межрасовый Анал 3,https://video2.tizam.cc/files/2523390/interracial_and_anal_3.mp4
 Навязчивые Идеи Моей Жены,https://video3.tizam.cc/films/luxure-les-obsessions-de-ma-femme.mp4
 Девственные Задницы,https://video2.tizam.cc/files/2398820/britanskie_devstvennye_zadnitsy.mp4
-欧美点播-2电信线路,#genre#
+欧美点播-2,#genre#
 按摩室热俄罗斯模特在她的洞裡塞满了硬公鸡,http://21470.vod.redtraffic.xyz/ph55c0b0b5d5b25/play.m3u8
 放荡的印度女学生角色扮演英语,http://1244.vod.adultiptv.net/ph5a6f95aa93ed0/play.m3u8
 继母乱搞继子在婚礼接待夫人Fyre,http://218158.vod.redtraffic.xyz/ph57f997750eaa8/play.m3u8
