@@ -8,14 +8,10 @@
 
 {"name":"🎬欧美点播","url":"https://gitlab.com/jeossi/t/-/raw/main/av/欧美点播.txt"},
 
-{"name":"🎬亚州短片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/亚州短片.txt"},
+{"name":"🎬国产点播","url":"https://gitlab.com/jeossi/t/-/raw/main/av/国产点播.txt"},
 
-{"name":"🎬国产传媒","url":"https://gitlab.com/jeossi/t/-/raw/main/av/国产传媒.txt"},
+{"name":"🎬日韩点播","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日韩点播.txt"},
 
-{"name":"🎬传媒正片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/传媒正片.txt"},
-
-{"name":"🎬国产老片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/国产老片.txt"},
-
-{"name":"🎬日韩点播","url":"https://gitlab.com/jeossi/t/-/raw/main/av/日韩点播.txt"}
+{"name":"🎬国产老片","url":"https://gitlab.com/jeossi/t/-/raw/main/av/国产老片.txt"}
 
 ]
