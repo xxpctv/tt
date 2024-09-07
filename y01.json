@@ -25,7 +25,7 @@
 	
     {
       "key": "公告",
-      "name": "📢公告9.1",
+      "name": "📢公告9.7",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -126,7 +126,18 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./av/alist05155.txt"
+      "ext": "./my/alist.txt"
+    },
+    {
+     "key": "WebDAV",
+     "name": "📀WebDAV",
+     "type": 3,
+     "api": "csp_WebDAV",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 1,
+     "changeable": 0,
+     "ext": "./my/webdav.txt",
     },
     {
       "key": "Aid_feimao",
