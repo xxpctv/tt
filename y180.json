@@ -1,5 +1,5 @@
 {
-  "spider": "./av/ttkx0824.jar",
+  "spider": "./av/ttkx0909.jar",
   "lives": [
     {
       "name": "大师180",
@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "直播转点播",
-      "name": "📡大师私藏8.22",
+      "name": "📡大师私藏9.11",
       "type": 3,
       "api": "./my/直播转点播.js",
       "ext": "./av/直播转点播A.txt"
@@ -41,8 +41,8 @@
       "ext": "./av/alist05155.txt"
     },
 
-{"key":"荐片-开心","name":"🎬荐片秒播","jar": "./my/ttkx0909.jar","type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
-{"key":"文采-开心","name":"🎬文采秒播","jar": "./my/ttkx0909.jar","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"荐片-开心","name":"🎬荐片秒播","type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
+{"key":"文采-开心","name":"🎬文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"大米星球-欧哥","name":"🎬大米星球","jar":"./my/ou8.6.jar","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
  {
       "key": "哔嘀弹幕-欧哥",
@@ -61,6 +61,28 @@
     },
 	
 	{"key":"极速官采","name":"🎬极速全网","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1}, 
+	 {
+      "key": "韩圈-OK",
+      "name": "🎬韩圈App",
+	  "jar": "./my/okjpg0902.jar",
+      "type": 3,
+      "api": "csp_HanXiaoQuan",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+	{
+      "key": "子子影视-开心",
+      "name": "🎬子子影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./my/子子.json"
+    }, 
     {
       "key": "采集_虎牙",
       "name": "🈲虎牙┃伦理",
