@@ -57,14 +57,14 @@
         "site": "https://www.yjys02.com",
         "danmu": true
       },
-      "jar":"./my/dm0903.jar"
+      "jar":"./av/dm0903.jar"
     },
 	
 	{"key":"极速官采","name":"🎬极速全网","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1}, 
 	 {
       "key": "韩圈-OK",
       "name": "🎬韩圈App",
-	  "jar": "./my/okjpg0902.jar",
+	  "jar": "./av/okjpg0902.jar",
       "type": 3,
       "api": "csp_HanXiaoQuan",
       "playerType": 2,
