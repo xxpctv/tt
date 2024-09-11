@@ -16,7 +16,7 @@
       "key": "直播转点播",
       "name": "📡大师私藏9.11",
       "type": 3,
-      "api": "./my/直播转点播.js",
+      "api": "./av/直播转点播.js",
       "ext": "./av/直播转点播A.txt"
     },
     {
@@ -47,7 +47,7 @@
  {
       "key": "哔嘀弹幕-欧哥",
       "name": "🎬哔嘀弹幕",
-	  "jar":"./my/ou8.6.jar",
+	  "jar":"./av/ou8.6.jar",
       "type": 3,
       "api": "csp_Bdys",
       "searchable": 1,
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./my/子子.json"
+      "ext": "./av/子子.json"
     }, 
     {
       "key": "采集_虎牙",
@@ -219,7 +219,7 @@
    {
       "key": "csp_CandyMuj_rou",
       "name": "肉视频┃墙",
-	  "jar":"./my/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
+	  "jar":"./av/candymuj.jar;md5;72b2a734c18f24de9b358e136df61a8c",
       "type": 3,
       "api": "csp_CandyMuj_rou",
       "searchable": 1,
