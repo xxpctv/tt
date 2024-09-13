@@ -21,14 +21,14 @@
       },
 
       {
-        "name": "影视仓V5.0.40.1",
-        "url": "https://i-114.wwentua.com:446/08311100197336691bb/2024/08/26/9246a82e14729ca4ef0a373ca18c2912.apk?st=hT4fMjOTsuOpjn1FYchHig&e=1725076063&b=VeJa5wm4V7pRo1_bPBrIFugTCCAsANAcvBmUIK1dkXmwGegAxVLsFvALfV_bgC0geZBrRbkwOqU7pVugiMACkCYVV3WjE_c&fi=197336691&pid=27-23-199-63&up=2&mp=0&co=0",
+        "name": "影视仓V5.0.42",
+        "url": "https://i-050.wwentua.com:446/09131100199211210bb/2024/09/09/c8756e669709142f9da1a4296822773b.apk?st=TKWl6lZa9QcWleyCMjwd9A&e=1726200022&b=A7QJtAW0VbhZq1SEVuIHuFOVDQ4HMwoiAGMIKwEyADABfQBhVCRVOw_c_c&fi=199211210&pid=27-23-201-86&up=2&mp=0&co=0",
         "icon": " ",
         "version": "TV版"
       },
       {
-        "name": "影视仓v2.0.42.1(短视版)",
-        "url": "https://i-940.wwentua.com:446/08311100197336729bb/2024/08/26/deca0a2cd5ec2809673e1b255d3ac77f.apk?st=7ngdh5EF9JOiAsFy6wPMWw&e=1725075809&b=VuFc4VDhBehSoATUBrJU6wLECrAFjQKPUuQMkV3TXrtUj17WVQoEM1gjUzUCfAExVTINf1dnBu8C7Q_bKBeVew1apXLRQ9wWGUu4E8AbHVL8C6wrfBSoCZVJxDGo_c&fi=197336729&pid=27-23-199-63&up=2&mp=0&co=0",
+        "name": "影视仓v2.0.44(短视版)",
+        "url": "https://i-370.wwentua.com:446/09131100199211223bb/2024/09/09/208608ca45b8823009ace46ba1e0fa74.apk?st=WfkiB6vmfYtyy_TknNZfoQ&e=1726200001&b=UuUJtACxUbwA8gPTALQAvwPFDrRT21HcBrALlgWLA_bZVjgyEBVpZblgjVTMAfgY2AGFc7wO_bC4UFsV_aNXfdftVKnCY8A6VH2AMQDugDsAI0DeA4zUyJRPA_c_c&fi=199211223&pid=27-23-201-86&up=2&mp=0&co=0",
         "icon": " ",
         "version": "手机版"
       },
