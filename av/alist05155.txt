@@ -1,8 +1,0 @@
-{
-  "vodPic": "https://avatars.githubusercontent.com/u/111183856?v=4",
- "drives": [
-{"name":"星梦","server":"https://pan.bashroot.top"}
-
-
-  ]
-}
