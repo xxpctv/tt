@@ -5,13 +5,13 @@
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
+        "icon": "https://raw.gitcode.com/jeo/t/blobs/8deb973b127f68d59dda63e22d808035870e5b36/Aj.png",
         "version": "感谢支持"
       }
     ]
   },
    {
-    "name": "软件更新9.1",
+    "name": "软件更新9.13",
     "list": [
       {
         "name": "应用管家-强推",
@@ -36,7 +36,7 @@
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
+        "icon": "https://raw.gitcode.com/jeo/t/blobs/8deb973b127f68d59dda63e22d808035870e5b36/Aj.png",
         "version": "感谢支持"
       }
     ]
@@ -46,111 +46,99 @@
     "list": [
          
       {
-        "name": "IDM下载器-强推",
-        "url": "",
-        "icon": " ",
-        "version": "v16.1（影视仓必备）"
-      },
-      {
         "name": "一键TOken",
-        "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E4%B8%80%E9%94%AEtk.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/一键TOken.apk",
         "icon": " ",
         "version": "手机版获取阿里和夸克TK"
       },
-	   {
-        "name": "阿里云盘TV4.4.4",
-        "url": "",
-        "icon": " ",
-        "version": "TV文件管理版"
-      },
-      {
+	  {
         "name": "阿里云盘",
-        "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/阿里云盘.apk",
         "icon": " ",
         "version": "手机老板版"
       },
-      {
-        "name": "微信赞助打赏",
-        "url": " ",
-        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
-        "version": "感谢支持"
-      }
-    ]
-  },
-  {
-    "name": "观影必备",
-    "list": [
-      
-     
-      {
-        "name": "影视仓V3 TV版",
-        "url": "https://8043.kstore.space/tvbox/影视仓V3（稳定版）-3.0.32_兼容安卓4.apk?password=d90bd5f8c7f59958fafbaf6bbf29976b-1716037502060",
+	   {
+        "name": "欧歌影视TV版",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌影视.apk",
         "icon": " ",
-        "version": "手机勿下V3.0.32兼容安卓4"
+        "version": "V5.0.39"
+      },
+	   {
+        "name": "欧歌影视V3",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌影视V3.apk",
+        "icon": " ",
+        "version": "v3.0.32(安卓4专用)"
+      },
+	   {
+        "name": "欧歌影视TV版",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌影视.apk",
+        "icon": " ",
+        "version": "V5.0.39"
       },
       {
         "name": "欧歌api接口",
-        "url": "http://w6.nxog.top:81/d/%E7%A7%BB%E7%A7%BB/%E8%BD%AF%E4%BB%B6/%E8%BD%AF%E4%BB%B6%E9%9B%86%E5%90%88/%E6%AC%A7%E6%AD%8Capi_%E6%8E%A5%E5%8F%A3.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌api接口.apk",
         "icon": " ",
         "version": "手机版"
       },
       {
         "name": "欧歌助手",
-        "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E6%AC%A7%E6%AD%8C%E5%8A%A9%E6%89%8B.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/欧歌助手.apk",
         "icon": " ",
         "version": "手机版"
       },
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
+        "icon": "https://raw.gitcode.com/jeo/t/blobs/8deb973b127f68d59dda63e22d808035870e5b36/Aj.png",
         "version": "感谢支持"
       }
     ]
   },
+  
   {
     "name": "常用工具",
     "list": [
       {
         "name": "甲壳虫ADB助手",
-        "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/甲壳虫ADB助手.apk",
         "icon": " ",
         "version": "手机版"
       },
       {
         "name": "八爪鱼遥控TV版",
-        "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%85%AB%E7%88%AA%E9%B1%BC%E9%81%A5%E6%8E%A7TV%E7%89%88.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/八爪鱼遥控TV版.apk",
         "icon": " ",
         "version": "TV版"
       },
       {
         "name": "八爪鱼遥控手机版",
-        "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%85%AB%E7%88%AA%E9%B1%BC%E9%81%A5%E6%8E%A7%E6%89%8B%E6%9C%BA%E7%89%88.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/八爪鱼遥控手机版.apk",
         "icon": " ",
         "version": "手机版"
       },
       {
         "name": "当贝桌面",
-        "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/当贝桌面.apk",
         "icon": " ",
         "version": "TV版"
       },
       {
         "name": "小白文件管理器TV版",
-        "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8TV%E7%89%88.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/小白文件管理器TV版.apk",
         "icon": " ",
         "version": "TV版"
       },
       {
         "name": "小米电视助手",
-        "url": "http://w6.nxog.top:81/d/%E6%AC%A7%E6%AC%A7/%E6%AD%8C%E6%AD%8C/%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86%E5%8A%A9%E6%89%8B.apk",
+        "url": "http://wb.nxog.top:5244/d/移/软件/软件集合/小米电视助手.apk",
         "icon": " ",
         "version": "手机版版"
       },
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://codeberg.org/aje/t/raw/branch/main/sc/Aj.png",
+        "icon": "https://raw.gitcode.com/jeo/t/blobs/8deb973b127f68d59dda63e22d808035870e5b36/Aj.png",
         "version": "感谢支持"
       }
     ]
