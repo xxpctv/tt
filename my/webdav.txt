@@ -3,8 +3,8 @@
      {
       "name": "星梦",
       "server": "https://pan.bashroot.top/",
-      "user": "alist",
-      "pass": "alist"
+      "user": "guest",
+      "pass": "guest"
     },
    {
       "name": "小雅",
