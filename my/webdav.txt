@@ -2,9 +2,9 @@
   "drives": [
      {
       "name": "星梦",
-      "server": "https://pan.bashroot.top",
-      "user": " ",
-      "pass": " "
+      "server": "https://pan.bashroot.top/",
+      "user": "",
+      "pass": ""
     },
    {
       "name": "小雅",
