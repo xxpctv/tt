@@ -22,7 +22,7 @@
         "api": "./my/直播转点播.js",
         "ext": "./my/直播转点播.txt"
       },
-      {"key":"线路名称","name":"源Code-01","type":3,"api":"","searchable":0},
+      {"key":"线路名称","name":"源Getlet-01","type":3,"api":"","searchable":0},
       {
         "key": "公告",
         "name": "📢公告9.14",
