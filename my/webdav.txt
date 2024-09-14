@@ -1,6 +1,12 @@
 {
   "drives": [
      {
+      "name": "星梦",
+      "server": "https://pan.bashroot.top",
+      "user": " ",
+      "pass": " "
+    },
+   {
       "name": "小雅",
       "server": "https://alist.xiaoya.pro/",
       "user": "guest",
