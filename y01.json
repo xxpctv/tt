@@ -50,6 +50,14 @@
       "changeable": 0,
       "ext": "./sc/bofang.php"
     },
+	 {
+      "key": "豆瓣_欧歌",
+      "name": "🎬豆瓣热播",
+      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
     {
       "key": "应用商店",
       "name": "🛒大师小店",
@@ -59,14 +67,6 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "./sc/sd.php"
-    },
-    {
-      "key": "豆瓣_欧歌",
-      "name": "🎬豆瓣热播",
-      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
     },
     {
       "key": "csp_KungFu404-老刘备",
@@ -97,22 +97,7 @@
     },
 	{"key":"我的夸克","name":"📂我的夸克","type":3,"api":"csp_MyQuark","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"style":{"type":"list"},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
     {"key":"我的UC","name":"📂我的UC","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},"style":{"type":"list"},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
-
-    {
-      "key": "配置中心-PG",
-      "name": "🔧PG配置",
-      "jar": "./gy/pg20240410-1731.jar;md5;A89835B42BB9752BCDF20C61F3CE06DD",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "http://127.0.0.1:9978/file/TV/token.json"
-    },
-	 {"key":"配置中心","name":"🐲配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
+	{"key":"配置中心","name":"🔧配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
     {
       "key": "Local",
       "name": "📂本地播放",
