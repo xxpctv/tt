@@ -154,16 +154,7 @@
       "filterable": 1,
       "ext": "./my/中医药区.json"
     },
-	 {
-      "key": "新6V-摸鱼儿",
-      "name": "🎬6V磁力",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "searchable": 1,
-      "changeable": 0,
-      "timeout": 10
-    },
+	 
    
 	  {
       "key": "瓜子_南风3条",
@@ -312,7 +303,16 @@
     },
    
 	{"key":"一起看弹幕-欧哥","name":"🎬一起弹幕","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./my/dm0903.jar"},
-   
+   {
+      "key": "新6V-摸鱼儿",
+      "name": "🎬6V磁力",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "searchable": 1,
+      "changeable": 0,
+      "timeout": 10
+    },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🎬爱奇艺",
