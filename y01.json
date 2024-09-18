@@ -24,7 +24,7 @@
     },
 	  {
       "key": "豆瓣1",
-      "name": "当前源_C01",
+      "name": "当前源_G01",
       "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
       "type": 3,
       "api": "csp_Douban",
@@ -32,7 +32,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告9.14",
+      "name": "📢公告9.18",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -154,17 +154,17 @@
       "filterable": 1,
       "ext": "./my/中医药区.json"
     },
-    {
-      "key": "醉挽清风",
-      "name": "🎬清风4K",
+	 {
+      "key": "新6V-摸鱼儿",
+      "name": "🎬6V磁力",
       "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "api": "csp_Xb6v",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
+      "changeable": 0,
+      "timeout": 10
     },
+   
 	  {
       "key": "瓜子_南风3条",
       "name": "🎬瓜子影视",
