@@ -10,6 +10,69 @@
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "聚合源",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/Live.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "订阅源",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "酒店源",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "群组源",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },	
+	 {
+      "name": "虎牙",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/huya.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "斗鱼",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/douyu.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "YY",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/yy.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "warningText": "Ajeossi接口维护，追剧无忧！",
@@ -32,7 +95,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告9.18",
+      "name": "📢公告9.20",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
