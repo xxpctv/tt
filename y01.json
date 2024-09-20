@@ -5,7 +5,7 @@
     {
       "name": "大师电视",
       "type": 0,
-      "url": "./my/zby.txt",
+      "url": "https://gitlab.com/jeossi/t/-/raw/main/my/zby.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -129,7 +129,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./sc/sd.php"
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/sc/sd.php"
     },
     {
       "key": "csp_KungFu404-老刘备",
