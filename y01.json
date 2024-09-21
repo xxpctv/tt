@@ -11,9 +11,17 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	
 	 {
-      "name": "订阅电视",
+      "name": "订阅源.1",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv4.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "订阅源.2",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
       "playerType": 1,
@@ -78,7 +86,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告9.20",
+      "name": "📢公告9.21",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
