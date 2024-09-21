@@ -15,11 +15,28 @@
     "list": [
       {
         "name": "应用管家v1.4.3",
-        "url": "https://raw.gitcode.com/jeo/t/blobs/4f098b9a4406c252f4789be28e17c4fd011d3f7a/应用管家v1.4.3_1433_.apk",
+        "url": "https://lz.ly93.cc/829/193483244/应用管家v1.4.3(1433).apk",
         "icon": " ",
         "version": "含网盘资源"
       },
-     
+     {
+        "name": "影视仓_5.0.42",
+        "url": "https://lz.ly93.cc/829/199216253/影视仓_5.0.42.apk",
+        "icon": " ",
+        "version": "TV版"
+      },
+	  {
+        "name": "影视仓_2.0.44（短视频）",
+        "url": "https://lz.ly93.cc/829/199216312/影视仓手吉版_2.0.44（短视频）.apk",
+        "icon": " ",
+        "version": "手机版"
+      },
+	  {
+        "name": "IDM+下载器12.3",
+        "url": "https://lz.ly93.cc/829/199990433/IDM+下载器12.3.apk",
+        "icon": " ",
+        "version": "安卓版"
+      },
       {
         "name": "微信赞助打赏",
         "url": " ",
