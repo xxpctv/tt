@@ -14,8 +14,6 @@
 
 {"name":"🎦老影视","url":"https://gitlab.com/jeossi/t/-/raw/main/my/老电影.txt"},
 
-{"name":"🎦历年春晚","url":"https://gitlab.com/jeossi/t/-/raw/main/my/历年春晚.txt"},
-
-{"name":"👶少儿动漫","url":"https://gitlab.com/jeossi/t/-/raw/main/my/少儿动漫.txt"}
+{"name":"🎦历年春晚","url":"https://gitlab.com/jeossi/t/-/raw/main/my/历年春晚.txt"}
 
 ]
