@@ -3,7 +3,7 @@
   
   "lives": [
     {
-      "name": "大师电视",
+      "name": "大师源",
       "type": 0,
       "url": "https://gitlab.com/jeossi/t/-/raw/main/my/zby.txt",
       "playerType": 1,
@@ -86,7 +86,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告9.21",
+      "name": "📢公告9.22",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
