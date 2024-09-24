@@ -82,8 +82,8 @@
       "api": "csp_Notice",
       "searchable": 0,
       "changeable": 0,
-      "jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
-      "ext": "./my/公告.json"
+      "jar":"https://gitlab.com/jeossi/t/-/raw/main/my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/公告.json"
     },
     {
       "key": "常见问题",
@@ -93,7 +93,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "./sc/bofang.php"
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/sc/bofang.php"
     },
 	 {
       "key": "豆瓣_欧歌",
@@ -163,7 +163,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./my/alist.txt"
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/alist.txt"
     },
     {
      "key": "WebDAV",
@@ -174,7 +174,7 @@
      "quickSearch": 0,
      "filterable": 1,
      "changeable": 0,
-     "ext": "./my/webdav.txt"
+     "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/webdav.txt"
     },
     {
       "key": "Aid_feimao",
