@@ -64,8 +64,8 @@
       "key": "直播转点播1_yun",
       "name": "🔐大师私藏",
       "type": 3,
-      "api": "./my/直播转点播.js",
-      "ext": "./my/直播转点播.txt"
+      "api": "https://gitlab.com/jeossi/t/-/raw/main/my/直播转点播.js",
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/直播转点播.txt"
     },
 	  {
       "key": "豆瓣1",
