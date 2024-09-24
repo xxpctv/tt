@@ -29,15 +29,6 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	 {
-      "name": "酒店源",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/hotel/全国.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
 	{
       "name": "群组源",
       "type": 0,
@@ -86,7 +77,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告9.22",
+      "name": "📢公告9.24",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
