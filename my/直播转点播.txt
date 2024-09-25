@@ -1,19 +1,19 @@
 [
 
-{"name":"📻全球.广播","url":"./my/电台之声.txt"},
+{"name":"📻全球.广播","url":"https://codeberg.org/aje/t/raw/branch/main/my/电台之声.txt"},
 
-{"name":"🔒私藏.音乐","url":"./my/个人私藏MV.txt"},
+{"name":"🔒私藏.音乐","url":"https://codeberg.org/aje/t/raw/branch/main/my/个人私藏MV.txt"},
 
-{"name":"🔒私藏.电影","url":"./my/私藏电影.txt"},
+{"name":"🔒私藏.电影","url":"https://codeberg.org/aje/t/raw/branch/main/my/私藏电影.txt"},
 
-{"name":"🔒私藏.综合","url":"./my/私藏综合.txt"},
+{"name":"🔒私藏.综合","url":"https://codeberg.org/aje/t/raw/branch/main/my/私藏综合.txt"},
 
-{"name":"📡电视.直播","url":"./my/zby.txt"},
+{"name":"📡电视.直播","url":"https://codeberg.org/aje/t/raw/branch/main/my/zby.txt"},
 
-{"name":"🇨🇳航拍中国","url":"./my/航拍中国.txt"},
+{"name":"🇨🇳航拍中国","url":"https://codeberg.org/aje/t/raw/branch/main/my/航拍中国.txt"},
 
-{"name":"🎦老影视","url":"./my/老电影.txt"},
+{"name":"🎦老影视","url":"https://codeberg.org/aje/t/raw/branch/main/my/老电影.txt"},
 
-{"name":"🎦历年春晚","url":"./my/历年春晚.txt"}
+{"name":"🎦历年春晚","url":"https://codeberg.org/aje/t/raw/branch/main/my/历年春晚.txt"}
 
 ]
