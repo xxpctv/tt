@@ -15,7 +15,7 @@
     "list": [
       {
         "name": "应用管家v1.4.3",
-        "url": "https://lz.ly93.cc/829/193483244/应用管家v1.4.3(1433).apk",
+        "url": "https://codeberg.org/aje/t/raw/branch/main/app/应用管家v1.4.3_1433_.apk",
         "icon": " ",
         "version": "含网盘资源"
       },
