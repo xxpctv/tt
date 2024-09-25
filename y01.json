@@ -29,6 +29,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+	
 	{
       "name": "群组源",
       "type": 0,
@@ -64,12 +65,12 @@
       "key": "直播转点播1_yun",
       "name": "🔐大师私藏",
       "type": 3,
-      "api": "https://gitlab.com/jeossi/t/-/raw/main/my/直播转点播.js",
-      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/直播转点播.txt"
+      "api": "./my/直播转点播.js",
+      "ext": "./my/直播转点播.txt"
     },
 	  {
       "key": "豆瓣1",
-      "name": "当前源_G01",
+      "name": "当前源_K01",
       "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
       "type": 3,
       "api": "csp_Douban",
@@ -77,13 +78,13 @@
     },
     {
       "key": "公告",
-      "name": "📢公告9.24",
+      "name": "📢公告9.25",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
       "changeable": 0,
-      "jar":"https://gitlab.com/jeossi/t/-/raw/main/my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
-      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/公告.json"
+      "jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
+      "ext": "./my/公告.json"
     },
     {
       "key": "常见问题",
@@ -93,7 +94,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/jeossi/t/-/raw/main/sc/bofang.php"
+      "ext": "./sc/bofang.php"
     },
 	 {
       "key": "豆瓣_欧歌",
@@ -111,7 +112,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/jeossi/t/-/raw/main/sc/sd.php"
+      "ext": "./sc/sd.php"
     },
     {
       "key": "csp_KungFu404-老刘备",
@@ -163,7 +164,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/alist.txt"
+      "ext": "./my/alist.txt"
     },
     {
      "key": "WebDAV",
@@ -174,7 +175,7 @@
      "quickSearch": 0,
      "filterable": 1,
      "changeable": 0,
-     "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/webdav.txt"
+     "ext": "./my/webdav.txt"
     },
     {
       "key": "Aid_feimao",
