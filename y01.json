@@ -5,53 +5,25 @@
     {
       "name": "大师源",
       "type": 0,
-      "url": "./my/zby.txt",
+      "url": "https://gitlab.com/jeossi/t/-/raw/main/my/zby.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	 {
-      "name": "订阅源.1",
+      "name": "订阅源",
       "type": 0,
       "url": "https://live.zbds.top/tv/iptv4.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	 {
-      "name": "订阅源.2",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	
+    },	
 	{
       "name": "群组源",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	{
-      "name": "IPV4源",
-      "type": 0,
-      "url": "https://live.kakaxi-1.ink/iptv.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	{
-      "name": "聚合源",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/Live.m3u",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -78,7 +50,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告9.25",
+      "name": "📢公告9.26",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -243,7 +215,6 @@
 {"key":"荐片-开心","name":"🎬荐片秒播","type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
 {"key":"文采-开心","name":"🎬文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"荐片-欧哥","name":"🎬荐片影视","jar":"./my/ou8.6.jar","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
-{"key":"大米星球-欧哥","name":"🎬大米星球","jar":"./my/ou8.6.jar","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
     {
       "key": "厂长-OK",
       "name": "🎬厂长直连",
@@ -687,6 +658,7 @@
       "searchable": 1,
       "changeable": 1
     },
+	{"key":"大米星球-欧哥","name":"🎬大米星球","jar":"./my/ou8.6.jar","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 	 {
       "key": "短剧",
       "name": "🎦吾爱短剧",
