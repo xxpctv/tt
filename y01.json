@@ -42,7 +42,7 @@
     },
 	  {
       "key": "豆瓣1",
-      "name": "当前源_G01",
+      "name": "当前源_k01",
       "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
       "type": 3,
       "api": "csp_Douban",
@@ -50,7 +50,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告9.26",
+      "name": "📢公告9.27",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
