@@ -21,7 +21,7 @@
       },
       {
         "name": "微信赞助打赏",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
+        "url": "",
         "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
         "version": "感谢支持！"
       }
@@ -56,7 +56,7 @@
       },
       {
         "name": "微信赞助打赏",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
+        "url": "",
         "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
         "version": "感谢支持！"
       }
@@ -79,7 +79,7 @@
       },
       {
         "name": "微信赞助打赏",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
+        "url": "",
         "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
         "version": "感谢支持！"
       }
