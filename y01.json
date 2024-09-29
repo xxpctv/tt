@@ -12,6 +12,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	 {
+      "name": "野火直播",
+      "type": 0,
+      "url": "./my/野火直播.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },	
+	 {
       "name": "订阅源",
       "type": 0,
       "url": "https://live.zbds.top/tv/iptv4.txt",
