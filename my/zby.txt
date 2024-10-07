@@ -356,6 +356,7 @@ CCTV11-戏曲,http://58.19.38.162:9901/tsfile/live/1010_1.m3u8?key=txiptv&playli
 CCTV12-社会与法,http://58.19.38.162:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 CCTV13-新闻,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 CCTV14-少儿,http://58.19.38.162:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+CCTV15-音乐,http://58.19.38.162:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 CCTV5+体育赛事,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 湖北卫视,http://58.19.38.162:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 湖南卫视,http://58.19.38.162:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
@@ -382,7 +383,7 @@ CHC家庭电影,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&play
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 
-A16,http://58.19.38.162:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+
 CCTV5+体育赛事,http://223.151.49.74:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0$223.151.49.74
 CCTV6-电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$mobilelive-ds.ysp
 CCTV8-电视剧,http://223.151.49.74:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$223.151.49.74
@@ -723,15 +724,8 @@ CCTV-台球,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226
 📡体育.休闲,#genre#
 巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
 TVB奥运开幕式,https://c1.rrcdnbf3.com/video/2024niandi33jiebaliaoyunhuikaimushi/HD/index.m3u8
-CCTV-台球,http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8
-
 安徽综艺体育.电信,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-劲爆体育,http://117.161.12.124/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-五星体育,http://117.161.12.124/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 RedBull TV.体育,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-IPTV体育,http://118.248.170.67:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 
 🔒抖音.电台,#genre#
 电台轮播4,http://159.75.85.63:35455/douyin/800454615746
