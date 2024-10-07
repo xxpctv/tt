@@ -272,7 +272,6 @@ Wiz Khalifa+Charlie Puth-See You Again,http://em.21dtv.com/songs/60109907.mkv
 
 🔒新闻.财经,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-半岛新闻.英文.全网,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 半岛新闻.阿拉伯.移动,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 TVBS新闻.电信,http://61.221.215.25:8800/hls/9/index.m3u8$61.221.215.25
 TVBS新闻.电信,http://livetv.skycf.eu.org/live.m3u8$livetv.skycf.eu
@@ -289,8 +288,6 @@ CNA 新闻.全网,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec9
 
 🔒综合.频道,#genre#
 
-凤凰卫视中文台,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
-凤凰卫视资讯台,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
 CGTN英语,http://223.151.49.74:59901/tsfile/live/0016_1.m3u8$223.151.49.74
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
@@ -345,7 +342,45 @@ US WOW TV.电信,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 金砖英文.移动,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
 📡央视.电信,#genre#
-
+Unknown_1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_2,http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_3,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_6,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_7,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_8,http://58.19.38.162:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_9,http://58.19.38.162:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_10,http://58.19.38.162:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_11,http://58.19.38.162:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_12,http://58.19.38.162:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_13,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_14,http://58.19.38.162:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_15,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_16,http://58.19.38.162:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_17,http://58.19.38.162:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_18,http://58.19.38.162:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_19,http://58.19.38.162:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_20,http://58.19.38.162:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_21,http://58.19.38.162:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_22,http://58.19.38.162:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_23,http://58.19.38.162:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_24,http://58.19.38.162:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_25,http://58.19.38.162:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_26,http://58.19.38.162:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_27,http://58.19.38.162:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_28,http://58.19.38.162:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_29,http://58.19.38.162:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_30,http://58.19.38.162:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_31,http://58.19.38.162:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_32,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_33,http://58.19.38.162:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_34,http://58.19.38.162:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_35,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_36,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_37,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_38,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+Unknown_39,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 
 CCTV5+体育赛事,http://223.151.49.74:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0$223.151.49.74
 CCTV6-电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$mobilelive-ds.ysp
@@ -354,24 +389,9 @@ CCTV13-新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv&play
 
 
 📡超清.电信,#genre#
-欢笑剧场4K,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000?$盐成电信组播
-百事通4K电影,http://www.17888.fun:10000//udp/239.45.3.107:5140?$上海电信备线3
-百事通4K纪实,http://www.17888.fun:10000//rtp/239.45.1.10:5140?$上海电信备线3
-百事通4K儿童,http://www.17888.fun:10000//rtp/239.45.1.1:5140?$上海电信备线3
-华数4K,http://61.52.156.120:808/hls/66/index.m3u8$河南郑州联通
 
-欢笑剧场4K,http://111.165.222.109:8000/udp/225.1.1.139:5002
-欢笑剧场4K,http://120.6.7.194:4022/rtp/239.253.93.223:6401
-CCTV-4k,http://171.80.234.78:8888/udp/239.69.1.111:10304
-CCTV16-4K,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
-4K影视,http://111.165.222.109:8000/udp/225.1.2.190:5002
-4K私享家,http://111.165.222.109:8000/udp/225.1.1.156:5002
 河南卫视4K,http://115.60.241.249:2000/udp/225.1.4.254:1300
-爱上-4k,http://115.60.241.249:2000/udp/225.1.4.162:1204
 
-奥林匹克-4K,http://220.175.144.178:9000/udp/239.252.220.237:5140
-百视通台-4K,http://220.175.144.178:9000/udp/239.252.220.236:5140
-电影测试-4K,http://220.175.144.178:9000/udp/239.252.220.212:5140
 📡卫视.高清,#genre#
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
