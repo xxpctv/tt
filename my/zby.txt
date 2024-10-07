@@ -345,18 +345,6 @@ US WOW TV.电信,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 金砖英文.移动,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
 📡央视.电信,#genre#
-13,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8$ali-m-l.cztv.com
-14,https://ali-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8$ali-m-l.cztv.com
-15,https://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8$ali-m-l.cztv.com
-16,https://ali-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8$ali-m-l.cztv.com
-17,https://ali-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8$ali-m-l.cztv.com
-18,https://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8$ali-m-l.cztv.com
-19,https://ali-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8$ali-m-l.cztv.com
-20,https://ali-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8$ali-m-l.cztv.com
-21,https://ali-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8$ali-m-l.cztv.com
-22,https://ali-m-l.cztv.com/channels/lantian/channel19/1080p.m3u8$ali-m-l.cztv.com
-23,https://ali-m-l.cztv.com/channels/lantian/channel20/1080p.m3u8$ali-m-l.cztv.com
-24,https://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$ali-m-l.cztv.com
 
 
 CCTV5+体育赛事,http://223.151.49.74:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0$223.151.49.74
@@ -392,7 +380,6 @@ CCTV16-4K,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$ali-m-l.cztv.com
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$ali-m-l.cztv.com
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$ali-m-l.cztv.com
-浙江教科5,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8$ali-m-l.cztv.com
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$ali-m-l.cztv.com
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$ali-m-l.cztv.com
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$ali-m-l.cztv.com
@@ -409,19 +396,13 @@ CCTV16-4K,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
 内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 
-
-
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8$mobilelive-ds
-宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8$hls.ningxiahuangheyun
-深圳卫视,http://124.205.11.239:91/live/SZWShd-8M/live.m3u8$124.205.11.239
-黑龙江卫视,http://124.205.11.239:91/live/HLJWShd-8M/live.m3u8$124.205.11.239
-天津卫视,http://223.151.51.74:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$223.151.51.74
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$liveout.btzx.com
 东莞生活,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 东莞新闻,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-
 黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
 潞城新闻综合,http://59.48.42.6:62204/lucheng.m3u8?zshanxd
+
 📡央视移动.可回看,#genre#
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
