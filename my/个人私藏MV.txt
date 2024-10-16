@@ -1,3 +1,69 @@
+
+🎵音乐频道,#genre#
+MV点歌台,http://maomao.kandiantv.cn/douyu1.php?id=3870925
+阿七点歌台,http://maomao.kandiantv.cn/douyu1.php?id=3186217
+热舞韩团,http://maomao.kandiantv.cn/douyu1.php?id=329667
+热舞女团,http://maomao.kandiantv.cn/douyu1.php?id=11327316
+中文流行,http://cpop.bigbradio.net/s 
+韩语流行,http://kpop.bigbradio.net/s 
+日语流行,http://jpop.bigbradio.net/s 
+亚洲流行 ,http://apop.bigbradio.net/s 
+Spotify音乐,http://61.221.215.25:8800/hls/58/index.m3u8
+音乐石榴,http://159.75.85.63:35455/huya/17091681
+音乐速递,http://159.75.85.63:35455/huya/19439762
+亚洲之声FM,http://asiafm.hk:8000/asiahd
+CNR经典FM,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+时空音乐FM,http://live.cooltv.top/tv/ytradio.php?id=524
+经典音乐FM,http://live.cooltv.top/tv/ytradio.php?id=703
+汽车音乐FM,http://live.cooltv.top/tv/ytradio.php?id=471
+芒果音乐FM,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+BC音乐FM,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+🎧早柚电台,#genre#
+祝您观看愉快,https://sns-video-bd.xhscdn.com/stream/110/258/01e6f387f1a4c5d60103700192274c335f_258.mp4
+未来へ,https://sns-video-hw.xhscdn.com/stream/110/258/01e6ffcda5a5583f0103760192573f07e6_258.mp4
+明天你好,https://sns-video-bd.xhscdn.com/stream/110/258/01e6e3c6b19d3d140103760191e9c3e442_258.mp4
+云烟成雨,https://sns-video-hw.xhscdn.com/stream/110/258/01e6e29dcb6e2e160103760191e53beeb2_258.mp4
+是想你的声音,https://sns-video-bd.xhscdn.com/stream/110/258/01e6e01a417ff2f70103760191db6824e4_258.mp4
+会开花的云,https://sns-video-bd.xhscdn.com/stream/110/258/01e6b8390940a4e601037001913fa1ad21_258.mp4
+love 119,https://sns-video-bd.xhscdn.com/stream/110/258/01e6a8b67b9c62ad0103700191030bcf75_258.mp4
+Price Tag,https://sns-video-al.xhscdn.com/stream/110/259/01e69784bf51a5900103760390bfe09587_259.mp4
+walk away,https://sns-video-bd.xhscdn.com/stream/110/259/01e6972d9e2c8d710103760390be9154aa_259.mp4
+晚风遇见你,https://sns-video-al.xhscdn.com/stream/110/258/01e6922b812c81a80103700190aafc5e1a_258.mp4
+花开忘忧,https://sns-video-bd.xhscdn.com/stream/110/259/01e690b6982c9c560103760390a54fdec3_259.mp4
+等你归来,https://sns-video-al.xhscdn.com/stream/110/259/01e68e5ddf77746c01037603909c218363_259.mp4
+小美满,https://sns-video-al.xhscdn.com/stream/110/259/01e6852f7391d83a010376039078440a96_259.mp4
+DJ不太热,https://sns-video-al.xhscdn.com/stream/110/259/01e685301f92022701037603907845a499_259.mp4
+目及皆是你,https://sns-video-al.xhscdn.com/stream/110/259/01e685307991e68f01037003907848ad75_259.mp4
+晴雨天,https://sns-video-al.xhscdn.com/stream/110/259/01e68530c591cde00103760390784ce347_259.mp4
+da da da,https://sns-video-al.xhscdn.com/stream/110/259/01e68530f273f6a30103700390784862b2_259.mp4
+恋爱循环,https://sns-video-al.xhscdn.com/stream/110/259/01e685298592173d0103760390782bb8e0_259.mp4
+勇气大爆发,https://sns-video-al.xhscdn.com/stream/110/259/01e68528d6923b320103700390783ce770_259.mp4
+你呀你呀,https://sns-video-al.xhscdn.com/stream/110/259/01e68531237749ed010370039078491f1c_259.mp4
+当真,https://sns-video-al.xhscdn.com/stream/110/259/01e68531fc9229e90103760390784be0df_259.mp4
+奔赴星空,https://sns-video-al.xhscdn.com/stream/110/259/01e68532379203ee0103760390784cd61a_259.mp4
+我不曾忘记,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea7b1922bd801037003905ebfe449_259.mp4
+去有风的地方,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea4a973dc0a01037603905eb56068_259.mp4
+可能,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea6ae91ea4e01037003905ebcbee3_259.mp4
+忍者,https://sns-video-hw.xhscdn.com/stream/110/259/01e67ea42a73c93101037603905eb6a42e_259.mp4
+本草纲目,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea38e73edeb01037603905eb13826_259.mp4
+别让我担心,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea7d8519e0201037603905ec0d58f_259.mp4
+I wanted you,https://sns-video-al.xhscdn.com/stream/110/259/01e6852d0e91ee6e01037003907838e0ba_259.mp4
+门的另一端合唱,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea2e99205e701037603905eaef255_259.mp4
+门的另一端,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea81f92306d01037603905ec17092_259.mp4
+春节序曲,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea78651906801037703905ebf462a_259.mp4
+不喜欢早柚该罚,https://sns-video-al.xhscdn.com/stream/110/259/01e6852efb73f076010370039078417c4a_259.mp4
+冬眠,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea713920a8a01037003905ebd3e61_259.mp4
+亲爱的你呀,https://sns-video-al.xhscdn.com/stream/110/259/01e67d461991e5fa0103760390595c3b27_259.mp4
+胡桃,https://sns-video-al.xhscdn.com/stream/110/259/01e672a0a42a649501037603902fc56a43_259.mp4
+柯莱,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea16e923aef01037603905ea82257_259.mp4
+way back home,https://sns-video-al.xhscdn.com/stream/110/259/01e6724b372a55cb01037603902e7c6fd4_259.mp4
+身骑白马,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea6ef51b46d01037603905ebd65a3_259.mp4
+漠河舞厅,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea65a73c0c601037003905ebc0ed0_259.mp4
+see you again,https://sns-video-bd.xhscdn.com/stream/110/258/01e67ea60f73f5b601037001905eb9b24b_258.mp4
+干物妹,https://sns-video-al.xhscdn.com/stream/110/258/01e67ea5bb776c2501037001905eb80603_258.mp4
+Señorita,https://sns-video-al.xhscdn.com/stream/110/259/01e67ea56c9221ed01037603905eb6f138_259.mp4
+一样的月光,https://sns-video-bd.xhscdn.com/stream/110/258/01e6f387f1a4c5d60103700192274c335f_258.mp4
+山茶花读不懂白玫瑰,https://sns-video-bd.xhscdn.com/stream/110/258/01e6f387f1a4c5d60103700192274c335f_258.mp4
 📺精选韩团热舞,#genre#
 IVE《I AM》, https://vd3.bdstatic.com/mda-pd9e7myhuk58r4m6/1080p/cae_h264/1681121830698391422/mda-pd9e7myhuk58r4m6.mp4
 IVE《Baddie》,https://vd3.bdstatic.com/mda-pjjkzqqpa3anfeha/1080p/cae_h264/1697868029319027296/mda-pjjkzqqpa3anfeha.mp4
