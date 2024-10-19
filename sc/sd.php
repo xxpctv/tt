@@ -27,7 +27,7 @@
       },
 	  {
         "name": "影视仓手机_2.0.47",
-        "url": "https://www.gitlink.org.cn/api/ajeo/c1/raw/影视仓手机版_2.0.47（短视频）.apk?ref=main",
+        "url": "https://www.gitlink.org.cn/api/ajeo/c1/raw/影视仓手机版_2.0.47_短视频_.apk?ref=main",
         "icon": " ",
         "version": "手机版"
       },
