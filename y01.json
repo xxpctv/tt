@@ -21,9 +21,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },	
 	{
-      "name": "群组源",
+      "name": "群恒星源",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt",
+      "url": "http://yuhuahx.com/dsj66.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -42,7 +42,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告10.15",
+      "name": "📢公告10.19",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -207,7 +207,9 @@
 {"key":"荐片-开心","name":"🎬荐片秒播","type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
 {"key":"文采-开心","name":"🎬文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"荐片-欧哥","name":"🎬荐片影视","jar":"./my/ou8.6.jar","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
-   
+{"key":"85K","name":"🎬巴乌影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"影片年代":"<divclass=\"module-info-tag\">&&</div>","影片状态":"备注：&&</div>","影片类型":"module-info-tag\">&&立即播放","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>共]+集","嗅探词":".m3u8?#c1.rrcdnbf3.com#.m3u8#.mp4","跳转解析":"默认$https://cdn.zyc888.top/?url=","分类url":"https://85k.icu/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#动漫$4#综艺$3#短剧$47#纪录片$29"}},
+
+  
     {
       "key": "快看影视-开心",
       "name": "🎬快看影视",
