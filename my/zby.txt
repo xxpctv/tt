@@ -1,4 +1,4 @@
-⛄10.18老歌欣赏,#genre#
+⛄10.19音乐欣赏,#genre#
 MV1,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 MV2,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
 韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4 
@@ -391,19 +391,25 @@ CNA 新闻.全网,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec9
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mtw.so/5NPX0U
 
-凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv
-凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
+凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$php.jdshipin
+凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$php.jdshipin
+凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$php.jdshipin
+凤凰中文频道,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv$ali.hlspull
+凤凰资讯频道,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv$ali.hlspull
+凤凰中文频道,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8$58.144.154.93
+凤凰资讯频道,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8$58.144.154.93
+凤凰香港频道,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8$58.144.154.93
+凤凰中文频道,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$58.144.154.93
+TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
+三立新闻,http://211.72.65.236:8543/.m3u8
 莲花卫视,http://php.jdshipin.com:8880/amlh.php
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 鳳凰资讯频道,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰卫视资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰卫视资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰卫视中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰卫视资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8$playtv-live
+凤凰卫视资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$playtv-live
+凤凰卫视中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$playtv-live
+凤凰卫视中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$playtv-live
 星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰中文频道,http://182.104.192.98:8180/TV00000000000000000008@HHZT
@@ -440,28 +446,6 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
-
-科幻Fans轮播,http://cfss.cc/cdn/dyu/3508304.m3u8
-科幻解说轮播,http://cfss.cc/cdn/dyu/9338839.m3u8
-科幻梦工场播,http://159.75.85.63:35455/huya/15152155
-科幻梦工场播,http://cfss.cc/cdn/hy/15152155.m3u8
-笑声传奇轮播,http://mitv.ts138.top/yy/1382736880
-笑傲帮集轮播,http://mitv.ts138.top/yy/1382735555
-笑傲江湖一季,http://mitv.ts138.top/yy/1382749896
-笑傲江湖二季,http://mitv.ts138.top/yy/1382736914
-欢乐集结号播,http://mitv.ts138.top/yy/1354931582
-欢乐集结号三,http://mitv.ts138.top/yy/1382736822
-欢乐集结号四,http://mitv.ts138.top/yy/1382736889
-金星脱口秀播,http://mitv.ts138.top/yy/1382735552
-脱口秀大会肆,http://159.75.85.63:35455/huya/30080243
-脱口秀大会肆,http://cfss.cc/cdn/hy/30080243.m3u8
-脱口秀大会伍,http://159.75.85.63:35455/huya/11352875
-脱口秀大会伍,http://cfss.cc/cdn/hy/11352875.m3u8
-吐槽大会京都,http://mitv.ts138.top/yy/1354936210
-吐槽大会海天,http://mitv.ts138.top/yy/1354932379
-吐槽大会二季,http://mitv.ts138.top/yy/1354936145
-吐槽大会五季,http://mitv.ts138.top/yy/1354889009
-娱乐扒叔轮播,http://cfss.cc/cdn/dyu/9624581.m3u8
 
 第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 中国教育CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8$mobilelive-ds 
@@ -506,7 +490,7 @@ US WOW TV.电信,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 泰国ASTV.电信,http://news1.live14.com/stream/news1_hi.m3u8
 探索亚洲.英.电信,http://61.221.215.25:8800/hls/50/index.m3u8
 金砖英文.移动,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-📡央视,#genre#
+📡央视.频道,#genre#
 CCTV1,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV1hd-8M/live.m3u8
 CCTV1,https://vip.taoiptv.cn/source/gitv.php?id=CCTV1hd-8M.m3u8&sign=ugxuj7
 CCTV1,https://vip.taoiptv.cn/source/gzyx.php?id=ca1f525f17a2eddd9c98fbe17997d9df.m3u8&sign=ugxuj7
@@ -526,7 +510,7 @@ CCTV2,http://114.55.117.163:8081/iptv/itv.php?id=CCTV250FPS.m3u8&sign=ugxuj7$50F
 CCTV2,http://ygbh666.cn/aikmigu.php?id=cctv2$咪咕源
 CCTV2,http://beijinglive.online.domybox.com:91/live/CCTV2hd-8M/live.m3u8$鹏博士
 
-CCTV3,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV3hd-8M/live.m3u8
+
 CCTV3,https://vip.taoiptv.cn/source/gitv.php?id=CCTV3hd-8M.m3u8&sign=ugxuj7
 CCTV3,https://vip.taoiptv.cn/source/gzyx.php?id=9c19c05ea31400b3c85598e71b2c39cf.m3u8&sign=ugxuj7
 CCTV3,https://vip.taoiptv.cn/source/itv.php?id=CCTV3HEVC.m3u8&sign=ugxuj7$HEVC
@@ -535,6 +519,7 @@ CCTV3,http://114.55.117.163:8081/iptv/gitv.php?id=CCTV3hd-8M.m3u8&sign=ugxuj7
 CCTV3,http://114.55.117.163:8081/iptv/itv.php?id=CCTV3HEVC.m3u8&sign=ugxuj7$HEVC
 CCTV3,http://ygbh666.cn/aikmigu.php?id=cctv3$咪咕源
 CCTV3,http://beijinglive.online.domybox.com:91/live/CCTV3hd-8M/live.m3u8$鹏博士
+CCTV3,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV3hd-8M/live.m3u8
 
 CCTV4,http://zhixiao.outside.live.pthv.gitv.tv/live/CCTV4hd-8M/live.m3u8
 CCTV4,https://vip.taoiptv.cn/source/gitv.php?id=CCTV4hd-8M.m3u8&sign=ugxuj7
@@ -751,7 +736,7 @@ CCTV央视台球,https://vip.taoiptv.cn/source/jsyd.php?id=G_TAIQIU-CQ.m3u8&sign
 
 CCTV电视指南,https://vip.taoiptv.cn/source/jsyd.php?id=G_DIANSHIZN-CQ.m3u8&sign=ugxuj7
 CCTV电视指南,https://vip.taoiptv.cn/source/ysp.php?id=cctv-dianshizhinan.m3u8&sign=ugxuj7
-📡卫视,#genre#
+📡卫视.频道,#genre#
 安徽卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/AHWShd-8M/live.m3u8
 安徽卫视,https://vip.taoiptv.cn/source/gitv.php?id=AHWShd-8M.m3u8&sign=ugxuj7
 安徽卫视,https://vip.taoiptv.cn/source/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c.m3u8&sign=ugxuj7
@@ -895,7 +880,7 @@ CCTV电视指南,https://vip.taoiptv.cn/source/ysp.php?id=cctv-dianshizhinan.m3u
 江苏卫视,http://ygbh666.cn/aikmigu.php?id=jsws$咪咕源
 江苏卫视,http://beijinglive.online.domybox.com:91/live/JSWShd-8M/live.m3u8$鹏博士
 
-江西卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/JXWS-1500k/live.m3u8
+
 江西卫视,https://vip.taoiptv.cn/source/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19.m3u8&sign=ugxuj7
 江西卫视,https://vip.taoiptv.cn/source/itv.php?id=江西卫视HEVC.m3u8&sign=ugxuj7$HEVC
 江西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=JXWS.m3u8&sign=ugxuj7
@@ -903,8 +888,9 @@ CCTV电视指南,https://vip.taoiptv.cn/source/ysp.php?id=cctv-dianshizhinan.m3u
 江西卫视,http://114.55.117.163:8081/iptv/itv.php?id=江西卫视HEVC.m3u8&sign=ugxuj7$HEVC
 江西卫视,http://ygbh666.cn/aikmigu.php?id=jxws$咪咕源
 江西卫视,http://beijinglive.online.domybox.com:91/live/JXWShd-8M/live.m3u8$鹏博士
+江西卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/JXWS-1500k/live.m3u8
 
-辽宁卫视,http://112.6.165.112:9901/tsfile/live/0121_1.m3u8?key=txiptv
+
 辽宁卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/LNWShd-8M/live.m3u8
 辽宁卫视,https://vip.taoiptv.cn/source/gitv.php?id=LNWShd-8M.m3u8&sign=ugxuj7
 辽宁卫视,https://vip.taoiptv.cn/source/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56.m3u8&sign=ugxuj7
@@ -913,6 +899,7 @@ CCTV电视指南,https://vip.taoiptv.cn/source/ysp.php?id=cctv-dianshizhinan.m3u
 辽宁卫视,http://114.55.117.163:8081/iptv/gitv.php?id=LNWShd-8M.m3u8&sign=ugxuj7
 辽宁卫视,http://114.55.117.163:8081/iptv/itv.php?id=辽宁卫视HEVC.m3u8&sign=ugxuj7$HEVC
 辽宁卫视,http://beijinglive.online.domybox.com:91/live/LNWShd-8M/live.m3u8$鹏博士
+辽宁卫视,http://112.6.165.112:9901/tsfile/live/0121_1.m3u8?key=txiptv
 
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 内蒙古卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_NEIMENGGU.m3u8&sign=ugxuj7
@@ -936,12 +923,6 @@ CCTV电视指南,https://vip.taoiptv.cn/source/ysp.php?id=cctv-dianshizhinan.m3u
 山东卫视,http://114.55.117.163:8081/iptv/itv.php?id=山东卫视50FPS.m3u8&sign=ugxuj7$50FPS
 山东卫视,http://beijinglive.online.domybox.com:91/live/SDWShd-8M/live.m3u8$鹏博士
 
-山西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=SXWS.m3u8&sign=ugxuj7
-山西卫视,http://beijinglive.online.domybox.com:91/live/SXWS1-1500k/live.m3u8$鹏博士
-
-陕西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANXI.m3u8&sign=ugxuj7
-陕西卫视,http://ygbh666.cn/aikmigu.php?id=sxws$咪咕源
-陕西卫视,http://beijinglive.online.domybox.com:91/live/SXWS3-1500k/live.m3u8$鹏博士
 
 深圳卫视,http://zhixiao.outside.live.pthv.gitv.tv/live/SZWShd-8M/live.m3u8
 深圳卫视,https://vip.taoiptv.cn/source/gitv.php?id=SZWShd-8M.m3u8&sign=ugxuj7
@@ -966,14 +947,6 @@ CCTV电视指南,https://vip.taoiptv.cn/source/ysp.php?id=cctv-dianshizhinan.m3u
 天津卫视,http://114.55.117.163:8081/iptv/itv.php?id=天津卫视50FPS.m3u8&sign=ugxuj7$50FPS
 天津卫视,http://beijinglive.online.domybox.com:91/live/TJWShd-8M/live.m3u8$鹏博士
 
-西藏卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XIZANG.m3u8&sign=ugxuj7
-西藏卫视,http://beijinglive.online.domybox.com:91/live/XZWS-1500k/live.m3u8$鹏博士
-
-厦门卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XIAMEN.m3u8&sign=ugxuj7
-厦门卫视,http://beijinglive.online.domybox.com:91/live/XMWS-1500k/live.m3u8$鹏博士
-
-新疆卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XINJIANG.m3u8&sign=ugxuj7
-新疆卫视,http://beijinglive.online.domybox.com:91/live/XJWS-1500k/live.m3u8$鹏博士
 
 云南卫视,https://vip.taoiptv.cn/source/itv.php?id=云南卫视.m3u8&sign=ugxuj7
 云南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_YUNNAN.m3u8&sign=ugxuj7
@@ -989,7 +962,26 @@ CCTV电视指南,https://vip.taoiptv.cn/source/ysp.php?id=cctv-dianshizhinan.m3u
 浙江卫视,http://114.55.117.163:8081/iptv/gitv.php?id=ZJWShd-8M.m3u8&sign=ugxuj7
 浙江卫视,http://114.55.117.163:8081/iptv/itv.php?id=浙江卫视50FPS.m3u8&sign=ugxuj7$50FPS
 浙江卫视,http://beijinglive.online.domybox.com:91/live/ZJWShd-8M/live.m3u8$鹏博士
-📡NewTV频道,#genre#
+
+
+厦门卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XIAMEN.m3u8&sign=ugxuj7
+厦门卫视,http://beijinglive.online.domybox.com:91/live/XMWS-1500k/live.m3u8$鹏博士
+
+新疆卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XINJIANG.m3u8&sign=ugxuj7
+新疆卫视,http://beijinglive.online.domybox.com:91/live/XJWS-1500k/live.m3u8$鹏博士
+
+
+西藏卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XIZANG.m3u8&sign=ugxuj7
+西藏卫视,http://beijinglive.online.domybox.com:91/live/XZWS-1500k/live.m3u8$鹏博士
+
+
+陕西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANXI.m3u8&sign=ugxuj7
+陕西卫视,http://ygbh666.cn/aikmigu.php?id=sxws$咪咕源
+陕西卫视,http://beijinglive.online.domybox.com:91/live/SXWS3-1500k/live.m3u8$鹏博士
+
+山西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=SXWS.m3u8&sign=ugxuj7
+山西卫视,http://beijinglive.online.domybox.com:91/live/SXWS1-1500k/live.m3u8$鹏博士
+📡NewTV.频道,#genre#
 NewTV精品综合,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
 NewTV精品综合,https://vip.taoiptv.cn/source/itv.php?id=NewTV精品综合.m3u8&sign=ugxuj7
 NewTV精品综合,http://114.55.117.163:8081/iptv/itv.php?id=NewTV精品综合.m3u8&sign=ugxuj7
@@ -1086,7 +1078,7 @@ NewTV哒啵赛事,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001
 NewTV哒啵赛事,https://vip.taoiptv.cn/source/itv.php?id=NewTV哒啵赛事.m3u8&sign=ugxuj7
 NewTV哒啵赛事,http://114.55.117.163:8081/iptv/itv.php?id=NewTV哒啵赛事.m3u8&sign=ugxuj7
 
-📡SiTV频道,#genre#
+📡SiTV.频道,#genre#
 SiTV动漫秀场,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 SiTV动漫秀场,https://vip.taoiptv.cn/source/gzyx.php?id=57e09be91d8b2f208e407b5abfa23b05.m3u8&sign=ugxuj7
 SiTV动漫秀场,https://vip.taoiptv.cn/source/itv.php?id=SiTV动漫秀场.m3u8&sign=ugxuj7
@@ -1126,7 +1118,7 @@ SiTV游戏风云,https://vip.taoiptv.cn/source/gzyx.php?id=2abb8a699d8073134830e
 SiTV游戏风云,https://vip.taoiptv.cn/source/itv.php?id=SiTV游戏风云.m3u8&sign=ugxuj7
 SiTV游戏风云,http://114.55.117.163:8081/iptv/itv.php?id=SiTV游戏风云.m3u8&sign=ugxuj7
 
-📡iHOT频道,#genre#
+📡iHOT.频道,#genre#
 iHOT爱电竞,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱电竞.m3u8&sign=ugxuj7
 iHOT爱电竞,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱电竞.m3u8&sign=ugxuj7
 iHOT爱谍战,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱谍战.m3u8&sign=ugxuj7
@@ -1169,7 +1161,7 @@ iHOT爱院线,https://vip.taoiptv.cn/source/itv.php?id=iHOT爱院线.m3u8&sign=u
 iHOT爱院线,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱院线.m3u8&sign=ugxuj7
 
 
-📡地方频道,#genre#
+📡地方.频道,#genre#
 北京纪实科教,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265020/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=3
 北京纪实科教,https://vip.taoiptv.cn/source/itv.php?id=北京纪实科教HEVC.m3u8&sign=ugxuj7$HEVC
 北京纪实科教,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-beijingjishi.m3u8&sign=ugxuj7
@@ -1232,7 +1224,7 @@ iHOT爱院线,http://114.55.117.163:8081/iptv/itv.php?id=iHOT爱院线.m3u8&sign
 湖南茶频道,https://vip.taoiptv.cn/source/itv.php?id=湖南茶频道.m3u8&sign=ugxuj7
 湖南茶频道,http://114.55.117.163:8081/iptv/itv.php?id=湖南茶频道.m3u8&sign=ugxuj7
 
-📡其他频道,#genre#
+📡其他.频道,#genre#
 睛彩青少,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-quanminrl.m3u8&sign=ugxuj7
 睛彩青少,https://vip.taoiptv.cn/source/itv.php?id=咪咕全民热练.m3u8&sign=ugxuj7
 睛彩青少,http://114.55.117.163:8081/iptv/itv.php?id=咪咕全民热练.m3u8&sign=ugxuj7
@@ -1427,14 +1419,7 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 银川文体,https://play-sh13.quklive.com/live/1667884025738071.m3u8?auth_key=2021512079-472c5c2791fc4567bfa908c79c9e0a6a-0-dcdb58c85620a47120855c0db0217473
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-📡测试,#genre#
 
-凤凰卫视中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰卫视,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
-三立新闻,http://211.72.65.236:8543/.m3u8
 📡央视.电信,#genre#
 CCTV1港版特供,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8$港版特供无广告
 CCTV1-综合,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
@@ -1485,18 +1470,18 @@ CCTV6-电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/ti
 CCTV8-电视剧,http://223.151.49.74:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$223.151.49.74
 CCTV13-新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$223.151.49.74
 CCTV-16奥林匹克,http://112.46.85.60:8009/hls/86/index.m3u8
-CCTV1,http://123.182.60.29:9002/hls/1/index.m3u8
-CCTV2,http://123.182.60.29:9002/hls/2/index.m3u8
-CCTV4,http://123.182.60.29:9002/hls/4/index.m3u8
-CCTV7,http://123.182.60.29:9002/hls/9/index.m3u8
-CCTV10,http://123.182.60.29:9002/hls/10/index.m3u8
-CCTV11,http://123.182.60.29:9002/hls/11/index.m3u8
-CCTV12,http://123.182.60.29:9002/hls/12/index.m3u8
-CCTV13,http://123.182.60.29:9002/hls/13/index.m3u8
-CCTV14,http://123.182.60.29:9002/hls/14/index.m3u8
+CCTV1-综合,http://123.182.60.29:9002/hls/1/index.m3u8
+CCTV2-财经,http://123.182.60.29:9002/hls/2/index.m3u8
+CCTV4-国际,http://123.182.60.29:9002/hls/4/index.m3u8
+CCTV7-国防军事,http://123.182.60.29:9002/hls/9/index.m3u8
+CCTV10-科教,http://123.182.60.29:9002/hls/10/index.m3u8
+CCTV11-戏曲,http://123.182.60.29:9002/hls/11/index.m3u8
+CCTV12-社会与法,http://123.182.60.29:9002/hls/12/index.m3u8
+CCTV13-新闻,http://123.182.60.29:9002/hls/13/index.m3u8
+CCTV14-少儿,http://123.182.60.29:9002/hls/14/index.m3u8
 CCTV15,http://123.182.60.29:9002/hls/15/index.m3u8
 CCTV16,http://123.182.60.29:9002/hls/16/index.m3u8
-CCTV5+,http://123.182.60.29:9002/hls/17/index.m3u8
+CCTV5+体育赛事,http://123.182.60.29:9002/hls/17/index.m3u8
 河北卫视,http://123.182.60.29:9002/hls/18/index.m3u8
 经济生活,http://123.182.60.29:9002/hls/19/index.m3u8
 张家口-1,http://123.182.60.29:9002/hls/20/index.m3u8
@@ -1509,7 +1494,6 @@ CCTV5+,http://123.182.60.29:9002/hls/17/index.m3u8
 湖南卫视,http://123.182.60.29:9002/hls/30/index.m3u8
 辽宁卫视,http://123.182.60.29:9002/hls/31/index.m3u8
 山东卫视,http://123.182.60.29:9002/hls/32/index.m3u8
-
 河南卫视,http://123.182.60.29:9002/hls/34/index.m3u8
 黑龙江卫视,http://123.182.60.29:9002/hls/35/index.m3u8
 四川卫视,http://123.182.60.29:9002/hls/36/index.m3u8
@@ -1519,7 +1503,7 @@ CCTV5+,http://123.182.60.29:9002/hls/17/index.m3u8
 湖北卫视,http://123.182.60.29:9002/hls/40/index.m3u8
 东方卫视,http://123.182.60.29:9002/hls/41/index.m3u8
 重庆卫视,http://123.182.60.29:9002/hls/42/index.m3u8
-闽南频道,#genre#
+📡闽南.频道,#genre#
 中天新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 东森新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 tvbs新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv072
@@ -1610,7 +1594,7 @@ GLO-Bet频道,http://litv.zapi.us.kg/?id=4gtv-4gtv016
 TRACEU频道,http://litv.zapi.us.kg/?id=4gtv-4gtv082
 MEZZOl频道,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 Ginx_TV频道,http://litv.zapi.us.kg/?id=4gtv-4gtv053
-港闽频代,#genre#
+📡港闽.频代,#genre#
 Plus综合频代,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 pₒₚc电影频代,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 凤凰中文频代,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -1635,7 +1619,7 @@ tvbs闽南频代,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 华视闽南频代,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 中天亚洲频代,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 靖天电影频代,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-📡赛事咪咕,#genre#
+📡赛事.咪咕,#genre#
 赛事咪咕频壹,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId= 
 赛事咪咕频贰,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 赛事咪咕频叁,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
@@ -1691,7 +1675,7 @@ tvbs闽南频代,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 赛事咪咕伍叁,http://111.13.111.242/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 赛事咪咕频4K,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
-📡超清.电信,#genre#
+📡超清4K.频道,#genre#
 华数4K,https://vip.taoiptv.cn/source/itv.php?id=华数4K.m3u8&sign=ugxuj7
 华数4K,http://114.55.117.163:8081/iptv/itv.php?id=华数4K.m3u8&sign=ugxuj7
 纯享4K,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
@@ -1702,6 +1686,10 @@ tvbs闽南频代,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 咪咕4K1,http://114.55.117.163:8081/iptv/itv.php?id=咪咕4K1.m3u8&sign=ugxuj7
 咪咕4K2,https://vip.taoiptv.cn/source/itv.php?id=咪咕4K2.m3u8&sign=ugxuj7
 咪咕4K2,http://114.55.117.163:8081/iptv/itv.php?id=咪咕4K2.m3u8&sign=ugxuj7
+CCTV4K,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4K-HD.m3u8&sign=ugxuj7$4K
+欢笑剧场4K,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3$4K
+欢笑剧场4K,https://vip.taoiptv.cn/source/itv.php?id=SiTV欢笑剧场-4K.m3u8&sign=ugxuj7$4K
+欢笑剧场4K,http://114.55.117.163:8081/iptv/itv.php?id=SiTV欢笑剧场-4K.m3u8&sign=ugxuj7$4K
 河南卫视4K,http://115.60.241.249:2000/udp/225.1.4.254:1300
 
 📡卫视.高清,#genre#
@@ -1985,6 +1973,27 @@ RedBull TV.体育,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_
 国产5,http://zby.xjqxz.top/gcwx5/live.m3u8
 轮播1,http://zby.xjqxz.top/hkdy1/live.m3u8
 轮播2,http://zby.xjqxz.top/hkdy2/live.m3u8
+科幻Fans轮播,http://cfss.cc/cdn/dyu/3508304.m3u8
+科幻解说轮播,http://cfss.cc/cdn/dyu/9338839.m3u8
+科幻梦工场播,http://159.75.85.63:35455/huya/15152155
+科幻梦工场播,http://cfss.cc/cdn/hy/15152155.m3u8
+笑声传奇轮播,http://mitv.ts138.top/yy/1382736880
+笑傲帮集轮播,http://mitv.ts138.top/yy/1382735555
+笑傲江湖一季,http://mitv.ts138.top/yy/1382749896
+笑傲江湖二季,http://mitv.ts138.top/yy/1382736914
+欢乐集结号播,http://mitv.ts138.top/yy/1354931582
+欢乐集结号三,http://mitv.ts138.top/yy/1382736822
+欢乐集结号四,http://mitv.ts138.top/yy/1382736889
+金星脱口秀播,http://mitv.ts138.top/yy/1382735552
+脱口秀大会肆,http://159.75.85.63:35455/huya/30080243
+脱口秀大会肆,http://cfss.cc/cdn/hy/30080243.m3u8
+脱口秀大会伍,http://159.75.85.63:35455/huya/11352875
+脱口秀大会伍,http://cfss.cc/cdn/hy/11352875.m3u8
+吐槽大会京都,http://mitv.ts138.top/yy/1354936210
+吐槽大会海天,http://mitv.ts138.top/yy/1354932379
+吐槽大会二季,http://mitv.ts138.top/yy/1354936145
+吐槽大会五季,http://mitv.ts138.top/yy/1354889009
+娱乐扒叔轮播,http://cfss.cc/cdn/dyu/9624581.m3u8
 周星驰专辑,http://zby.xjqxz.top/live12/live.m3u8
 李连杰专辑,http://zby.xjqxz.top/lljdy/live.m3u8
 成龙专辑,http://zby.xjqxz.top/cldy/live.m3u8
