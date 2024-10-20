@@ -1,4 +1,4 @@
-⛄10.19音乐欣赏,#genre#
+⛄10.20音乐欣赏,#genre#
 MV1,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 MV2,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
 韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4 
@@ -391,6 +391,26 @@ CNA 新闻.全网,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec9
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mtw.so/5NPX0U
 
+CGTN,https://vip.taoiptv.cn/source/itv.php?id=CGTN.m3u8&sign=ugxuj7
+CGTN,http://114.55.117.163:8081/iptv/itv.php?id=CGTN.m3u8&sign=ugxuj7
+CGTN,http://beijinglive.online.domybox.com:91/live/CCTVNEWS-1500k/live.m3u8$鹏博士
+
+CGTN记录,https://vip.taoiptv.cn/source/itv.php?id=CGTN记录.m3u8&sign=ugxuj7
+CGTN记录,http://114.55.117.163:8081/iptv/itv.php?id=CGTN记录.m3u8&sign=ugxuj7
+CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+CGTN记录,http://ygbh666.cn/aikmigu.php?id=cgtnjl$咪咕源
+
+CETV1,https://vip.taoiptv.cn/source/gitv.php?id=CETV1hd-8M.m3u8&sign=ugxuj7
+CETV1,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台1.m3u8&sign=ugxuj7
+CETV1,http://114.55.117.163:8081/iptv/gitv.php?id=CETV1hd-8M.m3u8&sign=ugxuj7
+CETV1,http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台1.m3u8&sign=ugxuj7
+CETV1,http://beijinglive.online.domybox.com:91/live/CETV1hd-8M/live.m3u8$鹏博士
+
+
+CETV4,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台4.m3u8&sign=ugxuj7
+CETV4,http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台4.m3u8&sign=ugxuj7
+CETV4,http://beijinglive.online.domybox.com:91/live/CETV4-1500k/live.m3u8$鹏博士
+
 凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$php.jdshipin
 凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$php.jdshipin
 凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$php.jdshipin
@@ -670,26 +690,8 @@ CCTV17,http://beijinglive.online.domybox.com:91/live/CCTV17hd-8M/live.m3u8$鹏�
 
 CCTV4K,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4K-HD.m3u8&sign=ugxuj7$4K
 
-CGTN,https://vip.taoiptv.cn/source/itv.php?id=CGTN.m3u8&sign=ugxuj7
-CGTN,http://114.55.117.163:8081/iptv/itv.php?id=CGTN.m3u8&sign=ugxuj7
-CGTN,http://beijinglive.online.domybox.com:91/live/CCTVNEWS-1500k/live.m3u8$鹏博士
 
-CGTN记录,https://vip.taoiptv.cn/source/itv.php?id=CGTN记录.m3u8&sign=ugxuj7
-CGTN记录,http://114.55.117.163:8081/iptv/itv.php?id=CGTN记录.m3u8&sign=ugxuj7
-CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CGTN记录,http://ygbh666.cn/aikmigu.php?id=cgtnjl$咪咕源
-
-CETV1,https://vip.taoiptv.cn/source/gitv.php?id=CETV1hd-8M.m3u8&sign=ugxuj7
-CETV1,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台1.m3u8&sign=ugxuj7
-CETV1,http://114.55.117.163:8081/iptv/gitv.php?id=CETV1hd-8M.m3u8&sign=ugxuj7
-CETV1,http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台1.m3u8&sign=ugxuj7
-CETV1,http://beijinglive.online.domybox.com:91/live/CETV1hd-8M/live.m3u8$鹏博士
-
-
-CETV4,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台4.m3u8&sign=ugxuj7
-CETV4,http://114.55.117.163:8081/iptv/itv.php?id=中国教育电视台4.m3u8&sign=ugxuj7
-CETV4,http://beijinglive.online.domybox.com:91/live/CETV4-1500k/live.m3u8$鹏博士
-
+📡央视.风云,#genre#
 CCTV兵器科技,https://vip.taoiptv.cn/source/jsyd.php?id=G_BINGQIKJ-CQ.m3u8&sign=ugxuj7
 CCTV兵器科技,https://vip.taoiptv.cn/source/ysp.php?id=cctv-bingqikeji.m3u8&sign=ugxuj7
 CCTV兵器科技,https://vip.taoiptv.cn/source/gzyx.php?id=a0e5ccb15677fd5ecb6bfe15eeae94aa.m3u8&sign=ugxuj7
@@ -1475,7 +1477,7 @@ CCTV6-电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$mobilelive-ds.
 CCTV6-电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202$官方CDN高清
 CCTV8-电视剧,http://223.151.49.74:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$223.151.49.74
 CCTV13-新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$223.151.49.74
-CCTV-16奥林匹克,http://112.46.85.60:8009/hls/86/index.m3u8
+CCTV-16-奥林匹克,http://112.46.85.60:8009/hls/86/index.m3u8
 CCTV1-综合,http://123.182.60.29:9002/hls/1/index.m3u8
 CCTV2-财经,http://123.182.60.29:9002/hls/2/index.m3u8
 CCTV4-国际,http://123.182.60.29:9002/hls/4/index.m3u8
@@ -1485,8 +1487,8 @@ CCTV11-戏曲,http://123.182.60.29:9002/hls/11/index.m3u8
 CCTV12-社会与法,http://123.182.60.29:9002/hls/12/index.m3u8
 CCTV13-新闻,http://123.182.60.29:9002/hls/13/index.m3u8
 CCTV14-少儿,http://123.182.60.29:9002/hls/14/index.m3u8
-CCTV15,http://123.182.60.29:9002/hls/15/index.m3u8
-CCTV16,http://123.182.60.29:9002/hls/16/index.m3u8
+CCTV15-音乐,http://123.182.60.29:9002/hls/15/index.m3u8
+CCTV16-奥林匹克,http://123.182.60.29:9002/hls/16/index.m3u8
 CCTV5+体育赛事,http://123.182.60.29:9002/hls/17/index.m3u8
 河北卫视,http://123.182.60.29:9002/hls/18/index.m3u8
 经济生活,http://123.182.60.29:9002/hls/19/index.m3u8
@@ -1696,11 +1698,11 @@ CCTV4K,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4K-HD.m3u8&sign=ugxuj7$4
 欢笑剧场4K,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3$4K
 欢笑剧场4K,https://vip.taoiptv.cn/source/itv.php?id=SiTV欢笑剧场-4K.m3u8&sign=ugxuj7$4K
 欢笑剧场4K,http://114.55.117.163:8081/iptv/itv.php?id=SiTV欢笑剧场-4K.m3u8&sign=ugxuj7$4K
-CCTV1-4k,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-1-AVS-4K264.m3u8&sign=ugxuj7$4K
-CCTV3-4k,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-3-AVS-4K264.m3u8&sign=ugxuj7$4K
-CCTV5-4k,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5-AVS-4K264.m3u8&sign=ugxuj7$4K
-CCTV16,https://vip.taoiptv.cn/source/itv.php?id=CCTV164KHEVC.m3u8&sign=ugxuj7$4K HEVC
-CCTV16,http://114.55.117.163:8081/iptv/itv.php?id=CCTV164KHEVC.m3u8&sign=ugxuj7$4K HEVC
+CCTV1-综合4k,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-1-AVS-4K264.m3u8&sign=ugxuj7$4K
+CCTV3-综艺4k,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-3-AVS-4K264.m3u8&sign=ugxuj7$4K
+CCTV5-体育4k,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5-AVS-4K264.m3u8&sign=ugxuj7$4K
+CCTV16-奥林匹克4K,https://vip.taoiptv.cn/source/itv.php?id=CCTV164KHEVC.m3u8&sign=ugxuj7$4K HEVC
+CCTV16-奥林匹克4K,http://114.55.117.163:8081/iptv/itv.php?id=CCTV164KHEVC.m3u8&sign=ugxuj7$4K HEVC
 📡卫视.高清,#genre#
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
