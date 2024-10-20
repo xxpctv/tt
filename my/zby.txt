@@ -2185,7 +2185,7 @@ FIFA,http://live.iill.top/douyu.php?id=7692166
 广东韶关.车八岭国家级自然保护区,https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
 贵州黔东南.加榜梯田,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 贵州遵义.赤水大瀑布,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-河北承德金.山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+河北承德.金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
 河南鹤壁.浚县古城景区北城门,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
 河南焦作.红石峡,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
 河南南阳.方城德云山景区,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
@@ -2242,7 +2242,7 @@ FIFA,http://live.iill.top/douyu.php?id=7692166
 新疆昌吉州.天山天池灯杆山,https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 新疆昌吉州.天山天池定海神针,https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
 新疆昌吉州.天山天池海西平台,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
-新疆昌天山.天池马牙山,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+新疆昌吉州.天山天池马牙山,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
 云南保山.板桥镇青龙街,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
 云南保山.比顿咖啡产业文化园,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
 云南保山.隆阳区拦河坝水库,http://gctxyc.liveplay.myqcloud.com/gc/sgns02_1_md.m3u8
