@@ -1,4 +1,4 @@
-🎧10.20音乐欣赏,#genre#
+⛄10.20音乐欣赏,#genre#
 MV1,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 MV2,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
 韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4 
@@ -366,19 +366,18 @@ Wiz Khalifa+Charlie Puth-See You Again,http://em.21dtv.com/songs/60109907.mkv
 2NE1-（失踪的你）,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyee74wUowp6c1gU.mp4 
 4分钟 - 为什么,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo7v64wUovvXL6QQ.mp4 
 5首绝美情歌,https://vd3.bdstatic.com/mda-mjtb7bbvk98u8z58/480p/h264/1635409459813822543/mda-mjtb7bbvk98u8z58.mp4 
-🎧音乐.电台,#genre#
+🔒音乐.电台,#genre#
 音乐速递,http://159.75.85.63:35455/huya/19439762
 音乐石榴,http://159.75.85.63:35455/huya/17091681
 MV点歌台,http://maomao.kandiantv.cn/douyu1.php?id=3870925
 阿七点歌台,http://maomao.kandiantv.cn/douyu1.php?id=3186217
 热舞韩团,http://maomao.kandiantv.cn/douyu1.php?id=329667
 热舞女团,http://maomao.kandiantv.cn/douyu1.php?id=11327316
-Spotify音乐,http://61.221.215.25:8800/hls/58/index.m3u8
 抖音电台18,http://159.75.85.63:35455/bilibili/26238686
 抖音电台19,http://159.75.85.63:35455/bilibili/27660328
-抖音悦音1,http://159.75.85.63:35455/douyin/768502916257
-抖音悦音2,http://159.75.85.63:35455/douyin/800454615746
-抖音悦音3,http://159.75.85.63:35455/douyin/708360490144
+抖音悦音1,http://159.75.85.63:35455/douyin/800454615746
+抖音悦音2,http://159.75.85.63:35455/douyin/708360490144
+抖音悦音3,http://159.75.85.63:35455/douyin/768502916257
 抖音华语经典,http://159.75.85.63:35455/bilibili/1769479946
 抖音电台7,http://159.75.85.63:35455/douyin/705762495470
 抖音电台8,http://159.75.85.63:35455/douyin/151470422790
@@ -393,6 +392,7 @@ CNR经典FM,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 经典音乐FM,http://live.cooltv.top/tv/ytradio.php?id=703
 汽车音乐FM,http://live.cooltv.top/tv/ytradio.php?id=471
 BC音乐FM,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+Spotify音乐,http://61.221.215.25:8800/hls/58/index.m3u8
 🔒新闻.财经,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 半岛新闻.阿拉伯.移动,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
