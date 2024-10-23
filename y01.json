@@ -222,17 +222,28 @@
 
 {"key": "奈飞影视-开心","name":"🎬奈飞秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
 {"key": "VIP影视-开心","name": "🎬VIP秒播","type":3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./my/VIPyingshi.json"}, 
-{"key":"农民影视-开心","name":"🎬农民秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nongmin.json"},
-
-    {
-      "key": "农民影视-欧哥",
-      "name": "🎬农民影视",
-      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
-      "type": 3,
-      "api": "csp_WexNmys",
-      "searchable": 1,
-      "changeable": 1
-    },
+{
+  "key": "新6V",
+  "name": "新6V影视",
+  "jar": "./dj/新6v.jar",
+  "type": 3,
+  "api": "csp_SixV",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "http://www.xb6v.com/"
+},
+{
+  "key": "影视工厂",
+  "name": "🎬影视工厂",
+  "jar": "./dj/新6v.jar",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+},
     {
       "key": "骚火影视-欧哥",
       "name": "🎬骚火影视",
@@ -261,17 +272,6 @@
       "api": "csp_Subaibai",
       "searchable": 1,
       "changeable": 1
-    },
-	 {
-      "key": "酷影视-小白龙",
-      "name": "🎬酷影APP",
-	  "jar":"./my/ou20240604.jar",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
       "key": "明日影视-欧哥",
@@ -338,28 +338,17 @@
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$6"
   }
 },
-{
-  "key": "新6V",
-  "name": "新6V影视",
-  "jar": "./dj/新6v.jar",
-  "type": 3,
-  "api": "csp_SixV",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": "http://www.xb6v.com/"
-},
-{
-  "key": "影视工厂",
-  "name": "🎬影视工厂",
-  "jar": "./dj/新6v.jar",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
-},
+{"key":"农民影视-开心","name":"🎬农民秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nongmin.json"},
+
+    {
+      "key": "农民影视-欧哥",
+      "name": "🎬农民影视",
+      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
       "key": "SP2345",
       "name": "🎬2345影视",
@@ -669,17 +658,7 @@
         "短剧"
       ]
     },
-	 {
-      "key": "影梦短剧-恒星",
-      "name": "🎦影梦短剧",
-	  "jar": "./dj/XBPQ2.28.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./dj/影梦短剧.json"
-    },
+
 	 {
       "key": "理理短剧-恒星",
       "name": "🎦理理短剧",
