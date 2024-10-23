@@ -11,7 +11,7 @@
     ]
   },
   {
-    "name": "软件更新10.19",
+    "name": "软件更新10.23",
     "list": [
       {
         "name": "应用管家v1.4.3",
@@ -20,8 +20,8 @@
         "version": "含网盘资源"
       },
      {
-        "name": "影视仓电视_5.0.43",
-        "url": "https://www.gitlink.org.cn/api/ajeo/c1/raw/影视仓_5.0.43.apk?ref=main",
+        "name": "影视仓_5.0.44.1",
+        "url": "https://www.gitlink.org.cn/api/ajeo/c1/raw/影视仓_5.0.44.1.apk?ref=main",
         "icon": " ",
         "version": "TV版"
       },
