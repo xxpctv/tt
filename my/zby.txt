@@ -1,4 +1,4 @@
-⛄10.23音乐欣赏,#genre#
+⛄10.24音乐欣赏,#genre#
 MV1,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 MV2,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
 韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4 
@@ -537,44 +537,44 @@ US WOW TV.电信,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 金砖英文.移动,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
 📡央视.电信,#genre#
-CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS 4K
-CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV2,https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV3,https://vip.taoiptv.cn/source/itv.php?id=CCTV3HEVC.m3u8&sign=mzxn4l$taoiptv itv HEVC
-CCTV4,https://vip.taoiptv.cn/source/itv.php?id=CCTV450FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV5+,https://vip.taoiptv.cn/source/itv.php?id=CCTV5pHEVC.m3u8&sign=mzxn4l$taoiptv itv HEVC
-CCTV5,https://vip.taoiptv.cn/source/itv.php?id=CCTV5HEVC.m3u8&sign=mzxn4l$taoiptv itv HEVC
-CCTV6,https://vip.taoiptv.cn/source/itv.php?id=CCTV650FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV7,https://vip.taoiptv.cn/source/itv.php?id=CCTV750FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV8,https://vip.taoiptv.cn/source/itv.php?id=CCTV8HEVC.m3u8&sign=mzxn4l$taoiptv itv HEVC
-CCTV9,https://vip.taoiptv.cn/source/itv.php?id=CCTV950FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV10,https://vip.taoiptv.cn/source/itv.php?id=CCTV1050FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV11,https://vip.taoiptv.cn/source/itv.php?id=CCTV1150FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV12,https://vip.taoiptv.cn/source/itv.php?id=CCTV1250FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV13,https://vip.taoiptv.cn/source/itv.php?id=CCTV1350FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV14,https://vip.taoiptv.cn/source/itv.php?id=CCTV1450FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV15,https://vip.taoiptv.cn/source/itv.php?id=CCTV1550FPS.m3u8&sign=mzxn4l$taoiptv itv 50FPS
-CCTV16,https://vip.taoiptv.cn/source/itv.php?id=CCTV164KHEVC.m3u8&sign=mzxn4l$taoiptv itv HEVC 4K
-CCTV17,https://vip.taoiptv.cn/source/itv.php?id=CCTV17HEVC.m3u8&sign=mzxn4l$taoiptv itv HEVC
+CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=mzxn4l$vip itv 50FPS 4K
+CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV2,https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV3,https://vip.taoiptv.cn/source/itv.php?id=CCTV3HEVC.m3u8&sign=mzxn4l$vip itv HEVC
+CCTV4,https://vip.taoiptv.cn/source/itv.php?id=CCTV450FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV5+,https://vip.taoiptv.cn/source/itv.php?id=CCTV5pHEVC.m3u8&sign=mzxn4l$vip itv HEVC
+CCTV5,https://vip.taoiptv.cn/source/itv.php?id=CCTV5HEVC.m3u8&sign=mzxn4l$vip itv HEVC
+CCTV6,https://vip.taoiptv.cn/source/itv.php?id=CCTV650FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV7,https://vip.taoiptv.cn/source/itv.php?id=CCTV750FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV8,https://vip.taoiptv.cn/source/itv.php?id=CCTV8HEVC.m3u8&sign=mzxn4l$vip itv HEVC
+CCTV9,https://vip.taoiptv.cn/source/itv.php?id=CCTV950FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV10,https://vip.taoiptv.cn/source/itv.php?id=CCTV1050FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV11,https://vip.taoiptv.cn/source/itv.php?id=CCTV1150FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV12,https://vip.taoiptv.cn/source/itv.php?id=CCTV1250FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV13,https://vip.taoiptv.cn/source/itv.php?id=CCTV1350FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV14,https://vip.taoiptv.cn/source/itv.php?id=CCTV1450FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV15,https://vip.taoiptv.cn/source/itv.php?id=CCTV1550FPS.m3u8&sign=mzxn4l$vip itv 50FPS
+CCTV16,https://vip.taoiptv.cn/source/itv.php?id=CCTV164KHEVC.m3u8&sign=mzxn4l$vip itv HEVC 4K
+CCTV17,https://vip.taoiptv.cn/source/itv.php?id=CCTV17HEVC.m3u8&sign=mzxn4l$vip itv HEVC
 
-CCTV1,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-1-AVS-4K264.m3u8&sign=mzxn4l$taoiptv jsyd 4K
-CCTV2,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-2-HD-265-8M.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-3-AVS-4K264.m3u8&sign=mzxn4l$taoiptv jsyd 4K
-CCTV4,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4-HD-265-8M.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV4K,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4K-HD.m3u8&sign=mzxn4l$taoiptv jsyd 4K
-CCTV5+,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5PLUS-HD-265-5M.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV5,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5-AVS-4K264.m3u8&sign=mzxn4l$taoiptv jsyd 4K
-CCTV6,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-6-AVS-4K264.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV7,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-7-HQ.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV8,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-8-AVS-4K264.m3u8&sign=mzxn4l$taoiptv jsyd 4K
-CCTV10,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-10-HQ.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV11,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-11-HQ.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV12,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv12.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV13,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-13-HQ.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV14,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv14.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV15,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-15.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV16,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-16-CQ.m3u8&sign=mzxn4l$taoiptv jsyd
-CCTV17,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-17-HD.m3u8&sign=mzxn4l$taoiptv jsyd
+CCTV1,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-1-AVS-4K264.m3u8&sign=mzxn4l$vip jsyd 4K
+CCTV2,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-2-HD-265-8M.m3u8&sign=mzxn4l$vip jsyd
+CCTV3,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-3-AVS-4K264.m3u8&sign=mzxn4l$vip jsyd 4K
+CCTV4,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4-HD-265-8M.m3u8&sign=mzxn4l$vip jsyd
+CCTV4K,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-4K-HD.m3u8&sign=mzxn4l$vip jsyd 4K
+CCTV5+,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5PLUS-HD-265-5M.m3u8&sign=mzxn4l$vip jsyd
+CCTV5,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-5-AVS-4K264.m3u8&sign=mzxn4l$vip jsyd 4K
+CCTV6,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-6-AVS-4K264.m3u8&sign=mzxn4l$vip jsyd
+CCTV7,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-7-HQ.m3u8&sign=mzxn4l$vip jsyd
+CCTV8,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-8-AVS-4K264.m3u8&sign=mzxn4l$vip jsyd 4K
+CCTV10,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-10-HQ.m3u8&sign=mzxn4l$vip jsyd
+CCTV11,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-11-HQ.m3u8&sign=mzxn4l$vip jsyd
+CCTV12,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv12.m3u8&sign=mzxn4l$vip jsyd
+CCTV13,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-13-HQ.m3u8&sign=mzxn4l$vip jsyd
+CCTV14,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-cctv14.m3u8&sign=mzxn4l$vip jsyd
+CCTV15,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-15.m3u8&sign=mzxn4l$vip jsyd
+CCTV16,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-16-CQ.m3u8&sign=mzxn4l$vip jsyd
+CCTV17,https://vip.taoiptv.cn/source/jsyd.php?id=G_CCTV-17-HD.m3u8&sign=mzxn4l$vip jsyd
 
 
 CCTV1,http://111.160.17.2:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$111.160.17.2
@@ -611,6 +611,8 @@ CCTV16,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8
 CCTV17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000//1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3$易视腾
 
 CCTV1港版特供,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8$港版特供无广告
+以下线路限时观看,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
+21:00-23:00限时,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 CCTV1-综合,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 CCTV2-财经,http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 CCTV3-综艺,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
@@ -652,17 +654,11 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&play
 金鹰卡通,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 金鹰纪实,http://58.19.38.162:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$58.19.38.162
 
-CCTV5-体育,http://61.138.128.226:19901/tsfile/live/0005_1.m3u8$61.138
-CCTV5+体育赛事,http://112.46.85.60:8009/hls/81/index.m3u8$112
-CCTV5+体育赛事,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv5p$zy.otioi
-CCTV6-电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$mobilelive-ds.ysp
-CCTV6-电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202$官方CDN高清
-CCTV-16-奥林匹克,http://112.46.85.60:8009/hls/86/index.m3u8$112
-
 📡央视移动.可回看,#genre#
 移动线路不限时看,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 电信线路限时观看,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-8:00-17:50前可看,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+9:00-17:50前可看,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
+23:50-9:00前可看,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$黑龙江移动V6
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$黑龙江移动V6
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$黑龙江移动V6
@@ -716,7 +712,7 @@ CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/322122610
 CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
 CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$mobilelive-ds.ysp
-
+CCTV-6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202$官方CDN高清
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
