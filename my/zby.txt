@@ -537,6 +537,36 @@ US WOW TV.电信,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 金砖英文.移动,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
 📡央视.电信,#genre#
+CCTV1,http://s.zbds.top:8581/itv/1000000005000265001.m3u8?cdn=ystenlive$zbds
+CCTV2,http://s.zbds.top:8581/itv/1000000001000023315.m3u8?cdn=ystenlive$zbds
+CCTV3,http://s.zbds.top:8581/itv/1000000005000265003.m3u8?cdn=ystenlive$zbds
+CCTV4,http://s.zbds.top:8581/itv/1000000005000265004.m3u8?cdn=ystenlive$zbds
+CCTV5+,http://s.zbds.top:8581/itv/1000000005000265016.m3u8?cdn=ystenlive$zbds
+CCTV5,http://s.zbds.top:8581/itv/1000000005000265005.m3u8?cdn=ystenlive$zbds
+CCTV6,http://s.zbds.top:8581/itv/1000000001000001737.m3u8?cdn=ystenlive$zbds
+CCTV6,http://s.zbds.top:8581/itv/1000000005000265006.m3u8?cdn=ystenlive$zbds
+CCTV7,http://s.zbds.top:8581/itv/1000000001000024341.m3u8?cdn=ystenlive$zbds
+CCTV7,http://s.zbds.top:8581/itv/1000000005000265007.m3u8?cdn=ystenlive$zbds
+CCTV8,http://s.zbds.top:8581/itv/1000000005000265008.m3u8?cdn=ystenlive$zbds
+CCTV9,http://s.zbds.top:8581/itv/1000000001000014583.m3u8?cdn=ystenlive$zbds
+CCTV9,http://s.zbds.top:8581/itv/1000000005000265009.m3u8?cdn=ystenlive$zbds
+CCTV10,http://s.zbds.top:8581/itv/1000000001000023734.m3u8?cdn=ystenlive$zbds
+CCTV10,http://s.zbds.top:8581/itv/1000000005000265010.m3u8?cdn=ystenlive$zbds
+CCTV10,http://s.zbds.top:8581/itv/5000000004000012827.m3u8?cdn=ystenlive$zbds
+CCTV11,http://s.zbds.top:8581/itv/1000000005000265011.m3u8?cdn=ystenlive$zbds
+CCTV11,http://s.zbds.top:8581/itv/5000000011000031106.m3u8?cdn=ystenlive$zbds
+CCTV12,http://s.zbds.top:8581/itv/1000000001000032494.m3u8?cdn=ystenlive$zbds
+CCTV12,http://s.zbds.top:8581/itv/1000000005000265012.m3u8?cdn=ystenlive$zbds
+CCTV13,http://s.zbds.top:8581/itv/5000000011000031108.m3u8?cdn=ystenlive$zbds
+CCTV14,http://s.zbds.top:8581/itv/1000000001000008170.m3u8?cdn=ystenlive$zbds
+CCTV14,http://s.zbds.top:8581/itv/1000000005000265013.m3u8?cdn=ystenlive$zbds
+CCTV15,http://s.zbds.top:8581/itv/1000000005000265014.m3u8?cdn=ystenlive$zbds
+CCTV15,http://s.zbds.top:8581/itv/5000000011000031109.m3u8?cdn=ystenlive$zbds
+CCTV16,http://s.zbds.top:8581/itv/1000000006000233002.m3u8?cdn=ystenlive$zbds
+CCTV16,http://s.zbds.top:8581/itv/5000000008000023254.m3u8?cdn=bestzb
+CCTV17,http://s.zbds.top:8581/itv/1000000005000265015.m3u8?cdn=ystenlive$zbds
+CCTV17,http://s.zbds.top:8581/itv/1000000006000268004.m3u8?cdn=ystenlive$zbds
+
 CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=mzxn4l$vip itv 50FPS 4K
 CCTV1,https://vip.taoiptv.cn/source/itv.php?id=CCTV150FPS.m3u8&sign=mzxn4l$vip itv 50FPS
 CCTV2,https://vip.taoiptv.cn/source/itv.php?id=CCTV250FPS.m3u8&sign=mzxn4l$vip itv 50FPS
@@ -1190,31 +1220,33 @@ GLO-Bet频道,http://litv.zapi.us.kg/?id=4gtv-4gtv016
 TRACEU频道,http://litv.zapi.us.kg/?id=4gtv-4gtv082
 MEZZOl频道,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 Ginx_TV频道,http://litv.zapi.us.kg/?id=4gtv-4gtv053
-📡港闽.频代,#genre#
-Plus综合频代,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-pₒₚc电影频代,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-凤凰中文频代,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯频代,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港频代,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-中天新闻频代,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-TVB新闻频代,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-TVB翡翠频代,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-TVB明珠频代,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-TVB赛马频代,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-TVBJ1综合美,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-TVB新闻频美,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-TVB翡翠频泰,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-tvbs新闻频代,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvbs闽南频代,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-三立新闻频代,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-三立综合频代,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-中视闽南频代,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-华视闽南频代,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-中天亚洲频代,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-靖天电影频代,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+
+📡港闽.AKTV,#genre#
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台(泰国),http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+三立綜合台,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+
 📡赛事.咪咕,#genre#
 赛事咪咕频壹,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId= 
 赛事咪咕频贰,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
@@ -1272,6 +1304,12 @@ tvbs闽南频代,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 赛事咪咕频4K,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
 📡超清4K.频道,#genre#
+欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
+CCTV-4K 超高清,http://183.207.248.71/PLTV/4/224/3221228228/index.m3u8
+CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-8K 超高清,http://117.72.68.25:9930/ys4k.php?id=8k
+CCTV4K-25P-SDR源,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+
 华数4K,https://vip.taoiptv.cn/source/itv.php?id=华数4K.m3u8&sign=mzxn4l
 华数4K,http://114.55.117.163:8081/iptv/itv.php?id=华数4K.m3u8&sign=mzxn4l
 纯享4K,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
