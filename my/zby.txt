@@ -327,6 +327,12 @@ DJ伤感好听《红颜知己,https://vdse.bdstatic.com//1a7b05ab4eab2d68a679e44
 2021爆红神曲《精选15首》,https://vdse.bdstatic.com//3cb9d378cf895d0706affaec6dc0db4d.mp4
 澳门酒吧音乐DJ,https://vd3.bdstatic.com/mda-mkpi5r0xe92ja446/480p/h264/1637759253085791346/mda-mkpi5r0xe92ja446.mp4
 那英-三生三世十里桃花(MTV),http://em.21dtv.com/songs/60144000.mkv
+丑八怪,https://vdse.bdstatic.com/h265w2/wz73a7dd256ceb924cba0a42b59a23d88d.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=11234682740590063273&vt=-1&svt=-1&cr_max=3&s_score=-1.000000&pt=0&av=17.2&vid=14649716201716490920&mvt=-1&did=a8bea46bcde700ece9c4a15b8888b7a9&cr=3&h265_s=1&sl=299&sle=1&split=639915
+最近-李圣杰,https://vdse.bdstatic.com/h265w2/wz5d8aec653486be6814a12cc0dee19b43.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=20&logid=4020347326&vt=-1&svt=-1&cr_max=3&s_score=-1.000000&pt=0&av=13.58.5.10&vid=5718614891909468505&mvt=-1&did=97affd021c3c824e9be5823db59b49c8&scene=5&cr=3&h265_s=1&sl=351&sle=1&split=739522&abtest=77287_1-78922_2&klogid=1b09b4893a4a7e81&kapid=1&psp=1&psk=0&qtfc=0&qtut=0&traceid=9995f201-ce6098efb32-6a-1b09b4893a4a7e81&tasktype=4
+风中的承诺,https://vdse.bdstatic.com//a8fb7f9bd660eeabb7421c6737fa2b30.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-06-19T18%3A08%3A33Z%2F-1%2Fhost%2F819d4ae83008ff99beb835dbd088d87298421b37d58901611deed23b274bcbf6
+光辉岁月,https://vdse.bdstatic.com/h265w2/wza1a621082f088bfd74543dcf56ea2494.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=8751739173549488507&vt=-1&svt=-1&cr_max=3&s_score=-1.000000&pt=0&av=17.2&vid=11573571837478377573&mvt=-1&did=a8bea46bcde700ece9c4a15b8888b7a9&cr=3&h265_s=1&sl=716&sle=1&split=1422654
+短髮,https://vdse.bdstatic.com//af9d27837a7b94f0baabd188ad4a8f7f.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-06-20T11%3A11%3A57Z%2F-1%2Fhost%2Fedacd72e1d189341e40b36e0de6eeb0e4a545d0ed0ad101f201a368e0a048025
+潇洒走一回,https://vdse.bdstatic.com/h265w2/wza3b50f12c8e134c6d10c26cd884d0da6.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=7721433562112006452&vt=-1&svt=-1&cr_max=2&s_score=-1.000000&pt=0&av=17.2&vid=16795130289385318559&mvt=-1&did=a8bea46bcde700ece9c4a15b8888b7a9&cr=2&h265_s=1&sl=426&sle=1&split=862735
 🎦欧美.MV,#genre#
 阿黛尔(adele)-Don&#39;t You Remember-[超清现场-314M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-aey4gUotf_ntgQ.mp4
 阿黛尔(adele)-Rolling in the deep-[超清现场-447M.mkv-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl6my4gUohcv6swU.mp4
@@ -1192,30 +1198,47 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 
 📡央视.电信,#genre#
 
-CCTV1,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no
-CCTV1,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no
-CCTV2,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=no
-CCTV3,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=no
-CCTV4,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no
-CCTV5+,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265016/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=no
-CCTV5,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265005/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=no
-CCTV6,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000001737/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=no
-CCTV7,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000024341/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=no
-CCTV8,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=no
-CCTV9,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=no
-CCTV10,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000023734/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=no
-CCTV10,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=no
-CCTV11,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
-CCTV11,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=no
-CCTV12,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=no
-CCTV13,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=no
-CCTV14,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=no
-CCTV15,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no
-CCTV15,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=no
-CCTV16,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=no$4K
-CCTV17,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=no
+CCTV1,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$61.164.209.90
+CCTV1,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$61.164.209.90
+CCTV2,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=no$61.164.209.90
+CCTV3,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=no$61.164.209.90
+CCTV4,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no$61.164.209.90
+CCTV5+,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265016/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=no$61.164.209.90
+CCTV5,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265005/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=no$61.164.209.90
+CCTV6,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000001737/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=no$61.164.209.90
+CCTV7,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000024341/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=no$61.164.209.90
+CCTV8,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=no$61.164.209.90
+CCTV9,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=no$61.164.209.90
+CCTV10,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000023734/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=no$61.164.209.90
+CCTV10,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=no$61.164.209.90
+CCTV11,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no$61.164.209.90
+CCTV11,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=no$61.164.209.90
+CCTV12,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=no$61.164.209.90
+CCTV13,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=no$61.164.209.90
+CCTV14,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=no$61.164.209.90
+CCTV15,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no$61.164.209.90
+CCTV15,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000011000031109/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=no$61.164.209.90
+CCTV16,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=no$61.164.209.4K
+CCTV17,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=no$61.164.209.90
 
-
+CCTV1,http://182.92.109.190:1668/migu/migu.php?id=cctv1$咪咕182
+CCTV2,http://182.92.109.190:1668/migu/migu.php?id=cctv2$咪咕182
+CCTV3,http://182.92.109.190:1668/migu/migu.php?id=cctv3$咪咕182
+CCTV4,http://182.92.109.190:1668/migu/migu.php?id=cctv4$咪咕182
+CCTV5,http://182.92.109.190:1668/migu/migu.php?id=cctv5$咪咕182
+CCTV5+,http://182.92.109.190:1668/migu/migu.php?id=cctv5p$咪咕182
+CCTV6,http://182.92.109.190:1668/migu/migu.php?id=cctv6$咪咕182
+CCTV7,http://182.92.109.190:1668/migu/migu.php?id=cctv7$咪咕182
+CCTV8,http://182.92.109.190:1668/migu/migu.php?id=cctv8$咪咕182
+CCTV9,http://182.92.109.190:1668/migu/migu.php?id=cctv9$咪咕182
+CCTV10,http://182.92.109.190:1668/migu/migu.php?id=cctv10$咪咕182
+CCTV11,http://182.92.109.190:1668/migu/migu.php?id=cctv11$咪咕182
+CCTV12,http://182.92.109.190:1668/migu/migu.php?id=cctv12$咪咕182
+CCTV13,http://182.92.109.190:1668/migu/migu.php?id=cctv13$咪咕182
+CCTV14,http://182.92.109.190:1668/migu/migu.php?id=cctv14$咪咕182
+CCTV15,http://182.92.109.190:1668/migu/migu.php?id=cctv15$咪咕182
+CCTV16,http://117.72.36.27:5168/jsyd/jsyd.php?id=G_CCTV-16-CQ.m3u8$咪咕182
+CCTV17,http://182.92.109.190:1668/migu/migu.php?id=cctv17$咪咕182
 
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
