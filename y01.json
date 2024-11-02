@@ -59,9 +59,17 @@
       "api": "./my/直播转点播.js",
       "ext": "./my/直播转点播.txt"
     },
+		 {
+      "key": "豆瓣_欧歌",
+      "name": "🎬豆瓣热播",
+      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
     {
       "key": "公告",
-      "name": "📢公告10.24",
+      "name": "📢公告11.2",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -78,14 +86,6 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "./sc/bofang.php"
-    },
-	 {
-      "key": "豆瓣_欧歌",
-      "name": "🎬豆瓣热播",
-      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
     },
     {
       "key": "应用商店",
@@ -197,6 +197,15 @@
 {"key":"荐片-欧哥","name":"🎬荐片影视","jar":"./my/ou8.6.jar","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key":"热播影视-欧哥","name":"🎬热播影视","jar":"./my/ou20240604.jar","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"纯享影视-欧哥","name":"🎬纯享影视","jar":"./my/ou20240604.jar","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1}, 
+ {
+      "key": "繁荣-味精",
+      "name": "🎬繁荣影视",
+      "type": 3,
+      "api": "csp_Frong",
+      "playerType": 1,
+      "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
+      "jar": "./my/qj24112.jar",
+    },
     {
       "key": "快看影视-开心",
       "name": "🎬快看影视",
