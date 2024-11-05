@@ -1,4 +1,4 @@
-🎦11.2音乐欣赏,#genre#🎦
+🎦11.5音乐欣赏,#genre#🎦
 MV1,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 MV2,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
 欧美动感歌曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
@@ -1221,24 +1221,25 @@ CCTV15,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/50000
 CCTV16,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=no$61.164.209.4K
 CCTV17,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=no$61.164.209.90
 
-CCTV1,http://182.92.109.190:1668/migu/migu.php?id=cctv1$咪咕182
-CCTV2,http://182.92.109.190:1668/migu/migu.php?id=cctv2$咪咕182
-CCTV3,http://182.92.109.190:1668/migu/migu.php?id=cctv3$咪咕182
-CCTV4,http://182.92.109.190:1668/migu/migu.php?id=cctv4$咪咕182
-CCTV5,http://182.92.109.190:1668/migu/migu.php?id=cctv5$咪咕182
-CCTV5+,http://182.92.109.190:1668/migu/migu.php?id=cctv5p$咪咕182
-CCTV6,http://182.92.109.190:1668/migu/migu.php?id=cctv6$咪咕182
-CCTV7,http://182.92.109.190:1668/migu/migu.php?id=cctv7$咪咕182
-CCTV8,http://182.92.109.190:1668/migu/migu.php?id=cctv8$咪咕182
-CCTV9,http://182.92.109.190:1668/migu/migu.php?id=cctv9$咪咕182
-CCTV10,http://182.92.109.190:1668/migu/migu.php?id=cctv10$咪咕182
-CCTV11,http://182.92.109.190:1668/migu/migu.php?id=cctv11$咪咕182
-CCTV12,http://182.92.109.190:1668/migu/migu.php?id=cctv12$咪咕182
-CCTV13,http://182.92.109.190:1668/migu/migu.php?id=cctv13$咪咕182
-CCTV14,http://182.92.109.190:1668/migu/migu.php?id=cctv14$咪咕182
-CCTV15,http://182.92.109.190:1668/migu/migu.php?id=cctv15$咪咕182
-CCTV16,http://117.72.36.27:5168/jsyd/jsyd.php?id=G_CCTV-16-CQ.m3u8$咪咕182
-CCTV17,http://182.92.109.190:1668/migu/migu.php?id=cctv17$咪咕182
+CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv1					
+CCTV2,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv2
+CCTV3,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv3		
+CCTV4,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv4		
+CCTV5,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv5		
+CCTV5+,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv5p	
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV6,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv6		
+CCTV7,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv7		
+CCTV8,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv8		
+CCTV9,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv9		
+CCTV10,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv10		
+CCTV11,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv11		
+CCTV12,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv12	
+CCTV13,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv13		
+CCTV14,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv14		
+CCTV15,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv15	
+CCTV1,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv16
+CCTV17,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv17
 
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV6,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
@@ -1612,88 +1613,6 @@ CCTV央视台球,https://vip.taoiptv.cn/source/jsyd.php?id=G_TAIQIU-CQ.m3u8&sign
 天津卫视,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=no
 
 
-安徽卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_ANHUI-HD-265-8M.m3u8&sign=mzxn4l$taoiptv jsyd
-北京卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_BEIJING-HD-265-8M.m3u8&sign=mzxn4l$taoiptv jsyd
-重庆卫视,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-chongqingstv.m3u8&sign=mzxn4l$taoiptv jsyd
-兵团卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_BINGTUAN.m3u8&sign=mzxn4l$taoiptv jsyd
-东方卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_DONGFANG-HD-265-8M.m3u8&sign=mzxn4l$taoiptv jsyd
-东南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=DNWS.m3u8&sign=mzxn4l$taoiptv jsyd
-甘肃卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_GANSU.m3u8&sign=mzxn4l$taoiptv jsyd
-广东卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_GUANGDONG-HQ.m3u8&sign=mzxn4l$taoiptv jsyd
-广西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=GXWS.m3u8&sign=mzxn4l$taoiptv jsyd
-贵州卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_GUIZHOU.m3u8&sign=mzxn4l$taoiptv jsyd
-海南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=LYWS.m3u8&sign=mzxn4l$taoiptv jsyd
-河北卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HEBEI.m3u8&sign=mzxn4l$taoiptv jsyd
-河南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=HENAN.m3u8&sign=mzxn4l$taoiptv jsyd
-黑龙江卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HEILONGJIANG-HQ.m3u8&sign=mzxn4l$taoiptv jsyd
-湖北卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HUBEI-HD-265-8M.m3u8&sign=mzxn4l$taoiptv jsyd
-湖南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_HUNAN-HD-265-8M.m3u8&sign=mzxn4l$taoiptv jsyd
-吉林卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_JILIN.m3u8&sign=mzxn4l$taoiptv jsyd
-江苏卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_JIANGSU-HD-265-5M.m3u8&sign=mzxn4l$taoiptv jsyd
-江西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=JXWS.m3u8&sign=mzxn4l$taoiptv jsyd
-辽宁卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_LIAONING-HD-265-5M.m3u8&sign=mzxn4l$taoiptv jsyd
-内蒙古卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_NEIMENGGU.m3u8&sign=mzxn4l$taoiptv jsyd
-宁夏卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_NINGXIA.m3u8&sign=mzxn4l$taoiptv jsyd
-青海卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_QINGHAI.m3u8&sign=mzxn4l$taoiptv jsyd
-厦门卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XIAMEN.m3u8&sign=mzxn4l$taoiptv jsyd
-山东卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANDONG-HQ.m3u8&sign=mzxn4l$taoiptv jsyd
-山西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=SXWS.m3u8&sign=mzxn4l$taoiptv jsyd
-陕西卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHANXI.m3u8&sign=mzxn4l$taoiptv jsyd
-深圳卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_SHENZHEN-HQ.m3u8&sign=mzxn4l$taoiptv jsyd
-四川卫视,https://vip.taoiptv.cn/source/jsyd.php?id=SCWS.m3u8&sign=mzxn4l$taoiptv jsyd
-天津卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_TIANJIN-HD-265-5M.m3u8&sign=mzxn4l$taoiptv jsyd
-西藏卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XIZANG.m3u8&sign=mzxn4l$taoiptv jsyd
-新疆卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_XINJIANG.m3u8&sign=mzxn4l$taoiptv jsyd
-云南卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_YUNNAN.m3u8&sign=mzxn4l$taoiptv jsyd
-浙江卫视,https://vip.taoiptv.cn/source/jsyd.php?id=G_ZHEJIANG-HD-265-8M.m3u8&sign=mzxn4l$taoiptv jsyd
-
-
-安徽卫视,https://vip.taoiptv.cn/source/itv.php?id=安徽卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-北京卫视,https://vip.taoiptv.cn/source/itv.php?id=北京卫视HEVC.m3u8&sign=mzxn4l$taoiptv itvHEVC
-重庆卫视,https://vip.taoiptv.cn/source/itv.php?id=重庆卫视HEVC.m3u8&sign=mzxn4l$taoiptv itvHEVC
-东方卫视,https://vip.taoiptv.cn/source/itv.php?id=上海东方卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-东南卫视,https://vip.taoiptv.cn/source/itv.php?id=东南卫视HEVC.m3u8&sign=mzxn4l$taoiptv itvHEVC
-甘肃卫视,https://vip.taoiptv.cn/source/itv.php?id=甘肃卫视.m3u8&sign=mzxn4ll$taoiptv itv
-广东卫视,https://vip.taoiptv.cn/source/itv.php?id=广东卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-广西卫视,https://vip.taoiptv.cn/source/itv.php?id=广西卫视.m3u8&sign=mzxn4ll$taoiptv itv
-贵州卫视,https://vip.taoiptv.cn/source/itv.php?id=贵州卫视.m3u8&sign=mzxn4ll$taoiptv itv
-海南卫视,https://vip.taoiptv.cn/source/itv.php?id=海南卫视.m3u8&sign=mzxn4ll$taoiptv itv
-河北卫视,https://vip.taoiptv.cn/source/itv.php?id=河北卫视.m3u8&sign=mzxn4ll$taoiptv itv
-河南卫视,https://vip.taoiptv.cn/source/itv.php?id=河南卫视.m3u8&sign=mzxn4ll$taoiptv itv
-黑龙江卫视,https://vip.taoiptv.cn/source/itv.php?id=黑龙江卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-湖北卫视,https://vip.taoiptv.cn/source/itv.php?id=湖北卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-湖南卫视,https://vip.taoiptv.cn/source/itv.php?id=湖南卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-吉林卫视,https://vip.taoiptv.cn/source/itv.php?id=吉林卫视.m3u8&sign=mzxn4ll$taoiptv itv
-江苏卫视,https://vip.taoiptv.cn/source/itv.php?id=江苏卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-江西卫视,https://vip.taoiptv.cn/source/itv.php?id=江西卫视HEVC.m3u8&sign=mzxn4l$taoiptv itvHEVC
-辽宁卫视,https://vip.taoiptv.cn/source/itv.php?id=辽宁卫视HEVC.m3u8&sign=mzxn4l$taoiptv itvHEVC
-青海卫视,https://vip.taoiptv.cn/source/itv.php?id=青海卫视.m3u8&sign=mzxn4ll$taoiptv itv
-山东卫视,https://vip.taoiptv.cn/source/itv.php?id=山东卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-深圳卫视,https://vip.taoiptv.cn/source/itv.php?id=深圳卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-四川卫视,https://vip.taoiptv.cn/source/itv.php?id=四川卫视.m3u8&sign=mzxn4ll$taoiptv itv
-天津卫视,https://vip.taoiptv.cn/source/itv.php?id=天津卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-云南卫视,https://vip.taoiptv.cn/source/itv.php?id=云南卫视.m3u8&sign=mzxn4ll$taoiptv itv
-浙江卫视,https://vip.taoiptv.cn/source/itv.php?id=浙江卫视50FPS.m3u8&sign=mzxn4l$taoiptv itv50FPS
-
-
-
-安徽卫视,https://vip.taoiptv.cn/source/gzyx.php?id=bbe500382f3ee26a529e6e27f7f2935c.m3u8&sign=mzxn4l$taoiptv gzyx
-北京卫视,https://vip.taoiptv.cn/source/gzyx.php?id=ebbfea54712e740cd1fc0d3b36873d52.m3u8&sign=mzxn4l$taoiptv gzyx
-重庆卫视,https://vip.taoiptv.cn/source/gzyx.php?id=4491a96771fb324b6469a9ac6e25f5b9.m3u8&sign=mzxn4l$taoiptv gzyx
-广东卫视,https://vip.taoiptv.cn/source/gzyx.php?id=02f45209e8dab92899920d74157fe58b.m3u8&sign=mzxn4l$taoiptv gzyx
-广西卫视,https://vip.taoiptv.cn/source/gzyx.php?id=187ab8cbe6c6ba5db7a938edab1e049a.m3u8&sign=mzxn4l$taoiptv gzyx
-贵州卫视,https://vip.taoiptv.cn/source/gzyx.php?id=9245676006cb79b03798b89fa05576b1.m3u8&sign=mzxn4l$taoiptv gzyx
-黑龙江卫视,https://vip.taoiptv.cn/source/gzyx.php?id=9e3f3b7d57c55d7df8ef1cfb24d56e0e.m3u8&sign=mzxn4l$taoiptv gzyx
-湖北卫视,https://vip.taoiptv.cn/source/gzyx.php?id=21a70fb0fad52b17d49c5554f513d2ca.m3u8&sign=mzxn4l$taoiptv gzyx
-湖南卫视,https://vip.taoiptv.cn/source/gzyx.php?id=93e7f487ec23f5c99d8137e29933a083.m3u8&sign=mzxn4l$taoiptv gzyx
-吉林卫视,https://vip.taoiptv.cn/source/gzyx.php?id=27975dec3d5bb0158291c75402d4a691.m3u8&sign=mzxn4l$taoiptv gzyx
-江苏卫视,https://vip.taoiptv.cn/source/gzyx.php?id=ced2b0d62dabbd8651b18f4323c18c24.m3u8&sign=mzxn4l$taoiptv gzyx
-江西卫视,https://vip.taoiptv.cn/source/gzyx.php?id=5cd94d06a28dc264b537cbac9b7dec19.m3u8&sign=mzxn4l$taoiptv gzyx
-辽宁卫视,https://vip.taoiptv.cn/source/gzyx.php?id=1b84ff537ca4f4b4e57d070563309c56.m3u8&sign=mzxn4l$taoiptv gzyx
-山东卫视,https://vip.taoiptv.cn/source/gzyx.php?id=1db177c7492ad2769a93e3746f25f701.m3u8&sign=mzxn4l$taoiptv gzyx
-四川卫视,https://vip.taoiptv.cn/source/gzyx.php?id=a87d8615af79b7fc8eccaa2014eaf5ca.m3u8&sign=mzxn4l$taoiptv gzyx
-天津卫视,https://vip.taoiptv.cn/source/gzyx.php?id=bc3dcb148fc5c2d805dd0f61997fc683.m3u8&sign=mzxn4l$taoiptv gzyx
-浙江卫视,https://vip.taoiptv.cn/source/gzyx.php?id=a37bf5f7dbfb7bb35a5e6c9b5899dc69.m3u8&sign=mzxn4l$taoiptv gzyx
 
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$ali
@@ -1794,28 +1713,6 @@ iHOT爱悬疑,https://stream1.freetv.fun/8520fb059a162d79fcf1802eefd61963dc7b5e9
 湖南茶频道,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=no
 
 
-
-北京纪实科教,https://vip.taoiptv.cn/source/itv.php?id=北京纪实科教HEVC.m3u8&sign=mzxn4l$vip itv HEVC
-北京卡酷少儿,https://vip.taoiptv.cn/source/itv.php?id=北京卡酷少儿.m3u8&sign=mzxn4l$vip itv
-湖南茶频道,https://vip.taoiptv.cn/source/itv.php?id=湖南茶频道.m3u8&sign=mzxn4l$vip itv
-湖南金鹰纪实,https://vip.taoiptv.cn/source/itv.php?id=湖南金鹰纪实.m3u8&sign=mzxn4l$vip itv
-湖南快乐垂钓,https://vip.taoiptv.cn/source/itv.php?id=湖南快乐垂钓.m3u8&sign=mzxn4l$vip itv
-上海ICS外语,https://vip.taoiptv.cn/source/itv.php?id=上海ICS外语.m3u8&sign=mzxn4l$vip itv
-上海第一财经,https://vip.taoiptv.cn/source/itv.php?id=上海第一财经.m3u8&sign=mzxn4l$vip itv
-上海东方财经,https://vip.taoiptv.cn/source/itv.php?id=上海东方财经.m3u8&sign=mzxn4l$vip itv
-上海东方影视,https://vip.taoiptv.cn/source/itv.php?id=上海东方影视.m3u8&sign=mzxn4l$vip itv
-上海都市,https://vip.taoiptv.cn/source/itv.php?id=上海都市.m3u8&sign=mzxn4l$vip itv
-上海法治天地,https://vip.taoiptv.cn/source/itv.php?id=上海法治天地.m3u8&sign=mzxn4l$vip itv
-上海哈哈炫动,https://vip.taoiptv.cn/source/itv.php?id=上海哈哈炫动.m3u8&sign=mzxn4l$vip itv
-上海纪实人文,https://vip.taoiptv.cn/source/itv.php?id=上海纪实人文50FPS.m3u8&sign=mzxn4l$vip itv 50FPS
-上海五星体育,https://vip.taoiptv.cn/source/itv.php?id=上海五星体育.m3u8&sign=mzxn4l$vip itv
-上海新闻综合,https://vip.taoiptv.cn/source/itv.php?id=上海新闻综合.m3u8&sign=mzxn4l$vip itv
-
-北京纪实科教,https://vip.taoiptv.cn/source/jsyd.php?id=HD-8000k-1080P-beijingjishi.m3u8&sign=mzxn4l$vip jsyd
-北京卡酷少儿,https://vip.taoiptv.cn/source/jsyd.php?id=G_KAKU.m3u8&sign=mzxn4l$vip jsyd
-金鹰卡通,https://vip.taoiptv.cn/source/jsyd.php?id=G_JINYING.m3u8&sign=mzxn4l$vip jsyd
-上海哈哈炫动,https://vip.taoiptv.cn/source/jsyd.php?id=G_XUANDONG.m3u8&sign=mzxn4l$vip jsyd
-上海纪实人文,https://vip.taoiptv.cn/source/jsyd.php?id=H265-5500k-1080P-shanghaijishi.m3u8&sign=mzxn4l$vip jsyd
 
 湖南快乐垂钓,https://vip.taoiptv.cn/source/gzyx.php?id=5dd1c17a5f5c3f8ff243a2a8b4adc712.m3u8&sign=mzxn4l$vip gzyx
 北京纪实科教,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265020/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265020&livemode=1&stbId=3$111
@@ -2013,7 +1910,7 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 赛事咪咕频4K,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 
 📡超清4K.频道,#genre#
-4K频道,#genre#
+
 纯享4K,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=no
 纯享4K,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=no
 
@@ -2345,38 +2242,15 @@ CCTV6影院,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8$mobilelive-ds.y
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 1905国外电影,http://ygbh.live/1905.php?id=1905b
 1905国外电影,http://live.iill.top/1905.php?id=1905b
-美剧解说轮播,https://www.goodiptv.club/douyu/9643264
-经典美剧解说,https://www.goodiptv.club/douyu/9123570
-冰冰经典,http://159.75.85.63:35455/douyu/74374
-瑶瑶恐怖,http://159.75.85.63:35455/douyu/2935323
-萌小鬼片,http://159.75.85.63:35455/douyu/3928
-神乐影剧,http://159.75.85.63:35455/douyu/122402
-可乐影院,http://159.75.85.63:35455/douyu/20415
-小宇60帧,http://159.75.85.63:35455/douyu/323876
-電影劇場,http://159.75.85.63:35455/douyu/7575350
-漫威剧情,http://159.75.85.63:35455/douyu/6140589
-鱼宝恐怖,http://159.75.85.63:35455/douyu/1165374
-吃奶滴虫,http://159.75.85.63:35455/douyu/263824
-喜剧电影,http://159.75.85.63:35455/douyu/9292492
-贝爷max,http://159.75.85.63:35455/douyu/4332
-贝爷影厅,http://159.75.85.63:35455/douyu/252802
-欧美大片,http://159.75.85.63:35455/douyu/2793084
-豆瓣高分,http://159.75.85.63:35455/douyu/8770422
-霍格沃茨,http://159.75.85.63:35455/douyu/8814650
-邵氏影院,http://159.75.85.63:35455/douyu/4246519
-吃米滴虫,http://159.75.85.63:35455/douyu/315457
-星爷影院,http://159.75.85.63:35455/douyu/508118
-怡寶影院,http://159.75.85.63:35455/douyu/434971
-恐怖惊悚,http://159.75.85.63:35455/douyu/96577
-小猪优版剧院,https://www.goodiptv.club/douyu/10297898
+
+
+
 女神电影,http://maomao.kandiantv.cn/douyu1.php?id=747764
 译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
 电影剧场,http://maomao.kandiantv.cn/douyu1.php?id=7575350
-AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
 变种人片,http://maomao.kandiantv.cn/douyu1.php?id=96577
 华语经典,http://maomao.kandiantv.cn/douyu1.php?id=434971
-国语译制电影,https://www.goodiptv.club/douyu/2436390
-雪中悍刀行剧,http://159.75.85.63:35455/huya/11336592#http://cfss.cc/cdn/hy/11336592.m3u8
+
 83射雕英雄传,http://cfss.cc/cdn/yy/1354210357.m3u8
 95神雕侠侣粤,http://cfss.cc/cdn/yy/1354926637.m3u8
 96笑傲江湖版,http://cfss.cc/cdn/yy/1354930909.m3u8
@@ -2386,24 +2260,15 @@ AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
 花千骨电视剧,http://cfss.cc/cdn/yy/1354943110.m3u8
 少年歌行剧集,http://cfss.cc/cdn/yy/1450556636.m3u8
 鹊刀门传奇剧,http://cfss.cc/cdn/yy/1355344777.m3u8
-与凤行电视剧,http://159.75.85.63:35455/huya/26355866#http://cfss.cc/cdn/hy/26355866.m3u8
-开端电视轮播,http://159.75.85.63:35455/huya/11342397#http://cfss.cc/cdn/hy/11342397.m3u8
 我的体育老师,http://cfss.cc/cdn/yy/1382745169.m3u8
 如果岁月轮播,http://cfss.cc/cdn/yy/1382736883.m3u8
 流金岁月轮播,http://cfss.cc/cdn/yy/1382749906.m3u8
-欢乐颂电视剧,https://www.goodiptv.club/douyu/3756989
-好先生电视剧,https://www.goodiptv.club/douyu/9650792
 我的前半生剧,http://cfss.cc/cdn/yy/1382735564.m3u8
 伪装者电视剧,http://cfss.cc/cdn/yy/1354936244.m3u8
-雪豹电视轮播,http://159.75.85.63:35455/huya/29580970#http://cfss.cc/cdn/hy/29580970.m3u8
 火蓝刀锋轮播,http://cfss.cc/cdn/yy/1382737892.m3u8
 二炮手电视剧,http://cfss.cc/cdn/yy/1354930964.m3u8
 炮神电视轮播,http://cfss.cc/cdn/yy/22089862.m3u8
 风筝电视轮播,http://cfss.cc/cdn/yy/1354931585.m3u8
-武林外传轮播,http://159.75.85.63:35455/bilibili/1933651963#http://cfss.cc/cdn/yy/1355652820.m3u8
-科幻Fans轮播,https://www.goodiptv.club/douyu/3508304
-科幻解说轮播,https://www.goodiptv.club/douyu/9338839
-科幻梦工场播,http://159.75.85.63:35455/huya/15152155#http://cfss.cc/cdn/hy/15152155.m3u8
 笑声传奇轮播,http://cfss.cc/cdn/yy/1382736880.m3u8
 笑傲帮集轮播,http://cfss.cc/cdn/yy/1382735555.m3u8
 笑傲江湖一季,http://cfss.cc/cdn/yy/1382749896.m3u8
@@ -2412,7 +2277,7 @@ AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
 欢乐集结号三,http://cfss.cc/cdn/yy/1382736822.m3u8
 欢乐集结号四,http://cfss.cc/cdn/yy/1382736889.m3u8
 金星脱口秀播,http://cfss.cc/cdn/yy/1382735552.m3u8
-脱口秀大会播,http://159.75.85.63:35455/huya/11352875#http://cfss.cc/cdn/hy/11352875.m3u8
+脱口秀大会播,http://cfss.cc/cdn/hy/11352875.m3u8
 吐槽大会京都,http://cfss.cc/cdn/yy/1354936210.m3u8
 吐槽大会海天,http://cfss.cc/cdn/yy/1354932379.m3u8
 吐槽大会二季,http://cfss.cc/cdn/yy/1354936145.m3u8
@@ -2424,7 +2289,7 @@ AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
 粤语轮播港剧,https://www.goodiptv.club/douyu/9019945
 粤语轮播剧集,https://www.goodiptv.club/douyu/10567318
 粤语经典综艺,https://www.goodiptv.club/douyu/7919720
-粤语星爷电影,http://159.75.85.63:35455/huya/11336587#http://cfss.cc/cdn/hy/11336587.m3u8
+粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
 粤语极清电影,https://pull-ws2.tjyaoying.cn/live/7765_1723855126.flv
 粤语版电影一,https://www.goodiptv.club/douyu/5033502
 粤语版电影二,https://www.goodiptv.club/douyu/6566671
