@@ -11,15 +11,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	 {
-      "name": "IPV4",
-      "type": 0,
-      "url": "https://gongdian.top/tv/gongdian.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },	
+	 
 	 {
       "name": "港闽AKTV",
       "type": 0,
@@ -69,7 +61,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告11.5",
+      "name": "📢公告11.7",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -192,6 +184,7 @@
       "playerType": 1,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
+{"key":"nmys","name":"🎬农民资源","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
 {"key":"荐片-开心","name":"🎬荐片秒播","type":3,"api":"./my/drpy2.min.js","ext":"./my/jianpian.js"},
 {"key":"文采-开心","name":"🎬文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"荐片-欧哥","name":"🎬荐片影视","jar":"./my/ou8.6.jar","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
@@ -243,6 +236,7 @@
         {
             "key": "布谷TV",
             "name": "🎬布谷TV磁",
+			"jar": "./my/spider.jar",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
