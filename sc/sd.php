@@ -11,7 +11,7 @@
     ]
   },
   {
-    "name": "软件更新10.23",
+    "name": "软件更新11.11",
     "list": [
       {
         "name": "应用管家v1.4.3",
@@ -26,8 +26,8 @@
         "version": "TV版"
       },
 	  {
-        "name": "影视仓手机_2.0.47",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版2.0.47短视频.apk",
+        "name": "影视仓手机2.0.49.1",
+        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版2.0.49.1.apk",
         "icon": " ",
         "version": "手机版"
       },
