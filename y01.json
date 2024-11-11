@@ -39,6 +39,9 @@
       "name": "🔐大师私藏",
       "type": 3,
       "api": "./my/直播转点播.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./my/直播转点播.txt"
     },
 		 {
