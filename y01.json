@@ -82,6 +82,63 @@
       "changeable": 0,
       "ext": "./sc/sd.php"
     },
+	 {
+      "key": "MV-欧哥",
+      "name": "🅱️MTV热榜",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./my/MTV-哔哩0723.json"
+    },
+    {
+      "key": "哔哩MV_yun",
+      "name": "🅱️哔哩MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./my/吾爱MTV.json"
+    },
+    {
+      "key": "哔哩演唱会_肥猫",
+      "name": "🅱️哔哩音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "./my/ych_feimao.json"
+    },
+	 {
+      "key": "music-小白龙",
+      "name": "🎧酷狗TOP",
+      "type": 3,
+      "api": "csp_Music",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "jar": "./dj/酷狗音乐.jar"
+    },
+	 {
+      "key": "js_酷狗MV_duoduo",
+      "name": "🎧酷狗MV",
+      "type": 3,
+      "api": "./my/drpy26.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./my/酷狗MV_duo.js"
+    },
+	
     {
       "key": "Aid_feimao",
       "name": "🚑急救教学",
@@ -727,16 +784,19 @@
       "filterable": 1,
       "ext": "./my/哔哩经典_hechengchaxiu.json"
     },
-   
-    {
-      "key": " 在线直播1_feimao",
-      "name": "📣直播竞技",
-
-      "type": 3,
-      "api": "csp_Yj1211",
+	{"key":"哔哩直播-开心","name":"📣直播哔哩","type":3,"api":"./my/drpy26.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/blzb.js"},
+	 {
+      "key": "直播转点播1_壹梦线路",
+      "name": "📣直播教育",
+      "type": 4,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "http://120.53.102.254/dsp16",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "js_310直播_duoduo",
@@ -758,19 +818,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./my/qie_duo.py"
-    },
-    {
-      "key": "斗鱼直播-天天开心",
-      "name": "📣直播斗鱼",
-
-      "type": 3,
-      "api": "./my/drpy26.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/douyu.js"
-    },
-   
+    },   
     {
       "key": "drpy_js_虎牙直播_壹梦线路",
       "name": "📣直播虎牙",
@@ -780,34 +828,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./my/虎牙直播_壹梦线路.js"
-    },
-    {
-      "key": " 在线直播2_feimao",
-      "name": "📣直播聚合",
-      "type": 3,
-      "api": "./my/ddrpy2.m_feimao.js",
-      "ext": "./my/whLive_feimao.js",
-      "gridview": "0-0-H",
-      "style": {
-        "type": "rect",
-        "ratio": 1.68
-      }
-    },
-   
-	{"key":"哔哩直播-开心","name":"📣直播哔哩","type":3,"api":"./my/drpy26.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/blzb.js"},
-
-    {
-      "key": "直播转点播1_壹梦线路",
-      "name": "📣直播教育",
-      "type": 4,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "api": "http://120.53.102.254/dsp16",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "相声小品",
@@ -828,29 +848,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./my/Blixq.json"
-    },
-    {
-      "key": "js_酷狗MV_duoduo",
-      "name": "🔊酷狗MV",
-      "type": 3,
-      "api": "./my/drpy26.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/酷狗MV_duo.js"
-    },
-	 {
-      "key": "music-小白龙",
-      "name": "🔊酷狗TOP",
-      "type": 3,
-      "api": "csp_Music",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "jar": "./dj/酷狗音乐.jar"
     },
     {
       "key": "js_六月听书_duoduo",
@@ -906,7 +903,7 @@
     },
     {
       "key": "drpy_js_清风DJ",
-      "name": "🎙️听DJ清风",
+      "name": "🎧听DJ清风",
       "type": 3,
       "api": "./my/drpy26.min.js",
 	  "searchable": 0,
@@ -917,7 +914,7 @@
     },
     {
       "key": "csp_XYQHiker_DJ呦呦音乐网_壹梦线路1条",
-      "name": "🎙️听DJ呦呦",
+      "name": "🎧听DJ呦呦",
 
       "type": 3,
       "api": "csp_XYQHiker",
@@ -928,7 +925,7 @@
     },
     {
       "key": "哔哩drpy_js_相声随身听_乐享汇fans",
-      "name": "🎙️听相声1",
+      "name": "🎧听相声1",
       "type": 3,
       "api": "./my/drpy26.min.js",
 	  "searchable": 0,
@@ -939,7 +936,7 @@
     },
     {
       "key": "相声",
-      "name": "🎙️听相声2",
+      "name": "🎧听相声2",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -975,7 +972,7 @@
     },
     {
       "key": "评书",
-      "name": "🎙️听评书",
+      "name": "🎧听评书",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -1135,20 +1132,7 @@
       "filterable": 1,
       "changeable": 0
     },
-    {
-      "key": "MV-欧哥",
-      "name": "🅱️MTV热榜",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./my/MTV-哔哩0723.json"
-    },
+   
     {
       "key": "哔哩dr_武享吧_壹梦线路",
       "name": "🅱️哔哩格斗",
@@ -1189,25 +1173,7 @@
       "filterable": 1,
       "ext": "./my/吾爱户外_壹梦.json"
     },
-    {
-      "key": "哔哩MV_yun",
-      "name": "🅱️哔哩MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/吾爱MTV.json"
-    },
-    {
-      "key": "哔哩演唱会_肥猫",
-      "name": "🅱️哔哩音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "./my/ych_feimao.json"
-    },
+	
     {
       "key": "哔哩音乐2023_hechengchaxou",
       "name": "🅱️茶道古筝",
