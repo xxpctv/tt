@@ -264,28 +264,12 @@ TVB奥运开幕式,https://c1.rrcdnbf3.com/video/2024niandi33jiebaliaoyunhuikaim
 📡央视.卫视-电信,#genre#
 
 CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
-CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$2
-CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$3
-CCTV1,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$4
-CCTV1,http://183.66.15.146:60901/tsfile/live/0001_1.m3u8?key=txiptv&5
-CCTV1,http://vod.hnqczh.cn:808/hls/9/index.m3u8$6
-CCTV1,http://42.48.50.232:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$7
-CCTV1,http://218.13.170.98:9901/tsfile/live/0001_1.m3u8$8
-CCTV1,http://123.166.61.70:8003/hls/11/index.m3u8$9
-CCTV1,http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$10
-CCTV1,http://111.14.181.15:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$11
-CCTV1,http://112.123.206.32:808/hls/1/index.m3u8$12
-CCTV1,http://58.51.111.46:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$13
-CCTV1,http://123.182.60.29:9002/hls/1/index.m3u8$14
-CCTV1,http://118.81.107.31:9999/tsfile/live/0001_1.m3u8$15
-CCTV1,http://fangke.blueswords.com:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$16
-CCTV1,http://120.224.178.16:9901/tsfile/live/0001_1.m3u8$17
-CCTV1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$18
+CCTV1,https://api.livednow.org/migu/608807420$44
 CCTV1,http://222.95.182.110:4022/rtp/239.49.8.129:6000$19
-CCTV1,http://58.51.111.46:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$20
 CCTV1,http://58.51.111.46:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$21
 CCTV1,http://118.78.220.127:8686/rtp/226.0.2.153:9136$22
 CCTV1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$23
+
 
 CCTV4,http://58.51.111.46:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://58.51.111.46:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
