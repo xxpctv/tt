@@ -22,14 +22,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },	
 	{
-      "name": "群恒星源",
+      "name": "直播V6线路",
       "type": 0,
-      "url": "http://yuhuahx.com/dsj66.txt",
+      "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/a8868812345/tv/raw/v6",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
+	
   ],
   "warningText": "Ajeossi接口维护，追剧无忧！",
   "wallpaper": "http://maoyingshi.cc/api.php",
@@ -54,7 +55,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告11.11",
+      "name": "📢公告11.16",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
