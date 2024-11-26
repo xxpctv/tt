@@ -63,7 +63,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告11.16",
+      "name": "📢公告11.26",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -171,20 +171,12 @@
       "filterable": 1,
       "ext": "./my/中医药区.json"
     },
-	 {
-      "key": "天天-巧技3条",
-      "name": "🎬天天App",
-	  "jar": "./my/fix24726.jar",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
-    },
+	 
 {"key":"荐片-开心","name":"🎬荐片秒播","type":3,"api":"./my/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./my/jianpian.js"},
 {"key":"文采-开心","name":"🎬文采秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"荐片-欧哥","name":"🎬荐片影视","jar":"./my/ou8.6.jar","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key":"热播影视-欧哥","name":"🎬热播影视","jar":"./my/ou20240604.jar","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"纯享影视-欧哥","name":"🎬纯享影视","jar":"./my/ou20240604.jar","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1}, 
+
     {
       "key": "骚火影视-欧哥",
       "name": "🎬骚火影视",
@@ -588,6 +580,15 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./my/人人影视_cainis.js"
+    },
+	{
+      "key": "天天-巧技3条",
+      "name": "🎬天天App",
+	  "jar": "./my/fix24726.jar",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
 	{
       "key": "明日影视-欧哥",
