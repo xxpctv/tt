@@ -28,17 +28,8 @@
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },	
-	{
-      "name": "直播V6线路",
-      "type": 0,
-      "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/a8868812345/tv/raw/v6",
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-	
+    }	
+
   ],
   "warningText": "Ajeossi接口维护，追剧无忧！",
   "wallpaper": "http://maoyingshi.cc/api.php",
@@ -1511,7 +1502,7 @@
       "filterable": 1,
       "ext": "./jy/小灯塔人文.json"
     },
-    {"key":"hipy_js_贝乐虎","name":"🐰贝乐虎","type":3,"api":"./drpy_libs/drpy2.min.js","order_num":0,"ext":"./my/贝乐虎[儿].js"},
+    {"key":"hipy_js_贝乐虎","name":"🐰贝乐虎","type":3,"jar": "./my/danmu12.8.jar","api":"./drpy_libs/drpy2.min.js","order_num":0,"ext":"./my/贝乐虎[儿].js"},
 	{"key": "csp_XYQHiker_兔小贝-开心","name":"🐰兔小贝1","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝1.json"},
     {"key": "csp_XYQHiker_兔小贝-开心2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝2.json"},
 
@@ -1625,7 +1616,7 @@
 {"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","ext":"./my/蒜瓣影视.json"},
 {"key":"XBPQ_火狼影视1","name":"🎬火狼影视","type":3,"api":"csp_XBPQ","ext":"./my/火狼影视.json"},
 {"key":"XBPQ_鹊桥影视","name":"🎬鹊桥影视","type":3,"api":"csp_XBPQ","ext":"./my/鹊桥影视.json"},
-{"key":"hipy_js_爱动漫","name":"🎬爱动漫","type":3,"api":"./my/drpy26.min.js","order_num":0,"ext":"./my/爱动漫.js"},
+{"key":"hipy_js_爱动漫","name":"🎬爱动漫","type":3,"jar": "./my/danmu12.8.jar","api":"./my/drpy26.min.js","order_num":0,"ext":"./my/爱动漫.js"},
 {"key":"XBPQ_魅影视频","name":"🎬魅影视频","type":3,"api":"csp_XBPQ","ext":"./my/魅影视频.json"},
 {"key":"T4_奥特影视","name":"✨T4奥特影视","type":4,"api":"https://catbox.n13.club/t4/auete.php","ext":true},
 {"key":"T4_电影港影视","name":"✨T4电影港","type":4,"api":"https://catbox.n13.club/t4/dygangs.php","ext":true},
