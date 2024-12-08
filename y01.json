@@ -611,28 +611,10 @@
       "quickSearch": 0,
       "filterable": 0
     },
-	 {
-      "key": "csp_无忧短剧-恒星",
-      "name": "🎦无忧短剧",
-      "type": 3,
-      "api": "csp_Duanj",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./dj/danmu5.23.jar"
     },
 	{"key":"XBPQ_大树短剧","name":"🎦大树短剧","type":3,"api":"csp_XBPQ","ext":"./my/大树短剧.json"},
 {"key":"NyaFun动漫-欧哥","jar":"./my/ou20240604.jar","name":"🌼妮呀动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"}},
 
-	
-    {
-      "key": "58动漫网_cainis",
-      "name": "🌼58动漫",
-      "type": 3,
-      "api": "./my/drpy26.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./my/58动漫_cainis.js"
-    },
     {
       "key": "drpy_js_网易公版影像_乐享汇fans",
       "name": "🇨🇳珍贵史料",
@@ -1019,7 +1001,7 @@
     },
     {
       "key": "drpy_js_蜻蜓FM",
-      "name": "📻听广播蜻蜓",
+      "name": "📻听广播",
       "type": 3,
       "api": "./my/drpy26.min.js",
       "ext": "./my/蜻蜓FM.js",
@@ -1641,15 +1623,16 @@
 {"key":"腐剧视频-欧歌","name":"🎬腐剧影视", "jar":"./my/ou8.6.jar","type":3,"api":"csp_WexFujutv","searchable":1,"quickSearch": 1,"changeable":1},
 {"key":"XBPQ_哈哈伦理影视","name":"🎬哈哈影视","type":3,"api":"csp_XBPQ","ext":"./my/哈哈伦理影视.json"},
 {"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","ext":"./my/蒜瓣影视.json"},
-{"key":"XBPQ_火狼影视1","name":"🎬火狼影视1","type":3,"api":"csp_XBPQ","ext":"./my/火狼影视.json"},
-{"key":"XBPQ_鹊桥影视","name":"♎鹊桥影视","type":3,"api":"csp_XBPQ","ext":"./my/鹊桥影视.json"},
+{"key":"XBPQ_火狼影视1","name":"🎬火狼影视","type":3,"api":"csp_XBPQ","ext":"./my/火狼影视.json"},
+{"key":"XBPQ_鹊桥影视","name":"🎬鹊桥影视","type":3,"api":"csp_XBPQ","ext":"./my/鹊桥影视.json"},
 {"key":"hipy_js_爱动漫","name":"🎬爱动漫","type":3,"api":"./my/drpy26.min.js","order_num":0,"ext":"./my/爱动漫.js"},
-{"key":"T4_奥特影视","name":"✨奥特影视","type":4,"api":"https://catbox.n13.club/t4/auete.php","ext":true},
-{"key":"T4_电影港影视","name":"✨电影港","type":4,"api":"https://catbox.n13.club/t4/dygangs.php","ext":true},
-{"key":"T4_央视精选","name":"🎦央视精选","type":4,"api":"https://catbox.n13.club/t4/cntv.php","ext":true},
-{"key":"T4_博看听书","name":"📖博看听书","type":4,"api":"https://catbox.n13.club/t4/bookan.php","ext":true},
-{"key":"T4_蜻蜓FM","name":"📻蜻蜓FM","type":4,"api":"https://catbox.n13.club/t4/qingting.php","ext":true},
-{"key":"T4_企鹅体育","name":"🏋企鹅体育","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php","ext":true},
+{"key":"XBPQ_魅影视频","name":"🎬魅影视频","type":3,"api":"csp_XBPQ","ext":"./my/魅影视频.json"},
+{"key":"T4_奥特影视","name":"✨T4奥特影视","type":4,"api":"https://catbox.n13.club/t4/auete.php","ext":true},
+{"key":"T4_电影港影视","name":"✨T4电影港","type":4,"api":"https://catbox.n13.club/t4/dygangs.php","ext":true},
+{"key":"T4_央视精选","name":"🎦T4央视精选","type":4,"api":"https://catbox.n13.club/t4/cntv.php","ext":true},
+{"key":"T4_博看听书","name":"📖T4博看听书","type":4,"api":"https://catbox.n13.club/t4/bookan.php","ext":true},
+{"key":"T4_蜻蜓FM","name":"📻T4蜻蜓FM","type":4,"api":"https://catbox.n13.club/t4/qingting.php","ext":true},
+{"key":"T4_企鹅体育","name":"🏋T4企鹅体育","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php","ext":true},
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
