@@ -1503,7 +1503,7 @@
       "filterable": 1,
       "ext": "./jy/小灯塔人文.json"
     },
-    {"key":"hipy_js_贝乐虎","name":"🐰贝乐虎","type":3,"jar": "./my/danmu12.8.jar","api":"./dj/drpy2.min.js","order_num":0,"ext":"./my/贝乐虎[儿].js"},
+    {"key":"hipy_js_贝乐虎","name":"🐰贝乐虎","type":3,"jar": "./my/danmu12.8.jar","api":"./dj/drpy2.min.js","order_num":0,"ext":"./my/贝乐虎.js"},
 	{"key": "csp_XYQHiker_兔小贝-开心","name":"🐰兔小贝1","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝1.json"},
     {"key": "csp_XYQHiker_兔小贝-开心2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝2.json"},
 
