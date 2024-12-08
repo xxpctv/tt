@@ -63,7 +63,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告11.26",
+      "name": "📢公告12.8",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -620,6 +620,7 @@
       "changeable": 0,
       "jar": "./dj/danmu5.23.jar"
     },
+	{"key":"XBPQ_大树短剧","name":"🎦大树短剧","type":3,"api":"csp_XBPQ","ext":"./my/大树短剧.json"},
 {"key":"NyaFun动漫-欧哥","jar":"./my/ou20240604.jar","name":"🌼妮呀动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"}},
 
 	
@@ -1528,7 +1529,7 @@
       "filterable": 1,
       "ext": "./jy/小灯塔人文.json"
     },
-   
+    {"key":"hipy_js_贝乐虎","name":"🐰贝乐虎","type":3,"api":"./drpy_libs/drpy2.min.js","order_num":0,"ext":"./my/贝乐虎[儿].js"},
 	{"key": "csp_XYQHiker_兔小贝-开心","name":"🐰兔小贝1","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝1.json"},
     {"key": "csp_XYQHiker_兔小贝-开心2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝2.json"},
 
@@ -1636,7 +1637,19 @@
      "changeable": 0,
      "ext": "./my/webdav.txt"
     },
+	{"key":"csp_预告","name":"🎬影视预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"腐剧视频-欧歌","name":"🎬腐剧影视", "jar":"./my/ou8.6.jar","type":3,"api":"csp_WexFujutv","searchable":1,"quickSearch": 1,"changeable":1},
+{"key":"XBPQ_哈哈伦理影视","name":"🎬哈哈影视","type":3,"api":"csp_XBPQ","ext":"./my/哈哈伦理影视.json"},
+{"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","ext":"./my/蒜瓣影视.json"},
+{"key":"XBPQ_火狼影视1","name":"🎬火狼影视1","type":3,"api":"csp_XBPQ","ext":"./my/火狼影视.json"},
+{"key":"XBPQ_鹊桥影视","name":"♎鹊桥影视","type":3,"api":"csp_XBPQ","ext":"./my/鹊桥影视.json"},
+{"key":"hipy_js_爱动漫","name":"🎬爱动漫","type":3,"api":"./my/drpy26.min.js","order_num":0,"ext":"./my/爱动漫.js"},
+{"key":"T4_奥特影视","name":"✨奥特影视","type":4,"api":"https://catbox.n13.club/t4/auete.php","ext":true},
+{"key":"T4_电影港影视","name":"✨电影港","type":4,"api":"https://catbox.n13.club/t4/dygangs.php","ext":true},
+{"key":"T4_央视精选","name":"🎦央视精选","type":4,"api":"https://catbox.n13.club/t4/cntv.php","ext":true},
+{"key":"T4_博看听书","name":"📖博看听书","type":4,"api":"https://catbox.n13.club/t4/bookan.php","ext":true},
+{"key":"T4_蜻蜓FM","name":"📻蜻蜓FM","type":4,"api":"https://catbox.n13.club/t4/qingting.php","ext":true},
+{"key":"T4_企鹅体育","name":"🏋企鹅体育","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php","ext":true},
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
@@ -1651,8 +1664,20 @@
   ],
   
   "parses": [
-    {
-      "name": "🌎夜幕",
+{"name":"🔯巧技₁","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url="},
+{"name":"🔯巧技₂","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},
+     {"name": "🍃虾米₁",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+{"name":"🍃虾米₂","type":0,"url":"https://jx.xmflv.cc/?url="},
+{"name":"🍃8090","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
+    { "name": "🌎夜幕",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
       "ext": {
@@ -1737,21 +1762,7 @@
         ]
       }
     },
-    {
-      "name": "虾米",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-        {
-      "name": "8090G",
-      "type": 0,
-      "url": "https://www.8090g.cn/?url="
-    },
+    
     {
       "name": "🌎盘古解析",
       "type": 0,
