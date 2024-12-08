@@ -611,7 +611,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    },
+
 	{"key":"XBPQ_大树短剧","name":"🎦大树短剧","type":3,"api":"csp_XBPQ","ext":"./my/大树短剧.json"},
 {"key":"NyaFun动漫-欧哥","jar":"./my/ou20240604.jar","name":"🌼妮呀动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"}},
 
