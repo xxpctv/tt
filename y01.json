@@ -54,7 +54,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告12.8",
+      "name": "📢公告12.9",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -331,6 +331,13 @@
             "quickSearch": 1,
             "filterable": 1
         },
+		
+{"key": "csp_xml_红牛","name": "🎬红牛2K","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+"searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key": "索尼资源","name": "🎬索尼2K","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
+{"key": "奈飞中文-开心","name":"🎬奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nfzw.json"},
+{"key":"XBPQ_统一影视","name":"🎬统一影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/统一影视.json"},
+{"key":"XBPQ_旋风视频","name":"🎬旋风视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/旋风视频.json"},
     {
       "key": "drpy_js_奇珍异兽",
       "name": "🎬爱奇艺",
@@ -559,12 +566,6 @@
         "国产动漫"
       ]
     },    
-{"key": "csp_xml_红牛","name": "🎬红牛2K","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-"searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key": "索尼资源","name": "🎬索尼2K","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
-{"key": "奈飞中文-开心","name":"🎬奈飞中文","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nfzw.json"},
-{"key":"XBPQ_旋风视频","name":"🎬旋风视频","type":3,"api":"csp_XBPQ","ext":"./my/旋风视频.json"},
-{"key":"XBPQ_统一影视","name":"🎬统一影视","type":3,"api":"csp_XBPQ","ext":"./my/统一影视.json"},
     {
       "key": "人人影视_cainis",
       "name": "🎬人人影视",
@@ -601,11 +602,11 @@
       "type": 3,
       "api": "csp_AppXY",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "quickSearch": 1,
+      "filterable": 1
     },
 
-	{"key":"XBPQ_大树短剧","name":"🎦大树短剧","type":3,"api":"csp_XBPQ","ext":"./my/大树短剧.json"},
+	{"key":"XBPQ_大树短剧","name":"🎦大树短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/大树短剧.json"},
 {"key":"NyaFun动漫-欧哥","jar":"./my/ou20240604.jar","name":"🌼妮呀动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"}},
 
     {
@@ -1613,21 +1614,21 @@
      "ext": "./my/webdav.txt"
     },
 	{"key":"csp_预告","name":"🎬影视预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/蒜瓣影视.json"},
 {"key":"腐剧视频-欧歌","name":"🎬腐剧影视", "jar":"./my/ou8.6.jar","type":3,"api":"csp_WexFujutv","searchable":1,"quickSearch": 1,"changeable":1},
 {"key":"XBPQ_哈哈伦理影视","name":"🎬哈哈影视","type":3,"api":"csp_XBPQ","ext":"./my/哈哈伦理影视.json"},
-{"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","ext":"./my/蒜瓣影视.json"},
-{"key":"XBPQ_火狼影视1","name":"🎬火狼影视","type":3,"api":"csp_XBPQ","ext":"./my/火狼影视.json"},
-{"key":"XBPQ_鹊桥影视","name":"🎬鹊桥影视","type":3,"api":"csp_XBPQ","ext":"./my/鹊桥影视.json"},
-{"key":"XBPQ_魅影视频","name":"🎬魅影视频","type":3,"api":"csp_XBPQ","ext":"./my/魅影视频.json"},
-{"key":"hipy_js_爱动漫","name":"🎬爱动漫","type":3,"api":"./dj/drpy2.min.js","order_num":0,"ext":"./my/爱动漫.js"},
-{"key":"XBPQ_白狐动漫","name":"🎬白狐动漫","type":3,"api":"csp_XBPQ","ext":"./my/白狐动漫.json"},
+{"key":"XBPQ_火狼影视1","name":"🎬火狼影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/火狼影视.json"},
+{"key":"XBPQ_鹊桥影视","name":"🎬鹊桥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/鹊桥影视.json"},
+{"key":"XBPQ_魅影视频","name":"🎬魅影视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/魅影视频.json"},
+{"key":"hipy_js_爱动漫","name":"🎬爱动漫","type":3,"api":"./dj/drpy2.min.js","order_num":0,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/爱动漫.js"},
+{"key":"XBPQ_白狐动漫","name":"🎬白狐动漫","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/白狐动漫.json"},
 
-{"key":"T4_奥特影视","name":"✨T4奥特影视","type":4,"api":"https://catbox.n13.club/t4/auete.php","ext":true},
-{"key":"T4_电影港影视","name":"✨T4电影港","type":4,"api":"https://catbox.n13.club/t4/dygangs.php","ext":true},
-{"key":"T4_央视精选","name":"🎦T4央视精选","type":4,"api":"https://catbox.n13.club/t4/cntv.php","ext":true},
-{"key":"T4_博看听书","name":"📖T4博看听书","type":4,"api":"https://catbox.n13.club/t4/bookan.php","ext":true},
-{"key":"T4_蜻蜓FM","name":"📻T4蜻蜓FM","type":4,"api":"https://catbox.n13.club/t4/qingting.php","ext":true},
-{"key":"T4_企鹅体育","name":"🏋T4企鹅体育","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php","ext":true},
+{"key":"T4_奥特影视","name":"✨T4奥特影视","type":4,"api":"https://catbox.n13.club/t4/auete.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
+{"key":"T4_电影港影视","name":"✨T4电影港","type":4,"api":"https://catbox.n13.club/t4/dygangs.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
+{"key":"T4_央视精选","name":"🎦T4央视精选","type":4,"api":"https://catbox.n13.club/t4/cntv.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
+{"key":"T4_博看听书","name":"📖T4博看听书","type":4,"api":"https://catbox.n13.club/t4/bookan.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
+{"key":"T4_蜻蜓FM","name":"📻T4蜻蜓FM","type":4,"api":"https://catbox.n13.club/t4/qingting.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
+{"key":"T4_企鹅体育","name":"🏋T4企鹅体育","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
