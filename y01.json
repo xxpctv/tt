@@ -19,16 +19,8 @@
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }, 
-	 {
-      "name": "港闽AKTV",
-      "type": 0,
-      "url": "http://aktv.top/live.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }	
+    }
+	 
 
   ],
   "warningText": "Ajeossi接口维护，追剧无忧！",
@@ -54,7 +46,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告12.9",
+      "name": "📢公告12.31",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -297,20 +289,7 @@
         "简介": "detail-desc\">&&</p>"
       }
     },
-	{
-  "key": "keke",
-  "name": "🎬可可影视",
-  "jar": "./dj/可可影视.jar",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": {
-    "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}--{catePg}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$6"
-  }
-},
+
 {"key":"农民影视-开心","name":"🎬农民秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nongmin.json"},
 
 	  {
@@ -1623,12 +1602,6 @@
 {"key":"hipy_js_爱动漫","name":"🎬爱动漫","type":3,"api":"./dj/drpy2.min.js","order_num":0,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/爱动漫.js"},
 {"key":"XBPQ_白狐动漫","name":"🎬白狐动漫","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/白狐动漫.json"},
 
-{"key":"T4_奥特影视","name":"✨T4奥特影视","type":4,"api":"https://catbox.n13.club/t4/auete.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
-{"key":"T4_电影港影视","name":"✨T4电影港","type":4,"api":"https://catbox.n13.club/t4/dygangs.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
-{"key":"T4_央视精选","name":"🎦T4央视精选","type":4,"api":"https://catbox.n13.club/t4/cntv.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
-{"key":"T4_博看听书","name":"📖T4博看听书","type":4,"api":"https://catbox.n13.club/t4/bookan.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
-{"key":"T4_蜻蜓FM","name":"📻T4蜻蜓FM","type":4,"api":"https://catbox.n13.club/t4/qingting.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
-{"key":"T4_企鹅体育","name":"🏋T4企鹅体育","type":4,"api":"https://catbox.n13.club/t4/qietiyu.php","searchable":1,"quickSearch":1,"filterable":1,"ext":true},
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
