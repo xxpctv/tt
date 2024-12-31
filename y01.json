@@ -72,6 +72,7 @@
       "jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
       "ext": "./my/公告.json"
     },
+ {"key":"csp_预告","name":"🎬影视预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":0},
     {
       "key": "常见问题",
       "name": "❓常见问题",
@@ -230,16 +231,7 @@
 },
  
   
-	  {
-      "key": "csp_CandyMuj_taoju-看电影线路1条",
-      "name": "🎬淘剧影院",
-      "jar": "./my/lem1225.jar",
-      "type": 3,
-      "api": "csp_CandyMuj_taoju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+	
 	 {
       "key": "4K影视-开心",
       "name": "🎬4K影视",
@@ -335,7 +327,16 @@
       "api": "./kx/drpy2.min.js",
       "ext": "./my/瓜子.js"
     },
-		
+  {
+      "key": "csp_CandyMuj_taoju-看电影线路1条",
+      "name": "🎬淘剧影院",
+      "jar": "./my/lem1225.jar",
+      "type": 3,
+      "api": "csp_CandyMuj_taoju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },		
 {"key": "csp_xml_红牛","name": "🎬红牛2K","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
 "searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key": "索尼资源","name": "🎬索尼2K","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
@@ -1550,7 +1551,16 @@
     {"key":"hipy_js_贝乐虎","name":"🐰贝乐虎","type":3,"api":"./dj/drpy2.min.js","order_num":0,"ext":"./my/贝乐虎.js"},
 	{"key": "csp_XYQHiker_兔小贝-开心","name":"🐰兔小贝1","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝1.json"},
     {"key": "csp_XYQHiker_兔小贝-开心2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝2.json"},
-
+ {
+      "key": "csp_XYQHiker_播视童趣开心",
+      "name": "🦋播视童趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./my/json/播视童趣.json"
+    },
     {
       "key": "搭讪",
       "name": "💋搭讪",
@@ -1669,14 +1679,13 @@
       },
       "timeout": 10
     },
-	{"key":"csp_预告","name":"🎬影视预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/蒜瓣影视.json"},
-{"key":"腐剧视频-欧歌","name":"🎬腐剧影视", "jar":"./my/ou8.6.jar","type":3,"api":"csp_WexFujutv","searchable":1,"quickSearch": 1,"changeable":1},
-{"key":"XBPQ_哈哈伦理影视","name":"🎬哈哈影视","type":3,"api":"csp_XBPQ","ext":"./my/哈哈伦理影视.json"},
-{"key":"XBPQ_火狼影视1","name":"🎬火狼影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/火狼影视.json"},
-{"key":"XBPQ_鹊桥影视","name":"🎬鹊桥影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/鹊桥影视.json"},
-{"key":"XBPQ_魅影视频","name":"🎬魅影视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/魅影视频.json"},
-{"key":"hipy_js_爱动漫","name":"🎬爱动漫","type":3,"api":"./dj/drpy2.min.js","order_num":0,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/爱动漫.js"},
+
+{"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/蒜瓣影视.json"},
+{"key":"腐剧视频-欧歌","name":"🎬腐剧影视", "jar":"./my/ou8.6.jar","type":3,"api":"csp_WexFujutv","searchable":0,"quickSearch": 0,"changeable":0},
+{"key":"XBPQ_哈哈伦理影视","name":"🎬哈哈影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/哈哈伦理影视.json"},
+{"key":"XBPQ_火狼影视1","name":"🎬火狼影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/火狼影视.json"},
+{"key":"XBPQ_鹊桥影视","name":"🎬鹊桥影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/鹊桥影视.json"},
+{"key":"XBPQ_魅影视频","name":"🎬魅影视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/魅影视频.json"},
 {"key":"XBPQ_白狐动漫","name":"🎬白狐动漫","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/白狐动漫.json"},
 
 	{
