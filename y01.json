@@ -668,7 +668,7 @@
 	{
       "key": "微云影视",
       "name": "🎦微云短剧",
-	  "jar":"./my/ou8.6.jar",
+	  "jar":"./my/spider短剧.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -679,7 +679,7 @@
 	{
       "key": "理理短剧",
       "name": "🎦理理短剧",
-	  "jar":"./my/ou8.6.jar",
+	  "jar":"./my/spider短剧.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -732,7 +732,7 @@
     {
       "key": "py_cctvzh",
       "name": "🇨🇳央视综合",
-	  "jar":"./my/ou8.6.jar",
+	  "jar":"./my/pandaQ231018.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -743,7 +743,7 @@
     {
       "key": "py_cctvxw",
       "name": "🇨🇳央视新闻",
-	  "jar":"./my/ou8.6.jar",
+	  "jar":"./my/pandaQ231018.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -754,7 +754,7 @@
     {
       "key": "py_cctvzy",
       "name": "🇨🇳央视综艺",
-	  "jar":"./my/20240108.jar",
+	  "jar":"./my/pandaQ231018.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -765,7 +765,7 @@
     {
       "key": "py_cctvdc_欧哥",
       "name": "🇨🇳央视片库",
-	  "jar": "./my/cctv231121.jar",
+	  "jar": "./my/pandaQ231018.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
