@@ -732,7 +732,7 @@
     {
       "key": "py_cctvzh",
       "name": "🇨🇳央视综合",
-	  "jar":"./my/pandaQ231018.jar",
+	  "jar":"./my/ttkx0909.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -743,7 +743,7 @@
     {
       "key": "py_cctvxw",
       "name": "🇨🇳央视新闻",
-	  "jar":"./my/pandaQ231018.jar",
+	  "jar":"./my/ou20240604.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -754,7 +754,7 @@
     {
       "key": "py_cctvzy",
       "name": "🇨🇳央视综艺",
-	  "jar":"./my/pandaQ231018.jar",
+	  "jar":"./my/20240108.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -765,7 +765,7 @@
     {
       "key": "py_cctvdc_欧哥",
       "name": "🇨🇳央视片库",
-	  "jar": "./my/pandaQ231018.jar",
+	  "jar": "./my/ttkx0909.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
@@ -776,7 +776,7 @@
     {
       "key": "py_cctvdy",
       "name": "🇨🇳央视电影",
-	  "jar": "./my/cctv231121.jar",
+	  "jar": "./my/ttkx807.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
