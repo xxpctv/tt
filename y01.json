@@ -644,6 +644,37 @@
       "filterable": 1,
       "ext": "./my/可可影视.json"
     },
+	{
+      "key": "一起看",
+      "name": "🎦一起看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./my/一起看短剧.json"
+    },
+    {
+      "key": "DJW",
+      "name": "🎦短剧网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./my/短剧网.json"
+    },
+	{
+      "key": "微云影视",
+      "name": "🎦微云短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./my/微云短剧.json"
+    },
 {"key":"NyaFun动漫-欧哥","jar":"./my/ou20240604.jar","name":"🌼妮呀动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"}},
 {
       "key": "爱动漫_js开心",
@@ -679,6 +710,7 @@
     {
       "key": "py_cctvzh",
       "name": "🇨🇳央视综合",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -689,6 +721,7 @@
     {
       "key": "py_cctvxw",
       "name": "🇨🇳央视新闻",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -699,6 +732,7 @@
     {
       "key": "py_cctvzy",
       "name": "🇨🇳央视综艺",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -709,6 +743,7 @@
     {
       "key": "py_cctvdc_欧哥",
       "name": "🇨🇳央视片库",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
@@ -719,6 +754,7 @@
     {
       "key": "py_cctvdy",
       "name": "🇨🇳央视电影",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
@@ -729,6 +765,7 @@
     {
       "key": "py_cctvty",
       "name": "🇨🇳央视体育",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -739,6 +776,7 @@
     {
       "key": "py_cctvkj",
       "name": "🇨🇳央视科教",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -749,6 +787,7 @@
     {
       "key": "py_cctvyy",
       "name": "🇨🇳央视音乐",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -759,6 +798,7 @@
     {
       "key": "py_cctvse",
       "name": "🇨🇳央视少儿",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -770,6 +810,7 @@
     {
       "key": "py_cctvny",
       "name": "🇨🇳央视农业",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -780,6 +821,7 @@
     {
       "key": "py_cctvjs",
       "name": "🇨🇳央视军事",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -790,6 +832,7 @@
     {
       "key": "py_cctvxq",
       "name": "🇨🇳央视戏曲",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -800,6 +843,7 @@
     {
       "key": "py_cctv",
       "name": "🇨🇳央视合集",
+	  "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -810,7 +854,7 @@
     {
       "key": "哔哩央视经典_hechengchaxiu",
       "name": "🇨🇳央视经典",
-
+      "jar": "./my/cctv231121.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
