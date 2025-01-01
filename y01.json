@@ -111,7 +111,7 @@
     {
       "key": "哔哩MV_yun",
       "name": "🅱️哔哩MV",
-	  "jar":"./my/ou8.6.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -122,7 +122,7 @@
     {
       "key": "哔哩演唱会_肥猫",
       "name": "🅱️哔哩音乐",
-	  "jar":"./my/ou8.6.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -169,6 +169,7 @@
     {
       "key": "py_zyy",
       "name": "💊中医药区",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -732,7 +733,7 @@
     {
       "key": "py_cctvzh",
       "name": "🇨🇳央视综合",
-	  "jar":"./my/ttkx0909.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -743,7 +744,7 @@
     {
       "key": "py_cctvxw",
       "name": "🇨🇳央视新闻",
-	  "jar":"./my/ou20240604.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -754,7 +755,7 @@
     {
       "key": "py_cctvzy",
       "name": "🇨🇳央视综艺",
-	  "jar":"./my/20240108.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -765,7 +766,7 @@
     {
       "key": "py_cctvdc_欧哥",
       "name": "🇨🇳央视片库",
-	  "jar": "./my/ttkx0909.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
@@ -776,7 +777,7 @@
     {
       "key": "py_cctvdy",
       "name": "🇨🇳央视电影",
-	  "jar": "./my/ttkx807.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 1,
@@ -787,7 +788,7 @@
     {
       "key": "py_cctvty",
       "name": "🇨🇳央视体育",
-	  "jar": "./my/cctv231121.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -798,7 +799,7 @@
     {
       "key": "py_cctvkj",
       "name": "🇨🇳央视科教",
-	  "jar": "./my/cctv231121.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -820,7 +821,7 @@
     {
       "key": "py_cctvse",
       "name": "🇨🇳央视少儿",
-	  "jar": "./my/cctv231121.jar",
+	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -876,7 +877,7 @@
     {
       "key": "哔哩央视经典_hechengchaxiu",
       "name": "🇨🇳央视经典",
-      "jar": "./my/cctv231121.jar",
+      "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1822,6 +1823,36 @@
   ],
   
   "parses": [
+
+ {
+      "name": "优选",
+      "type": 1,
+      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
 {"name":"🔯巧技₁","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url="},
 
      {"name": "🍃虾米₁",
