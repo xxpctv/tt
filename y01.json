@@ -366,7 +366,7 @@
       "name": "🎬腾讯弹幕",
 	  "jar": "./my/潇洒spider.jar",
       "type": 3,
-      "api": "./my/drpy26.min.js",
+      "api": "./kx/drpy2.min.js",
       "ext": "./my/TXDM.js"
     },
     {
@@ -374,7 +374,7 @@
       "name": "🎬优酷弹幕",
 	  "jar": "./my/潇洒spider.jar",
       "type": 3,
-      "api": "./my/drpy26.min.js",
+      "api": "./kx/drpy2.min.js",
       "ext": "./my/YKDM.js"
     },
     {
@@ -382,7 +382,7 @@
       "name": "🎬芒果弹幕",
 	  "jar": "./my/潇洒spider.jar",
       "type": 3,
-      "api": "./my/drpy26.min.js",
+      "api": "./kx/drpy2.min.js",
       "ext": "./my/MGDM.js"
     },
     {
@@ -390,7 +390,7 @@
       "name": "🎬奇艺弹幕",
 	  "jar": "./my/潇洒spider.jar",
       "type": 3,
-      "api": "./my/drpy26.min.js",
+      "api": "./kx/drpy2.min.js",
       "ext": "./my/AQYDM.js"
     },	
 	{
