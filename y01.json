@@ -733,7 +733,7 @@
     {
       "key": "py_cctvzh",
       "name": "🇨🇳央视综合",
-	  "jar":"./my/PandaQ240408.jar",
+	  "jar":"./my/ttkx807.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -744,7 +744,7 @@
     {
       "key": "py_cctvxw",
       "name": "🇨🇳央视新闻",
-	  "jar":"./my/PandaQ240408.jar",
+	  "jar":"./my/ttkx807.jar",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
