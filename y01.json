@@ -730,150 +730,7 @@
       "filterable": 0,
       "ext": "./my/央视大全.json"
     },
-    {
-      "key": "py_cctvzh",
-      "name": "🇨🇳央视综合",
-	  "jar":"./my/ttkx807.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvzh_星河.py"
-    },
-    {
-      "key": "py_cctvxw",
-      "name": "🇨🇳央视新闻",
-	  "jar":"./my/ttkx807.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvxw_星河.py"
-    },
-    {
-      "key": "py_cctvzy",
-      "name": "🇨🇳央视综艺",
-	  "jar":"./my/Bili2511.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvzy_星河.py"
-    },
-    {
-      "key": "py_cctvdc_欧哥",
-      "name": "🇨🇳央视片库",
-	  "jar":"./my/Bili2511.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/py_cctvdc_ouge.json"
-    },
-    {
-      "key": "py_cctvdy",
-      "name": "🇨🇳央视电影",
-	  "jar":"./my/Bili2511.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/py_cctvdy_星河.py"
-    },
-    {
-      "key": "py_cctvty",
-      "name": "🇨🇳央视体育",
-	  "jar":"./my/Bili2511.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvty_星河.py"
-    },
-    {
-      "key": "py_cctvkj",
-      "name": "🇨🇳央视科教",
-	  "jar":"./my/Bili2511.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvkj_星河.py"
-    },
-    {
-      "key": "py_cctvyy",
-      "name": "🇨🇳央视音乐",
-	  "jar": "./my/cctv231121.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvyy_星河.py"
-    },
-    {
-      "key": "py_cctvse",
-      "name": "🇨🇳央视少儿",
-	  "jar":"./my/Bili2511.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvse_星河.py"
-    },
-    
-    {
-      "key": "py_cctvny",
-      "name": "🇨🇳央视农业",
-	  "jar": "./my/cctv231121.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvny_星河.py"
-    },
-    {
-      "key": "py_cctvjs",
-      "name": "🇨🇳央视军事",
-	  "jar": "./my/cctv231121.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvjs_星河.py"
-    },
-    {
-      "key": "py_cctvxq",
-      "name": "🇨🇳央视戏曲",
-	  "jar": "./my/cctv231121.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctvxq_星河.py"
-    },
-    {
-      "key": "py_cctv",
-      "name": "🇨🇳央视合集",
-	  "jar": "./my/cctv231121.jar",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/py_cctv_星河.py"
-    },
+   
     {
       "key": "哔哩央视经典_hechengchaxiu",
       "name": "🇨🇳央视经典",
@@ -1031,7 +888,7 @@
     {
       "key": "哔哩drpy_js_相声随身听_乐享汇fans",
       "name": "🎧听相声1",
-	  "jar":"./my/ou8.6.jar",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
 	  "searchable": 0,
@@ -1043,7 +900,7 @@
     {
       "key": "相声",
       "name": "🎧听相声2",
-	  "jar":"./my/ou8.6.jar",
+
       "type": 3,
       "searchable": 0,
       "style": {
@@ -1253,7 +1110,7 @@
     {
       "key": "哔哩dr_武享吧_壹梦线路",
       "name": "🅱️哔哩格斗",
-	  "jar":"./my/Bili2511.jar",
+
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 0,
@@ -1673,9 +1530,9 @@
       "filterable": 1,
       "ext": "./jy/小灯塔人文.json"
     },
-    {"key":"hipy_js_贝乐虎","name":"🐰贝乐虎","jar":"./my/Bili2511.jar","type":3,"api":"./dj/drpy2.min.js","order_num":0,"ext":"./my/贝乐虎.js"},
-	{"key": "csp_XYQHiker_兔小贝-开心","name":"🐰兔小贝1","jar":"./my/Bili2511.jar","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝1.json"},
-    {"key": "csp_XYQHiker_兔小贝-开心2","name":"🐰兔小贝2","jar":"./my/Bili2511.jar","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝2.json"},
+    {"key":"hipy_js_贝乐虎","name":"🐰贝乐虎","type":3,"api":"./dj/drpy2.min.js","order_num":0,"ext":"./my/贝乐虎.js"},
+	{"key": "csp_XYQHiker_兔小贝-开心","name":"🐰兔小贝1","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝1.json"},
+    {"key": "csp_XYQHiker_兔小贝-开心2","name":"🐰兔小贝2","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/兔小贝2.json"},
  {
       "key": "csp_XYQHiker_播视童趣开心",
       "name": "🦋播视童趣",
