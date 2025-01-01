@@ -1,5 +1,5 @@
-📢12.31更新,#genre#
-听.更多音乐,http://allinone.netsite.cc/douyu/11531165
+📢1.1更新,#genre#
+听.更多音乐,http://fy.zhoujie218.top/douyu/329667
 请.切换.直播源,https://vd3.bdstatic.com/mda-qiddcccerswzse2y/1080p/cae_h264/1726594235651313041/mda-qiddcccerswzse2y.mp4
 选.直播.线路,https://vd4.bdstatic.com/mda-qj75qy3ekgi64z7x/1080p/cae_h264/1728367504240691447/mda-qj75qy3ekgi64z7x.mp4
 听.精选热门.歌曲,https://vd4.bdstatic.com/mda-qc6it7mqv1kct7s6/1080p/cae_h264/1709831394624356957/mda-qc6it7mqv1kct7s6.mp4
@@ -832,39 +832,6 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 银川生活,https://play-sh13.quklive.com/live/1667883987087179.m3u8?auth_key=2021511783-6528ebe014cf471a852b6a89afcb8a67-0-3d2a4dacb5ff4326e95c09e46ce1dba9
 银川公共,https://play-sh13.quklive.com/live/1667883943560053.m3u8?auth_key=2021511970-9223c52058d042638629eb705eeff980-0-436578c34fe28e58c6bbf629f36b87b4
 银川文体,https://play-sh13.quklive.com/live/1667884025738071.m3u8?auth_key=2021512079-472c5c2791fc4567bfa908c79c9e0a6a-0-dcdb58c85620a47120855c0db0217473
-
-
-
-💝咪咕.赛事,#genre#
-赛事咪咕频壹,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕频叁,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕频肆,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕频伍,http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕频柒,http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕频拾,http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕拾壹,http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕壹贰,http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕壹叁,http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕壹伍,http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕壹陆,http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕壹柒,http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕壹玖,http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕贰拾,http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕贰肆,http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕贰伍,http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕贰柒,http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕贰捌,http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕叁肆,http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕叁伍,http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕叁陆,http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕叁捌,http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕肆壹,http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕肆叁,http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕肆肆,http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕肆柒,http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕伍壹,http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-赛事咪咕伍贰,http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-
 
 
 🎬电影.轮播,#genre#
