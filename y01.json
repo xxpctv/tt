@@ -757,28 +757,6 @@
       "filterable": 0
     },
     {
-      "key": "js_310直播_duoduo",
-      "name": "📣直播🏀⚽",
-     "jar":"./my/ou8.6.jar",
-      "type": 3,
-      "api": "./my/drpy26.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./my/310_duo.js"
-    },
-    {
-      "key": "py_qie_duoduo",
-      "name": "📣直播企鹅",
-	  "jar":"./my/ou8.6.jar",
-      "type": 3,
-      "api": "py_qie",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/qie_duo.py"
-    },   
-    {
       "key": "drpy_js_虎牙直播_壹梦线路",
       "name": "📣直播虎牙",
       "type": 3,
@@ -885,21 +863,10 @@
       "filterable": 1,
       "ext": "./my/DJ呦呦音乐网_壹梦.json"
     },
-    {
-      "key": "哔哩drpy_js_相声随身听_乐享汇fans",
-      "name": "🎧听相声1",
-
-      "type": 3,
-      "api": "./my/drpy26.min.js",
-	  "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/相声随身听_乐享汇.js",
-      "playerType": "2"
-    },
+    
     {
       "key": "相声",
-      "name": "🎧听相声2",
+      "name": "🎧听相声",
 
       "type": 3,
       "searchable": 0,
@@ -1105,18 +1072,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0
-    },
-   
-    {
-      "key": "哔哩dr_武享吧_壹梦线路",
-      "name": "🅱️哔哩格斗",
-
-      "type": 3,
-      "api": "./my/drpy26.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/武享吧_壹梦.js"
     },
     {
       "key": "哔哩Bili",
