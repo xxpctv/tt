@@ -347,7 +347,52 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },   
+    }, 
+{
+      "key": "糯米弹幕",
+      "name": "🎬糯米弹幕",
+	  "jar": "./my/潇洒spider.jar",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "腾讯弹幕",
+      "name": "🎬腾讯弹幕",
+	  "jar": "./my/潇洒spider.jar",
+      "type": 3,
+      "api": "./my/drpy2.min.js",
+      "ext": "./my/TXDM.js"
+    },
+    {
+      "key": "优酷弹幕",
+      "name": "🎬优酷弹幕",
+	  "jar": "./my/潇洒spider.jar",
+      "type": 3,
+      "api": "./my/drpy2.min.js",
+      "ext": "./my/YKDM.js"
+    },
+    {
+      "key": "芒果弹幕",
+      "name": "🎬芒果弹幕",
+	  "jar": "./my/潇洒spider.jar",
+      "type": 3,
+      "api": "./my/drpy2.min.js",
+      "ext": "./my/MGDM.js"
+    },
+    {
+      "key": "爱奇艺弹幕",
+      "name": "🎬奇艺弹幕",
+	  "jar": "./my/潇洒spider.jar",
+      "type": 3,
+      "api": "./my/drpy2.min.js",
+      "ext": "./my/AQYDM.js"
+    },	
 	{
       "key": "drpy_js_奇珍异兽",
       "name": "🎬爱奇艺",
