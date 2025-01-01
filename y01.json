@@ -64,7 +64,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告12.31",
+      "name": "📢公告1.1",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -96,6 +96,7 @@
 	 {
       "key": "MV-欧哥",
       "name": "🅱️MTV热榜",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -110,6 +111,7 @@
     {
       "key": "哔哩MV_yun",
       "name": "🅱️哔哩MV",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -120,6 +122,7 @@
     {
       "key": "哔哩演唱会_肥猫",
       "name": "🅱️哔哩音乐",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1070,6 +1073,7 @@
     {
       "key": "哔哩哔哩",
       "name": "🅱️哔哩合集",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1081,6 +1085,7 @@
     {
       "key": "哔哩csp_Bili1_黄金影视",
       "name": "🅱️窗白噪音",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1091,6 +1096,7 @@
     {
       "key": "哔哩csp_Bili_壹梦线路",
       "name": "🅱️动物世界",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1101,6 +1107,7 @@
     {
       "key": "春节",
       "name": "🅱️哔哩春节",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1109,12 +1116,13 @@
       "ext": "./my/吾爱春节.json"
     },
    
-{"key": "美食","name": "🅱️美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./my/美食.json"},
-{"key": "球类","name": "🅱️球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球类合集.json"}, 
-{"key": "球星","name": "🅱️球星合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球星合集.json"},
+{"key": "美食","name": "🅱️美食合集","jar":"./my/ou8.6.jar","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./my/美食.json"},
+{"key": "球类","name": "🅱️球类合集","jar":"./my/ou8.6.jar","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球类合集.json"}, 
+{"key": "球星","name": "🅱️球星合集","jar":"./my/ou8.6.jar","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球星合集.json"},
  {
       "key": "哔哩吾爱乐器_壹梦线路",
       "name": "🅱️乐器合集",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1125,6 +1133,7 @@
     {
       "key": "哔哩体育_yun",
       "name": "🅱️体育合集",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1135,6 +1144,7 @@
 	{
       "key": "运动-欧哥",
       "name": "🅱️健身合集",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1145,6 +1155,7 @@
 	 {
       "key": "哔哩棋牌",
       "name": "🅱️棋牌合集",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1156,10 +1167,11 @@
 	 {
       "key": "MTV合集",
       "name": "🅱️MTV合集",
+	  "jar":"./my/ou8.6.jar",
       "type": 1,
       "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "changeable": 0
     },
@@ -1167,6 +1179,7 @@
     {
       "key": "哔哩dr_武享吧_壹梦线路",
       "name": "🅱️哔哩格斗",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 0,
@@ -1177,6 +1190,7 @@
     {
       "key": "哔哩Bili",
       "name": "🅱️真人秀",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1187,6 +1201,7 @@
     {
       "key": "哔哩解说",
       "name": "🅱️电影解说",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1197,6 +1212,7 @@
     {
       "key": "哔哩吾爱户外_壹梦线路",
       "name": "🅱️哔哩户外",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1208,6 +1224,7 @@
     {
       "key": "哔哩音乐2023_hechengchaxou",
       "name": "🅱️茶道古筝",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1218,6 +1235,7 @@
     {
       "key": "哔哩MV_yun",
       "name": "🅱️无损音乐",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1228,6 +1246,7 @@
     {
       "key": "哔哩演唱会自定义_yun",
       "name": "🅱️哔哩演唱会",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1238,6 +1257,7 @@
     {
       "key": "哔哩演唱会自定义",
       "name": "🅱️哔哩歌手",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1248,6 +1268,7 @@
     {
       "key": "哔哩舞蹈_yun",
       "name": "🅱️哔哩舞蹈",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1258,6 +1279,7 @@
     {
       "key": "哔哩py_Nvtuan",
       "name": "🅱️女团热舞",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1268,6 +1290,7 @@
     {
       "key": "哔哩py_Meinvw",
       "name": "🅱️美女舞蹈",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1278,6 +1301,7 @@
     {
       "key": "歌舞",
       "name": "🅱️印度歌舞",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1288,6 +1312,7 @@
     {
       "key": "哔哩车模_yun",
       "name": "🅱️哔哩车模",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1298,6 +1323,7 @@
     {
       "key": "哔哩UP主_yun",
       "name": "🅱️UP主机",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1308,6 +1334,7 @@
     {
       "key": "哔哩软件_yun",
       "name": "🅱️软件教程",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1318,6 +1345,7 @@
     {
       "key": "哔哩PS_yun",
       "name": "🅱️PS教程",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1328,6 +1356,7 @@
     {
       "key": "哔哩EXCEL_yun",
       "name": "🅱️Excel教程",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1338,6 +1367,7 @@
     {
       "key": "演唱会-欧哥",
       "name": "🅱️演唱会",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -1352,6 +1382,7 @@
     {
       "key": "儿童拼音",
       "name": "🅱️儿童拼音",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1362,6 +1393,7 @@
     {
       "key": "儿童识字",
       "name": "🅱️儿童识字",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1372,6 +1404,7 @@
     {
       "key": "儿童英语",
       "name": "🅱️儿童英语",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1382,6 +1415,7 @@
     {
       "key": "儿童硬笔",
       "name": "🅱️儿童硬笔",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1392,6 +1426,7 @@
     {
       "key": "儿童思维",
       "name": "🅱️儿童思维",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1402,6 +1437,7 @@
     {
       "key": "儿童口才",
       "name": "🅱️儿童口才",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1412,6 +1448,7 @@
     {
       "key": "儿童编程",
       "name": "🅱️儿童编程",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1422,6 +1459,7 @@
     {
       "key": "儿童武术",
       "name": "🅱️儿童武术",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1432,6 +1470,7 @@
     {
       "key": "少儿教育",
       "name": "🅱️教育少儿",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1442,6 +1481,7 @@
     {
       "key": "小学课堂",
       "name": "🅱️教育小学",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1452,6 +1492,7 @@
     {
       "key": "初中课堂",
       "name": "🅱️教育初中",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1462,6 +1503,7 @@
     {
       "key": "高中教育",
       "name": "🅱️教育高中",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1472,6 +1514,7 @@
     {
       "key": "哔哩吾爱学堂高考",
       "name": "🅱️教育高考",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1482,6 +1525,7 @@
     {
       "key": "奥数理化",
       "name": "🅱️奥数理化",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1492,6 +1536,7 @@
     {
       "key": "外语课堂",
       "name": "🅱️外语课堂",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1502,6 +1547,7 @@
     {
       "key": "小灯塔百科",
       "name": "🅱️小灯塔百科",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1512,6 +1558,7 @@
     {
       "key": "小灯塔科学",
       "name": "🅱️小灯塔科学",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1522,6 +1569,7 @@
     {
       "key": "小灯塔地理",
       "name": "🅱️小灯塔地理",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1532,6 +1580,7 @@
     {
       "key": "小灯塔国学",
       "name": "🅱️小灯塔国学",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1542,6 +1591,7 @@
     {
       "key": "小灯塔人文",
       "name": "🅱️小灯塔人文",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1565,6 +1615,7 @@
     {
       "key": "搭讪",
       "name": "💋搭讪",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1575,6 +1626,7 @@
     {
       "key": "搭配",
       "name": "💃搭配",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1585,6 +1637,7 @@
     {
       "key": "py_中国文化",
       "name": "📚️中国文化",
+	  "jar":"./my/ou8.6.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
