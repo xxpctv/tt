@@ -3,7 +3,7 @@
   
   "lives": [
     {
-      "name": "大师源",
+      "name": "大师TV",
       "type": 0,
       "url": "https://gitlab.com/jeossi/t/-/raw/main/my/zby.txt",
       "playerType": 1,
@@ -24,6 +24,15 @@
       "name": "开心频道(EXO)",
       "type": 0,
       "url": "http://kxrj.site:55/lib/kx2024.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	{
+      "name": "TV直播(每日更新)",
+      "type": 0,
+      "url": "https://live.iptv365.org/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
