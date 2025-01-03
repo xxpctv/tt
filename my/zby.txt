@@ -733,6 +733,11 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 重温经典影院,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 1905极限反转,http://43.138.11.122:215/cctv.php?id=1905a
 1905环球经典,http://43.138.11.122:215/cctv.php?id=1905b
+精品影院,http://zby.xjqxz.top/zh13/live.m3u8
+情感影院,http://zby.xjqxz.top/zh09/live.m3u8
+动作影院,http://zby.xjqxz.top/zh04/live.m3u8
+院线大片,http://zby.xjqxz.top/zh06/live.m3u8
+流金岁月,http://zby.xjqxz.top/hkdy1/live.m3u8
 
 🎮游戏.直播,#genre#
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
