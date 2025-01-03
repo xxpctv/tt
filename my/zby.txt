@@ -33,7 +33,7 @@
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
 
 
-👉临时.频道,#genre#
+👉港澳临时.频道,#genre#
 凤凰资讯,http://ali.hlspull.yximgs.com/live/8d92016e9a791ff8f0d9f1a48e75a7c8.flv
 凤凰中文,http://ali.hlspull.yximgs.com/live/e85ae002c9ae52e93c3c7f85e143b5cb.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/820c9a3c59d8784e65008c4b35312ffa.flv
@@ -63,10 +63,11 @@ AXN,http://ali.hlspull.yximgs.com/live/10f38a772f10cd602f203c2704c5301e.flv
 东森洋片,http://ali.hlspull.yximgs.com/live/2d010027189a2bb351babe3520b47514.flv
 东森戏剧,http://ali.hlspull.yximgs.com/live/25874afe944f1b6315549db1cbc0f5e6.flv
 
-👉AKTV.频道,#genre#
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+👉AKTV临时.频道,#genre#
+
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 亚洲新闻台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -274,6 +275,7 @@ CCTV15,http://221.224.4.170:1111/tsfile/live/0015_1.m3u8$221.224.4.170
 
 🛰央视咪咕.频道,#genre#
 
+
 CCTV-1,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266
 CCTV-1HD,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581250417_885644752/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265183188&timezone=UTC&mtv_session=daa1da1586a901a8da2361a3c74fb673&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ebdf5c15cb6d83de8422d8a58468f02
 CCTV-2,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581514102_1458964604/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265667329&timezone=UTC&mtv_session=0652a49abec4c860e1b09ad88db72dc8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3816442679b4c149e40771e4b7b870cb
@@ -335,19 +337,30 @@ CCTV-15,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw138798639
 CCTV-17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 
 
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+
 🛰央视电信.限时播,#genre#
 
 建议超时换源10秒,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1综合,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$111.9.163.109
-CCTV-2财经,http://111.9.163.109:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$111.9.163.109
-CCTV-3综艺,http://111.9.163.109:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$111.9.163.109
-CCTV-4中文国际,http://111.9.163.109:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$111.9.163.109
-CCTV-5体育,http://111.9.163.109:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$111.9.163.109
-CCTV-6电影,http://111.9.163.109:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$111.9.163.109
-CCTV-8电视剧,http://111.9.163.109:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$111.9.163.109
-CCTV-6电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202$mobilelive
 以下线路限时观看,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$东营联通
-
 CCTV1-综合,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$东营联通
 CCTV2-财经,http://222.134.245.16:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$东营联通
 CCTV3-综艺,http://222.134.245.16:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$东营联通
