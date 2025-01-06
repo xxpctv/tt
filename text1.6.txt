@@ -1,0 +1,74 @@
+［港澳台］,#genre#
+民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+
+北京天津,#genre#
+四川经济,http://183.223.157.33:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+四川科教,http://183.223.157.33:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+四川新闻,http://183.223.157.33:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+文化旅游,http://183.223.157.33:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+
+电影频道,#genre#
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+安徽影视,http://api2.52tb.xyz/info?id=584&token=20230218jsyklh
+石河子影视,http://124.88.144.73:1935/live/jjsh/playlist.m3u8?
+新昌影视,https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+永清影视,http://60.10.203.69:8000/4.m3u8
+新昌影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+上虞影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+
+IPV6线路1,#genre#
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+
+江苏频道,#genre#
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
+大丰公共频道,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
+东台综合频道,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8?zjiangsd
+金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
+金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
+沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
+泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
+泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
+
+湖南频道,#genre#
+南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream/chunklist_w649678981.m3u8
+南县综合,http://hnstnx.chinashadt.com:2037/live/10001.stream/playlist.m3u8
+
+浙江频道,#genre#
+余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+
+体育频道,#genre#
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+
+4K超高清,#genre#
+4k记录欧洲,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+电影轮播,#genre#
+豆瓣高分,http://api2.52tb.xyz/info?id=1010&token=20230404dmgnht
+贝爷影厅2,http://api2.52tb.xyz/info?id=1017&token=20230404dmgnht
+霍格影片,http://api2.52tb.xyz/info?id=1018&token=20230404dmgnht
+可乐电影,http://api2.52tb.xyz/info?id=1019&token=20230404dmgnht
+冰冰经典电影,http://api2.52tb.xyz/info?id=1020&token=20230404dmgnht
+欧美大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
