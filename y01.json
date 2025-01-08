@@ -30,6 +30,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	{
+      "name": "mytvsuper.com.mp订阅",
+      "type": 0,
+      "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	{
       "name": "TV直播(每日更新)",
       "type": 0,
       "url": "https://live.iptv365.org/live.txt",
@@ -39,9 +48,18 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	{
-      "name": "猫TV线路(EXO)",
+      "name": "自动更新酒店源",
       "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	{
+      "name": "看电视呗源",
+      "type": 0,
+      "url": "http://8.138.7.223/live.txt",
       "playerType": 2,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -73,7 +91,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告1.1",
+      "name": "📢公告1.8",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -1735,7 +1753,6 @@
         }
       }
     },
-{"name":"🔯巧技₁","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url="},
 
      {"name": "🍃虾米₁",
       "type": 0,
