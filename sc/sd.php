@@ -55,16 +55,16 @@
     "name": "电视直播软件",
     "list": [
       {
-        "name": "小飞电视2.4.6（推荐）",
+        "name": "小飞电视2.4.6",
              "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/小飞电视2.4.6（推荐）.apk",
         "icon": " ",
-        "version": "TV版"
+        "version": "TV版(推荐)"
       },
      {
-        "name": "直播大全1.4.0（可回看）",
+        "name": "直播大全1.4.0",
         "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/直播大全1.4.0（可回看）.apk",
         "icon": " ",
-        "version": "TV版"
+        "version": "TV版(可回看)"
       },
 	  {
         "name": "千寻TV1.0.7",
@@ -73,16 +73,16 @@
         "version": "TV版"
       },
 	  {
-        "name": "五月天IPTV电视版",
+        "name": "五月天IPTV",
         "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/五月天IPTV电视版.apk",
         "icon": " ",
         "version": "TV版"
       },
 	   {
-        "name": "橙色直播（简洁）1.0.20240417",
+        "name": "橙色直播1.0.0417",
         "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/橙色直播（简洁）1.0.20240417.apk",
         "icon": " ",
-        "version": "TV版"
+        "version": "TV版(简洁)"
       },
       {
         "name": "微信赞助打赏",
