@@ -75,7 +75,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告1.8",
+      "name": "📢公告1.12",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
