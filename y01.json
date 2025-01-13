@@ -1,5 +1,5 @@
 {
-  "spider": "./my/ttkx1231.jar",
+  "spider": "./my/ttkx0109.jar",
   
   "lives": [
     {
@@ -20,8 +20,26 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+	 {
+      "name": "新AKTV港台",
+      "type": 0,
+      "url": "http://aktv.top/live.m3u",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "catvod TV(每日更新)",
+      "type": 0,
+      "url": "http://iptv.catvod.com/tv.m3u",
+      "playerType": 2,
+      "ua": "okhttp/5.0.0-alpha.14",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 	{
-      "name": "开心频道(EXO)",
+      "name": "开心TV(EXO)",
       "type": 0,
       "url": "http://kxrj.site:55/lib/kx2024.txt",
       "playerType": 1,
@@ -39,7 +57,13 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	
+	{
+      "name": "IPTV(每日2更)",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
 	{
       "name": "看电视呗源",
       "type": 0,
@@ -75,7 +99,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告1.12",
+      "name": "📢公告1.13",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -163,7 +187,18 @@
       "filterable": 1,
       "ext": "./my/酷狗MV_duo.js"
     },
-	
+	{
+      "key": "88看球",
+      "name": "⚽88看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
+    },
     {
       "key": "Aid_feimao",
       "name": "🚑急救教学",
@@ -187,6 +222,17 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./my/中医药区.json"
+    },
+	 {
+      "key": "好趣网",
+      "name": "📡央视直播",
+      "type": 3,
+      "api": "./kx/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "order_num": 87,
+      "ext": "./my/好趣网.js"
     },
 	 
 {"key":"荐片-开心","name":"🎬荐片秒播","type":3,"api":"./my/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./my/jianpian.js"},
@@ -212,7 +258,15 @@
       "searchable": 1,
       "changeable": 1
     },
-
+{
+      "key": "瓜子影视-开心",
+      "name": "🎬瓜子电影",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
             "key": "8号影院1",
             "name": "🎬8号影院",
@@ -378,6 +432,9 @@
 	  "jar": "./my/潇洒spider.jar",
       "type": 3,
       "api": "./kx/drpy2.min.js",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./my/TXDM.js"
     },
     {
@@ -386,6 +443,9 @@
 	  "jar": "./my/潇洒spider.jar",
       "type": 3,
       "api": "./kx/drpy2.min.js",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./my/YKDM.js"
     },
     {
@@ -394,6 +454,9 @@
 	  "jar": "./my/潇洒spider.jar",
       "type": 3,
       "api": "./kx/drpy2.min.js",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./my/MGDM.js"
     },
     {
@@ -402,6 +465,9 @@
 	  "jar": "./my/潇洒spider.jar",
       "type": 3,
       "api": "./kx/drpy2.min.js",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./my/AQYDM.js"
     },	
 	{
@@ -647,6 +713,9 @@
 	  "jar": "./my/fix24726.jar",
       "type": 3,
       "api": "csp_TTian",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "playerType": 1,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
@@ -658,6 +727,35 @@
       "api": "csp_WexMingriys",
       "searchable": 1,
       "changeable": 1
+    },
+	{
+      "key": "1905",
+      "name": "🎬1905影视",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	{
+      "key": "全网影视",
+      "name": "🎬全网影视",
+      "type": 3,
+      "api": "csp_Quanwk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.91qkw.com"
+    },
+    {
+      "key": "素白白",
+      "name": "🎬素白白",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://subaibai.com"
     },
 	{"key":"大米星球-欧哥","name":"🎬大米星球","jar":"./my/ou8.6.jar","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 	{"key":"夜猫短剧-夜猫","name":"🎦夜猫短剧","type":3,"api":"csp_YMduanju","jar":"./my/ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},
@@ -772,6 +870,9 @@
       "jar": "./my/20240108.jar;md5;6A3B047776DF26AE0B3AB2140ED3BA62",
       "type": 3,
       "api": "./my/drpy26.min.js",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "./my/网易公版影像_乐享汇.js"
     },
     {
@@ -1692,7 +1793,18 @@
 {"key":"XBPQ_鹊桥影视","name":"🎬鹊桥影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/鹊桥影视.json"},
 {"key":"XBPQ_魅影视频","name":"🎬魅影视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/魅影视频.json"},
 {"key":"XBPQ_白狐动漫","name":"🎬白狐动漫","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/白狐动漫.json"},
-
+ {
+      "key": "xbpq_鲨鱼",
+      "name": "🎬鲨鱼影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "class=\"detail-sketch\"&&<br",
+        "分类url": "https://www.sdkuaiji.org/shayuyy/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna",
+        "类型": "动作片$dongzhuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu||大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju||大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy||国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"
+      }
+    },
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
@@ -1709,7 +1821,7 @@
   "parses": [
 
  {
-      "name": "优选",
+      "name": "👉优选4k",
       "type": 1,
       "url": "http://1.94.221.189:88/algorithm.php?url=",
       "ext": {
@@ -1845,17 +1957,8 @@
       "name": "🌎盘古解析",
       "type": 0,
       "url": "https://www.pangujiexi.com/pangu/?url="
-    },
-    {
-      "name": "云解析",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
     }
+   
   ],
   "rules":
     [{"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
