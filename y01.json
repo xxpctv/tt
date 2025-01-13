@@ -236,13 +236,22 @@
     },
 	{
       "key": "1905",
-      "name": "🎬老影视",
+      "name": "🎬老.影视",
       "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
+    },
+{
+      "key": "瓜子影视-开心",
+      "name": "🎬瓜子影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	
 {"key":"荐片-开心","name":"🎬荐片秒播","type":3,"api":"./my/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./my/jianpian.js"},
 {"key":"荐片-欧哥","name":"🎬荐片影视","jar":"./my/ou8.6.jar","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 
@@ -266,15 +275,7 @@
       "searchable": 1,
       "changeable": 1
     },
-{
-      "key": "瓜子影视-开心",
-      "name": "🎬瓜子影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
             "key": "8号影院1",
             "name": "🎬8号影院",
@@ -310,7 +311,7 @@
 	
 	 {
       "key": "4K影视-开心",
-      "name": "🎬4K影视",
+      "name": "🎬4K.影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -469,7 +470,7 @@
     },	
 	{
       "key": "drpy_js_奇珍异兽",
-      "name": "🎬爱奇艺",
+      "name": "🎬奇艺影视",
       "type": 3,
       "api": "./my/drpy26.min.js",
 	  "searchable": 1,
@@ -738,7 +739,7 @@
     },
     {
       "key": "素白白",
-      "name": "🎬素白白",
+      "name": "🎬白白影视",
       "type": 3,
       "api": "csp_Subaibai",
       "searchable": 1,
@@ -801,7 +802,7 @@
     },
 	{
       "key": "一起看",
-      "name": "🎦一起看",
+      "name": "🎦一起短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -855,7 +856,7 @@
 {"key":"NyaFun动漫-欧哥","jar":"./my/ou20240604.jar","name":"🌼妮呀动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"}},
 {
       "key": "爱动漫_js开心",
-      "name": "🌼爱动漫",
+      "name": "🌼爱.动漫",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -925,7 +926,7 @@
     },
     {
       "key": "相声小品",
-      "name": "📺看相声小品",
+      "name": "📺相声小品",
 	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
@@ -936,7 +937,7 @@
     },
     {
       "key": "戏 曲",
-      "name": "📺看戏曲",
+      "name": "📺看.戏曲",
 	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
@@ -1023,7 +1024,7 @@
     
     {
       "key": "相声",
-      "name": "🎧听相声",
+      "name": "🎧听.相声",
 
       "type": 3,
       "searchable": 0,
@@ -1060,7 +1061,7 @@
     },
     {
       "key": "评书",
-      "name": "🎧听评书",
+      "name": "🎧听.评书",
 
       "type": 3,
       "searchable": 0,
@@ -1097,7 +1098,7 @@
     },
     {
       "key": "drpy_js_蜻蜓FM",
-      "name": "📻听广播",
+      "name": "📻听.广播",
       "type": 3,
       "api": "./my/drpy26.min.js",
       "ext": "./my/蜻蜓FM.js",
@@ -1105,7 +1106,7 @@
     },
    {
       "key": "csp_BBB",
-      "name": "🅱️套餐1",
+      "name": "🅱️套餐-1",
       "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
@@ -1116,7 +1117,7 @@
     },
     {
       "key": "Bili",
-      "name": "🅱️套餐2",
+      "name": "🅱️套餐-2",
       "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
@@ -1232,7 +1233,7 @@
     },
     {
       "key": "哔哩Bili",
-      "name": "🅱️真人秀",
+      "name": "🅱️真.人秀",
 	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
