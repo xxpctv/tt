@@ -253,7 +253,6 @@
       "filterable": 1
     },	
 {"key":"荐片-开心","name":"🎬荐片秒播","type":3,"api":"./my/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./my/jianpian.js"},
-{"key":"荐片-欧哥","name":"🎬荐片影视","jar":"./my/ou8.6.jar","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 
 {
       "key": "荐片-开心2",
