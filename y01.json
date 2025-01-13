@@ -314,6 +314,16 @@
       "ext": "./my/TXDM.js"
     },
 	 {
+      "key": "drpyS_MP4电影[磁]",
+      "name": "💘MP4电影磁",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/MP4电影[磁]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+	 {
             "key": "8号影院1",
             "name": "🎬8号影院",
             "type": 3,
