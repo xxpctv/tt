@@ -1,4 +1,4 @@
-📢1.12更新,#genre#
+📢1.13更新,#genre#
 听.更多音乐,https://vd2.bdstatic.com/mda-qj9stb2j350p2ksk/1080p/cae_h264/1728588691302001097/mda-qj9stb2j350p2ksk.mp4
 请.切换.直播源,https://vd3.bdstatic.com/mda-qiddcccerswzse2y/1080p/cae_h264/1726594235651313041/mda-qiddcccerswzse2y.mp4
 选.直播.线路,https://vd4.bdstatic.com/mda-qj75qy3ekgi64z7x/1080p/cae_h264/1728367504240691447/mda-qj75qy3ekgi64z7x.mp4
@@ -196,6 +196,19 @@ CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13$z.b.bkpcp
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14$z.b.bkpcp
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15$z.b.bkpcp
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$z.b.bkpcp
+
+家庭影院咪咕,http://z.b.bkpcp.top/m.php?id=jtyy
+东方影视咪咕,http://z.b.bkpcp.top/m.php?id=shys
+陕西卫视咪咕,http://z.b.bkpcp.top/m.php?id=sxws
+湖北卫视咪咕,http://z.b.bkpcp.top/m.php?id=hubws
+江西卫视咪咕,http://z.b.bkpcp.top/m.php?id=jxws
+江苏卫视咪咕,http://z.b.bkpcp.top/m.php?id=jsws
+广东卫视咪咕,http://z.b.bkpcp.top/m.php?id=gdws
+游戏风云咪咕,http://z.b.bkpcp.top/m.php?id=yxfy
+七彩戏剧咪咕,http://z.b.bkpcp.top/m.php?id=qcxj
+欢笑剧场咪咕,http://z.b.bkpcp.top/m.php?id=hxjc
+劲爆体育咪咕,http://z.b.bkpcp.top/m.php?id=jbty
+魅力足球咪咕,http://z.b.bkpcp.top/m.php?id=mlzq
 
 
 CCTV-1,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266
@@ -612,22 +625,22 @@ D湖泊,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 D安徽黟县.西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
 
 🇨🇳直播.熊猫,#genre#
+都江堰英英,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
+都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
 都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
-都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
 都江堰英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
-都江堰英英,http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
-都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 都江堰怡然,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
-成都基地幼年园①,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
-成都基地幼年园①,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
-成都基地幼年园②,http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
-成都基地母子园,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
-成都基地母子园,http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
-成都基地母子园,http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
-成都基地母子园,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
-成都基地母子园,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
-成都基地母子园,http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+成都基地,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+成都基地1,http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
+成都基地2,http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+成都基地3,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
+成都基地4,http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
+成都基地5,http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
+成都基地6,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
+成都基地7,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+成都基地8,http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
 成都基地别墅,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
 大丰麋鹿,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
 白马雪山,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
