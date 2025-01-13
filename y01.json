@@ -21,7 +21,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	 {
-      "name": "新AKTV港台",
+      "name": "新AKTV（港台专线）",
       "type": 0,
       "url": "http://aktv.top/live.m3u",
       "playerType": 2,
@@ -256,7 +256,7 @@
 {"key":"荐片-欧哥","name":"🎬荐片影视","jar":"./my/ou8.6.jar","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 
 {
-      "key": "荐片-开心",
+      "key": "荐片-开心2",
       "name": "🎬荐片P2P",
       "type": 3,
       "searchable": 1,
