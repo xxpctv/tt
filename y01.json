@@ -3,7 +3,7 @@
   
   "lives": [
     {
-      "name": "大师TV",
+      "name": "直播TV（大师源）",
       "type": 0,
       "url": "https://gitlab.com/jeossi/t/-/raw/main/my/zby.txt",
       "playerType": 1,
@@ -12,7 +12,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	 {
-      "name": "私藏音乐",
+      "name": "私藏音乐（大师源）",
       "type": 0,
       "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/个人私藏MV.txt",
       "playerType": 1,
