@@ -286,7 +286,6 @@
             }
         },
 {"key": "奈飞影视-开心","name":"🎬奈飞秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
-{"key": "VIP影视-开心","name": "🎬VIP秒播","type":3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./my/VIPyingshi.json"},      
 {
   "key": "影视工厂",
   "name": "🎬新6v影视",
