@@ -30,7 +30,7 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "catvod TV(每日更新)",
+      "name": "catvod TV(日更新.推荐)",
       "type": 0,
       "url": "http://iptv.catvod.com/tv.m3u",
       "playerType": 2,
@@ -49,7 +49,7 @@
     },
 	
 	{
-      "name": "TV直播(每日更新)",
+      "name": "TV直播(日更新)",
       "type": 0,
       "url": "https://live.iptv365.org/live.txt",
       "playerType": 1,
@@ -58,7 +58,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	{
-      "name": "IPTV(每日2更)",
+      "name": "IPTV(日更2新)",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
