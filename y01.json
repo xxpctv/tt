@@ -1,5 +1,6 @@
 {
   "spider": "./my/ttkx0109.jar",
+  //"spider": "./my/fty0111.jar",
   
   "lives": [
     {
@@ -56,6 +57,13 @@
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	 {
+      "name": "国内Live",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735900458536/oitv.txt",
+      "playerType": 2,
+      "timeout": 10
     },
 	{
       "name": "IPTV(日更2新)",
