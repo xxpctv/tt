@@ -1,6 +1,6 @@
 {
-  //"spider": "./my/ttkx0109.jar",
-  "spider": "./my/fty0111.jar",
+  "spider": "./my/ttkx0109.jar",
+  //"spider": "./my/fty0111.jar",
   
   "lives": [
     {
@@ -22,7 +22,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 	{
-      "name": "牛播一(仅新版影视仓/ok影视)",
+      "name": "牛播(仅新版影视仓/ok影视)",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
       "playerType": 1,
