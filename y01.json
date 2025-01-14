@@ -21,14 +21,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	{
-      "name": "牛播(仅新版影视仓/ok影视)",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }, 
+	
     {
       "name": "catvod TV(日更新.推荐)",
       "type": 0,
@@ -939,7 +932,7 @@
     },
 	 {
       "key": "drpyS_央视大全[官]",
-      "name": "🇨🇳央视大全",
+      "name": "🇨🇳央视.4K",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/央视大全[官]",
       "searchable": 1,
@@ -1027,16 +1020,7 @@
       "quickSearch": 0,
       "ext": ""
     },
-	  {
-      "key": "drpyS_番茄小说[书]-新道长",
-      "name": "📚️番茄小说",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/番茄小说[书]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
+	 
     {
       "key": "js_六月听书_duoduo",
       "name": "📚️听书六月",
