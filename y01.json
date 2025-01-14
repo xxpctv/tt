@@ -1805,7 +1805,19 @@
 	{"key":"我的夸克","name":"📂我的夸克","type":3,"api":"csp_MyQuark","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"style":{"type":"list"},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
     {"key":"我的UC","name":"📂我的UC","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},"style":{"type":"list"},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
 	{"key":"配置中心","name":"🔧配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
-    {
+   {
+      "key": "ConfigCenter",
+      "name": "🔧全局配置",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+      },
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    },
+	{
       "key": "Local",
       "name": "📂本地播放",
       "jar": "./my/xc0126.jar",
