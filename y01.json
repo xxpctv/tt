@@ -199,6 +199,18 @@
       },
       "timeout": 10
     },
+	 {
+      "key": "88看球-饭太硬",
+      "name": "⚽88看球",
+	  "jar":"./my/fty0111.jar",
+      "type": 3,
+      "api": "csp_Sir88",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
     {
       "key": "Aid_feimao",
       "name": "🚑急救教学",
