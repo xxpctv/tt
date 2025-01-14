@@ -134,15 +134,10 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 
 🛰央视临时.频道,#genre#
 
-CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
-CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8
-
-
-CCTV-1,http://113.220.234.228:9999/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://113.220.234.228:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://113.220.234.228:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://113.220.234.228:9999/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$113
 
 CCTV-2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp$cc-ynbit
+CCTV-2,http://113.220.234.228:9999/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0$113
 CCTV-7,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=12706415551557919057&amp$cc-ynbit
 CCTV-9,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=17686352686599982856&amp$cc-ynbit
 CCTV-10,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=9053765528789506188$cc-ynbit
@@ -150,23 +145,23 @@ CCTV-12,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?inners
 CCTV-14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862$cc-ynbit
 CCTV-17,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=2038717225283627700$cc-ynbit
 
-CCTV1,http://221.224.4.170:1111/tsfile/live/0001_1.m3u8$221.224.4.170
-CCTV2,http://221.224.4.170:1111/tsfile/live/0002_1.m3u8$221.224.4.170
-CCTV3,http://221.224.4.170:1111/tsfile/live/0003_1.m3u8$221.224.4.170
-CCTV4,http://221.224.4.170:1111/tsfile/live/0004_1.m3u8$221.224.4.170
-CCTV5,http://221.224.4.170:1111/tsfile/live/0005_1.m3u8$221.224.4.170
-CCTV6,http://221.224.4.170:1111/tsfile/live/0006_1.m3u8$221.224.4.170
-CCTV7,http://221.224.4.170:1111/tsfile/live/0007_1.m3u8$221.224.4.170
-CCTV8,http://221.224.4.170:1111/tsfile/live/0008_1.m3u8$221.224.4.170
-CCTV9,http://221.224.4.170:1111/tsfile/live/0009_1.m3u8$221.224.4.170
-CCTV10,http://221.224.4.170:1111/tsfile/live/0010_1.m3u8$221.224.4.170
-CCTV11,http://221.224.4.170:1111/tsfile/live/0011_1.m3u8$221.224.4.170
-CCTV12,http://221.224.4.170:1111/tsfile/live/0012_1.m3u8$221.224.4.170
-CCTV13,http://221.224.4.170:1111/tsfile/live/0013_1.m3u8$221.224.4.170
-CCTV14,http://221.224.4.170:1111/tsfile/live/0014_1.m3u8$221.224.4.170
-CCTV15,http://221.224.4.170:1111/tsfile/live/0015_1.m3u8$221.224.4.170
+CCTV-1,http://221.224.4.170:1111/tsfile/live/0001_1.m3u8$221.224.4.170$221
+CCTV-2,http://221.224.4.170:1111/tsfile/live/0002_1.m3u8$221.224.4.170$221
+CCTV-3,http://221.224.4.170:1111/tsfile/live/0003_1.m3u8$221.224.4.170$221
+CCTV-4,http://221.224.4.170:1111/tsfile/live/0004_1.m3u8$221.224.4.170$221
+CCTV-5,http://221.224.4.170:1111/tsfile/live/0005_1.m3u8$221.224.4.170$221
+CCTV-6,http://221.224.4.170:1111/tsfile/live/0006_1.m3u8$221.224.4.170$221
+CCTV-7,http://221.224.4.170:1111/tsfile/live/0007_1.m3u8$221.224.4.170$221
+CCTV-8,http://221.224.4.170:1111/tsfile/live/0008_1.m3u8$221.224.4.170$221
+CCTV-9,http://221.224.4.170:1111/tsfile/live/0009_1.m3u8$221.224.4.170$221
+CCTV-10,http://221.224.4.170:1111/tsfile/live/0010_1.m3u8$221.224.4.170$221
+CCTV-11,http://221.224.4.170:1111/tsfile/live/0011_1.m3u8$221.224.4.170$221
+CCTV-12,http://221.224.4.170:1111/tsfile/live/0012_1.m3u8$221.224.4.170$221
+CCTV-13,http://221.224.4.170:1111/tsfile/live/0013_1.m3u8$221.224.4.170$221
+CCTV-14,http://221.224.4.170:1111/tsfile/live/0014_1.m3u8$221.224.4.170$221
+CCTV-15,http://221.224.4.170:1111/tsfile/live/0015_1.m3u8$221.224.4.170$221
 
-安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd$112
 
 东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087$cc-ynbit
 东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318$cc-ynbit
