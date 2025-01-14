@@ -1,5 +1,6 @@
 {
-  "spider": "./my/ttkx0109.jar",
+  //"spider": "./my/ttkx0109.jar",
+  "spider": "./my/fty0111.jar",
   
   "lives": [
     {
@@ -84,7 +85,7 @@
 
   ],
   "warningText": "Ajeossi接口维护，追剧无忧！",
-  "wallpaper": "http://maoyingshi.cc/api.php",
+  "wallpaper": "",
   "sites": [
     {
       "key": "直播转点播1_yun",
@@ -106,7 +107,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告1.13",
+      "name": "📢公告1.14",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -194,18 +195,7 @@
       "filterable": 1,
       "ext": "./my/酷狗MV_duo.js"
     },
-	{
-      "key": "88看球",
-      "name": "⚽88看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 10
-    },
+	
 	 {
       "key": "88看球-饭太硬",
       "name": "⚽88看球",
@@ -217,6 +207,18 @@
       "style": {
         "type": "list"
       }
+    },
+	{
+      "key": "88看球",
+      "name": "⚽88看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
     },
     {
       "key": "Aid_feimao",
