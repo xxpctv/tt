@@ -1,5 +1,5 @@
 {
-  "spider": "./my/okpng0114.jar",
+  "spider": "./my/ttkx0109.jar",
   
   "lives": [
     {
@@ -57,13 +57,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	 {
-      "name": "国内Live",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735900458536/oitv.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
+
 	{
       "name": "IPTV(日更2新)",
       "type": 0,
@@ -111,7 +105,7 @@
       "api": "csp_Notice",
       "searchable": 0,
       "changeable": 0,
-      "jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
+      
       "ext": "./my/公告.json"
     },
  {"key":"csp_预告","name":"🎬影视预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":0},
@@ -1783,7 +1777,34 @@
       "filterable": 1,
       "ext": "./my/4KHDR_duo.js"
     },	
-	   {
+	  
+     {
+      "key": "配置中-开心",
+      "name": "🔧‍配置中心",
+	  "jar":"./my/ttkx0109.jar",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      }
+    },
+	 {
+      "key": "ConfigCenter-琉芸",
+      "name": "🔧全局配置",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
+      },
+      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+    },
+	 {
       "key": "csp_KungFu404-老刘备",
       "name": "🐲阿里设置",
       "jar": "./my/Token.jar",
@@ -1794,36 +1815,66 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
     },
-    {
-      "key": "我的阿里-欧哥token线路",
+	 {
+      "key": "我的阿里-开心",
       "name": "📂我的阿里",
-      "jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72",
       "type": 3,
       "api": "csp_MyAli",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
+      "indexs": 0,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt"
       },
       "style": {
         "type": "list"
-      }
-    },
-	{"key":"我的夸克","name":"📂我的夸克","type":3,"api":"csp_MyQuark","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"style":{"type":"list"},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
-    {"key":"我的UC","name":"📂我的UC","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},"style":{"type":"list"},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
-	{"key":"配置中心","name":"🔧配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"./my/dm0903.jar;md5;e0129dfc4f7caa454c7af98773e9ef72"},
-   {
-      "key": "ConfigCenter",
-      "name": "🔧全局配置",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
       },
-      "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/Yoursmile.jar"
+      "timeout": 30
+    },
+    {
+      "key": "我的夸克-开心",
+      "name": "📂我的夸克",
+      "type": 3,
+      "api": "csp_MyQuark",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt"
+      },
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "我的UC-开心",
+      "name": "📂我的UC",
+      "type": 3,
+      "api": "csp_MyUc",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt"
+      },
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+    },
+	 {
+      "key": "csp_LocalFile-开心",
+      "name": "💻本地磁盘",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "type_flag": 0
     },
 	{
       "key": "Local",
