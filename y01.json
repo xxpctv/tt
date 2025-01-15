@@ -141,21 +141,16 @@
       "ext": "./my/蜻蜓FM.js",
       "playerType": "2"
     },
-	 {
-      "key": "MV-欧哥",
-      "name": "🅱️MTV热榜",
-	  "jar":"./my/Bili2511.jar",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
+	{
+      "key": "drpyS_老白故事[听]-新道长",
+      "name": "📚️小说评书",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/老白故事[听]",
       "searchable": 0,
+      "filterable": 0,
       "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./my/MTV-哔哩0723.json"
-    },
+      "ext": ""
+    }, 
 	{
       "key": "哔哩MV2_yun",
       "name": "🅱️无损音乐",
@@ -167,20 +162,9 @@
       "filterable": 1,
       "ext": "./my/无损音乐.json"
     },
-   
-    {
-      "key": "哔哩演唱会_肥猫",
-      "name": "🅱️哔哩音乐",
-	  "jar":"./my/Bili2511.jar",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "./my/ych_feimao.json"
-    },
 	{
       "key": "csp_XYQHiker_DJ呦呦音乐网_壹梦线路1条",
-      "name": "🎧听DJ呦呦",
+      "name": "🎵听车载.DJ",
  
       "type": 3,
       "api": "csp_XYQHiker",
@@ -191,21 +175,8 @@
     },
 	
 	 {
-      "key": "music-小白龙",
-      "name": "🎧酷狗TOP",
-      "type": 3,
-      "api": "csp_Music",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "jar": "./dj/酷狗音乐.jar"
-    },
-	 {
       "key": "js_酷狗MV_duoduo",
-      "name": "🎧酷狗MV",
+      "name": "🎦酷狗MV",
       "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 0,
@@ -213,16 +184,7 @@
       "filterable": 1,
       "ext": "./my/酷狗MV_duo.js"
     },
-	 {
-      "key": "drpyS_老白故事[听]-新道长",
-      "name": "📚️小说评书",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/老白故事[听]",
-      "searchable": 0,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
+	 
 	 {
       "key": "88看球-饭太硬",
       "name": "⚽八八看球",
@@ -1111,6 +1073,19 @@
       "playerType": "2"
     },
    
+	 {
+      "key": "music-小白龙",
+      "name": "🎧酷狗TOP",
+      "type": 3,
+      "api": "csp_Music",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "jar": "./dj/酷狗音乐.jar"
+    },
     
     {
       "key": "相声-琉芸",
@@ -1360,7 +1335,16 @@
       "filterable": 1,
       "ext": "./my/哔哩音乐hccx.json"
     },
-    
+     {
+      "key": "哔哩演唱会_肥猫",
+      "name": "🅱️哔哩音乐",
+	  "jar":"./my/Bili2511.jar",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "./my/ych_feimao.json"
+    },
     {
       "key": "哔哩演唱会自定义_yun",
       "name": "🅱️哔哩演唱会",
@@ -1382,6 +1366,21 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./my/演唱会-哔哩0723.json"
+    },
+	{
+      "key": "MV-欧哥",
+      "name": "🅱️MTV热榜",
+	  "jar":"./my/Bili2511.jar",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./my/MTV-哔哩0723.json"
     },
 	 {
       "key": "哔哩MV_yun",
