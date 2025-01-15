@@ -2,17 +2,14 @@
   "classes": [
 
     {
+      "type_name": "2025年热榜",
+      "type_id": "2025年热门MV"
+    },
+     {
       "type_name": "2024年热榜",
       "type_id": "2024年热门MV"
     },
-     {
-      "type_name": "2023年热榜",
-      "type_id": "2023年热门MV"
-    },
-     {
-      "type_name": "2022年热榜",
-      "type_id": "2022年热门MV"
-    },
+    
      {
       "type_name": "90年代热榜",
       "type_id": "90年代热门MV"
