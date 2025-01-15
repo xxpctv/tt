@@ -307,7 +307,7 @@
    
  {
       "key": "drpyS_MP4电影[磁]-新道长",
-      "name": "💘MP4磁.推荐",
+      "name": "💘MP4🧲.推荐",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/MP4电影[磁]",
       "searchable": 1,
@@ -387,6 +387,68 @@
       },
       "filterable": 0
     },
+	{
+      "key": "云播💋蓝光-宝盒",
+      "name": "🎬云播蓝光",
+	  "jar": "./my/XBPQ.jar",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "导演": "AjeossiTV",
+        "主演": "主演：</span>&&</p>",
+        "简介": "Ajeossi提醒您,勿信广告！+class=\"sketch content\">&&</span>",
+        "数组": "myui-vodlist__thumb&&</a>",
+        "标题": "title=\"&&\"",
+        "副标题": "pic-tag pic-tag-top\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索模式": "1",
+        "搜索url": "/vod/search.html?wd={wd}&submit=",
+        "搜索数组": "myui-vodlist__thumb img-lg-150 img-md-150 img-sm-150 img-xs-100 lazyload\"&&</a>",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "background-color:*>&&</span>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "</a><h3&&/h3>",
+        "线路标题": "云播",
+        "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+	  {
+      "key": "三米ys-宝盒",
+      "name": "🎬三米秒播",
+	  "jar": "./my/XBPQ.jar",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
+        "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
+      }
+    },
+	 {
+      "key": "布谷tv",
+      "name": "🐦布谷4K🧲",
+	  "jar": "./my/XBPQ.jar",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
+        "简介": "◎简*介</p>&&</p>",
+        "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题": "布谷4K",
+        "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
+        "播放列表": "<p>&&</p>[包含:magnet]",
+        "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
+        "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"
+      }
+    },
 	 {
             "key": "8号影院1",
             "name": "🎬8号影院",
@@ -452,7 +514,7 @@
 
 	  {
             "key": "迅雷吧",
-            "name": "🎬迅雷吧磁",
+            "name": "🎬迅雷吧🧲",
             "type": 3,
             "api": "csp_Xunlei8",
             "searchable": 1,
@@ -1930,6 +1992,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+	  {
+      "key": "纯享影视-宝盒",
+      "name": "🎬纯享影视",
+	  "jar": "./my/bh270712.jar",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1
     },
 {"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/蒜瓣影视.json"},
 {"key":"腐剧视频-欧歌","name":"🎬腐剧影视", "jar":"./my/ou8.6.jar","type":3,"api":"csp_WexFujutv","searchable":0,"quickSearch": 0,"changeable":0},
