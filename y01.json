@@ -282,16 +282,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-      "key": "drpyS_火车太堵-新道长",
-      "name": "💘WiKi.推荐",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/火车太堵",
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
+
  {
       "key": "drpyS_荐片-新道长",
       "name": "💘荐片.推荐",
@@ -299,7 +290,7 @@
       "api": "https://drpys.6516789.xyz/api/荐片",
       "searchable": 2,
       "filterable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "ext": ""
     },	
 {
@@ -316,7 +307,7 @@
    
  {
       "key": "drpyS_MP4电影[磁]-新道长",
-      "name": "💘MP4.推荐",
+      "name": "💘MP4磁.推荐",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/MP4电影[磁]",
       "searchable": 1,
@@ -338,7 +329,7 @@
 
 	 {
       "key": "4K影视-开心",
-      "name": "💘4K.推荐",
+      "name": "💘4K影.推荐",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -374,8 +365,18 @@
       "ext": "./my/TXDM.js"
     },
 	{
-      "key": "克隆合集",
-      "name": "🎬克隆合集-琉芸",
+      "key": "drpyS_火车太堵-新道长",
+      "name": "💘WiKi.推荐",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/火车太堵",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+	{
+      "key": "克隆合集-琉芸",
+      "name": "🎬克隆合集",
       "type": 4,
       "api": "http://zhangqun66.com/klhj.php",
       "searchable": 1,
@@ -943,9 +944,9 @@
       "name": "🇨🇳央视.4K",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/央视大全[官]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
       "ext": ""
     },
     {
