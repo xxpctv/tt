@@ -90,14 +90,7 @@
       "filterable": 1,
       "ext": "./my/直播转点播.txt"
     },
-		 {
-      "key": "豆瓣_欧歌",
-      "name": "🎬豆瓣热播",
-      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
+		
     {
       "key": "公告",
       "name": "📢公告1.15",
@@ -108,17 +101,16 @@
       
       "ext": "./my/公告.json"
     },
- {"key":"csp_预告","name":"🎬影视预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":0},
-    {
-      "key": "常见问题",
-      "name": "❓常见问题",
-      "jar": "./sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
+	 {
+      "key": "豆瓣_欧歌",
+      "name": "🎬豆瓣热播",
+      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
       "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./sc/bofang.php"
+      "api": "csp_Douban",
+      "searchable": 0
     },
+ {"key":"csp_预告","name":"🎬影视预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":0},
+   
     {
       "key": "应用商店",
       "name": "🛒大师小店",
@@ -128,6 +120,26 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "./sc/sd.php"
+    },
+	 {
+      "key": "常见问题",
+      "name": "❓常见问题",
+      "jar": "./sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./sc/bofang.php"
+    },
+	 {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "📻听.广播",
+      "type": 3,
+      "api": "./my/drpy26.min.js",
+	  "searchable": 0,
+      "changeable": 0,
+      "ext": "./my/蜻蜓FM.js",
+      "playerType": "2"
     },
 	 {
       "key": "MV-欧哥",
@@ -144,17 +156,18 @@
       "changeable": 0,
       "ext": "./my/MTV-哔哩0723.json"
     },
-    {
-      "key": "哔哩MV_yun",
-      "name": "🅱️哔哩MV",
+	{
+      "key": "哔哩MV2_yun",
+      "name": "🅱️无损音乐",
 	  "jar":"./my/Bili2511.jar",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./my/吾爱MTV.json"
+      "ext": "./my/无损音乐.json"
     },
+   
     {
       "key": "哔哩演唱会_肥猫",
       "name": "🅱️哔哩音乐",
@@ -259,7 +272,7 @@
       "ext": "./my/中医药区.json"
     },
 	 {
-      "key": "好趣网",
+      "key": "好趣网-开心",
       "name": "📡央视直播",
       "type": 3,
       "api": "./kx/drpy2.min.js",
@@ -270,7 +283,7 @@
       "ext": "./my/好趣网.js"
     },
 	{
-      "key": "1905",
+      "key": "1905-开心",
       "name": "🎬老.影视",
       "type": 3,
       "api": "csp_Web1905",
@@ -328,7 +341,7 @@
       "ext": ""
     },	
 {
-      "key": "荐片-开心2",
+      "key": "荐片2-开心",
       "name": "💘荐片.推荐",
       "type": 3,
       "searchable": 1,
@@ -964,7 +977,7 @@
       "ext": "./my/网易公版影像_乐享汇.js"
     },
 	 {
-      "key": "drpyS_央视大全[官]",
+      "key": "drpyS_央视大全[官]-新道长",
       "name": "🇨🇳央视.4K",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/央视大全[官]",
@@ -1100,9 +1113,9 @@
    
     
     {
-      "key": "相声",
+      "key": "相声-琉芸",
       "name": "🎧听.相声",
-
+	  "jar":"./my/XYQspider1114.jar",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -1136,6 +1149,7 @@
         "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
       }
     },
+	
     {
       "key": "评书",
       "name": "🎧听.评书",
@@ -1173,14 +1187,7 @@
         "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
       }
     },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "📻听.广播",
-      "type": 3,
-      "api": "./my/drpy26.min.js",
-      "ext": "./my/蜻蜓FM.js",
-      "playerType": "2"
-    },
+   
    {
       "key": "csp_BBB",
       "name": "🅱️套餐-1",
@@ -1353,17 +1360,7 @@
       "filterable": 1,
       "ext": "./my/哔哩音乐hccx.json"
     },
-    {
-      "key": "哔哩MV_yun",
-      "name": "🅱️无损音乐",
-	  "jar":"./my/Bili2511.jar",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/无损音乐.json"
-    },
+    
     {
       "key": "哔哩演唱会自定义_yun",
       "name": "🅱️哔哩演唱会",
@@ -1385,6 +1382,17 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./my/演唱会-哔哩0723.json"
+    },
+	 {
+      "key": "哔哩MV_yun",
+      "name": "🅱️哔哩MV",
+	  "jar":"./my/Bili2511.jar",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./my/吾爱MTV.json"
     },
     {
       "key": "哔哩舞蹈_yun",
@@ -1876,17 +1884,7 @@
       "filterable": 0,
       "type_flag": 0
     },
-	{
-      "key": "Local",
-      "name": "📂本地播放",
-      "jar": "./my/xc0126.jar",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "type_flag": 1
-    },
+	
     {
       "key": "Alist",
       "name": "🌐AList",
