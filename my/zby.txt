@@ -1,4 +1,4 @@
-📢1.14更新,#genre#
+📢1.13更新,#genre#
 听.更多音乐,https://vd2.bdstatic.com/mda-qj9stb2j350p2ksk/1080p/cae_h264/1728588691302001097/mda-qj9stb2j350p2ksk.mp4
 请.切换.直播源,https://vd3.bdstatic.com/mda-qiddcccerswzse2y/1080p/cae_h264/1726594235651313041/mda-qiddcccerswzse2y.mp4
 选.直播.地址,https://vd4.bdstatic.com/mda-qj75qy3ekgi64z7x/1080p/cae_h264/1728367504240691447/mda-qj75qy3ekgi64z7x.mp4
@@ -97,6 +97,7 @@ Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 28 AI 智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 🔒综合.新闻,#genre#
+凤凰资讯,https://cdn3.163189.xyz/live/live1.1.php?id=fhzx
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 耀才财经频道.电信,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8$202.69.67.66
 耀才财经频道.电信,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8$v3.mediacast.hk
