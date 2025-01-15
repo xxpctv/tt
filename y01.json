@@ -1,6 +1,5 @@
 {
-  "spider": "./my/ttkx0109.jar",
-  //"spider": "./my/fty0111.jar",
+  "spider": "./my/okpng0114.jar",
   
   "lives": [
     {
@@ -61,7 +60,7 @@
 	 {
       "name": "国内Live",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735900458536/oitv.txt",
+      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735900458536/oitv.txt",
       "playerType": 2,
       "timeout": 10
     },
@@ -107,7 +106,7 @@
     },
     {
       "key": "公告",
-      "name": "📢公告1.14",
+      "name": "📢公告1.15",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -172,6 +171,18 @@
       "quickSearch": 0,
       "ext": "./my/ych_feimao.json"
     },
+	{
+      "key": "csp_XYQHiker_DJ呦呦音乐网_壹梦线路1条",
+      "name": "🎧听DJ呦呦",
+ 
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./my/DJ呦呦音乐网_壹梦.json"
+    },
+	
 	 {
       "key": "music-小白龙",
       "name": "🎧酷狗TOP",
@@ -195,10 +206,19 @@
       "filterable": 1,
       "ext": "./my/酷狗MV_duo.js"
     },
-	
+	 {
+      "key": "drpyS_老白故事[听]-新道长",
+      "name": "📚️小说评书",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/老白故事[听]",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
 	 {
       "key": "88看球-饭太硬",
-      "name": "⚽88看球",
+      "name": "⚽八八看球",
 	  "jar":"./my/fty0111.jar",
       "type": 3,
       "api": "csp_Sir88",
@@ -384,7 +404,19 @@
       "filterable": 1,
       "ext": "./my/TXDM.js"
     },
-	
+	{
+      "key": "克隆合集",
+      "name": "🎬克隆合集-琉芸",
+      "type": 4,
+      "api": "http://zhangqun66.com/klhj.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "filterable": 0
+    },
 	 {
             "key": "8号影院1",
             "name": "🎬8号影院",
@@ -1017,16 +1049,7 @@
       "filterable": 1,
       "ext": "./my/Blixq.json"
     },
-	 {
-      "key": "drpyS_老白故事[听]-新道长",
-      "name": "📚️老白小说",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/老白故事[听]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
+	 
 	 
     {
       "key": "js_六月听书_duoduo",
@@ -1041,19 +1064,7 @@
       },
       "ext": "./my/6yue_duo.js"
     },
-    {
-      "key": "js_i275听书_duoduo",
-      "name": "📚️听书i275",
-
-      "type": 3,
-      "api": "./my/drpy26.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "./my/i275_duo.js"
-    },
+   
     {
       "key": "js_博看听书_duoduo",
       "name": "📚️听书博看",
@@ -1092,17 +1103,7 @@
       "ext": "./my/清风DJ.js",
       "playerType": "2"
     },
-    {
-      "key": "csp_XYQHiker_DJ呦呦音乐网_壹梦线路1条",
-      "name": "🎧听DJ呦呦",
- 
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/DJ呦呦音乐网_壹梦.json"
-    },
+   
     
     {
       "key": "相声",
