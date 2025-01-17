@@ -161,18 +161,7 @@
       "quickSearch": 0,
       "ext": "./my/ych_feimao.json"
     },
-	
-	 {
-      "key": "js_酷狗MV_duoduo",
-      "name": "🎦酷狗MV",
-      "type": 3,
-      "api": "./my/drpy26.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./my/酷狗MV_duo.js"
-    },
-	 
+		 
 	 {
       "key": "88看球-饭太硬",
       "name": "⚽直播看球",
@@ -212,7 +201,7 @@
         "线路标题": "+</i>&&<",
         "播放数组": "class=\"hl-plays-list&&</ul>",
         "播放标题": "+>&&</a>",
-        "简介": "简介：Ajeossi⚠️提醒您，广告勿信！+</em>&&</li>",
+        "简介": "Ajeossi⚠️提醒您，广告勿信！+</em>&&</li>",
         "导演": "",
         "主演": "",
         "首页": "20",
@@ -319,7 +308,46 @@
       "api": "./kx/drpy2.min.js",
       "ext": "./my/jp.js"
     },
-   
+   {
+      "key": "MTYY-沂宸",
+      "name": "💘MTY影视.推荐",
+	  "jar": "./my/xbpq0614.jar",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "作者": "沂宸",
+        "站名": "MTYY",
+        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+        "编码": "UTF-8",
+        "图片代理": "0",
+        "主页url": "https://www.mtyy1.com",
+        "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+        "数组": "class=\"public-list-exp&&</a>",
+        "链接": "href=\"&&\"",
+        "图片": "data-src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "ft2\">&&<",
+        "线路二次截取": "class=\"anthology-tab&&</div>",
+        "线路数组": "<a&&</a>",
+        "线路标题": "</i>&&<",
+        "播放数组": "class=\"anthology-list-play&&</ul>",
+        "播放标题": ">&&</a>",
+        "简介": "Ajeossi⚠️提醒您，广告勿信！+描述:</strong>&&</div>",
+        "导演": "",
+        "主演": "",
+        "首页": "20",
+        "起始页": "1",
+        "直接播放": "0",
+        "嗅探词": ".mp4#.m3u8",
+        "分类url": "/vodshow/{cateId}--------{catePg}---{year}.html;;mrcd0",
+        "分类": "剧集&电影&综艺&动漫&短剧&记录",
+        "分类值": "1&2&3&4&5&6"
+      }
+    },
  {
       "key": "drpyS_MP4电影[磁]-新道长",
       "name": "💘MP4🧲推荐",
@@ -368,6 +396,17 @@
         "danmu": true
       }
     },
+	{
+      "key": "爱奇艺弹幕",
+      "name": "💘奇艺.推荐",
+	  "jar": "./my/潇洒spider.jar",
+      "type": 3,
+      "api": "./kx/drpy2.min.js",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./my/AQYDM.js"
+    },	
     {
       "key": "腾讯弹幕",
       "name": "💘腾讯.推荐",
@@ -379,15 +418,15 @@
       "filterable": 1,
       "ext": "./my/TXDM.js"
     },
-	{
-      "key": "drpyS_火车太堵-新道长",
-      "name": "💘WiKi.推荐",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/火车太堵",
+	 {
+      "key": "纯享影视-宝盒",
+      "name": "💘纯享.推荐",
+	  "jar": "./my/bh270712.jar",
+      "type": 3,
+      "api": "csp_WexF4kvm",
       "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
+      "changeable": 1,
+      "quickSearch": 1
     },
 	{
       "key": "克隆合集-琉芸",
@@ -402,108 +441,7 @@
       },
       "filterable": 0
     },
-	{
-      "key": "云播💋蓝光-宝盒",
-      "name": "🎬云播蓝光",
-	  "jar": "./my/XBPQ.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "导演": "AjeossiTV",
-        "主演": "主演：</span>&&</p>",
-        "简介": "Ajeossi⚠️提醒您，广告勿信！+class=\"sketch content\">&&</span>",
-        "数组": "myui-vodlist__thumb&&</a>",
-        "标题": "title=\"&&\"",
-        "副标题": "pic-tag pic-tag-top\">&&</span>",
-        "图片": "data-original=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索模式": "1",
-        "搜索url": "/vod/search.html?wd={wd}&submit=",
-        "搜索数组": "myui-vodlist__thumb img-lg-150 img-md-150 img-sm-150 img-xs-100 lazyload\"&&</a>",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": "background-color:*>&&</span>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "</a><h3&&/h3>",
-        "线路标题": "云播",
-        "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },
-	  {
-      "key": "三米ys-宝盒",
-      "name": "🎬三米秒播",
-	  "jar": "./my/XBPQ.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
-        "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
-      }
-    },
-	 {
-      "key": "布谷tv-宝盒",
-      "name": "🐦布谷4K🧲",
-	  "jar": "./my/XBPQ.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
-        "简介": "简介：Ajeossi⚠️提醒您，广告勿信！</p>&&</p>",
-        "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
-        "线路标题": "布谷4K",
-        "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
-        "播放列表": "<p>&&</p>[包含:magnet]",
-        "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
-        "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}"
-      }
-    },
-	{
-      "key": "MTYY-沂宸",
-      "name": "🎬MTY影视",
-	  "jar": "./my/xbpq0614.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "作者": "沂宸",
-        "站名": "MTYY",
-        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
-        "编码": "UTF-8",
-        "图片代理": "0",
-        "主页url": "https://www.mtyy1.com",
-        "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-        "数组": "class=\"public-list-exp&&</a>",
-        "链接": "href=\"&&\"",
-        "图片": "data-src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "ft2\">&&<",
-        "线路二次截取": "class=\"anthology-tab&&</div>",
-        "线路数组": "<a&&</a>",
-        "线路标题": "</i>&&<",
-        "播放数组": "class=\"anthology-list-play&&</ul>",
-        "播放标题": ">&&</a>",
-        "简介": "Ajeossi⚠️提醒您，广告勿信！描述:</strong>&&</div>",
-        "导演": "",
-        "主演": "",
-        "首页": "20",
-        "起始页": "1",
-        "直接播放": "0",
-        "嗅探词": ".mp4#.m3u8",
-        "分类url": "/vodshow/{cateId}--------{catePg}---{year}.html;;mrcd0",
-        "分类": "剧集&电影&综艺&动漫&短剧&记录",
-        "分类值": "1&2&3&4&5&6"
-      }
-    },
+	
 	
 	 {
       "key": "PKW-沂宸",
@@ -543,6 +481,16 @@
         "分类": "剧集&综艺&动漫&电影",
         "分类值": "2&3&4&1"
       }
+    },
+	{
+      "key": "drpyS_火车太堵-新道长",
+      "name": "🎬WiKi影视",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/火车太堵",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
     },
 	 {
             "key": "8号影院1",
@@ -677,17 +625,7 @@
       "filterable": 1,
       "ext": "./my/MGDM.js"
     },
-    {
-      "key": "爱奇艺弹幕",
-      "name": "🎬奇艺弹幕",
-	  "jar": "./my/潇洒spider.jar",
-      "type": 3,
-      "api": "./kx/drpy2.min.js",
-	   "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/AQYDM.js"
-    },	
+    
 	{
       "key": "drpy_js_奇珍异兽",
       "name": "🎬奇艺影视",
@@ -1176,7 +1114,16 @@
       "filterable": 1,
       "ext": "./my/Blixq.json"
     },
-	 
+	  {
+      "key": "js_酷狗MV_duoduo",
+      "name": "📺酷狗MV",
+      "type": 3,
+      "api": "./my/drpy26.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./my/酷狗MV_duo.js"
+    },
 	 
     {
       "key": "js_六月听书_duoduo",
@@ -1259,7 +1206,7 @@
     {
       "key": "相声-琉芸",
       "name": "🎧听.相声",
-	  "jar":"./my/XYQspider1114.jar",
+	  "jar": "./my/相声评书.txt;md5;BB155C3F0133BBCE4756AD52003F5968",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -1297,7 +1244,7 @@
     {
       "key": "评书",
       "name": "🎧听.评书",
-
+      "jar": "./my/相声评书.txt;md5;BB155C3F0133BBCE4756AD52003F5968",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -1307,7 +1254,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./my/相声评书.txt;md5;BB155C3F0133BBCE4756AD52003F5968",
       "ext": {
         "主页url": "https://www.psmp3.com",
         "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
@@ -2111,16 +2057,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	  {
-      "key": "纯享影视-宝盒",
-      "name": "🎬纯享影视",
-	  "jar": "./my/bh270712.jar",
-      "type": 3,
-      "api": "csp_WexF4kvm",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1
-    },
+	 
 {"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/蒜瓣影视.json"},
 {"key":"腐剧视频-欧歌","name":"🎬腐剧影视", "jar":"./my/ou8.6.jar","type":3,"api":"csp_WexFujutv","searchable":0,"quickSearch": 0,"changeable":0},
 {"key":"XBPQ_哈哈伦理影视","name":"🎬哈哈影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/哈哈伦理影视.json"},
@@ -2133,6 +2070,9 @@
       "name": "🎬鲨鱼影视",
       "type": 3,
       "api": "csp_XBPQ",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
         "简介": "Ajeossi⚠️提醒您，广告勿信！class=\"detail-sketch\"&&<br",
         "分类url": "https://www.sdkuaiji.org/shayuyy/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
