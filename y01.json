@@ -66,6 +66,13 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
 	{
+      "name": "MeiLvZB",
+      "type": 0,
+      "url": "https://gitlab.com/jeossi/t/-/raw/main/my/MMZBLive.txt",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+	{
       "name": "看电视呗源",
       "type": 0,
       "url": "http://8.138.7.223/live.txt",
@@ -209,7 +216,7 @@
         "直接播放": "0",
         "嗅探词": ".mp4#.m3u8",
         "分类url": "/s/{cateId}--------{catePg}---{year}.html;;mrcd0",
-        "分类": "电影&剧集&综艺&动漫&纪录&动画&解说&短剧&体育",
+        "分类": "体育&剧集&综艺&电影&纪录&动画&解说&短剧&动漫",
         "分类值": "movie&series&variety&anime&documentary&animation&jieshuo&skit&sports"
       }
     },
@@ -310,7 +317,7 @@
     },
    {
       "key": "MTYY-沂宸",
-      "name": "💘MTY影视.推荐",
+      "name": "💘MT影视.推荐",
 	  "jar": "./my/xbpq0614.jar",
       "type": 3,
       "api": "csp_XBPQ",
@@ -396,28 +403,7 @@
         "danmu": true
       }
     },
-	{
-      "key": "爱奇艺弹幕",
-      "name": "💘奇艺.推荐",
-	  "jar": "./my/潇洒spider.jar",
-      "type": 3,
-      "api": "./kx/drpy2.min.js",
-	   "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/AQYDM.js"
-    },	
-    {
-      "key": "腾讯弹幕",
-      "name": "💘腾讯.推荐",
-	  "jar": "./my/潇洒spider.jar",
-      "type": 3,
-      "api": "./kx/drpy2.min.js",
-	   "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/TXDM.js"
-    },
+	
 	 {
       "key": "纯享影视-宝盒",
       "name": "💘纯享.推荐",
@@ -613,6 +599,28 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./my/YKDM.js"
+    },
+	{
+      "key": "爱奇艺弹幕",
+      "name": "🎬奇艺弹幕",
+	  "jar": "./my/潇洒spider.jar",
+      "type": 3,
+      "api": "./kx/drpy2.min.js",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./my/AQYDM.js"
+    },	
+    {
+      "key": "腾讯弹幕",
+      "name": "🎬腾讯弹幕",
+	  "jar": "./my/潇洒spider.jar",
+      "type": 3,
+      "api": "./kx/drpy2.min.js",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./my/TXDM.js"
     },
     {
       "key": "芒果弹幕",
