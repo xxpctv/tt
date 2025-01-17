@@ -65,13 +65,7 @@
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
-	{
-      "name": "MeiLvZB",
-      "type": 0,
-      "url": "https://gitlab.com/jeossi/t/-/raw/main/my/MMZBLive.txt",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
+	
 	{
       "name": "看电视呗源",
       "type": 0,
@@ -100,7 +94,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告1.16",
+      "name": "📢公告1.17",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -171,7 +165,7 @@
 		 
 	 {
       "key": "88看球-饭太硬",
-      "name": "⚽直播看球",
+      "name": "⚽🏀直播看球",
 	  "jar":"./my/fty0111.jar",
       "type": 3,
       "api": "csp_Sir88",
@@ -183,7 +177,7 @@
     },
 	{
       "key": "GQJC-沂宸",
-      "name": "⚽赛事回看",
+      "name": "⚽🏀赛事回看",
 	  "jar": "./my/xbpq0614.jar",
       "type": 3,
       "api": "csp_XBPQ",
@@ -564,7 +558,7 @@
 	
   {
       "key": "csp_CandyMuj_taoju-看电影线路1条",
-      "name": "🎬淘剧影院",
+      "name": "🎬淘片电影",
       "jar": "./my/lem1225.jar",
       "type": 3,
       "api": "csp_CandyMuj_taoju",
@@ -2059,20 +2053,14 @@
  {
       "key": "韩小圈-潇洒",
       "name": "🎬韩小圈APP",
+	  "jar": "./my/潇洒spider.jar",
       "type": 3,
       "api": "csp_HanXiaoQuan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-	 
-{"key":"XBPQ_蒜瓣影视","name":"🎬蒜瓣影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/蒜瓣影视.json"},
-{"key":"腐剧视频-欧歌","name":"🎬腐剧影视", "jar":"./my/ou8.6.jar","type":3,"api":"csp_WexFujutv","searchable":0,"quickSearch": 0,"changeable":0},
-{"key":"XBPQ_哈哈伦理影视","name":"🎬哈哈影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/哈哈伦理影视.json"},
-{"key":"XBPQ_火狼影视1","name":"🎬火狼影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/火狼影视.json"},
-{"key":"XBPQ_鹊桥影视","name":"🎬鹊桥影视","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/鹊桥影视.json"},
-{"key":"XBPQ_魅影视频","name":"🎬魅影视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/魅影视频.json"},
-{"key":"XBPQ_白狐动漫","name":"🎬白狐动漫","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./my/白狐动漫.json"},
+	
  {
       "key": "xbpq_鲨鱼",
       "name": "🎬鲨鱼影视",
@@ -2128,14 +2116,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	 {
-      "key": "drjs_36直播[密]-雷蒙",
-      "name": "🎬36直播",
-	  "jar": "./my/xbpg240629.jar",
-      "type": 3,
-      "api": "./kx/drpy2.min.js",
-      "ext": "./my/36直播.js"
-    },
+	
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
