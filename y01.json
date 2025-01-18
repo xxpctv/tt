@@ -1,5 +1,5 @@
 {
-  "spider": "./my/ttkx0109.jar",
+  "spider": "./my/lem0118.jar",
   
   "lives": [
     {
@@ -278,6 +278,7 @@
       "quickSearch": 1,
       "ext": ""
     },
+	{"key":"T4_皮虾-雷蒙","name":"💘皮虾T4.推荐)","type":4,"api":"https://py.doube.eu.org/spider?site=PPXYs","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {
       "key": "瓜子影视-开心",
       "name": "💘瓜子.推荐",
@@ -2132,48 +2133,14 @@
   
   "parses": [
 
- {
-      "name": "👉优选4k",
-      "type": 1,
-      "url": "http://1.94.221.189:88/algorithm.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-
-     {"name": "🍃虾米₁",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-{"name":"🔯巧技₂","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},
+{"name":"A6","type":0,"url":"https://pl.a6club.com/player/analysis.php?v="},
+{"name":"巧技₂","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+{"name":"臻享","type":1,"url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
+{"name":"8090","type":0,"url":"https://www.8090g.cn/?url="},
+{"name":"M3u8TV","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"巧技","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="},
+{"name":"👉1080解析","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name":"🍃虾米₂","type":0,"url":"https://jx.xmflv.cc/?url="},
-{"name":"🍃8090","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
     { "name": "🌎夜幕",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
@@ -2236,33 +2203,6 @@
       "header": {
         "User-Agent": "Mozilla/5.0"
       }
-    },
-   
-    {
-      "name": "m3u8",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "yk",
-          "优酷",
-          "mgtv",
-          "imgo",
-          "芒果"
-        ]
-      }
-    },
-     {
-      "name": "-冰豆-",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url="
     },
    
     {
