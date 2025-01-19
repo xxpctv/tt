@@ -1,5 +1,5 @@
 {
-  "spider": "./my/lem0118.jar",
+  "spider": "./my/ttkx0109.jar",
   
   "lives": [
     {
@@ -94,7 +94,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告1.17",
+      "name": "📢公告1.19",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -261,7 +261,7 @@
     },
 	 {
       "key": "drpyS_瓜子H5-新道长",
-      "name": "💘瓜子H.推荐",
+      "name": "👉瓜子H.推荐",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/瓜子H5",
       "searchable": 2,
@@ -271,7 +271,7 @@
     },
 	 {
       "key": "drpyS_皮皮虾[优]-新道长",
-      "name": "💘皮虾4K.推荐",
+      "name": "👉皮虾4K.推荐",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/皮皮虾[优]",
       "searchable": 2,
@@ -279,10 +279,10 @@
       "quickSearch": 1,
       "ext": ""
     },
-	{"key":"T4_皮虾-雷蒙","name":"💘皮虾T4.推荐)","type":4,"api":"https://py.doube.eu.org/spider?site=PPXYs","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+	{"key":"T4_皮虾-雷蒙","name":"👉皮虾T4.推荐)","type":4,"api":"https://py.doube.eu.org/spider?site=PPXYs","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {
       "key": "瓜子影视-开心",
-      "name": "💘瓜子.推荐",
+      "name": "👉瓜子.推荐",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -292,7 +292,7 @@
 
  {
       "key": "drpyS_荐片-新道长",
-      "name": "💘荐片.推荐",
+      "name": "👉荐片.推荐",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/荐片",
       "searchable": 2,
@@ -302,7 +302,7 @@
     },	
 {
       "key": "荐片2-开心",
-      "name": "💘荐片.推荐",
+      "name": "👉荐片.推荐",
 	  "jar": "./my/ttkx0109.jar",
       "type": 3,
       "searchable": 1,
@@ -314,7 +314,7 @@
     },
    {
       "key": "MTYY-沂宸",
-      "name": "💘MT影视.推荐",
+      "name": "👉MT影视.推荐",
 	  "jar": "./my/xbpq0614.jar",
       "type": 3,
       "api": "csp_XBPQ",
@@ -354,7 +354,7 @@
     },
  {
       "key": "drpyS_MP4电影[磁]-新道长",
-      "name": "💘MP4🧲推荐",
+      "name": "👉MP4🧲推荐",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/MP4电影[磁]",
       "searchable": 1,
@@ -364,7 +364,7 @@
     },
 {
   "key": "影视工厂",
-  "name": "💘新6v.推荐",
+  "name": "👉新6v.推荐",
   "jar": "./dj/新6v.jar",
   "type": 3,
   "api": "csp_XBPQ",
@@ -376,7 +376,7 @@
 
 	 {
       "key": "4K影视-开心",
-      "name": "💘4K影.推荐",
+      "name": "👉4K影.推荐",
 	  "jar": "./my/ttkx0109.jar",
       "type": 3,
       "api": "csp_XBPQ",
@@ -386,11 +386,11 @@
       "ext": "./my/4K影视.json"
     },
 	 
-	{"key": "奈飞影视-开心","name":"💘奈飞.推荐","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
+	{"key": "奈飞影视-开心","name":"👉奈飞.推荐","jar": "./my/ttkx0109.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
 
 	{
       "key": "糯米弹幕",
-      "name": "💘糯米.推荐",
+      "name": "👉糯米.推荐",
 	  "jar": "./my/潇洒spider.jar",
       "type": 3,
       "api": "csp_Nmys",
@@ -404,7 +404,7 @@
 	
 	 {
       "key": "纯享影视-宝盒",
-      "name": "💘纯享.推荐",
+      "name": "👉纯享.推荐",
 	  "jar": "./my/bh270712.jar",
       "type": 3,
       "api": "csp_WexF4kvm",
