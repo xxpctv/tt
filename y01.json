@@ -144,7 +144,7 @@
     },
 	{
       "key": "drpyS_老白故事[听]-新道长",
-      "name": "📚️小说评书4️⃣ ",
+      "name": "📚️小说评书T4",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/老白故事[听]",
       "searchable": 0,
@@ -261,7 +261,7 @@
     },
 	 {
       "key": "drpyS_瓜子H5-新道长",
-      "name": "👉瓜子H4️⃣ 推荐",
+      "name": "👉瓜子T4推荐",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/瓜子H5",
       "searchable": 2,
@@ -271,7 +271,7 @@
     },
 	 {
       "key": "drpyS_皮皮虾[优]-新道长",
-      "name": "👉皮虾4K4️⃣ 推荐",
+      "name": "👉皮虾T4推荐",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/皮皮虾[优]",
       "searchable": 2,
@@ -279,7 +279,7 @@
       "quickSearch": 1,
       "ext": ""
     },
-	{"key":"T4_皮虾-雷蒙","name":"👉皮虾4️⃣ 推荐)","type":4,"api":"https://py.doube.eu.org/spider?site=PPXYs","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+	{"key":"T4_皮虾-雷蒙","name":"👉皮虾T4推荐)","type":4,"api":"https://py.doube.eu.org/spider?site=PPXYs","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {
       "key": "瓜子影视-开心",
       "name": "👉瓜子.推荐",
@@ -292,7 +292,7 @@
 
  {
       "key": "drpyS_荐片-新道长",
-      "name": "👉荐片4️⃣ 推荐",
+      "name": "👉荐片T4推荐",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/荐片",
       "searchable": 2,
@@ -354,7 +354,7 @@
     },
  {
       "key": "drpyS_MP4电影[磁]-新道长",
-      "name": "👉MP4🧲推荐4️⃣ ",
+      "name": "👉MP4🧲推荐T4",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/MP4电影[磁]",
       "searchable": 1,
@@ -414,7 +414,7 @@
     },
 	{
       "key": "克隆合集-琉芸",
-      "name": "🎬克隆合集4️⃣ ",
+      "name": "🎬克隆合集T4",
       "type": 4,
       "api": "http://zhangqun66.com/klhj.php",
       "searchable": 1,
@@ -468,7 +468,7 @@
     },
 	{
       "key": "drpyS_火车太堵-新道长",
-      "name": "🎬WiKi影视4️⃣ ",
+      "name": "🎬WiKi影视T4",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/火车太堵",
       "searchable": 1,
@@ -1043,7 +1043,7 @@
     },
 	 {
       "key": "drpyS_央视大全[官]-新道长",
-      "name": "🇨🇳央视.4K4️⃣ ",
+      "name": "🇨🇳央视.4KT4",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/央视大全[官]",
       "searchable": 0,
@@ -1078,7 +1078,7 @@
 	{"key":"哔哩直播-开心","name":"📣直播哔哩","jar":"./my/Bili2511.jar","type":3,"api":"./my/drpy26.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/blzb.js"},
 	 {
       "key": "直播转点播1_壹梦线路",
-      "name": "📣直播教育4️⃣ ",
+      "name": "📣直播教育T4",
       "type": 4,
       "style": {
         "type": "rect",
