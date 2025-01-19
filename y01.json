@@ -1,5 +1,5 @@
 {
-  "spider": "./av/lem0118.jar",
+  "spider": "./av/ttkx0909.jar",
   "lives": [
     {
       "name": "直播18+（大师源）",
@@ -89,6 +89,7 @@
 	{
       "key": "csp_CandyMuj_haokongbu-雷蒙",
       "name": "🧿好恐怖.推荐",
+	  "jar":"./av/lem0118.jar",
       "type": 3,
       "api": "csp_CandyMuj_haokongbu",
       "searchable": 1,
@@ -141,7 +142,7 @@
 	
 
 {"key":"大米星球-欧哥","name":"💖大米.伦理","jar":"./av/ou8.6.jar","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"极速官采","name":"💖极速.伦理","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1}, 
+
 
     {
       "key": "采集_虎牙",
@@ -202,9 +203,9 @@
  {
       "key": "新希望影院-特别拾光",
       "name": "🍑希望影院",
+	  "jar": "./av/xyqxbpq240228.jar",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./av/xyqxbpq240228.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -240,9 +241,9 @@
 	{
       "key": "自由影视-特别拾光",
       "name": "🍑自由影视",
+	  "jar": "./av/xyqxbpq240228.jar",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./av/xyqxbpq240228.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -269,8 +270,8 @@
 	{
       "key": "白狐动漫网-特别拾光",
       "name": "🍑白狐动漫",
+      "jar": "./av/xyqxbpq240228.jar",	  
       "type": 3,
-      "jar": "./av/xyqxbpq240228.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
@@ -296,9 +297,9 @@
 	{
       "key": "KISSAV(主题)-特别拾光",
       "name": "🍑🔞KISSAV",
+      "jar": "./av/xyqxbpq240228.jar",	  
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./av/xyqxbpq240228.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -323,9 +324,9 @@
 	 {
       "key": "农夫与少妇-特别拾光",
       "name": "🍑🔞农夫少妇",
+	  "jar": "./av/xyqxbpq240228.jar",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./av/xyqxbpq240228.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -335,15 +336,12 @@
         "分类": "网曝黑料$22#国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#抖阴视频$20#女优明星$21#AV解说$24#SM调教$25#少女萝莉$26#日本有码$9#日本无码$10#明星换脸$16"
       }
     },
-	 
-	
-	
 	{
       "key": "指间的黑客2-特别拾光",
       "name": "🍑🔞金陵撸铁汉",
+      "jar": "./av/xyqxbpq240228.jar",	  
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./av/xyqxbpq240228.jar",
       "ext": {
         "主页url": "https://jud.jllth9.motorcycles/cn/home/web/",
         "直接播放": "1",
@@ -362,9 +360,9 @@
 	 {
       "key": "纽约影院-特别拾光",
       "name": "🍑🔞纽约影院",
+      "jar": "./av/xyqxbpq240228.jar",	  
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./av/xyqxbpq240228.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -373,9 +371,9 @@
 	 {
       "key": "榴莲视频①-特别拾光",
       "name": "🍑🔞榴莲视频①",
+      "jar": "./av/xyqxbpq240228.jar",	  
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./av/xyqxbpq240228.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -384,9 +382,9 @@
     {
       "key": "榴莲视频②-特别拾光",
       "name": "🍑🔞榴莲视频②",
+      "jar": "./av/xyqxbpq240228.jar",	  
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./av/xyqxbpq240228.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -395,9 +393,9 @@
     {
       "key": "榴莲视频-特别拾光",
       "name": "🍑🔞榴莲视频",
+      "jar": "./av/xyqxbpq240228.jar",	  
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./av/xyqxbpq240228.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
