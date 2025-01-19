@@ -269,7 +269,18 @@
       "quickSearch": 1,
       "ext": ""
     },
-	 {
+	{
+      "key": "瓜子影视-开心",
+      "name": "👉瓜子推荐K",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	 
+	{"key":"T4_皮虾-雷蒙","name":"👉皮虾推荐L4","type":4,"api":"https://py.doube.eu.org/spider?site=PPXYs","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
+{
       "key": "drpyS_皮皮虾[优]-新道长",
       "name": "👉皮虾推荐T4",
       "type": 4,
@@ -279,16 +290,7 @@
       "quickSearch": 1,
       "ext": ""
     },
-	{"key":"T4_皮虾-雷蒙","name":"👉皮虾推荐L4)","type":4,"api":"https://py.doube.eu.org/spider?site=PPXYs","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
-{
-      "key": "瓜子影视-开心",
-      "name": "👉瓜子推荐K",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 
  {
       "key": "drpyS_荐片-新道长",
@@ -314,7 +316,7 @@
     },
    {
       "key": "MTYY-沂宸",
-      "name": "👉MTYY.推荐",
+      "name": "👉MTYY推荐",
 	  "jar": "./my/xbpq0614.jar",
       "type": 3,
       "api": "csp_XBPQ",
@@ -1043,7 +1045,7 @@
     },
 	 {
       "key": "drpyS_央视大全[官]-新道长",
-      "name": "🇨🇳央视.4KT4",
+      "name": "🇨🇳央视4K.T4",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/央视大全[官]",
       "searchable": 0,
@@ -2055,17 +2057,7 @@
       "timeout": 10
     },
 	{"key":"荐片-开心","name":"🎬荐片秒播","type":3,"api":"./my/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./my/jianpian.js"},
- {
-      "key": "韩小圈-潇洒",
-      "name": "🎬韩小圈APP",
-	  "jar": "./my/潇洒spider.jar",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	
+
  {
       "key": "xbpq_鲨鱼",
       "name": "🎬鲨鱼影视",
@@ -2083,7 +2075,7 @@
     },
 	{
       "key": "csp_CandyMuj_haokongbu-CandyMuj",
-      "name": "🎬好恐怖",
+      "name": "🎬HKB.4K",
 	  "jar": "./my/candymuj20240902.jar",
       "type": 3,
       "api": "csp_CandyMuj_haokongbu",
