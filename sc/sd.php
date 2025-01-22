@@ -11,7 +11,7 @@
     ]
   },
   {
-    "name": "软件更新1.12",
+    "name": "软件更新1.22",
     "list": [
       {
         "name": "应用管家v1.4.3",
@@ -26,8 +26,8 @@
         "version": "TV版"
       },
 	  {
-        "name": "影视仓手机2.0.51",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版2.0.51.apk",
+        "name": "影视仓手机2.0.52",
+        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版2.0.52.apk",
         "icon": " ",
         "version": "手机版"
       },
@@ -78,12 +78,7 @@
         "icon": " ",
         "version": "TV版"
       },
-	   {
-        "name": "橙色直播1.0.0417",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/橙色直播_简洁_1.0.20240417.apk",
-        "icon": " ",
-        "version": "TV版(简洁)"
-      },
+	   
       {
         "name": "微信赞助打赏",
         "url": " ",
