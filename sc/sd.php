@@ -20,8 +20,8 @@
         "version": "含网盘资源"
       },
      {
-        "name": "影视仓6.0.2",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓6.0.2.apk",
+        "name": "影视仓6.0.3",
+        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓6.0.3.apk",
         "icon": " ",
         "version": "TV版"
       },
