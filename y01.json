@@ -105,8 +105,8 @@
 	 {
       "key": "豆瓣_欧歌",
       "name": "🎬豆瓣热播",
-      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
       "type": 3,
+      "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",	  
       "api": "csp_Douban",
       "searchable": 0
     },
@@ -115,8 +115,8 @@
     {
       "key": "应用商店",
       "name": "🛒大师小店",
-      "jar": "./sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
       "type": 3,
+      "jar": "./sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",	  
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
@@ -125,8 +125,8 @@
 	 {
       "key": "常见问题",
       "name": "❓常见问题",
-      "jar": "./sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",
       "type": 3,
+      "jar": "./sc/ogyingyong-xx.jar;md5;0541e021a35158a77f4b6f90b16f9760",	  
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
@@ -155,8 +155,8 @@
 	 {
       "key": "哔哩演唱会_肥猫",
       "name": "🅱️哔哩音乐",
-	  "jar":"./my/Bili2511.jar",
       "type": 3,
+	  "jar":"./my/Bili2511.jar",	  
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -166,8 +166,8 @@
 	 {
       "key": "88看球-饭太硬",
       "name": "⚽🏀直播看球",
-	  "jar":"./my/fty0111.jar",
       "type": 3,
+	  "jar":"./my/fty0111.jar",	  
       "api": "csp_Sir88",
       "searchable": 0,
       "changeable": 0,
@@ -178,8 +178,8 @@
 	{
       "key": "GQJC-沂宸",
       "name": "⚽🏀赛事回看",
-	  "jar": "./my/xbpq0614.jar",
       "type": 3,
+	  "jar": "./my/xbpq0614.jar",	  
       "api": "csp_XBPQ",
       "playerType": 2,
       "searchable": 1,
@@ -230,8 +230,8 @@
     {
       "key": "py_zyy",
       "name": "💊中医药区",
-	  "jar":"./my/Bili2511.jar",
       "type": 3,
+	  "jar":"./my/Bili2511.jar",
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -252,13 +252,60 @@
 	{
       "key": "1905-开心",
       "name": "🎬老.影视",
+	  "type": 3,
 	  "jar": "./my/ttkx0109.jar",
-      "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+	{
+    "key":"csp_追剧",
+    "name":"👉追剧秒播",
+    "type": 3,
+	"jar":"./my/fix250118.jar",
+    "api": "csp_TTian",
+    "ext": "daHR0cDovL3YubGt1eXMuY24="
+
+},
+
+{
+    "key": "csp_人人",
+    "name": "👉人人影视",
+    "type": 3,
+	"jar":"./my/fix250118.jar",
+    "api": "csp_Xdai",
+    "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
+    
+},
+{
+    "key": "csp_柠檬",
+    "name": "👉柠檬影视",
+    "type": 3,
+	"jar":"./my/fix250118.jar",
+    "api": "csp_Nmvod",
+    "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+
+},
+
+{
+    "key": "csp_Wwys",
+    "name": "👉闵农影视",
+    "type": 3,
+    "jar":"./my/xm2403.jar",	
+    "api": "csp_Wwys",
+    "ext": "https://www.wwgz.cn/"
+
+},
+{
+    "key": "py_农民",
+    "name": "👉农民PHP",
+	"jar":"./my/PXspider.jar",
+    "type": 3,
+    "api": "./my/农民.js"
+},
+
+
 	{
       "key": "瓜子",
       "name": "👉瓜子推荐Js",
@@ -291,9 +338,9 @@
     },
 	 {
       "key": "csp_魔盒-琉芸",
-      "name": "👉魔盒专线",
-	  "jar":"./my/XYQspider1114.jar",
+      "name": "👉大师专线",
       "type": 3,
+      "jar":"./my/XYQspider1114.jar",
       "api": "csp_XYQHiker",
       "ext": {
         "请求头参数": "User-Agent$手机#Referer$https://www.wwgz.cn",
@@ -347,7 +394,7 @@
         "演员详情": "body&&.sDes:contains(主演:)&&Text!主演:",
         "简介详情": ".detail-con&&p&&Text!简介:",
         "线路列表数组规则": "#leftTabBox&&ul&&li",
-        "线路标题": "Text[替换:默认=>Ajeossi专线]",
+        "线路标题": "Text[替换:默认=>大师专线]",
         "播放列表数组规则": "#leftTabBox&&.numList",
         "选集列表数组规则": "li",
         "选集标题链接是否Jsoup写法": "1",
@@ -361,71 +408,12 @@
         "手动嗅探视频链接过滤词": ".html#=http"
       }
     },
-    {
-      "key": "csp_盒子-琉芸2",
-      "name": "👉NUU影院",
-	  "jar": "./my/dokilwss231208.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "影片年代": "<div class=\"module-info-tag\">&&</div>",
-        "影片状态": "备注：&&</div>",
-        "影片类型": "module-info-tag\">&&立即播放",
-        "副标题": "HD+pic-text text-right\">&&</span>",
-        "线路数组": "data-dropdown-value=&&</div>",
-        "线路标题": "+<span>&&</small>[替换:</span><small>>>共]+集",
-        "分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "UU$6#电影$1#剧集$2#动漫$4#综艺$3#爽剧$5"
-      }
-    },
-    {
-      "key": "csp_影業-琉芸",
-      "name": "👉星星影院",
-	  "jar":"./my/XYQspider1114.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://www.guosheji.com/",
-        "数组": "myui-vodlist__thumb&&</a>",
-        "简介": "剧情 : + &&</a>",
-        "副标题": "HD+<span class=\"pic-text text-right\">&&</span>",
-        "线路数组": "href=\"stui-pannel__head clearfix\"&&</li>",
-        "线路标题": "+&&",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": "text-right\">&&</span>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "播放数组": "<ul class=\"myui-content__list&&</ul>",
-        "播放标题": ">&&</a>[不包含:дрр滈凊]",
-        "播放列表": "<li&&</li>",
-        "跳转解析": "默认$https://jiexi.ddmz6.com/api/publicApi.php?url=",
-        "搜索url": "https://www.guosheji.com/xingsc/{wd}-------------.html",
-        "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
-        "分类": "影業$0#电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url": "https://www.guosheji.com/xingsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak"
-      }
-    },
    
-    {
-      "key": "citytv-琉芸",
-      "name": "👉星辰影院",
-	  "jar":"./my/XYQspider1114.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-        "分类": "星辰$xingchen#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
-        "简介": "剧情 : + class=\"detail-sketch\">&&</span>",
-        "线路数组": "#playlist&&</li>",
-        "线路标题": "+>&&</a>[排序:阿里云播>神马云播>]",
-        "播放标题": ">&&<[不包含:1080P]"
-      }
-    },
     {
       "key": "花姐影院-琉芸",
       "name": "👉花姐影视",
-	  "jar":"./my/XYQspider1114.jar",
       "type": 3,
+	  "jar":"./my/XYQspider1114.jar",	  
       "api": "csp_XBPQ",
       "ext": {
         "数组": "fed-lazy&&</a>",
@@ -441,38 +429,12 @@
         "分类值": "13&2&1&3&4"
       }
     },
-    {
-      "key": " fxz好影-琉芸",
-      "name": "👉好影快看",
-	  "jar":"./my/XYQspider1114.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "站名": "好影快看",
-        "主页url": "https://www.hitv.app/",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "影片状态": "备注：&&</div>",
-        "影片类型": "module-info-tag\">&&立即播放",
-        "副标题": "HD",
-        "搜索模式": "1",
-        "搜索url": "https://www.hitv.app/search/-------------.html?wd={wd}",
-        "搜索数组": "module-card-item-class\">&&</a>",
-        "搜索标题": "alt=\"&&\"",
-        "搜索副标题": "note\">&&</div>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "data-dropdown-value=&&</div>",
-        "线路标题": "+<span>&&</small>[替换:</span><small>>>共]+集",
-        "分类url": "https://www.hitv.app/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "好影$0#电影$1#电视剧$2#动漫$4#综艺$3#儿童$58"
-      }
-    },
+   
     {
       "key": "白嫖者-琉芸",
       "name": "👉白嫖影视",
-	  "jar":"./my/XYQspider1114.jar",
       "type": 3,
+	  "jar":"./my/XYQspider1114.jar",	  
       "api": "csp_XBPQ",
       "ext": {
         "主页url": "https://www.qyzf88.com/",
@@ -487,32 +449,7 @@
         "年代": "2009-2025"
       }
     },
-	 {
-      "key": "午夜影院-琉芸",
-      "name": "👉午夜影院",
-	  "jar":"./my/XYQspider1114.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "HD",
-        "分类url": "http://www.wuyevod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "午夜$5#电影$1#剧集$2#综艺$3#动漫$4"
-      }
-    },
-    {
-      "key": "xbpq_高清剧场-琉芸",
-      "name": "👉高清剧场",
-	  "jar":"./my/XYQspider1114.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "副标题": "HD+pic-text text-right\"&&</span>",
-        "分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
-        "分类": "高清剧场$documentary#电影$movie#连续剧$series#动漫$anime#综艺$variety#网络短剧$skit#体育$sports",
-        "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
-        "过滤词": "/hls/#php"
-      }
-    },
+	
 
  {
       "key": "drpyS_荐片-新道长",
@@ -527,8 +464,8 @@
 {
       "key": "荐片2-开心",
       "name": "👉荐片推荐K",
-	  "jar": "./my/ttkx0109.jar",
       "type": 3,
+	  "jar": "./my/ttkx0109.jar",	  
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -539,8 +476,8 @@
    {
       "key": "MTYY-沂宸",
       "name": "👉MTYY推荐",
-	  "jar": "./my/xbpq0614.jar",
       "type": 3,
+	  "jar": "./my/xbpq0614.jar",	  
       "api": "csp_XBPQ",
       "playerType": 2,
       "searchable": 1,
@@ -589,8 +526,8 @@
 {
   "key": "影视工厂",
   "name": "👉新6v.推荐",
+  "type": 3,  
   "jar": "./dj/新6v.jar",
-  "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
@@ -601,8 +538,8 @@
 	 {
       "key": "4K影视-开心",
       "name": "👉4K影.推荐",
+	  "type": 3,
 	  "jar": "./my/ttkx0109.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -610,13 +547,13 @@
       "ext": "./my/4K影视.json"
     },
 	 
-	{"key": "奈飞影视-开心","name":"👉奈飞.推荐","jar": "./my/ttkx0109.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
+	{"key": "奈飞影视-开心","name":"👉奈飞.推荐","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
 
 	{
       "key": "糯米弹幕",
       "name": "👉糯米.推荐",
+	  "type": 3,
 	  "jar": "./my/潇洒spider.jar",
-      "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
@@ -629,8 +566,8 @@
 	 {
       "key": "纯享影视-宝盒",
       "name": "👉纯享.推荐",
+	  "type": 3,
 	  "jar": "./my/bh270712.jar",
-      "type": 3,
       "api": "csp_WexF4kvm",
       "searchable": 1,
       "changeable": 1,
@@ -654,8 +591,8 @@
 	 {
       "key": "PKW-沂宸",
       "name": "🎬片库网剧",
+	  "type": 3,
 	  "jar": "./my/xbpq0614.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "playerType": 2,
       "searchable": 1,
@@ -712,8 +649,8 @@
      {
       "key": "可可",
       "name": "🎬可可影视",
+	  "type": 3,
 	  "jar": "./dj/XBPQ2.28.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -752,7 +689,7 @@
       }
     },
 
-{"key":"农民影视-开心","name":"🎬农民秒播","jar": "./my/ttkx0109.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nongmin.json"},
+{"key":"农民影视-开心","name":"🎬农民秒播","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nongmin.json"},
 
 	  {
             "key": "迅雷吧",
@@ -766,8 +703,8 @@
 		{
       "key": "宝片视频_js开心",
       "name": "🎬‍宝片影视",
+	  "type": 3,
 	  "jar": "./my/ttkx0109.jar",
-      "type": 3,
       "api": "./kx/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -779,8 +716,8 @@
   {
       "key": "csp_CandyMuj_taoju-看电影线路1条",
       "name": "🎬淘片电影",
+	  "type": 3,
       "jar": "./my/lem1225.jar",
-      "type": 3,
       "api": "csp_CandyMuj_taoju",
       "searchable": 1,
       "quickSearch": 1,
@@ -806,8 +743,8 @@
     {
       "key": "优酷弹幕",
       "name": "🎬优酷弹幕",
+	  "type": 3,
 	  "jar": "./my/潇洒spider.jar",
-      "type": 3,
       "api": "./kx/drpy2.min.js",
 	   "searchable": 1,
       "quickSearch": 1,
@@ -817,8 +754,8 @@
 	{
       "key": "爱奇艺弹幕",
       "name": "🎬奇艺弹幕",
+	  "type": 3,
 	  "jar": "./my/潇洒spider.jar",
-      "type": 3,
       "api": "./kx/drpy2.min.js",
 	   "searchable": 1,
       "quickSearch": 1,
@@ -828,8 +765,8 @@
     {
       "key": "腾讯弹幕",
       "name": "🎬腾讯弹幕",
+	  "type": 3,
 	  "jar": "./my/潇洒spider.jar",
-      "type": 3,
       "api": "./kx/drpy2.min.js",
 	   "searchable": 1,
       "quickSearch": 1,
@@ -839,8 +776,8 @@
     {
       "key": "芒果弹幕",
       "name": "🎬芒果弹幕",
+	  "type": 3,
 	  "jar": "./my/潇洒spider.jar",
-      "type": 3,
       "api": "./kx/drpy2.min.js",
 	   "searchable": 1,
       "quickSearch": 1,
@@ -901,8 +838,8 @@
     {
       "key": "奇趣影视-潇洒1条",
       "name": "🎬奇趣影视",
+	  "type": 3,
       "jar": "./my/spider6.2.jar",
-      "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
@@ -1127,10 +1064,10 @@
       "filterable": 1,
       "ext": "http://subaibai.com"
     },
-	{"key":"大米星球-欧哥","name":"🎬大米星球","jar":"./my/ou8.6.jar","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
+	{"key":"大米星球-欧哥","name":"🎬大米星球","type": 3,"jar":"./my/ou8.6.jar","api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 	{
       "key": "瓜子",
-      "name": "🎦瓜子短剧",
+      "name": "👉瓜子短剧",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -1142,8 +1079,8 @@
 	 {
       "key": "星芽短剧-拾光",
       "name": "🎦星芽VIP",
+	  "type": 3,
 	  "jar":"./my/spider短剧.jar",
-      "type": 3,
       "api": "./kx/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -1154,8 +1091,8 @@
 	{
       "key": "星芽短剧_欧歌",
       "name": "🎦星芽短剧",
+	  "type": 3,
       "jar":"./my/ou8.6.jar;md5;ba2be4662147a4ab7ec2292cc516fb32",
-      "type": 3,
       "api": "csp_AppXY",
       "searchable": 1,
       "quickSearch": 1,
@@ -1174,8 +1111,8 @@
 	 {
       "key": "奈飞短剧-拾光",
       "name": "🎦奈飞短剧",
+	  "type": 3,
 	  "jar":"./my/spider短剧.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1185,8 +1122,8 @@
 	{
       "key": "短剧大全-拾光",
       "name": "🎦短剧大全",
+	  "type": 3,
 	  "jar":"./my/spider短剧.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1216,8 +1153,8 @@
 	{
       "key": "一起看",
       "name": "🎦一起短剧",
+	  "type": 3,
 	  "jar":"./my/spider短剧.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1227,8 +1164,8 @@
     {
       "key": "DJW",
       "name": "🎦短剧网",
+	  "type": 3,
 	  "jar":"./my/spider短剧.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "playerType": 2,
       "searchable": 1,
@@ -1239,8 +1176,8 @@
 	{
       "key": "微云影视",
       "name": "🎦微云短剧",
+	  "type": 3,
 	  "jar":"./my/spider短剧.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1250,8 +1187,8 @@
 	{
       "key": "理理短剧",
       "name": "🎦理理短剧",
+	  "type": 3,
 	  "jar":"./my/spider短剧.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1261,15 +1198,15 @@
 	{
       "key": "天龙影院",
       "name": "🎦天龙短剧",
+	  "type": 3,
 	  "jar":"./my/spider短剧.jar",
-      "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./my/天龙短剧.json"
     },
-{"key":"NyaFun动漫-欧哥","jar":"./my/ou20240604.jar","name":"🌼妮呀动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"Ajeossi⚠️提醒您，广告勿信！+简介：&&</p>","分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"}},
+{"key":"NyaFun动漫-欧哥","type": 3,"jar":"./my/ou20240604.jar","name":"🌼妮呀动漫","api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"Ajeossi⚠️提醒您，广告勿信！+简介：&&</p>","分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"}},
 {
       "key": "爱动漫_js开心",
       "name": "🌼爱.动漫",
@@ -1305,8 +1242,8 @@
     {
       "key": "采集_中央",
       "name": "🇨🇳央视大全",
+	  "type": 3,
       "jar": "./my/cctv231121.jar",
-      "type": 3,
       "api": "csp_CCTV",
       "searchable": 0,
       "changeable": 0,
@@ -1318,15 +1255,15 @@
     {
       "key": "哔哩央视经典_hechengchaxiu",
       "name": "🇨🇳央视经典",
+	  "type": 3,
       "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./my/哔哩经典_hechengchaxiu.json"
     },
-	{"key":"哔哩直播-开心","name":"📣直播哔哩","jar":"./my/Bili2511.jar","type":3,"api":"./my/drpy26.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/blzb.js"},
+	{"key":"哔哩直播-开心","name":"📣直播哔哩","type": 3,"jar":"./my/Bili2511.jar","api":"./my/drpy26.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./my/blzb.js"},
 	 {
       "key": "直播转点播1_壹梦线路",
       "name": "📣直播教育T4",
@@ -1353,8 +1290,8 @@
     {
       "key": "相声小品",
       "name": "📺相声小品",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1364,8 +1301,8 @@
     {
       "key": "戏 曲",
       "name": "📺看.戏曲",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1426,8 +1363,8 @@
 	{
       "key": "csp_XYQHiker_DJ呦呦音乐网_壹梦线路1条",
       "name": "🎧听DJ呦呦",
+	  "type": 3,
       "jar":"./my/XYQspider1114.jar",
-      "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 0,
       "quickSearch": 0,
@@ -1464,8 +1401,8 @@
     {
       "key": "相声-琉芸",
       "name": "🎧听.相声",
+	  "type": 3,
 	  "jar": "./my/相声评书.txt;md5;BB155C3F0133BBCE4756AD52003F5968",
-      "type": 3,
       "searchable": 0,
       "style": {
         "type": "rect",
@@ -1550,8 +1487,8 @@
    {
       "key": "csp_BBB",
       "name": "🅱️套餐-1",
+	  "type": 3,
       "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1561,8 +1498,8 @@
     {
       "key": "Bili",
       "name": "🅱️套餐-2",
+	  "type": 3,
       "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1572,8 +1509,8 @@
     {
       "key": "哔哩哔哩",
       "name": "🅱️哔哩合集",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1584,8 +1521,8 @@
     {
       "key": "哔哩csp_Bili1_黄金影视",
       "name": "🅱️窗白噪音",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1595,8 +1532,8 @@
     {
       "key": "哔哩csp_Bili_壹梦线路",
       "name": "🅱️动物世界",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1606,8 +1543,8 @@
     {
       "key": "春节",
       "name": "🅱️哔哩春节",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1615,14 +1552,14 @@
       "ext": "./my/吾爱春节.json"
     },
    
-{"key": "美食","name": "🅱️美食合集","jar":"./my/Bili2511.jar","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./my/美食.json"},
-{"key": "球类","name": "🅱️球类合集","jar":"./my/Bili2511.jar","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球类合集.json"}, 
-{"key": "球星","name": "🅱️球星合集","jar":"./my/Bili2511.jar","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球星合集.json"},
+{"key": "美食","name": "🅱️美食合集","type": 3,"jar":"./my/Bili2511.jar","api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./my/美食.json"},
+{"key": "球类","name": "🅱️球类合集","type": 3,"jar":"./my/Bili2511.jar","api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球类合集.json"}, 
+{"key": "球星","name": "🅱️球星合集","type": 3,"jar":"./my/Bili2511.jar","api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./my/球星合集.json"},
  {
       "key": "哔哩吾爱乐器_壹梦线路",
       "name": "🅱️乐器合集",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1632,8 +1569,8 @@
     {
       "key": "哔哩体育_yun",
       "name": "🅱️体育合集",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1643,8 +1580,8 @@
 	{
       "key": "运动-欧哥",
       "name": "🅱️健身合集",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1654,8 +1591,8 @@
 	 {
       "key": "哔哩棋牌",
       "name": "🅱️棋牌合集",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1666,8 +1603,8 @@
 	 {
       "key": "MTV合集",
       "name": "🅱️MTV合集",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 1,
       "api": "https://tvbox-mv.cyao.eu.org/mv/vod",
       "searchable": 0,
       "quickSearch": 0,
@@ -1677,8 +1614,8 @@
     {
       "key": "哔哩Bili",
       "name": "🅱️真.人秀",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1688,8 +1625,8 @@
     {
       "key": "哔哩解说",
       "name": "🅱️电影解说",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1699,8 +1636,8 @@
     {
       "key": "哔哩吾爱户外_壹梦线路",
       "name": "🅱️哔哩户外",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1711,8 +1648,8 @@
     {
       "key": "哔哩音乐2023_hechengchaxou",
       "name": "🅱️茶道古筝",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1722,8 +1659,8 @@
     {
       "key": "哔哩MV2_yun",
       "name": "🅱️无损音乐",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1733,8 +1670,8 @@
     {
       "key": "哔哩演唱会自定义_yun",
       "name": "🅱️哔哩演唱会",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1744,8 +1681,8 @@
     {
       "key": "哔哩演唱会自定义",
       "name": "🅱️哔哩歌手",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1755,8 +1692,8 @@
 	{
       "key": "MV-欧哥",
       "name": "🅱️MTV热榜",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "style": {
         "type": "rect",
@@ -1770,8 +1707,8 @@
 	 {
       "key": "哔哩MV_yun",
       "name": "🅱️哔哩MV",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1781,8 +1718,8 @@
     {
       "key": "哔哩舞蹈_yun",
       "name": "🅱️哔哩舞蹈",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1792,8 +1729,8 @@
     {
       "key": "哔哩py_Nvtuan",
       "name": "🅱️女团热舞",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1803,8 +1740,8 @@
     {
       "key": "哔哩py_Meinvw",
       "name": "🅱️美女舞蹈",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1814,8 +1751,8 @@
     {
       "key": "歌舞",
       "name": "🅱️印度歌舞",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1825,8 +1762,8 @@
     {
       "key": "哔哩车模_yun",
       "name": "🅱️哔哩车模",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1836,8 +1773,8 @@
     {
       "key": "哔哩UP主_yun",
       "name": "🅱️UP主机",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1847,8 +1784,8 @@
     {
       "key": "哔哩软件_yun",
       "name": "🅱️软件教程",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1858,8 +1795,8 @@
     {
       "key": "哔哩PS_yun",
       "name": "🅱️PS教程",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1869,8 +1806,8 @@
     {
       "key": "哔哩EXCEL_yun",
       "name": "🅱️Excel教程",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1880,8 +1817,8 @@
     {
       "key": "演唱会-欧哥",
       "name": "🅱️演唱会",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "style": {
         "type": "rect",
@@ -1895,8 +1832,8 @@
     {
       "key": "儿童拼音",
       "name": "🅱️儿童拼音",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1906,8 +1843,8 @@
     {
       "key": "儿童识字",
       "name": "🅱️儿童识字",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1917,8 +1854,8 @@
     {
       "key": "儿童英语",
       "name": "🅱️儿童英语",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1928,8 +1865,8 @@
     {
       "key": "儿童硬笔",
       "name": "🅱️儿童硬笔",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1939,8 +1876,8 @@
     {
       "key": "儿童思维",
       "name": "🅱️儿童思维",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1950,8 +1887,8 @@
     {
       "key": "儿童口才",
       "name": "🅱️儿童口才",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1961,8 +1898,8 @@
     {
       "key": "儿童编程",
       "name": "🅱️儿童编程",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1972,8 +1909,8 @@
     {
       "key": "儿童武术",
       "name": "🅱️儿童武术",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1983,8 +1920,8 @@
     {
       "key": "少儿教育",
       "name": "🅱️教育少儿",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -1994,8 +1931,8 @@
     {
       "key": "小学课堂",
       "name": "🅱️教育小学",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2005,8 +1942,8 @@
     {
       "key": "初中课堂",
       "name": "🅱️教育初中",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2016,8 +1953,8 @@
     {
       "key": "高中教育",
       "name": "🅱️教育高中",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2027,8 +1964,8 @@
     {
       "key": "哔哩吾爱学堂高考",
       "name": "🅱️教育高考",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2038,8 +1975,8 @@
     {
       "key": "奥数理化",
       "name": "🅱️奥数理化",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2049,8 +1986,8 @@
     {
       "key": "外语课堂",
       "name": "🅱️外语课堂",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2060,8 +1997,8 @@
     {
       "key": "小灯塔百科",
       "name": "🅱️小灯塔百科",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2071,8 +2008,8 @@
     {
       "key": "小灯塔科学",
       "name": "🅱️小灯塔科学",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2082,8 +2019,8 @@
     {
       "key": "小灯塔地理",
       "name": "🅱️小灯塔地理",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2093,8 +2030,8 @@
     {
       "key": "小灯塔国学",
       "name": "🅱️小灯塔国学",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2104,8 +2041,8 @@
     {
       "key": "小灯塔人文",
       "name": "🅱️小灯塔人文",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2128,8 +2065,8 @@
     {
       "key": "搭讪",
       "name": "💋搭讪",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2139,8 +2076,8 @@
     {
       "key": "搭配",
       "name": "💃搭配",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2150,8 +2087,8 @@
     {
       "key": "py_中国文化",
       "name": "📚️中国文化",
+	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
-      "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
@@ -2161,8 +2098,8 @@
     {
       "key": "js_4KHDR_duoduo",
       "name": "📀玩偶姐4k",
+	  "type": 3,
       "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
-      "type": 3,
       "api": "./my/drpy26.min.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -2173,8 +2110,8 @@
      {
       "key": "配置中-开心",
       "name": "🔧‍配置中心",
+	  "type": 3,
 	  "jar":"./my/ttkx0109.jar",
-      "type": 3,
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
@@ -2199,8 +2136,8 @@
 	 {
       "key": "csp_KungFu404-老刘备",
       "name": "🐲阿里设置",
+	  "type": 3,
       "jar": "./my/Token.jar",
-      "type": 3,
       "api": "csp_KungFu404",
       "searchable": 0,
       "filterable": 0,
@@ -2293,7 +2230,7 @@
     },
 	 {
       "key": "荐片弹幕版",
-      "name": "🎬荐片手机",
+      "name": "👉荐片手机",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
