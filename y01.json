@@ -94,7 +94,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告2.6",
+      "name": "📢公告2.7",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -495,7 +495,14 @@
       "filterable": 1,
       "ext": "./my/4K影视.json"
     },
-	 
+	
+  {
+    "key": "cspMiTuApp",
+    "name": "👉米兔影视",
+    "type": 3,
+    "api": "csp_MITU",
+    "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
+  }, 
 	{"key": "奈飞影视-开心","name":"👉奈飞.推荐","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
 
 	{
@@ -2129,7 +2136,15 @@
       },
       "timeout": 10
     },
-
+    {
+    "key": "韩小圈",
+    "name": "🎬韩小影视",
+    "type": 3,
+    "api": "csp_HanXiaoQuan",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
