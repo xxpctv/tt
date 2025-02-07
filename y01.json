@@ -260,88 +260,15 @@
       "filterable": 1
     },
 	{
-    "key":"csp_追剧",
-    "name":"👉优选.追剧",
-    "type": 3,
-	"jar":"./my/fix250118.jar",
-    "api": "csp_TTian",
-    "ext": "daHR0cDovL3YubGt1eXMuY24="
-
-},
-
-{
-    "key": "csp_人人",
-    "name": "👉优选.人人",
-    "type": 3,
-	"jar":"./my/fix250118.jar",
-    "api": "csp_Xdai",
-    "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
-    
-},
-{
-    "key": "csp_柠檬",
-    "name": "👉优选.柠檬",
-    "type": 3,
-	"jar":"./my/fix250118.jar",
-    "api": "csp_Nmvod",
-    "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
-
-},
-
-{
-    "key": "csp_Wwys",
-    "name": "👉优选.闵农",
-    "type": 3,
-    "jar":"./my/xm2403.jar",	
-    "api": "csp_Wwys",
-    "ext": "https://www.wwgz.cn/"
-
-},
-{
-    "key": "py_农民",
-    "name": "👉优选.农民",
-	"jar":"./my/PXspider.jar",
-    "type": 3,
-    "api": "./my/农民.js"
-},
-
-
-	{
-      "key": "瓜子-开心1",
-      "name": "👉优选.瓜子Js",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "./kx/drpy2.min.js",
-      "ext": "./my/瓜子.js"
-    },
-	 {
-      "key": "drpyS_瓜子H5-新道长",
-      "name": "👉优选.瓜子T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/瓜子H5",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-	{
-      "key": "瓜子影视-开心",
-      "name": "👉优选.瓜子Kx",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	 {
       "key": "csp_魔盒-琉芸",
       "name": "👉大师专线",
       "type": 3,
       "jar":"./my/XYQspider1114.jar",
       "api": "csp_XYQHiker",
+	  "api": "csp_Nmvod",
+	  "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": {
         "请求头参数": "User-Agent$手机#Referer$https://www.wwgz.cn",
         "网页编码格式": "UTF-8",
@@ -408,6 +335,102 @@
         "手动嗅探视频链接过滤词": ".html#=http"
       }
     },
+	{
+    "key":"csp_追剧",
+    "name":"👉优选.追剧",
+    "type": 3,
+	"jar":"./my/fix250118.jar",
+    "api": "csp_TTian",
+	"api": "csp_Nmvod",
+	"searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "daHR0cDovL3YubGt1eXMuY24="
+
+},
+
+{
+    "key": "csp_人人",
+    "name": "👉优选.人人",
+    "type": 3,
+	"jar":"./my/fix250118.jar",
+	"api": "csp_Nmvod",
+	"searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "api": "csp_Xdai",
+    "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
+    
+},
+{
+    "key": "csp_柠檬",
+    "name": "👉优选.柠檬",
+    "type": 3,
+	"jar":"./my/fix250118.jar",
+    "api": "csp_Nmvod",
+	"searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+
+},
+
+{
+    "key": "csp_Wwys",
+    "name": "👉优选.闵农",
+    "type": 3,
+    "jar":"./my/xm2403.jar",	
+    "api": "csp_Wwys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "https://www.wwgz.cn/"
+
+},
+{
+    "key": "py_农民",
+    "name": "👉优选.农民",
+    "type": 3,
+	"jar":"./my/PXspider.jar",
+	"api": "csp_Nmvod",
+	"searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "api": "./my/农民.js"
+},
+
+
+	{
+      "key": "瓜子-开心1",
+      "name": "👉优选.瓜子Js",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "./kx/drpy2.min.js",
+      "ext": "./my/瓜子.js"
+    },
+	 {
+      "key": "drpyS_瓜子H5-新道长",
+      "name": "👉优选.瓜子T4",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/瓜子H5",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+	{
+      "key": "瓜子影视-开心",
+      "name": "👉优选.瓜子Kx",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	 
  
 {
       "key": "荐片2-开心",
@@ -501,6 +524,9 @@
     "name": "👉米兔影视",
     "type": 3,
     "api": "csp_MITU",
+	"searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
     "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
   }, 
 	{"key": "奈飞影视-开心","name":"👉奈飞.推荐","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
@@ -545,6 +571,9 @@
       "type": 3,
 	  "jar":"./my/XYQspider1114.jar",	  
       "api": "csp_XBPQ",
+	  "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": {
         "主页url": "https://www.qyzf88.com/",
         "标题": "itle=\"&&\"",
