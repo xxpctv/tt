@@ -386,7 +386,7 @@
 
 },
 {
-    "key": "py_农民",
+    "key": "py_农民-琉芸Js含Js",
     "name": "👉优选.农民",
     "type": 3,
 	"jar":"./my/PXspider.jar",
@@ -397,18 +397,6 @@
     "api": "./my/农民.js"
 },
 
-
-	{
-      "key": "瓜子-开心1",
-      "name": "👉优选.瓜子Js",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "./kx/drpy2.min.js",
-      "ext": "./my/瓜子.js"
-    },
 	 {
       "key": "drpyS_瓜子H5-新道长",
       "name": "👉优选.瓜子T4",
@@ -428,7 +416,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	 
+	{
+    "key": "csp_SuBaiBai-琉芸影视",
+    "name": "👉优选.素白",
+    "type": 3,
+	"jar":"./my/xm2403.jar",
+    "api": "csp_SuBaiBai",
+    "ext": "https://www.subaibaiys.com/",
+	"searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+}, 
  
 {
       "key": "荐片2-开心",
@@ -551,7 +549,65 @@
         "分类值": "2&1&3&4"
       }
     },
-   
+   {
+    "key": "xbpq_鲨鱼-琉芸",
+    "name": "🎬鲨鱼影视",
+    "type": 3,
+	"jar":"./my/XYQspider1114.jar",
+    "api": "csp_XBPQ",
+    "ext": {
+    "简介":"Ajeossi推荐，广告勿信👉剧情 : + class=\"detail-sketch\"&&<br",
+    "副标题": "HD+pic-text text-right\"&&</span>",
+    "分类url": "https://www.sdkuaiji.org/shayuyy/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+    "分类": "鲨鱼$kehuan#电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna",
+    "类型": "动作片$dongzhuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu||大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju||大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy||国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"}
+},
+{
+    "key": "xbpq_韩迷TV-琉芸",
+    "name": "🎬韩蜜影视",
+    "type": 3,
+	"jar":"./my/XYQspider1114.jar",
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "图片代理": "0",
+    "主页url": "https://www.hmtv8.cc",
+    "首页": "120",
+    "起始页": "1",
+    "分类url": "/{cateId}/page/{catePg};;mrcd0",
+    "分类": "韩影&韩剧&韩综&更新",
+    "分类值": "dianying&hanju&zongyi&new",
+    "二次截取": "默认--m-movies clearfix\">&&\"pagination||首页--m-movies clearfix\">&&\"sidebar||搜索--m-movies clearfix\">&&\"pagination",
+    "数组": "默认--<article&&</article>||搜索--<article&&</article>",
+    "标题": "<h2>&&</h2>",
+    "图片": "data-original=\"&&\"",
+    "副标题": "HD+pingfen\">&&</span>HD++zhuangtai\">&&</span>",
+    "链接": "href=\"&&\"",
+    "影片年代": "首播:</strong> &&-",
+    "影片地区": "国家/地区:&&<strong>",
+    "影片类型": "类型:&&<strong>",
+    "状态": "首播:&&)",
+    "导演": "导演:&&<strong>",
+    "主演": "主演:&&<strong>",
+    "简介": "jianjie\">&&</span>+Ajeossi推荐，广告勿信👉剧情 : + ",
+    "线路数组": "<strong>&&</strong>",
+    "线路标题": "+韩迷TV",
+    "跳转数组": "vlink*>&&</a>",
+    "跳转链接": "href=\"&&\"",
+    "播放数组": "tab\"&&</section>",         
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&<",
+    "播放链接": "href=\"&&\"",
+    "直接播放": "0",
+    "嗅探词": ".mp4#.m3u8",
+    "跳转播放链接": "vid=\"&&\"",
+    "搜索请求头": "User-Agent$MOBILE_UA",
+    "搜索url": "/page/{pg}?s={wd}",
+    "搜索模式": "1",
+    "筛选": "1",
+    "类型": "空||剧情$hanju/juqingju#动作$hanju/dongzuoju#古装$hanju/guzhuangju#喜剧$hanju/xiju#奇幻$hanju/qihuanju#悬疑$hanju/xuanyiju#爱情$hanju/aiqingju#惊悚$hanju/jingsongju#犯罪$hanju/fanzuiju||空||空"}
+},
     {
       "key": "白嫖者-琉芸",
       "name": "🎬白嫖影视",
@@ -1016,19 +1072,14 @@
       "filterable": 1,
       "ext": "https://www.91qkw.com"
     },
-   
-
-	{
-      "key": "瓜子-开心",
-      "name": "🎦瓜子短剧",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "./kx/drpy2.min.js",
-      "ext": "./my/瓜子.js"
-    },
+   {
+    "key": "dr_瓜子-琉芸影视",
+    "name": "👉瓜子短剧",
+    "type": 3,
+	"jar":"./my/XYQspider1114.jar",
+    "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+    "ext": "https://d.kstore.dev/download/12194/TV/guazi.js"
+},
 	 {
       "key": "星芽短剧-拾光",
       "name": "🎦星芽VIP",
