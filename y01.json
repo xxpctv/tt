@@ -22,7 +22,7 @@
     },
 	
     {
-      "name": "catvod TV(日更新.推荐)",
+      "name": "catvod TV(优选日更新)",
       "type": 0,
       "url": "http://iptv.catvod.com/tv.m3u",
       "playerType": 2,
@@ -30,24 +30,7 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	{
-      "name": "开心TV(EXO)",
-      "type": 0,
-      "url": "http://kxrj.site:55/lib/kx2024.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-	{
-      "name": "新AKTV（港台专线）",
-      "type": 0,
-      "url": "http://aktv.top/live.m3u",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
+	
 	{
       "name": "TV直播(日更新)",
       "type": 0,
@@ -455,6 +438,16 @@
         "danmu": true
       }
     },
+	{
+      "key": "drpyS_荐片-新道长",
+      "name": "👉优选.荐片T4",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/荐片",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },	
 	 {
       "key": "花姐影院-琉芸",
       "name": "🎬花姐影视",
@@ -486,16 +479,7 @@
       "changeable": 1,
       "quickSearch": 1
     },
-	{
-      "key": "drpyS_荐片-新道长",
-      "name": "🎬荐片推荐T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/荐片",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },	
+	
 	{
       "key": "克隆合集-琉芸",
       "name": "🎬克隆合集T4",
@@ -509,8 +493,6 @@
       },
       "filterable": 0
     },
-	
-	
 	 {
       "key": "PKW-沂宸",
       "name": "🎬片库网剧",
@@ -897,16 +879,7 @@
       "playerType": 1,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
     },
-	 {
-      "key": "素白白",
-      "name": "🎬白白影视",
-      "type": 3,
-      "api": "csp_Subaibai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://subaibai.com"
-    },
+	
 	{
       "key": "全网影视",
       "name": "🎬全网影视",
