@@ -516,22 +516,10 @@
       "filterable": 1,
       "ext": "./my/4K影视.json"
     },
-	
-  {
-    "key": "cspMiTuApp",
-    "name": "👉优选.米兔",
-    "type": 3,
-	"jar":"./my/xm2403.jar",
-    "api": "csp_MITU",
-	"searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
-  }, 
 	{"key": "奈飞影视-开心","name":"👉优选.奈飞","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
 
 	{
-      "key": "糯米弹幕",
+      "key": "糯米弹幕-潇洒",
       "name": "👉优选.糯米",
 	  "type": 3,
 	  "jar": "./my/潇洒spider.jar",
