@@ -996,7 +996,7 @@
     "name": "👉瓜子短剧",
     "type": 3,
 	"jar":"./my/XYQspider1114.jar",
-    "api": "./kx/drpy2.min.js",
+    "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
     "ext": "./my/guazi.js"
 },
 	 {
