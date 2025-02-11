@@ -1,11 +1,3 @@
-🇨🇳重庆【万州区】,#genre#
-航拍重庆万州区1,https://vd2.bdstatic.com/mda-qfehfrwepkv6pqje/1080p/cae_h264/1718540622063468057/mda-qfehfrwepkv6pqje.mp4
-航拍重庆万州区2,https://vd3.bdstatic.com/mda-megdzqfdn6yix8et/sc/cae_h264_nowatermark/1621248522798513311/mda-megdzqfdn6yix8et.mp4
-俯瞰万州区夜景,https://vd3.bdstatic.com/mda-qfc143vqtdq4ye02/1080p/cae_h264/1718239778098109791/mda-qfc143vqtdq4ye02.mp4
-万州亚洲第一瀑布, https://vd4.bdstatic.com/mda-nhtc58i8k46c2tt3/sc/cae_h264/1661675957362965531/mda-nhtc58i8k46c2tt3.mp4
-万州新田水库,https://vd2.bdstatic.com/mda-qa64xe16isjjvuc9/1080p/cae_h264/1704629555782296408/mda-qa64xe16isjjvuc9.mp4
-九十年代重庆万州珍贵历史纪实旧影像记录, https://vd2.bdstatic.com/mda-pii9n9p9ycn4f187/1080p/cae_h264/1695196722138544593/mda-pii9n9p9ycn4f187.mp4
-渝万高铁.重庆-万州.全程245公里.卫星航拍, https://vd3.bdstatic.com/mda-mc2fx42tnxrsn2bt/sc/cae_h264_nowatermark/1614741536/mda-mc2fx42tnxrsn2bt.mp4
 🇨🇳【第一季6集】,#genre#
 第一季┃合集,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 航拍中国┃新疆,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
@@ -17,41 +9,41 @@
 
 🇨🇳【第二季7集】,#genre#
 第二季┃合集,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-航拍中国┃浙江,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c40caee6399e45daa7676b9a5e4116d5/1200.m3u8
-航拍中国┃四川,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f22f133aab0b40129360c0c6d6ff0d2d/1200.m3u8
-航拍中国┃内蒙古,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c76529c9c434b38a9047daa000a7b90/1200.m3u8
-航拍中国┃甘肃,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4b79a3079e6f41fe98735763fa200101/1200.m3u8
-航拍中国┃广东,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/32074e14c72f449f9c77e247cc886ecc/1200.m3u8
-航拍中国┃福建,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be153a817c2e4b1181183d7fd8879e92/1200.m3u8
-航拍中国┃江苏,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64c2db4bb8fc4e0d9b41506556a718cd/1200.m3u8
+航拍中国┃浙江,https://vip.lz-cdn16.com/20230314/12685_7aea26a9/2000k/hls/mixed.m3u8
+航拍中国┃四川,https://vip.lz-cdn16.com/20230314/12687_c052bdbf/2000k/hls/mixed.m3u8
+航拍中国┃内蒙古,https://vip.lz-cdn16.com/20230314/12686_cf6d34f0/2000k/hls/mixed.m3u8
+航拍中国┃甘肃,https://vip.lz-cdn16.com/20230314/12688_ef3fbedd/2000k/hls/mixed.m3u8
+航拍中国┃广东,https://vip.lz-cdn16.com/20230314/12689_9e8d847f/2000k/hls/mixed.m3u8
+航拍中国┃福建,https://vip.lz-cdn16.com/20230314/12690_126c2925/2000k/hls/mixed.m3u8
+航拍中国┃江苏,https://vip.lz-cdn16.com/20230314/12691_f59296f5/2000k/hls/mixed.m3u8
 
 🇨🇳【第三季10集】,#genre#
-第三季┃合集,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
-航拍中国┃云南,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dc534f3d3730442a8b50334424ec2c78/1200.m3u8
-航拍中国┃安徽,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/67c4d1c8265b45898a455f4dbaf17680/1200.m3u8
-航拍中国┃贵州,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73c437874a0c447dbfe6d7467d4a6e64/1200.m3u8
-航拍中国┃山东,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0263fc1d530d4b25bbc9e0ede600c7e4/1200.m3u8
-航拍中国┃天律,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5f03d9f1684241f696b25a19ffc44145/1200.m3u8
-航拍中国┃山西,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c0d9387b7514640bc9fceee79257be4/1200.m3u8
-航拍中国┃吉林,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ad1e94a68cb440fd98317cc3aa7f4f31/1200.m3u8
-航拍中国┃湖南,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
-航拍中国┃河北,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/1200.m3u8
-航拍中国┃宁夏,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/1200.m3u8
 
+航拍中国┃云南,https://vip.lz-cdn16.com/20230314/12692_79614500/2000k/hls/mixed.m3u8
+航拍中国┃安徽,https://vip.lz-cdn16.com/20230314/12693_31e7651d/2000k/hls/mixed.m3u8
+航拍中国┃贵州,https://vip.lz-cdn16.com/20230314/12694_81176817/2000k/hls/mixed.m3u8
+航拍中国┃山东,https://vip.lz-cdn16.com/20230314/12696_e59fdc2d/2000k/hls/mixed.m3u8
+航拍中国┃天律,https://vip.lz-cdn16.com/20230314/12695_2bf120c7/2000k/hls/mixed.m3u8
+航拍中国┃山西,https://vip.lz-cdn16.com/20230314/12697_8c5ab7fc/2000k/hls/mixed.m3u8
+航拍中国┃吉林,https://vip.lz-cdn16.com/20230314/12698_d1637e19/2000k/hls/mixed.m3u8
+航拍中国┃湖南,https://vip.lz-cdn16.com/20230314/12699_b4764510/2000k/hls/mixed.m3u8
+航拍中国┃河北,https://vip.lz-cdn16.com/20230314/12700_7977a9f1/2000k/hls/mixed.m3u8
+航拍中国┃宁夏,https://vip.lz-cdn16.com/20230314/12701_e1a75fad/2000k/hls/mixed.m3u8
 
-🇨🇳【第四季11集HD】,#genre#
+🇨🇳【第四季11集】,#genre#
 
-航拍中国┃北京1080*606,https://cdn10.yzzy-online.com/20221115/11737_4aa933bc/index.m3u8
-航拍中国┃广西1080*606,https://cdn10.yzzy-online.com/20221115/11736_9f9912ce/index.m3u8
-航拍中国┃青海1080*606,https://cdn10.yzzy-online.com/20221115/11735_ee8af905/index.m3u8
-航拍中国┃湖北1080*606,https://cdn9.yzzy-online.com/20221111/15037_32fa947e/index.m3u8
-航拍中国┃香港1080*606,https://cdn9.yzzy-online.com/20221111/15035_ac99d066/index.m3u8
-航拍中国┃西藏1080*606,https://cdn9.yzzy-online.com/20221111/15034_4aa8bdf8/index.m3u8
-航拍中国┃澳门1080*606,https://cdn9.yzzy-online.com/20221111/15038_0a0009e0/index.m3u8
-航拍中国┃重庆1080*606,https://cdn10.yzzy-online.com/20221115/11740_edbd6686/index.m3u8
-航拍中国┃河南1080*606,https://cdn10.yzzy-online.com/20221115/11739_6f41c946/index.m3u8
-航拍中国┃辽宁1280*720,https://cdn20.vip-vip-yzzy.com/20231030/2848_b4a1bd1b/index.m3u8
-航拍中国┃台湾1280*720,https://cdn20.vip-vip-yzzy.com/20231030/2847_bdf7655e/index.m3u8
+航拍中国┃北京,https://vip.lz-cdn16.com/20230314/12702_43d8ee55/index.m3u8
+航拍中国┃广西,https://vip.lz-cdn16.com/20230314/12704_7f679bc8/index.m3u8
+航拍中国┃青海,https://vip.lz-cdn16.com/20230314/12703_03d58f74/index.m3u8
+航拍中国┃湖北,https://vip.lz-cdn16.com/20230314/12705_938d50c5/index.m3u8
+航拍中国┃香港,https://vip.lz-cdn16.com/20230314/12706_dea1b00e/index.m3u8
+航拍中国┃西藏,https://vip.lz-cdn16.com/20230314/12711_eb660b37/index.m3u8
+航拍中国┃澳门,https://vip.lz-cdn16.com/20230314/12707_f0f72b6e/index.m3u8
+航拍中国┃重庆,https://vip.lz-cdn16.com/20230314/12708_e8e16250/index.m3u8
+航拍中国┃河南,https://vip.lz-cdn16.com/20230314/12710_cef0b2f1/index.m3u8
+航拍中国┃辽宁,https://vip.lz-cdn16.com/20230314/12709_ee335938/index.m3u8
+航拍中国┃台湾,https://cdn20.vip-vip-yzzy.com/20231030/2847_bdf7655e/index.m3u8
+
 
 🇨🇳【第四季.湖北19集】,#genre#
 
@@ -74,16 +66,34 @@
 航拍湖北┃襄阳古城,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3059ab40a3864707a5ba684b031ba860/1200.m3u8
 航拍湖北┃武汉樱花,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7b34aeb3b2ba48988f1ae5d76eede4f2/1200.m3u8
 航拍湖北┃黄石仙岛湖,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/47413cd5441942c3834f8bac286fdd4e/1200.m3u8
-🇨🇳【第四季11集4K】,#genre#
 
-航拍中国┃北京3840*2160,https://vip.lz-cdn16.com/20230314/12702_43d8ee55/index.m3u8
-航拍中国┃广西3840*2160,https://vip.lz-cdn16.com/20230314/12704_7f679bc8/index.m3u8
-航拍中国┃青海3840*2160,https://vip.lz-cdn16.com/20230314/12703_03d58f74/index.m3u8
-航拍中国┃湖北3840*2160,https://vip.lz-cdn16.com/20230314/12705_938d50c5/index.m3u8
-航拍中国┃香港3840*2160,https://vip.lz-cdn16.com/20230314/12706_dea1b00e/index.m3u8
-航拍中国┃西藏3840*2160,https://vip.lz-cdn16.com/20230314/12711_eb660b37/index.m3u8
-航拍中国┃澳门3840*2160,https://vip.lz-cdn16.com/20230314/12707_f0f72b6e/index.m3u8
-航拍中国┃重庆3840*2160,https://vip.lz-cdn16.com/20230314/12708_e8e16250/index.m3u8
-航拍中国┃河南3840*2160,https://vip.lz-cdn16.com/20230314/12710_cef0b2f1/index.m3u8
-航拍中国┃辽宁3840*2160,https://vip.lz-cdn16.com/20230314/12709_ee335938/index.m3u8
-航拍中国┃台湾1280*720,https://cdn20.vip-vip-yzzy.com/20231030/2847_bdf7655e/index.m3u8
+🇨🇳中国重庆,#genre#
+
+重庆市【渝中区】1,https://vd3.bdstatic.com/mda-qceieg6kaxjfq92t/1080p/cae_h264/1710516288629317771/mda-qceieg6kaxjfq92t.mp4
+重庆市【渝中区】2,https://vd2.bdstatic.com/mda-qceigq271ed654qy/1080p/cae_h264/1710614149755985565/mda-qceigq271ed654qy.mp4
+重庆市【渝中区】夜景, https://vd2.bdstatic.com/mda-qceickiy81pu28p2/1080p/cae_h264/1710516231419476114/mda-qceickiy81pu28p2.mp4
+重庆市【江北区】1,https://vd2.bdstatic.com/mda-qc0icged6g7jsgkw/1080p/cae_h264/1709437369165062225/mda-qc0icged6g7jsgkw.mp4
+重庆市【江北区】2,https://vd2.bdstatic.com/mda-qb0k0x19uuhwj6ub/1080p/cae_h264/1706796582873846235/mda-qb0k0x19uuhwj6ub.mp4
+重庆市【江北区】夜景,https://vd4.bdstatic.com/mda-qb0k2zm7kz1djwyz/1080p/cae_h264/1706796840848043428/mda-qb0k2zm7kz1djwyz.mp4
+重庆【万州区】1,https://vd2.bdstatic.com/mda-qfehdz1vna3gucg7/1080p/cae_h264/1718540472551435224/mda-qfehdz1vna3gucg7.mp4
+重庆【万州区】2,https://vd2.bdstatic.com/mda-qfehfrwepkv6pqje/1080p/cae_h264/1718540622063468057/mda-qfehfrwepkv6pqje.mp4
+重庆市【38区县】夜景, https://vd2.bdstatic.com/mda-qfc1850eat1dqbv7/1080p/cae_h264/1718240132982935276/mda-qfc1850eat1dqbv7.mp4
+重庆【万州区】夜景,https://vd3.bdstatic.com/mda-qfc143vqtdq4ye02/1080p/cae_h264/1718239778098109791/mda-qfc143vqtdq4ye02.mp4
+万州亚洲第一瀑布, https://vd4.bdstatic.com/mda-nhtc58i8k46c2tt3/sc/cae_h264/1661675957362965531/mda-nhtc58i8k46c2tt3.mp4
+万州新田水库,https://vd2.bdstatic.com/mda-qa64xe16isjjvuc9/1080p/cae_h264/1704629555782296408/mda-qa64xe16isjjvuc9.mp4
+九十年代重庆万州珍贵历史纪实旧影像记录, https://vd2.bdstatic.com/mda-pii9n9p9ycn4f187/1080p/cae_h264/1695196722138544593/mda-pii9n9p9ycn4f187.mp4
+渝万高铁.重庆-万州.全程245公里.卫星航拍, https://vd3.bdstatic.com/mda-mc2fx42tnxrsn2bt/sc/cae_h264_nowatermark/1614741536/mda-mc2fx42tnxrsn2bt.mp4
+
+航拍【美国第一季】,#genre#
+航拍美国第1集,https://v4.qrssv.com/202501/11/JLGiCqZuEg20/video/2000k_1080/hls/index.m3u8
+航拍美国第2集,https://v2.qrssv.com/202501/11/WA3qQKLth321/video/2000k_1080/hls/index.m3u8
+航拍美国第3集,https://v4.qrssv.com/202501/11/Q3TuQnbpaA20/video/2000k_1080/hls/index.m3u8
+航拍美国第4集,https://v5.qrssv.com/202501/11/z0wXrf0KBk22/video/2000k_1080/hls/index.m3u8
+航拍美国第5集,https://v6.qrssv.com/202501/11/hUFZp9A12S21/video/2000k_1080/hls/index.m3u8
+航拍【赤道】,#genre#
+航拍赤道第1集,https://vip.lz-cdn11.com/20220611/8348_02bd5915/1000k/hls/mixed.m3u8
+航拍赤道第2集,https://vip.lz-cdn11.com/20220611/8349_41a30e64/1000k/hls/mixed.m3u8
+航拍赤道第3集,https://vip.lz-cdn11.com/20220611/8352_a707284e/1000k/hls/mixed.m3u8
+航拍【埃及】,#genre#
+航拍埃及第1集,https://play.hhuus.com/play/YaORyNpe/index.m3u8
+航拍埃及第2集,https://hd.ijycnd.com/play/NbWR7YJa/index.m3u8
