@@ -477,7 +477,7 @@
       "key": "摸鱼瓜子-摸鱼",
       "name": "🎬瓜子影视",
       "type": 3,
-      "api": "./kx/drpy2.min.js",
+      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
@@ -488,7 +488,7 @@
       "name": "🎬瓜子App",
       "type": 3,
       "api": "csp_AppGZ",
-      "jar": "./my/fix250118.jar",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -498,7 +498,7 @@
       "name": "🎬南瓜影视",
       "type": 3,
       "api": "csp_NanGua",
-      "jar": "./my/fix250118.jar",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -511,7 +511,7 @@
 	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "ext": "./my/一个G影视.json",
+      "ext": "./my/1个G影视.json",
       "jar": "./my/xyqxbpq240228.jar"
     },
     {
