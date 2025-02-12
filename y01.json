@@ -455,6 +455,96 @@
       "filterable": 1,
       "quickSearch": 1,
       "ext": ""
+    },
+ {
+      "key": "csp_图图-琉芸",
+      "name": "👉优选.图图",
+      "type": 3,
+      "api": "csp_APPTT",
+      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA==",
+      "jar": "./my/fix250118.jar"
+    },
+   {
+      "key": "蝴蝶-摸鱼儿",
+      "name": "🎬蝴蝶影视",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "./my/fix250118.jar",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+	{
+      "key": "摸鱼瓜子-摸鱼",
+      "name": "🎬瓜子影视",
+      "type": 3,
+      "api": "./kx/drpy2.min.js",
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+    },
+{
+      "key": "洽洽影视-摸鱼",
+      "name": "🎬瓜子App",
+      "type": 3,
+      "api": "csp_AppGZ",
+      "jar": "./my/fix250118.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	{
+      "key": "南瓜弹幕-摸鱼",
+      "name": "🎬南瓜影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "./my/fix250118.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "一个g影院-特别拾光",
+      "name": "🎬1个G影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+	  "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": "./my/一个G影视.json",
+      "jar": "./my/xyqxbpq240228.jar"
+    },
+    {
+      "key": "中畅影院-特别拾光",
+      "name": "🎬中畅影视",
+      "type": 3,
+      "jar": "./my/xyqxbpq240228.jar",
+      "api": "csp_XBPQ",
+	  "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://szdy168.com/",
+        "数组": "默认--lazyload\"&&</a>||搜索--lazyload\"&&</a>",
+        "标题": "默认--title=\"&&\"||搜索--title=\"&&\"",
+        "图片": "默认--data-original=\"&&\"||搜索--data-original=\"&&\"",
+        "副标题": "默认--right\">&&</span>||搜索--right\">&&</span>",
+        "链接": "默认--href=\"&&\"||搜索--href=\"&&\"",
+        "播放数组": "playlist clearfix&&</ul>",
+        "播放列表": "<a&&a>",
+        "播放链接": "href=\"&&\"",
+        "播放标题": ">&&</",
+        "线路数组": "more text-muted pull-right&&</div>",
+        "线路标题": "title\">&&</",
+        "简介": "learfix\"><p>&&</p>",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "搜索url": "https://szdy168.com/sousuoye/{wd}----------{pg}---.html",
+        "分类url": "https://szdy168.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影&电视剧&动漫&综艺",
+        "分类值": "dianying&dianshiju&dongman&zongyi"
+      }
     },	
 	 {
       "key": "花姐影院-琉芸",
