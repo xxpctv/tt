@@ -45,28 +45,6 @@
 航拍中国┃台湾,https://wjm.kemfsj.com/1b3a38bbb9771fbfa0e5fde1a274b0a2/20250212153922/decry/vd/20241213/N2VhZGQ1ODlhND/182559/1920_1080/aac/libx/hls/decrypt/index.m3u8
 
 
-🇨🇳【第四季.湖北19集】,#genre#
-
-航拍湖北┃黄鹤楼,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/637431980be24ad8932d1d3719396bd9/1200.m3u8
-航拍湖北┃十堰武当山,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d6e8e37a2fac4305b4cd5f50f5c67233/1200.m3u8
-航拍湖北┃荆州熊家冢,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4986323e88eb4f9fb39c2d99adbd369d/1200.m3u8
-航拍湖北┃神农架川金丝猴,https://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/8bd294ad06e744438f7bfd22e201c96d/1200.m3u8
-航拍湖北┃石首平原与麋鹿,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/231825f7949c43d2aa653774028881ef/1200.m3u8
-航拍湖北┃恩施土家族,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b6d7db6534b4cd6910eb87c2fc0234b/1200.m3u8
-航拍湖北┃大九湖,https://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/38d4d86e8af441a0bc4ebe06c9b77aad/1200.m3u8
-航拍湖北┃矅天眼,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0a00f588a88f4a2f9efcd177882de712/1200.m3u8
-航拍湖北┃汉阳铁厂,https://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/b9c549a2637c48e49a5b9e88d2fae4c5/1200.m3u8
-航拍湖北┃三峡大坝,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c737ee0fad054090a770324d39cc4ee3/1200.m3u8
-航拍湖北┃仙岛湖,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/47413cd5441942c3834f8bac286fdd4e/1200.m3u8
-航拍湖北┃武昌起义纪念馆,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/af8e9b47beb5415a803634791c23361d/1200.m3u8
-航拍湖北┃小龙虾,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/035e1635dd55461a86db5c29d6cf30a6/1200.m3u8
-航拍湖北┃过早技能,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/580e1a797d6348f3a766fec21f513477/1200.m3u8
-航拍湖北┃鹤峰屏山峡谷,https://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/b04f66fd7dd44524ac6a397fbd53a73d/1200.m3u8
-航拍湖北┃洪湖莲藕,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/78d87a7c5a5449258fe84af3820f18cf/1200.m3u8
-航拍湖北┃襄阳古城,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3059ab40a3864707a5ba684b031ba860/1200.m3u8
-航拍湖北┃武汉樱花,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/7b34aeb3b2ba48988f1ae5d76eede4f2/1200.m3u8
-航拍湖北┃黄石仙岛湖,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/47413cd5441942c3834f8bac286fdd4e/1200.m3u8
-
 🇨🇳中国重庆,#genre#
 
 重庆市【渝中区】第1段,https://vd3.bdstatic.com/mda-qceieg6kaxjfq92t/1080p/cae_h264/1710516288629317771/mda-qceieg6kaxjfq92t.mp4
