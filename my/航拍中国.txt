@@ -32,17 +32,17 @@
 
 🇨🇳【第四季11集】,#genre#
 
-航拍中国┃北京,https://vip.lz-cdn16.com/20230314/12702_43d8ee55/index.m3u8
-航拍中国┃广西,https://vip.lz-cdn16.com/20230314/12704_7f679bc8/index.m3u8
-航拍中国┃青海,https://vip.lz-cdn16.com/20230314/12703_03d58f74/index.m3u8
-航拍中国┃湖北,https://vip.lz-cdn16.com/20230314/12705_938d50c5/index.m3u8
-航拍中国┃香港,https://vip.lz-cdn16.com/20230314/12706_dea1b00e/index.m3u8
-航拍中国┃西藏,https://vip.lz-cdn16.com/20230314/12711_eb660b37/index.m3u8
-航拍中国┃澳门,https://vip.lz-cdn16.com/20230314/12707_f0f72b6e/index.m3u8
-航拍中国┃重庆,https://vip.lz-cdn16.com/20230314/12708_e8e16250/index.m3u8
-航拍中国┃河南,https://vip.lz-cdn16.com/20230314/12710_cef0b2f1/index.m3u8
-航拍中国┃辽宁,https://vip.lz-cdn16.com/20230314/12709_ee335938/index.m3u8
-航拍中国┃台湾,https://cdn20.vip-vip-yzzy.com/20231030/2847_bdf7655e/index.m3u8
+航拍中国┃北京,https://wjm.kemfsj.com/e018331a8b668ee4a8cc7a6e26fcde4e/20250212153922/decry/vd/20241213/ODZlMTZhMjQ4N/182646/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃广西,https://wjm.kemfsj.com/6cccfa2d69cbcd025b03408302d9c6de/20250212153922/decry/vd/20241213/OThmZmNhZTg5/182254/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃青海,https://wjm.kemfsj.com/6e19df5303d7bb76b7f26e3353da485a/20250212153922/decry/vd/20241213/N2NkM2IyYjlm/184459/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃湖北,https://wjm.kemfsj.com/76801070d27ba7e99431799f77409aa1/20250212153922/decry/vd/20241213/MTQzNDIzNDFm/184727/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃香港,https://wjm.kemfsj.com/3a671af897c58c427ca51f2b40fc7efe/20250212153922/decry/vd/20241213/MTA0NDgwOGIzN/184132/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃西藏,https://wjm.kemfsj.com/f10a6964763aab8eadd4c699faa79377/20250212153922/decry/vd/20241213/YzY2NzM3M2RlNT/183314/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃澳门,https://wjm.kemfsj.com/2cc9dca09518be3f48a22f3290440380/20250212153922/decry/vd/20241213/MjdiN2MzNzlkZD/183531/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃重庆,https://wjm.kemfsj.com/e87353f0e7507ace07607943637df513/20250212153922/decry/vd/20241213/MDVhNDcyYTA5YzB/184213/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃河南,https://wjm.kemfsj.com/4783e991730f9f44246966acda053297/20250212153922/decry/vd/20241213/ODc5NjZlNzI3Y/183107/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃辽宁,https://wjm.kemfsj.com/a3a1c0166f5732ea7a583fe63d7484ec/20250212153922/decry/vd/20241213/YzZjNzJjMDVhY/182432/1920_1080/aac/libx/hls/decrypt/index.m3u8
+航拍中国┃台湾,https://wjm.kemfsj.com/1b3a38bbb9771fbfa0e5fde1a274b0a2/20250212153922/decry/vd/20241213/N2VhZGQ1ODlhND/182559/1920_1080/aac/libx/hls/decrypt/index.m3u8
 
 
 🇨🇳【第四季.湖北19集】,#genre#
@@ -84,7 +84,8 @@
 九十年代重庆万州珍贵历史纪实旧影像记录, https://vd2.bdstatic.com/mda-pii9n9p9ycn4f187/1080p/cae_h264/1695196722138544593/mda-pii9n9p9ycn4f187.mp4
 渝万高铁.重庆-万州.全程245公里.卫星航拍, https://vd3.bdstatic.com/mda-mc2fx42tnxrsn2bt/sc/cae_h264_nowatermark/1614741536/mda-mc2fx42tnxrsn2bt.mp4
 
-航拍【美国第一季】,#genre#
+航拍【美国】,#genre#
+
 航拍美国第1集,https://v4.qrssv.com/202501/11/JLGiCqZuEg20/video/2000k_1080/hls/index.m3u8
 航拍美国第2集,https://v2.qrssv.com/202501/11/WA3qQKLth321/video/2000k_1080/hls/index.m3u8
 航拍美国第3集,https://v4.qrssv.com/202501/11/Q3TuQnbpaA20/video/2000k_1080/hls/index.m3u8
@@ -97,3 +98,8 @@
 航拍【埃及】,#genre#
 航拍埃及第1集,https://play.hhuus.com/play/YaORyNpe/index.m3u8
 航拍埃及第2集,https://hd.ijycnd.com/play/NbWR7YJa/index.m3u8
+航拍【苏格兰】,#genre#
+航拍苏格兰第1集,https://wjm.kemfsj.com/44441289f9b2398cb41e79fadcd62db2/20250212153522/AGMJ/20190516/CM4G1LU1/index.m3u8
+航拍苏格兰第2集,https://wjm.kemfsj.com/4b67c42ee84c6b70cc00e06758853811/20250212153522/AGMJ/20190516/A9vZwbCl/index.m3u8
+航拍苏格兰第3集,https://wjm.kemfsj.com/32fa98d4f8e8cb7e1fee305d3e206425/20250212153522/AGMJ/20190516/uDfhpFyN/index.m3u8
+
