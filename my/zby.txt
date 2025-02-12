@@ -86,12 +86,10 @@ CCTV15,http://175.18.189.238:9998/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 CCTV5+,http://175.18.189.238:9998/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://111.160.27.70:35793/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV16,http://newtv.fun:35455/gaoma/cctv16.m3u8
-
 
 CCTV17,http://175.18.189.238:9998/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://218.58.136.82:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+
+
 
 
 东方卫视,http://175.18.189.238:9998/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -126,6 +124,35 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV1,http://111.160.27.70:35793/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$111.160.17.2
 CCTV5+,http://111.160.27.70:35793/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$111.160.17.2
 CCTV13,http://111.160.27.70:35793/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$111.160.17.2
+
+CCTV2,http://218.58.136.82:352/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+CCTV4,http://218.58.136.82:352/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+CCTV7,http://218.58.136.82:352/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+CCTV9,http://218.58.136.82:352/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+CCTV10,http://218.58.136.82:352/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+CCTV12,http://218.58.136.82:352/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+CCTV14,http://218.58.136.82:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+CCTV5+,http://218.58.136.82:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+CCTV17,http://218.58.136.82:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+东方卫视,http://218.58.136.82:352/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+河北卫视,http://218.58.136.82:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+贵州卫视,http://218.58.136.82:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+辽宁卫视,http://218.58.136.82:352/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+北京卫视,http://218.58.136.82:352/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+广东卫视,http://218.58.136.82:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+深圳卫视,http://218.58.136.82:352/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+江苏卫视,http://218.58.136.82:352/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+湖南卫视,http://218.58.136.82:352/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+安徽卫视,http://218.58.136.82:352/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+山东卫视,http://218.58.136.82:352/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+湖北卫视,http://218.58.136.82:352/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+天津卫视,http://218.58.136.82:352/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+东南卫视,http://218.58.136.82:352/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+江西卫视,http://218.58.136.82:352/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+重庆卫视,http://218.58.136.82:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+黑龙江卫视,http://218.58.136.82:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
+
+
 
 🛰央视咪咕.频道,#genre#
 
