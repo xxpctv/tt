@@ -115,9 +115,9 @@
 重庆市【荣昌区】第2段,https://vd3.bdstatic.com/mda-pe75t3iqs9nj4zju/cae_h264/1683571607544024951/mda-pe75t3iqs9nj4zju.mp4
 重庆市【荣昌区】夜景,https://vd3.bdstatic.com/mda-pe75z8brp685siek/720p/h264/1683519210255186680/mda-pe75z8brp685siek.mp4
 
-重庆市【永川区】第1段,https://vd2.bdstatic.com/mda-pe44swkh2cafy34d/720p/h264/1683257035859105025/mda-pe44swkh2cafy34d.mp4
-重庆市【永川区】第2段,https://vd3.bdstatic.com/mda-pe44qdi0v4g3uswn/720p/h264/1683256855395448871/mda-pe44qdi0v4g3uswn.mp4
 重庆市【永川区】全景,https://vd2.bdstatic.com/mda-pe432pq4x176vk20/720p/h264/1683252698697203931/mda-pe432pq4x176vk20.mp4
+重庆市【永川区】第1段,https://vd3.bdstatic.com/mda-pe44qdi0v4g3uswn/720p/h264/1683256855395448871/mda-pe44qdi0v4g3uswn.mp4
+重庆市【永川区】第2段,https://vd2.bdstatic.com/mda-pe44swkh2cafy34d/720p/h264/1683257035859105025/mda-pe44swkh2cafy34d.mp4
 
 重庆市【铜梁区】第1段,https://vd4.bdstatic.com/mda-pdv1nqcy633swzvp/720p/h264/1682817079480330749/mda-pdv1nqcy633swzvp.mp4
 重庆市【铜梁区】第2段,https://vd4.bdstatic.com/mda-pdv1is2sx54v1twn/360p/h264/1682816788976688116/mda-pdv1is2sx54v1twn.mp4
@@ -168,14 +168,14 @@
 重庆市【巫山县】第2段,https://vd3.bdstatic.com/mda-pjqj6bx938m4ac7i/1080p/cae_h264/1698324861954827482/mda-pjqj6bx938m4ac7i.mp4
 
 
-重庆市【巫溪县】第1段,https://vd3.bdstatic.com/mda-pjsip7yes6pbkzm1/1080p/cae_h264/1698433578236701672/mda-pjsip7yes6pbkzm1.mp4 
-重庆市【巫溪县】第2段,https://vd3.bdstatic.com/mda-pjsiwg24ca8i15du/1080p/cae_h264/1698434054002719767/mda-pjsiwg24ca8i15du.mp4
-重庆市【巫溪县】夜景,https://vd2.bdstatic.com/mda-pjsiquvceun75k9x/1080p/cae_h264/1698433695418137188/mda-pjsiquvceun75k9x.mp4
 
 重庆市【丰都县】第1段,https://vd4.bdstatic.com/mda-phwnh9bu52andrit/qhd/cae_h264/1693535290034920965/mda-phwnh9bu52andrit.mp4
 重庆市【丰都县】第2段,https://vd3.bdstatic.com/mda-phtm2i6hsqi0eh1v/720p/h264/1693234491899284343/mda-phtm2i6hsqi0eh1v.mp4
 重庆市【丰都县】夜景,https://vd4.bdstatic.com/mda-phtjjwbknd3qyvwr/720p/h264/1693232126690410734/mda-phtjjwbknd3qyvwr.mp4
 
+重庆市【巫溪县】第1段,https://vd3.bdstatic.com/mda-pjsiwg24ca8i15du/1080p/cae_h264/1698434054002719767/mda-pjsiwg24ca8i15du.mp4
+重庆市【巫溪县】第2段,https://vd3.bdstatic.com/mda-pjsip7yes6pbkzm1/1080p/cae_h264/1698433578236701672/mda-pjsip7yes6pbkzm1.mp4 
+重庆市【巫溪县】夜景,https://vd2.bdstatic.com/mda-pjsiquvceun75k9x/1080p/cae_h264/1698433695418137188/mda-pjsiquvceun75k9x.mp4
 
 重庆市【垫江县】第1段,https://vd3.bdstatic.com/mda-ph25uxdq1tk4duqg/qhd/cae_h264/1691064197617822063/mda-ph25uxdq1tk4duqg.mp4
 重庆市【垫江县】第2段,https://vd2.bdstatic.com/mda-ph25nwws26u0mbuj/qhd/cae_h264/1691063578343873311/mda-ph25nwws26u0mbuj.mp4
