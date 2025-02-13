@@ -234,13 +234,43 @@
       "key": "1905-开心",
       "name": "🎬老.影视",
 	  "type": 3,
-	  "jar": "./my/ttkx0109.jar",
+	  "jar": "./my/ttkx2527.jar",
       "api": "csp_Web1905",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
 	
+	 {
+      "key": "drpyS_瓜子H5-新道长",
+      "name": "👉优选.瓜子T4",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/瓜子H5",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+	{
+      "key": "瓜子影视-开心",
+      "name": "👉优选.瓜子Kx",
+      "type": 3,
+	  "jar": "./my/ttkx2527.jar",
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	{
+      "key": "洽洽影视-摸鱼",
+      "name": "👉优选.瓜子Ap",
+      "type": 3,
+      "api": "csp_AppGZ",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	{
     "key":"csp_追剧",
     "name":"👉优选.追剧",
@@ -253,7 +283,15 @@
     "ext": "daHR0cDovL3YubGt1eXMuY24="
 
 },
-
+ {
+      "key": "蝴蝶-摸鱼儿-开心",
+      "name": "👉优选.蝴蝶",
+      "type": 3,
+      "api": "csp_Hudie",
+      "jar": "./my/ttkx2527.jar",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
 {
     "key": "csp_柠檬",
     "name": "👉优选.柠檬",
@@ -290,34 +328,11 @@
     "changeable": 1,
     "api": "./my/农民.js"
 },
-
-	 {
-      "key": "drpyS_瓜子H5-新道长",
-      "name": "👉优选.瓜子T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/瓜子H5",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-	{
-      "key": "瓜子影视-开心",
-      "name": "👉优选.瓜子Kx",
-      "type": 3,
-	  "jar": "./my/ttkx25227.jar",
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
- 
 {
       "key": "荐片2-开心",
-      "name": "👉优选.荐片K",
+      "name": "👉优选.荐片p2",
       "type": 3,
-	  "jar": "./my/ttkx0109.jar",	  
+	  "jar": "./my/ttkx2527.jar",	  
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -325,7 +340,26 @@
       "api": "./kx/drpy2.min.js",
       "ext": "./my/jp.js"
     },
-	
+{
+      "key": "csp_图图-琉芸",
+      "name": "👉优选.图图",
+      "type": 3,
+      "api": "csp_APPTT",
+      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA==",
+      "jar": "./my/fix250118.jar"
+    },
+	 {
+      "key": "4K影视-开心",
+      "name": "👉优选.4K影视",
+	  "type": 3,
+	  "jar": "./my/ttkx0109.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./my/4K影视.json"
+    },
+		
   
  {
       "key": "drpyS_MP4电影[磁]-新道长",
@@ -349,18 +383,6 @@
   "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 
-	 {
-      "key": "4K影视-开心",
-      "name": "👉优选.4K影视",
-	  "type": 3,
-	  "jar": "./my/ttkx0109.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/4K影视.json"
-    },
-	
 	{
       "key": "drpyS_荐片-新道长",
       "name": "👉优选.荐片T4",
@@ -371,34 +393,8 @@
       "quickSearch": 1,
       "ext": ""
     },
- {
-      "key": "csp_图图-琉芸",
-      "name": "👉优选.图图",
-      "type": 3,
-      "api": "csp_APPTT",
-      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA==",
-      "jar": "./my/fix250118.jar"
-    },
-   {
-      "key": "蝴蝶-摸鱼儿",
-      "name": "👉优选.蝴蝶",
-      "type": 3,
-      "api": "csp_Hudie",
-      "jar": "./my/fix250118.jar",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-    },
-	
-{
-      "key": "洽洽影视-摸鱼",
-      "name": "👉优选.瓜子Ap",
-      "type": 3,
-      "api": "csp_AppGZ",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
+  
 	{"key": "奈飞影视-开心","name":"🎬奈飞影视","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
 
 	{
@@ -413,16 +409,6 @@
       "ext": {
         "danmu": true
       }
-    },
-	{
-      "key": "摸鱼瓜子-摸鱼",
-      "name": "🎬瓜子影视",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
     },
 	{
       "key": "南瓜弹幕-摸鱼",
@@ -663,7 +649,7 @@
       }
     },
 
-{"key":"农民影视-开心","name":"🎬农民秒播","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nongmin.json"},
+{"key":"农民影视-开心","name":"🎬农民秒播","type": 3,"jar": "./my/ttkx2527.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/nongmin.json"},
 
 	  {
             "key": "迅雷吧",
@@ -1957,9 +1943,10 @@
      "ext": "./my/webdav.txt"
     },
 	 {
-      "key": "荐片弹幕版",
-      "name": "👉荐片手机",
+      "key": "荐片弹幕版-开心",
+      "name": "👉荐片弹幕",
       "type": 3,
+	  "jar": "./my/ttkx2527.jar",
       "api": "csp_Jianpian",
       "searchable": 1,
       "quickSearch": 1,
@@ -1974,7 +1961,7 @@
       "key": "韩小圈-开心",
       "name": "🎬韩小影视",
       "type": 3,
-	  "jar": "./my/ttkx25227.jar",
+	  "jar": "./my/ttkx2527.jar",
       "api": "csp_HanXiaoQuan",
       "searchable": 1,
       "quickSearch": 1,
