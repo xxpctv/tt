@@ -330,7 +330,7 @@
 },
 {
       "key": "荐片2-开心",
-      "name": "👉优选.荐片p2",
+      "name": "👉优选.荐p2",
       "type": 3,
 	  "jar": "./my/ttkx2527.jar",	  
       "searchable": 1,
@@ -350,7 +350,7 @@
     },
 	 {
       "key": "4K影视-开心",
-      "name": "👉优选.4K影视",
+      "name": "👉优选.4K影",
 	  "type": 3,
 	  "jar": "./my/ttkx0109.jar",
       "api": "csp_XBPQ",
@@ -363,7 +363,7 @@
   
  {
       "key": "drpyS_MP4电影[磁]-新道长",
-      "name": "👉优选.MP4磁T4",
+      "name": "👉优选.MP4磁",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/MP4电影[磁]",
       "searchable": 1,
@@ -385,7 +385,7 @@
 
 	{
       "key": "drpyS_荐片-新道长",
-      "name": "👉优选.荐片T4",
+      "name": "👉优选.荐T4",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/荐片",
       "searchable": 2,
@@ -410,19 +410,10 @@
         "danmu": true
       }
     },
-	{
-      "key": "南瓜弹幕-摸鱼",
-      "name": "🎬南瓜影视",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+	
 {
       "key": "一个g影院-特别拾光",
-      "name": "🎬1个G影院",
+      "name": "🎬1个G影",
       "type": 3,
       "api": "csp_XBPQ",
 	  "searchable": 1,
@@ -465,7 +456,7 @@
     },
  {
       "key": "MTYY-沂宸",
-      "name": "🎬MTYY影视",
+      "name": "🎬MT影视",
       "type": 3,
 	  "jar": "./my/xbpq0614.jar",	  
       "api": "csp_XBPQ",
@@ -537,7 +528,7 @@
 	
 	{
       "key": "克隆合集-琉芸",
-      "name": "🎬克隆合集T4",
+      "name": "🎬克隆合集",
       "type": 4,
       "api": "http://zhangqun66.com/klhj.php",
       "searchable": 1,
@@ -673,7 +664,16 @@
       "ext": "./my/宝片视频.js"
     },
 	
- 
+ {
+      "key": "南瓜弹幕-摸鱼",
+      "name": "🎬南瓜影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key": "csp_xml_红牛","name": "🎬红牛2K","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
 "searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key": "索尼资源","name": "🎬索尼2K","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
@@ -1327,7 +1327,7 @@
     },
     {
       "key": "哔哩Bili",
-      "name": "🅱️真.人秀",
+      "name": "🅱️真人秀秀",
 	  "type": 3,
 	  "jar":"./my/Bili2511.jar",
       "api": "csp_Bili",
