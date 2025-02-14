@@ -34,6 +34,17 @@
 
 
 🔒精选.LIVE,#genre#
+韩阿里郎Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+动物世界 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Movies,https://dqvu8d0acm4xt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/212de77e-d899-46c9-b22e-0936684c8f14/3.m3u8
+凤凰中文[1920*1080],http://www.372583307.top:4022/udp/233.50.200.191:5140
+YCTV[1920*1080],http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+法国时尚,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+
+
 时装表演¹YouTube,https://live.iill.top/youtube/@NYFT
 时装表演²YouTube,https://live.iill.top/youtube/@shiftswim
 时装表演³YouTube,https://live.iill.top/youtube/@SPLASHme
@@ -167,6 +178,8 @@ CCTV17,http://218.58.136.82:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&au
 黑龙江卫视,http://218.58.136.82:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
 
 🛰央视咪咕.频道,#genre#
+⭐️咪咕央卫2,#genre# 
+
 
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$z.b.bkpcp
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$z.b.bkpcp
@@ -179,6 +192,7 @@ CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p$z.b.bkpcp
 CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6$z.b.bkpcp
 CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7$z.b.bkpcp
 CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8$z.b.bkpcp
+CCTV-8,https://epg.pw/stream/1252df796189917dcb5d903cba0882d2a779165ac3cb4ff5e1adf4f4d0806290.m3u8
 CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9$z.b.bkpcp
 CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10$z.b.bkpcp
 CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11$z.b.bkpcp
@@ -200,6 +214,7 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$z.b.bkpcp
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
+
 
 
 
@@ -384,6 +399,7 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 斗鱼电影4,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影5,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影6,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
