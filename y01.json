@@ -65,8 +65,43 @@
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-	 
+    },
+	{
+      "name": "YanG 直播源",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "playerType": 2,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	{
+      "name": "MyTV订阅",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/MyTV",
+      "playerType": 2,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+	{
+      "name": "体育订阅",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Sport",
+      "playerType": 2,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "50个外国台",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+      "playerType": 2,
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }	
 
   ],
   "warningText": "Ajeossi接口维护，追剧无忧！",
@@ -243,7 +278,7 @@
 	
 	 {
       "key": "drpyS_瓜子H5-新道长",
-      "name": "👉优选.瓜子T4",
+      "name": "👉优选.瓜T4",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/瓜子H5",
       "searchable": 2,
@@ -253,7 +288,7 @@
     },
 	{
       "key": "瓜子影视-开心",
-      "name": "👉优选.瓜子Kx",
+      "name": "👉优选.瓜Kx",
       "type": 3,
 	  "jar": "./my/ttkx2527.jar",
       "api": "csp_Gz360",
@@ -263,7 +298,7 @@
     },
 	{
       "key": "洽洽影视-摸鱼",
-      "name": "👉优选.瓜子Ap",
+      "name": "👉优选.瓜Ap",
       "type": 3,
       "api": "csp_AppGZ",
       "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
