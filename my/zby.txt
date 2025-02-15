@@ -178,8 +178,6 @@ CCTV17,http://218.58.136.82:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&au
 黑龙江卫视,http://218.58.136.82:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$218.58.136.82
 
 🛰央视咪咕.频道,#genre#
-⭐️咪咕央卫2,#genre# 
-
 
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$z.b.bkpcp
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$z.b.bkpcp
