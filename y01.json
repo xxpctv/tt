@@ -85,7 +85,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告2.14",
+      "name": "📢公告2.17",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -240,7 +240,26 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	
+	 {
+      "key": "QJ",
+      "name": "👉优选.甄选",
+      "type": 3,
+	  "jar": "./my/spider215.jar",
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"
+    },
+    {
+      "key": "GZ",
+      "name": "👉优选.严选",
+      "type": 3,
+	  "jar": "./my/spider215.jar",
+      "api": "csp_AppGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
+    },
 	 {
       "key": "drpyS_瓜子H5-新道长",
       "name": "👉优选.瓜T4",
@@ -1991,6 +2010,16 @@
 {"name":"巧技","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="},
 {"name":"👉1080解析","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name":"🍃虾米₂","type":0,"url":"https://jx.xmflv.cc/?url="},
+{
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
     { "name": "🌎夜幕",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
