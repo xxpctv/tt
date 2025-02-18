@@ -85,7 +85,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告2.17",
+      "name": "📢公告2.18",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -241,7 +241,7 @@
       "filterable": 1
     },
 	 {
-      "key": "QJ",
+      "key": "QJ-xiaomo",
       "name": "👉优选.甄选",
       "type": 3,
 	  "jar": "./my/spider215.jar",
@@ -250,7 +250,7 @@
       "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"
     },
     {
-      "key": "GZ",
+      "key": "GZ-xiaomo",
       "name": "👉优选.严选",
       "type": 3,
 	  "jar": "./my/spider215.jar",
@@ -260,6 +260,25 @@
       "filterable": 1,
       "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
     },
+	 {
+      "key": "幻彩聚合-xiaomo",
+      "name": "👉优选.聚合",
+      "type": 3,
+      "jar": "./my/spider215.jar",
+      "api": "csp_Xdai",
+      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
+    },
+	 {
+      "key": "KK-xiaomo",
+      "name": "👉优选.快看",
+      "type": 3,
+	  "jar": "./my/spider215.jar",
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   
 	 {
       "key": "drpyS_瓜子H5-新道长",
       "name": "👉优选.瓜T4",
@@ -359,14 +378,7 @@
       "api": "./kx/drpy2.min.js",
       "ext": "./my/jp.js"
     },
-{
-      "key": "csp_图图-琉芸",
-      "name": "👉优选.图图",
-      "type": 3,
-      "api": "csp_APPTT",
-      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA==",
-      "jar": "./my/fix250118.jar"
-    },
+
 	 {
       "key": "4K影视-开心",
       "name": "👉优选.4K影",
@@ -473,46 +485,7 @@
         "分类值": "dianying&dianshiju&dongman&zongyi"
       }
     },
- {
-      "key": "MTYY-沂宸",
-      "name": "🎬MT影视",
-      "type": 3,
-	  "jar": "./my/xbpq0614.jar",	  
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "作者": "沂宸",
-        "站名": "MTYY",
-        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
-        "编码": "UTF-8",
-        "图片代理": "0",
-        "主页url": "https://www.mtyy1.com",
-        "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-        "数组": "class=\"public-list-exp&&</a>",
-        "链接": "href=\"&&\"",
-        "图片": "data-src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "ft2\">&&<",
-        "线路二次截取": "class=\"anthology-tab&&</div>",
-        "线路数组": "<a&&</a>",
-        "线路标题": "</i>&&<",
-        "播放数组": "class=\"anthology-list-play&&</ul>",
-        "播放标题": ">&&</a>",
-        "简介": "Ajeossi⚠️提醒您，广告勿信！+描述:</strong>&&</div>",
-        "导演": "",
-        "主演": "",
-        "首页": "20",
-        "起始页": "1",
-        "直接播放": "0",
-        "嗅探词": ".mp4#.m3u8",
-        "分类url": "/vodshow/{cateId}--------{catePg}---{year}.html;;mrcd0",
-        "分类": "剧集&电影&综艺&动漫&短剧&记录",
-        "分类值": "1&2&3&4&5&6"
-      }
-    },	
+ 
 	 {
       "key": "花姐影院-琉芸",
       "name": "🎬花姐影视",
@@ -683,70 +656,15 @@
       "ext": "./my/宝片视频.js"
     },
 	
- {
-      "key": "南瓜弹幕-摸鱼",
-      "name": "🎬南瓜影视",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{"key": "csp_xml_红牛","name": "🎬红牛2K","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-"searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key": "索尼资源","name": "🎬索尼2K","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
+ 
+{"key": "索尼资源有广","name": "🎬索尼2K","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
 
 {"key":"XBPQ_统一影视","name":"🎬统一影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/统一影视.json"},
 {"key":"XBPQ_旋风视频","name":"🎬旋风视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/旋风视频.json"},
  {"key":"热播影视-欧哥","name":"🎬热播影视","jar":"./my/ou20240604.jar","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 	 
 
-    {
-      "key": "优酷弹幕",
-      "name": "🎬优酷弹幕",
-	  "type": 3,
-	  "jar": "./my/潇洒spider.jar",
-      "api": "./kx/drpy2.min.js",
-	   "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/YKDM.js"
-    },
-	{
-      "key": "爱奇艺弹幕",
-      "name": "🎬奇艺弹幕",
-	  "type": 3,
-	  "jar": "./my/潇洒spider.jar",
-      "api": "./kx/drpy2.min.js",
-	   "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/AQYDM.js"
-    },	
-    {
-      "key": "腾讯弹幕",
-      "name": "🎬腾讯弹幕",
-	  "type": 3,
-	  "jar": "./my/潇洒spider.jar",
-      "api": "./kx/drpy2.min.js",
-	   "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/TXDM.js"
-    },
-    {
-      "key": "芒果弹幕",
-      "name": "🎬芒果弹幕",
-	  "type": 3,
-	  "jar": "./my/潇洒spider.jar",
-      "api": "./kx/drpy2.min.js",
-	   "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/MGDM.js"
-    },
-
+  
     {
       "key": "采集_虎牙",
       "name": "🎬虎牙云播",
@@ -803,97 +721,7 @@
         "动作片"
       ]
     },   
-    {
-      "key": "量子资源",
-      "name": "🎬量子资源",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "体育",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克"
-      ]
-    },
-   
-    {
-      "key": "索尼-小马线路",
-      "name": "🎬索尼资源",
-      "type": 1,
-      "playerType": 2,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
-        "记录片",
-        "海外剧",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "足球",
-        "影视解说",
-        "国产动漫"
-      ]
-    },    
-  
-	{
-      "key": "天天-巧技3条",
-      "name": "🎬天天App",
-	  "jar": "./my/fix24726.jar",
-      "type": 3,
-      "api": "csp_TTian",
-	   "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
-    },
-
+ 
    {
     "key": "dr_瓜子-琉芸影视",
     "name": "👉瓜子短剧",
