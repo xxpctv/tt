@@ -530,7 +530,47 @@
         "分类值": "2&3&4&1"
       }
     },
+	 {
+      "key": "drpyS_ikanbot",
+      "name": "🎬机器人.T4",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/ikanbot",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+	{
+      "key": "drpyS_光速[优]",
+      "name": "🎬光速.T4",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/光速[优]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
 	
+	 {
+      "key": "drpyS_专享影视",
+      "name": "🎬专享.T4",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/专享影视",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_鬼片之家",
+      "name": "🎬鬼片.T4",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/鬼片之家",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
 	 {
             "key": "8号影院1",
             "name": "🎬8号影院",
@@ -690,6 +730,16 @@
     "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
     "ext": "./my/guazi.js"
 },
+ {
+      "key": "drpyS_星芽短剧",
+      "name": "🎦星芽.T4",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/星芽短剧",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
 	 {
       "key": "星芽短剧-拾光",
       "name": "🎦星芽VIP",
@@ -1764,116 +1814,17 @@
       },
       "timeout": 10
     },
-	{
-      "key": "drpyS_人人视频",
-      "name": "人人视频T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/人人视频",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-	 {
-      "key": "drpyS_皮皮虾[优]",
-      "name": "皮皮虾[优]T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/皮皮虾[优]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
 	
-	 {
-      "key": "drpyS_光速[优]",
-      "name": "光速[优]T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/光速[优]",
+	
+	   {
+      "key": "韩小圈-开心",
+      "name": "🎬韩小影视",
+      "type": 3,
+	  "jar": "./my/ttkx2527.jar",
+      "api": "csp_HanXiaoQuan",
       "searchable": 1,
-      "filterable": 1,
       "quickSearch": 1,
-      "ext": ""
-    },
-	{
-      "key": "drpyS_视觉[优]",
-      "name": "视觉[优]T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/视觉[优]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_素白白",
-      "name": "素白白T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/素白白",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-	 {
-      "key": "drpyS_专享影视",
-      "name": "专享影视T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/专享影视",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_鬼片之家",
-      "name": "鬼片之家T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/鬼片之家",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-	 {
-      "key": "drpyS_星芽短剧",
-      "name": "星芽短剧T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/星芽短剧",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-	{
-      "key": "drpyS_直播转点播[合]",
-      "name": "直播转点播[合]T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/直播转点播[合]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": "H4sIAAAAAAAAA9PT088qzs/Tz8ksSzVKzi3WA/EAuuBHLxUAAAA="
-    },
-	 {
-      "key": "drpyS_ikanbot",
-      "name": "ikanbot.T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/ikanbot",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_iptv",
-      "name": "iptv.T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/iptv",
-      "searchable": 0,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
+      "filterable": 1
     },
 	{
       "key": "克隆合集-琉芸需代理",
@@ -1887,16 +1838,6 @@
         "ratio": 1.33
       },
       "filterable": 0
-    },
-	   {
-      "key": "韩小圈-开心",
-      "name": "🎬韩小影视",
-      "type": 3,
-	  "jar": "./my/ttkx2527.jar",
-      "api": "csp_HanXiaoQuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
 	{
       "key": "QJ-xiaomo",
