@@ -85,7 +85,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告2.24",
+      "name": "📢公告2.25",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -349,18 +349,7 @@
 
 },
 
-{
-    "key": "csp_Wwys",
-    "name": "👉优选.闵农",
-    "type": 3,
-    "jar":"./my/xm2403.jar",	
-    "api": "csp_Wwys",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://www.wwgz.cn/"
 
-},
 {
     "key": "py_农民-琉芸Js含Js",
     "name": "👉优选.农民",
@@ -447,6 +436,18 @@
         "danmu": true
       }
     },
+	{
+    "key": "csp_Wwys",
+    "name": "🎬闵农影视",
+    "type": 3,
+    "jar":"./my/xm2403.jar",	
+    "api": "csp_Wwys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "https://www.wwgz.cn/"
+
+},
 	
 {
       "key": "一个g影院-特别拾光",
@@ -535,7 +536,7 @@
     },
 	 {
       "key": "drpyS_ikanbot-新道长拾光",
-      "name": "🎬机器人.T4",
+      "name": "👉优选.BotT4",
       "type": 4,
       "api": "https://drpys.6516789.xyz/api/ikanbot",
       "searchable": 2,
@@ -759,7 +760,7 @@
 
 	 {
       "key": "Aries不承担任何风险-VidHub高清追剧视频库①",
-      "name": "🎬VidHub高清",
+      "name": "🎬VidH高清",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./my/xyqxbpq.jar",
@@ -1953,7 +1954,7 @@
     },
 	{
       "key": "克隆合集-琉芸需代理",
-      "name": "🎬克隆合集",
+      "name": "👉优选.克隆",
       "type": 4,
       "api": "http://zhangqun66.com/klhj.php",
       "searchable": 1,
@@ -1964,24 +1965,7 @@
       },
       "filterable": 0
     },
-	{
-      "key": "QJ-xiaomo",
-      "name": "🎬失效.甄选",
-      "type": 3,
-	  "jar": "./my/spider215.jar",
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"
-    },
-	 {
-      "key": "幻彩聚合-xiaomo",
-      "name": "🎬失效.聚合",
-      "type": 3,
-      "jar": "./my/spider215.jar",
-      "api": "csp_Xdai",
-      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
-    },
-   
+
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
