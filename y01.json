@@ -1850,17 +1850,7 @@
       "filterable": 1,
       "ext": "./my/中国文化.json"
     },
-    {
-      "key": "js_4KHDR_duoduo",
-      "name": "📀玩偶姐4k",
-	  "type": 3,
-      "jar": "./my/custom_spider_duo.jar;md5;1948098B2A3D81773E059F00A1D97224",
-      "api": "./my/drpy26.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./my/4KHDR_duo.js"
-    },	
+   
 	  
      {
       "key": "配置中-开心",
@@ -2007,15 +1997,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-	{
-      "key": "巧技",
-      "name": "🎬巧技APP",
-      "type": 3,
-	  "jar": "./my/moyu.xiaosa.spider2.22.jar",
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
     },
 {
   "key": "西瓜-欧歌电影高清",
