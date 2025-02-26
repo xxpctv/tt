@@ -85,7 +85,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告2.25",
+      "name": "📢公告2.26",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -314,6 +314,48 @@
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
+	{
+  "key": "荐片弹幕",
+  "name": "👉优选.荐弹",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "api": "csp_Jianpian",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+    "danmu": true
+  }
+},
+{
+  "key": "木叶",
+  "name": "👉优选.木叶",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "api": "csp_Xdai",
+  "playerType": 2,
+  "ext": "saHR0cDovL3d3dy56amMuYXBwfGFiNGU5YTQyMTY3NWYxNGJ8YWI0ZTlhNDIxNjc1ZjE0Ynw0NDI="
+},
+{
+  "key": "来看影视",
+  "name": "👉优选.来看",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "api": "csp_Lkdy",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+	{
+  "key": "移动",
+  "name": "👉优选.移动",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "api": "csp_YDjisu",
+  "searchable": 1,
+  "changeable": 1
+   },
 	 {
       "key": "KK-xiaomo",
       "name": "👉优选.快看",
@@ -336,31 +378,7 @@
     "ext": "daHR0cDovL3YubGt1eXMuY24="
 
 },
-{
-    "key": "csp_柠檬",
-    "name": "👉优选.柠檬",
-    "type": 3,
-	"jar":"./my/fix250118.jar",
-    "api": "csp_Nmvod",
-	"searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
 
-},
-
-
-{
-    "key": "py_农民-琉芸Js含Js",
-    "name": "👉优选.农民",
-    "type": 3,
-	"jar":"./my/PXspider.jar",
-	"api": "csp_Nmvod",
-	"searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "api": "./my/农民.js"
-},
 {
       "key": "荐片2-开心",
       "name": "👉优选.荐p2",
@@ -419,10 +437,58 @@
       "quickSearch": 1,
       "ext": ""
     },
- 
+ {
+      "key": "克隆合集-琉芸需代理",
+      "name": "👉优选.克隆",
+      "type": 4,
+      "api": "http://zhangqun66.com/klhj.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "filterable": 0
+    },
   
 	{"key": "奈飞影视-开心","name":"🎬奈飞影视","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
+{
+    "key": "csp_柠檬",
+    "name": "🎬柠檬影视",
+    "type": 3,
+	"jar":"./my/fix250118.jar",
+    "api": "csp_Nmvod",
+	"searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
 
+},
+{
+    "key": "py_农民-琉芸Js含Js",
+    "name": "🎬农民影视",
+    "type": 3,
+	"jar":"./my/PXspider.jar",
+	"api": "csp_Nmvod",
+	"searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "api": "./my/农民.js"
+},
+{
+  "key": "天天弹幕",
+  "name": "🎬天天弹幕",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "api": "csp_TianTian",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+    "danmu": true,
+    "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+  }
+},
 	{
       "key": "糯米弹幕-潇洒",
       "name": "🎬糯米弹幕",
@@ -1952,19 +2018,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
-      "key": "克隆合集-琉芸需代理",
-      "name": "👉优选.克隆",
-      "type": 4,
-      "api": "http://zhangqun66.com/klhj.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "filterable": 0
-    },
+	
 
 	{
       "key": "直播转点播2",
