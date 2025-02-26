@@ -273,7 +273,6 @@
       "filterable": 1,
       "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
     },
-
 	 {
       "key": "drpyS_瓜子H5-新道长拾光",
       "name": "👉优选.瓜T4",
@@ -315,7 +314,7 @@
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
 	{
-  "key": "荐片弹幕",
+  "key": "荐片弹幕-欧歌",
   "name": "👉优选.荐弹",
   "type": 3,
   "jar": "./my/ou2.20.jar",
@@ -329,7 +328,7 @@
   }
 },
 {
-  "key": "木叶",
+  "key": "木叶-欧歌",
   "name": "👉优选.木叶",
   "type": 3,
   "jar": "./my/ou2.20.jar",
@@ -337,8 +336,9 @@
   "playerType": 2,
   "ext": "saHR0cDovL3d3dy56amMuYXBwfGFiNGU5YTQyMTY3NWYxNGJ8YWI0ZTlhNDIxNjc1ZjE0Ynw0NDI="
 },
+
 {
-  "key": "来看影视",
+  "key": "来看影视-欧歌",
   "name": "👉优选.来看",
   "type": 3,
   "jar": "./my/ou2.20.jar",
@@ -347,15 +347,7 @@
   "quickSearch": 1,
   "filterable": 1
 },
-	{
-  "key": "移动",
-  "name": "👉优选.移动",
-  "type": 3,
-  "jar": "./my/ou2.20.jar",
-  "api": "csp_YDjisu",
-  "searchable": 1,
-  "changeable": 1
-   },
+	
 	 {
       "key": "KK-xiaomo",
       "name": "👉优选.快看",
@@ -449,6 +441,16 @@
         "ratio": 1.33
       },
       "filterable": 0
+    },
+	{
+      "key": "drpyS_ikanbot-新道长拾光",
+      "name": "👉优选.BotT4",
+      "type": 4,
+      "api": "https://drpys.6516789.xyz/api/ikanbot",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
     },
   
 	{"key": "奈飞影视-开心","name":"🎬奈飞影视","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
@@ -599,16 +601,6 @@
         "分类": "剧集&综艺&动漫&电影",
         "分类值": "2&3&4&1"
       }
-    },
-	 {
-      "key": "drpyS_ikanbot-新道长拾光",
-      "name": "👉优选.BotT4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/ikanbot",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
     },
 	{
       "key": "drpyS_光速[优]-新道长拾光",
@@ -2006,8 +1998,6 @@
       },
       "timeout": 10
     },
-	
-	
 	   {
       "key": "韩小圈-开心",
       "name": "🎬韩小影视",
@@ -2018,8 +2008,30 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	
-
+	{
+      "key": "巧技",
+      "name": "🎬巧技APP",
+      "type": 3,
+	  "jar": "./my/moyu.xiaosa.spider2.22.jar",
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
+    },
+{
+  "key": "西瓜-欧歌电影高清",
+  "name": "🎬西瓜视频",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "api": "csp_AmuXiguaV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "style": {
+    "type": "rect",
+    "ratio": 1.597
+  }
+},
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
