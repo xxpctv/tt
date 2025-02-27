@@ -85,7 +85,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告2.26",
+      "name": "📢公告2.27",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -326,6 +326,26 @@
   "ext": {
     "danmu": true
   }
+},
+{
+  "key": "全网-欧歌",
+  "name": "👉优选.全网",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "api": "csp_Quanwk",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.91qkw.com"
+},
+{
+  "key": "米电影-欧歌",
+  "name": "👉优选.米影",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "csp_MovieApp"
 },
 {
   "key": "木叶-欧歌",
@@ -2013,6 +2033,69 @@
     "ratio": 1.597
   }
 },
+{
+      "key": "番茄-gyjune/cc",
+      "name": "🎬番茄影视",
+      "type": 3,
+	  "jar": "./my/ou2.20.jar",
+      "api": "csp_XBPQ",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "播放数组": "<ul class=\"row ewave-playlist-sort-content\">&&</ul> ",
+        "播放标题": ">&&</a>",
+        "播放列表": "<li&&</li>",
+        "线路数组": "#ewave-playlist&&</li>",
+        "线路标题": ">&&",
+        "分类url": "https://www.whchzz.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3"
+      }
+    },
+	{
+      "key": "秋霞-gyjune/cc",
+      "name": "🎬秋霞影视",
+      "type": 3,
+	  "jar": "./my/ou2.20.jar",
+      "api": "csp_XBPQ",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组": "<li>&&</li>",
+        "线路标题": ">&&</a>",
+        "分类url": "https://www.7xys.com/rou/{cateId}--{by}------{catePg}---.html",
+        "分类数组": "<li class=\"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>",
+        "分类标题": ">&&</a>",
+        "分类ID": "href=\"/EKQQ/&&.html\""
+      }
+    },
+	 {
+      "key": "dushe-gyjune/cc",
+      "name": "🎬毒舌影视",
+      "type": 3,
+	  "jar": "./my/ou2.20.jar",
+      "api": "csp_XBPQ",
+	   "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "<div class=\"module-item\">&&</div>",
+        "副标题": "<span>&&</span>",
+        "图片": "src=\"https://61.147.93.252:15002/vod1/vod/&&\"",
+        "标题": "alt=\"&&\"",
+        "链接": "href=\"&&\"",
+        "线路数组": "可可影视提供</span>&&</div>",
+        "线路标题": ">&&</span>",
+        "导演": "导演:</div>&&</div>",
+        "演员": "演员:</div>&&</div>",
+        "简介": " <div class=\"detail-desc\">&&</div>",
+        "分类url": "https://www.dushe02.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类数组": "<li class=\"menu-item\">&&</li>",
+        "分类标题": ">&&</a>",
+        "分类ID": "href=\"/vodtype/&&.html\""
+      }
+    },
 	{
       "key": "直播转点播2",
       "name": "🎤K歌MV",
