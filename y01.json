@@ -261,10 +261,20 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	 
+	 {
+  "key": "全网-欧歌",
+  "name": "👉优选.全网",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "api": "csp_Quanwk",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.91qkw.com"
+},
     {
       "key": "GZ-xiaomo",
-      "name": "👉优选.严选",
+      "name": "👉优选.瓜子",
       "type": 3,
 	  "jar": "./my/spider215.jar",
       "api": "csp_AppGZ",
@@ -327,17 +337,7 @@
     "danmu": true
   }
 },
-{
-  "key": "全网-欧歌",
-  "name": "👉优选.全网",
-  "type": 3,
-  "jar": "./my/ou2.20.jar",
-  "api": "csp_Quanwk",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://www.91qkw.com"
-},
+
 {
   "key": "米电影-欧歌",
   "name": "👉优选.米影",
