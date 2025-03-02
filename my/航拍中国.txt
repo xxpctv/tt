@@ -32,31 +32,17 @@
 
 🇨🇳【第四季11集】HD,#genre#
 
-航拍中国┃北京,https://137.175.61.41:11306/data7/jvods/hls/dhz/32/31236/2501081/4_62301_1074303/1920/index.m3u8?appId=kkdy&sign=9066a29b8bcb04a46c8e659451e56219&timestamp=1740730857&ref=2
-航拍中国┃广西,https://137.175.57.41:11306/data1/jvods/hls/dhz/32/31236/2501081/4_62301_1074304/1920/index.m3u8?appId=kkdy&sign=07c5c6d4d5c62a26c842183722cfae2e&timestamp=1740730833&ref=2
-航拍中国┃青海,https://38.61.5.85:11306/data3/jvods/hls/dhz/32/31236/2501081/4_62301_1074306/1920/index.m3u8?appId=kkdy&sign=099073650a3ad9c970029c15087db049&timestamp=1740730807&ref=2
-航拍中国┃湖北,https://142.4.126.43:11306/data2/jvods/hls/dhz/32/31236/2501081/4_62301_1074305/1920/index.m3u8?appId=kkdy&sign=3c1dda6257718cc04c1f99fe5659c61c&timestamp=1740730784&ref=2
-航拍中国┃香港,https://137.175.34.105:11306/data5/jvods/hls/dhz/32/31236/2501081/4_62301_1074308/1920/index.m3u8?appId=kkdy&sign=df5971a2282c062d998284e0c13e138c&timestamp=1740730758&ref=2
-航拍中国┃西藏,https://38.33.199.234:11306/data4/jvods/hls/dhz/32/31236/2501081/4_62301_1074307/1920/index.m3u8?appId=kkdy&sign=ca105a1d9d5ecd5dc59296a773cda383&timestamp=1740730662&ref=2
-航拍中国┃澳门,https://137.175.52.233:11306/data6/jvods/hls/dhz/32/31236/2501081/4_62301_1074309/1920/index.m3u8?appId=kkdy&sign=fd59748fd32eb1c5c10257833438ce1b&timestamp=1740730636&ref=2
-航拍中国┃重庆,https://137.175.26.233:11306/data7/jvods/hls/dhz/32/31236/2501081/4_62301_1074310/1920/index.m3u8?appId=kkdy&sign=0a49ed1b3826ee65736548d2a5772257&timestamp=1740730594&ref=2
-航拍中国┃河南,https://38.61.5.85:11306/data1/jvods/hls/dhz/32/31236/2501081/4_62301_1074311/1920/index.m3u8?appId=kkdy&sign=7cf28c3cf6f0f36c83379fd35e5d20ef&timestamp=1740730574&ref=2
-航拍中国┃辽宁,https://137.175.26.233:11306/data3/jvods/hls/dhz/32/31236/2501081/4_62301_1074313/1920/index.m3u8?appId=kkdy&sign=a565f3b40813f92db5d03a2de5ed6617&timestamp=1740730531&ref=2
-航拍中国┃台湾,https://38.33.199.234:11306/data2/jvods/hls/dhz/32/31236/2501081/4_62301_1074312/1280/index.m3u8?appId=kkdy&sign=92b59b4d8861c0cc37be6d29f97ad05c&timestamp=1740730396&ref=2
-
-🇨🇳【第四季11集】FHD,#genre#
-
-航拍中国┃北京,https://vip.lz-cdn16.com/20230314/12702_43d8ee55/index.m3u8
-航拍中国┃广西,https://vip.lz-cdn16.com/20230314/12704_7f679bc8/index.m3u8
-航拍中国┃青海,https://vip.lz-cdn16.com/20230314/12703_03d58f74/index.m3u8
-航拍中国┃湖北,https://vip.lz-cdn16.com/20230314/12705_938d50c5/index.m3u8
-航拍中国┃香港,https://vip.lz-cdn16.com/20230314/12706_dea1b00e/index.m3u8
-航拍中国┃西藏,https://vip.lz-cdn16.com/20230314/12707_f0f72b6e/index.m3u8
-航拍中国┃澳门,https://vip.lz-cdn16.com/20230314/12708_e8e16250/index.m3u8
-航拍中国┃重庆,https://vip.lz-cdn16.com/20230314/12710_cef0b2f1/index.m3u8
-航拍中国┃河南,https://vip.lz-cdn16.com/20230314/12711_eb660b37/index.m3u8
-航拍中国┃辽宁,https://vip.lz-cdn16.com/20230314/12709_ee335938/index.m3u8
-航拍中国┃台湾,https://cdn20.vip-vip-yzzy.com/20231030/2847_bdf7655e/index.m3u8
+航拍中国┃北京,https://yzzy.play-cdn10.com/20221115/11737_4aa933bc/1000k/hls/index.m3u8
+航拍中国┃广西,https://yzzy.play-cdn10.com/20221115/11736_9f9912ce/1000k/hls/index.m3u8
+航拍中国┃青海,https://yzzy.play-cdn10.com/20221115/11735_ee8af905/1000k/hls/index.m3u8
+航拍中国┃湖北,https://yzzy.play-cdn9.com/20221111/15037_32fa947e/1000k/hls/index.m3u8
+航拍中国┃香港,https://yzzy.play-cdn9.com/20221111/15035_ac99d066/1000k/hls/index.m3u8
+航拍中国┃西藏,https://yzzy.play-cdn9.com/20221111/15034_4aa8bdf8/1000k/hls/index.m3u8
+航拍中国┃澳门,https://yzzy.play-cdn9.com/20221111/15038_0a0009e0/1000k/hls/index.m3u8
+航拍中国┃重庆,https://yzzy.play-cdn10.com/20221115/11740_edbd6686/1000k/hls/index.m3u8
+航拍中国┃河南,https://yzzy.play-cdn10.com/20221115/11739_6f41c946/1000k/hls/index.m3u8
+航拍中国┃辽宁,https://svip.high20-playback.com/20231030/2848_b4a1bd1b/2000k/hls/index.m3u8
+航拍中国┃台湾,https://svip.high20-playback.com/20231030/2847_bdf7655e/2000k/hls/index.m3u8
 
 
 🇨🇳中国重庆,#genre#
