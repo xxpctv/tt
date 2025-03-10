@@ -10,6 +10,8 @@
 
 {"name":"📡电视.直播","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/zby.txt"},
 
+{"name":"📡央视.直播","url":"http://iptv.catvod.com/tv.m3u"},
+
 {"name":"🇨🇳航拍中国","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/航拍中国.txt"},
 
 {"name":"🎦老影视","url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/老电影.txt"},
