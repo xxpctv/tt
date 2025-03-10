@@ -85,7 +85,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告2.27",
+      "name": "📢公告3.10",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -727,7 +727,7 @@
             "filterable": 1
         },
 		{
-      "key": "宝片视频_js开心",
+      "key": "片视频_js开心",
       "name": "🎬‍宝片影视",
 	  "type": 3,
 	  "jar": "./my/ttkx0109.jar",
