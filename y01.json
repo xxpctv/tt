@@ -272,25 +272,7 @@
   "filterable": 1,
   "ext": "https://www.91qkw.com"
 },
-{
-      "key": "巧计影视",
-      "name": "👉优选.巧技",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "./my/qj311.txt"
-    },
-   
-    
-    {
-      "key": "影视",
-      "name": "👉优选.影视",
-      "type": 3,
-	  "jar": "./my/spider311.jar",
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
-    },
+
     {
       "key": "GZ-xiaomo",
       "name": "👉优选.瓜子",
