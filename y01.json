@@ -85,7 +85,7 @@
 		
     {
       "key": "公告",
-      "name": "📢公告3.10",
+      "name": "📢公告3.12",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -144,16 +144,7 @@
       "ext": "./my/蜻蜓FM.js",
       "playerType": "2"
     },
-	{
-      "key": "drpyS_老白故事[听]-新道长",
-      "name": "📚️小说评书",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/老白故事[听]",
-      "searchable": 0,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    }, 
+	
 	 {
       "key": "哔哩演唱会_肥猫",
       "name": "🅱️哔哩音乐",
@@ -261,6 +252,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{
+  "key": "巧技-欧哥",
+  "name": "👉优选.巧巧",
+  "type": 3,
+  "jar": "./my/ou2.20.jar",
+  "api": "csp_qiao2",
+  "playerType": 2,
+  "ext": "https://alicliimg.clewm.net/342/790/68790342/17405848473943ab1aa06a0bb25eb570d8adda73bd3d11740584845.jpg"
+},
 	 {
   "key": "全网-欧歌",
   "name": "👉优选.全网",
@@ -274,26 +274,17 @@
 },
 
     {
-      "key": "GZ-xiaomo",
+      "key": "GZ-欧哥",
       "name": "👉优选.瓜子",
       "type": 3,
-	  "jar": "./my/spider215.jar",
+	  "jar": "./my/ou2.20.jar",
       "api": "csp_AppGZ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
     },
-	 {
-      "key": "drpyS_瓜子H5-新道长拾光",
-      "name": "👉优选.瓜T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/瓜子H5",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
+	 
 	{
       "key": "瓜子影视-开心",
       "name": "👉优选.瓜Kx",
@@ -304,23 +295,13 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
-      "key": "洽洽影视-摸鱼",
-      "name": "👉优选.瓜Ap",
-      "type": 3,
-      "api": "csp_AppGZ",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	
+
  {
-      "key": "蝴蝶-摸鱼儿-开心",
+      "key": "蝴蝶-欧哥",
       "name": "👉优选.蝴蝶",
       "type": 3,
       "api": "csp_Hudie",
-      "jar": "./my/ttkx2527.jar",
+      "jar": "./my/ou2.20.jar",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
@@ -418,16 +399,7 @@
     },
 		
   
- {
-      "key": "drpyS_MP4电影[磁]-新道长拾光",
-      "name": "👉优选.P4磁",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/MP4电影[磁]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
+
 {
   "key": "影视工厂",
   "name": "👉优选.新6v",
@@ -440,16 +412,7 @@
   "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 
-	{
-      "key": "drpyS_荐片-新道长拾光",
-      "name": "👉优选.荐T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/荐片",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
+	
  {
       "key": "克隆合集-琉芸需代理",
       "name": "👉优选.克隆",
@@ -463,16 +426,7 @@
       },
       "filterable": 0
     },
-	{
-      "key": "drpyS_ikanbot-新道长拾光",
-      "name": "👉优选.BotT4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/ikanbot",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
+
   
 	{"key": "奈飞影视-开心","name":"🎬奈飞影视","type": 3,"jar": "./my/ttkx0109.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./my/ynfys.json"},
 {
@@ -623,38 +577,7 @@
         "分类值": "2&3&4&1"
       }
     },
-	{
-      "key": "drpyS_光速[优]-新道长拾光",
-      "name": "🎬光速.T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/光速[优]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
 	
-	 {
-      "key": "drpyS_专享影视-新道长拾光",
-      "name": "🎬专享.T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/专享影视",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-	 
-    {
-      "key": "drpyS_鬼片之家-新道长拾光",
-      "name": "🎬鬼片.T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/鬼片之家",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
 	 {
             "key": "8号影院1",
             "name": "🎬8号影院",
@@ -935,16 +858,7 @@
     "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
     "ext": "./my/guazi.js"
 },
- {
-      "key": "drpyS_星芽短剧",
-      "name": "🎦星芽.T4",
-      "type": 4,
-      "api": "https://drpys.6516789.xyz/api/星芽短剧",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
+ 
 	 {
       "key": "星芽短剧-拾光",
       "name": "🎦星芽VIP",
