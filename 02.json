@@ -134,10 +134,10 @@
       "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/zx.json"
     },
     {
-      "key": "西瓜",
+      "key": "西瓜-潇洒",
       "name": "🌏新闻军事",
       "type": 3,
-      "jar": "./my/ou3.11.jar",
+      "jar": "./my/spider222.jar",
       "api": "csp_AmuXiguaV2",
       "searchable": 0,
       "quickSearch": 0,
@@ -316,10 +316,10 @@
       "filterable": 1
     },
     {
-      "key": "二三",
+      "key": "二三-欧哥",
       "name": "👉优选.二三",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/ou2.20.jar",
+      "jar": "./my/ou3.11.jar",
       "api": "csp_QJMuou",
       "playerType": 2,
       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
@@ -407,6 +407,38 @@
       "playerType": "1",
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/kx/drpy2.min.js",
       "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/jp.js"
+    },
+	{
+      "key": "狐狸君",
+      "name": "👉优选.狐磁",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/ou2.20.jar",
+      "api": "csp_XBPQ",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "搜索模式": "1",
+        "搜索url": "https://www.foxjun.com/s/?q={wd}",
+        "搜索数组": "class=\"media\">&&/div>",
+        "搜索图片": "src=\"&&\"",
+        "搜索标题": "《&&》",
+        "搜索副标题": "》&&\"",
+        "搜索链接": "href=\"&&\"",
+        "标题": "《&&》",
+        "副标题": "》&&\"",
+        "影片年代": "上映日期：&&</p>",
+        "影片类型": "类型：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "简介：&&</p>",
+        "播放数组": "<tbody>&&</tbody>",
+        "播放列表": "<a&&/a>[包含:magnet]",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "分类url": "https://www.foxjun.com/channel/{cateId}.html?apage1={catepg}",
+        "分类": "国产剧$guochanju#电影$dianying#动画$donghua#美欧剧$meiouju#日韩剧$rihanju"
+      }
     },
     {
       "key": "4K影视-开心",
@@ -557,7 +589,7 @@
     },
     {
       "key": "纯享影视-宝盒",
-      "name": "🎬纯享影视",
+      "name": "👉优选.纯享",
       "type": 3,
       "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/bh270712.jar",
       "api": "csp_WexF4kvm",
@@ -675,38 +707,7 @@
       "filterable": 1,
       "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/nongmin.json"
     },
-    {
-      "key": "狐狸君",
-      "name": "🎬狐狸磁力",
-      "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/ou2.20.jar",
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "搜索模式": "1",
-        "搜索url": "https://www.foxjun.com/s/?q={wd}",
-        "搜索数组": "class=\"media\">&&/div>",
-        "搜索图片": "src=\"&&\"",
-        "搜索标题": "《&&》",
-        "搜索副标题": "》&&\"",
-        "搜索链接": "href=\"&&\"",
-        "标题": "《&&》",
-        "副标题": "》&&\"",
-        "影片年代": "上映日期：&&</p>",
-        "影片类型": "类型：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "简介：&&</p>",
-        "播放数组": "<tbody>&&</tbody>",
-        "播放列表": "<a&&/a>[包含:magnet]",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "分类url": "https://www.foxjun.com/channel/{cateId}.html?apage1={catepg}",
-        "分类": "国产剧$guochanju#电影$dianying#动画$donghua#美欧剧$meiouju#日韩剧$rihanju"
-      }
-    },
+    
     {
       "key": "修罗影视",
       "name": "🎬修罗磁力",
