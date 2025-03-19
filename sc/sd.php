@@ -11,23 +11,23 @@
     ]
   },
   {
-    "name": "软件更新2.5",
+    "name": "软件更新3.19",
     "list": [
       {
-        "name": "应用管家v1.4.3",
-             "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.4.3_1433_.apk",
+        "name": "应用管家v1.5.8",
+             "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.5.8.apk",
         "icon": " ",
         "version": "含网盘资源"
       },
      {
-        "name": "影视仓6.0.3",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓6.0.3.apk",
+        "name": "影视仓6.0.6",
+        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓6.0.6.apk",
         "icon": " ",
         "version": "TV版"
       },
 	  {
-        "name": "影视仓手机版3.0.2",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版3.0.2.apk",
+        "name": "影视仓手机版307.1",
+        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版3.0.7.1.apk",
         "icon": " ",
         "version": "手机版"
       },
@@ -65,13 +65,6 @@
         "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/直播大全1.4.0_可回看_.apk",
         "icon": " ",
         "version": "TV版(可回看)"
-      },
-	 
-	  {
-        "name": "五月天IPTV",
-        "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/五月天IPTV电视版.apk",
-        "icon": " ",
-        "version": "TV版"
       },
 	   
       {
