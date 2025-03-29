@@ -33,7 +33,7 @@
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
 
 🔒综合.新闻,#genre#
-
+cctv13,http://dns.yiandrive.com:15907/bilibili/8178490
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 耀才财经频道.电信,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8$202.69.67.66
 耀才财经频道.电信,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8$v3.mediacast.hk
@@ -414,7 +414,14 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8$移动|回看
 【电影】万合出品,http://124.248.69.76:26781/douyu/9220456
 【电影】是个小可爱iiii,http://124.248.69.76:26781/douyu/9650782
 
-
+【解说】牛叔说电影,http://dns.yiandrive.com:15907/douyu/2758565
+【解说】牛叔说电影二台,http://dns.yiandrive.com:15907/douyu/10010651
+【解说】科幻Fans布玛,http://dns.yiandrive.com:15907/douyu/3508304
+【解说】小片片说大片,http://dns.yiandrive.com:15907/douyu/4258555
+【解说】史君说剧,http://dns.yiandrive.com:15907/douyu/9419771
+【解说】刘老师说电影,http://dns.yiandrive.com:15907/douyu/8317926
+【解说】万合天宜,http://dns.yiandrive.com:15907/douyu/9220456
+【动漫】开心锤锤动漫,http://dns.yiandrive.com:15907/douyu/9018297
 【解说】牛叔说电影,http://124.248.69.76:26781/douyu/2758565
 【解说】火龙果说电影,http://124.248.69.76:26781/douyu/9559158
 【解说】史君说剧,http://124.248.69.76:26781/douyu/9419771
