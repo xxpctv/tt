@@ -1,14 +1,14 @@
 [
 
-{"name":"📻全球.广播","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/电台之声.txt"},
+{"name":"📻全球.广播","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/FM.txt"},
 
-{"name":"🔒私藏.音乐","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/个人私藏MV.txt"},
+{"name":"🔒私藏.音乐","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/scMV.txt"},
 
-{"name":"🔒私藏.电影","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/私藏电影.txt"},
+{"name":"🔒私藏.电影","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/scMOV.txt"},
 
-{"name":"🔒私藏.综合","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/私藏综合.txt"},
+{"name":"🔒私藏.综合","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/scZH.txt"},
 
-{"name":"🔒私藏.直播","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/zby.txt"},
+{"name":"🔒私藏.直播","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/sczb.txt"},
 
 {"name":"📡央视.直播","url":"http://iptv.catvod.com/tv.m3u"},
 
@@ -16,10 +16,10 @@
 
 {"name":"📡肥羊.直播","url":"https://www.goodiptv.club/huyayqk.m3u"},
 
-{"name":"🇨🇳航拍中国","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/航拍中国.txt"},
+{"name":"🇨🇳航拍中国","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/hpzg.txt"},
 
-{"name":"🎦老影视","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/老电影.txt"},
+{"name":"🎦老影视","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/ldy.txt"},
 
-{"name":"🎦历年春晚","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/历年春晚.txt"}
+{"name":"🎦历年春晚","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/chunwan.txt"}
 
 ]
