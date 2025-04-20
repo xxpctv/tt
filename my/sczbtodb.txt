@@ -12,10 +12,6 @@
 
 {"name":"📡央视.直播","url":"http://iptv.catvod.com/tv.m3u"},
 
-{"name":"📡娱乐.直播","url":"https://tv.iill.top/m3u/Live"},
-
-{"name":"📡肥羊.直播","url":"https://www.goodiptv.club/huyayqk.m3u"},
-
 {"name":"🇨🇳航拍中国","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/hpzg.txt"},
 
 {"name":"🎦老影视","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/ldy.txt"},
