@@ -5,7 +5,7 @@
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
         "version": "感谢支持！"
       }
     ]
@@ -16,13 +16,13 @@
       {
         "name": "电视端",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/shezi.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/shezi.png",
         "version": ""
       },
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
         "version": "感谢支持！"
       }
     ]
@@ -33,31 +33,31 @@
       {
         "name": "解锁播放错误.电视端",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/bofangchuow.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/bofangchuow.png",
         "version": ""
       },
       {
         "name": "解锁播放错误.手机端",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/bofangshouji.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/bofangshouji.png",
         "version": ""
       },
       {
         "name": "开启关闭弹幕",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/danmu.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/danmu.png",
         "version": ""
       },
       {
         "name": "终极绝杀",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/congzhiAPP.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/congzhiAPP.png",
         "version": ""
       },
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
         "version": "感谢支持！"
       }
     ]
@@ -68,19 +68,19 @@
       {
         "name": "添加.线路",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/xianlu.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/xianlu.png",
         "version": ""
       },
       {
         "name": "切换.线路",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/xianluqiehuan.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/xianluqiehuan.png",
         "version": ""
       },
       {
         "name": "微信赞助打赏",
         "url": " ",
-        "icon": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
         "version": "感谢支持！"
       }
     ]
