@@ -10,7 +10,7 @@
 
 {"name":"🔒私藏.直播","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/sczb.txt"},
 
-{"name":"📡央视.直播","url":"http://iptv.catvod.com/tv.m3u"},
+{"name":"📡央视.直播","url":"https://live.iptv365.org/live.txt"},
 
 {"name":"🇨🇳航拍中国","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/hpzg.txt"},
 
