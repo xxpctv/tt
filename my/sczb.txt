@@ -74,7 +74,7 @@ CCTV5+体育高清,http://183.215.134.239:19901/tsfile/live/1000_1.m3u8?key=txip
 云南卫视,http://183.215.134.239:19901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://183.215.134.239:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 
-🛰央视.咪咕❤,#genre#
+❤央视.咪咕,#genre#
 
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-2,http://goo.bkpcp.top/mg/cctv2
