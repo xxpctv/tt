@@ -1,4 +1,4 @@
-📢4.21更新,#genre#
+📢5.27更新,#genre#
 听.更多音乐,https://vd2.bdstatic.com/mda-qj9stb2j350p2ksk/1080p/cae_h264/1728588691302001097/mda-qj9stb2j350p2ksk.mp4
 请.切换.直播源,https://vd3.bdstatic.com/mda-qiddcccerswzse2y/1080p/cae_h264/1726594235651313041/mda-qiddcccerswzse2y.mp4
 选.直播.地址,https://vd4.bdstatic.com/mda-qj75qy3ekgi64z7x/1080p/cae_h264/1728367504240691447/mda-qj75qy3ekgi64z7x.mp4
@@ -32,6 +32,24 @@
 脚扭伤处理方法,https://vod.youlai.cn/9ad15caadeba46f39630339787ac3bb6/b912d1569e1643ae92a0bd300942503f-5672574782b93ec8561c4b417d0e676d-sd.mp4
 异物插入眼急救法,https://vod.youlai.cn/f5cfb00203964752aaed8ebca1d5cf32/ad515860d7034de28e6b24625fa5564d-ab7a86b8c4699758b4af49ddd309f562-sd.mp4
 🛰央视.临时,#genre#
+CCTV1,http://61.184.46.85:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://61.184.46.85:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://61.184.46.85:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://61.184.46.85:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://61.184.46.85:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://61.184.46.85:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://61.184.46.85:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://61.184.46.85:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://61.184.46.85:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://61.184.46.85:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://61.184.46.85:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://61.184.46.85:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://61.184.46.85:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://61.184.46.85:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://61.184.46.85:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://61.184.46.85:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://61.184.46.85:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1-综合,http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -145,15 +163,11 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$z.b.bkpcp
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 
-🎬斗鱼.音乐,#genre#
+🎬斗鱼.轮播,#genre#
 【音乐】斗鱼1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 【音乐】斗鱼2,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 【音乐】斗鱼3,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=b441d03c2310a1e3cd6b3dcb48a2f9af&token=cpn-androidmpro-0-85894-a3575d938a4aa3093e01c22a7da85938354a7f4d76d4f5ee&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 【音乐】昨夜梦又醒,https://lunbo.freetv.top/douyu/9588891
-
-
-🎬斗鱼.车模,#genre#
-
 【博主】俄罗斯安娜,https://lunbo.freetv.top/douyu/9314604
 【游玩】游玩景点,https://lunbo.freetv.top/douyu/6580174
 【古代】古人云,https://lunbo.freetv.top/douyu/9397674
@@ -161,16 +175,12 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$z.b.bkpcp
 【生活】罗夕夕博士,https://lunbo.freetv.top/douyu/9405073
 【汽车】家有懂车妹,https://lunbo.freetv.top/douyu/9542392
 【汽车】赖师傅教车,https://lunbo.freetv.top/douyu/10041810
-
-🎬斗鱼.探秘,#genre#
 【宇宙】科幻宇宙,https://lunbo.freetv.top/douyu/9606719
 【宇宙】世界未解之谜,https://lunbo.freetv.top/douyu/9369468
 【宇宙】全球未解之谜,https://lunbo.freetv.top/douyu/9645904
 【科学】科学旅行号,https://lunbo.freetv.top/douyu/9390720
 【科学】神秘现象研究所,https://lunbo.freetv.top/douyu/9385184
 【纪录】大佬档案袋,https://lunbo.freetv.top/douyu/10202725
-🎬斗鱼.轮播,#genre#
-
 【电影】MAX 电影,http://b.zgjok.com:35455/douyu/4332
 【电影】高分电影,http://www.douzhicloud.site:35455/douyu/431460
 【电影】国产电影,http://www.douzhicloud.site:35455/douyu/122402
