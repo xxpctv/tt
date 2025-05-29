@@ -15,7 +15,7 @@
     "list": [
       {
         "name": "电视端",
-        "url": " ",
+        "url": "https://ysys.lic10.cn/",
         "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/shezi.png",
         "version": ""
       },
