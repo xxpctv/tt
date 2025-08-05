@@ -11,23 +11,23 @@
     ]
   },
   {
-    "name": "软件更新4.14",
+    "name": "软件更新8.5",
     "list": [
       {
-        "name": "应用管家v1.5.8",
-             "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.5.8.apk",
+        "name": "应用管家v1.6.4",
+             "url": "https://d.kstore.dev/download/8043/ys/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6v1.6.4.apk",
         "icon": " ",
         "version": "含网盘资源"
       },
      {
-        "name": "影视仓6.0.8",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓6.0.6.apk",
+        "name": "影视仓6.1.5",
+        "url": "https://d.kstore.dev/download/8043/ys/影视仓电视版6.1.5-32位.apk",
         "icon": " ",
         "version": "TV版"
       },
 	  {
-        "name": "影视仓手机版309.1",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版3.0.9.1.apk",
+        "name": "影视仓手机版3.2.2",
+        "url": "https://d.kstore.dev/download/8043/ys/影视仓手机版3.2.2.2.apk",
         "icon": " ",
         "version": "手机版"
       },
@@ -55,18 +55,23 @@
     "name": "电视直播软件",
     "list": [
       {
-        "name": "小飞电视2.4.6",
-             "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/小飞电视2.4.6_推荐_.apk",
+        "name": "小飞电视2.8.0",
+             "url": "https://d.kstore.dev/download/8043/ys/xiaofeidianshiv2.8.0-2265.apk",
         "icon": " ",
         "version": "TV版(推荐)"
       },
      {
-        "name": "直播大全1.4.0",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/直播大全1.4.0_可回看_.apk",
+        "name": "凤凰TV",
+        "url": "https://d.kstore.dev/download/8043/ys/fenghuangTV.apk",
         "icon": " ",
-        "version": "TV版(可回看)"
+        "version": "TV版(推荐)"
       },
-	   
+	  {
+        "name": "宝盒TV",
+        "url": "https://d.kstore.dev/download/8043/ys/%E7%9B%92%E7%9C%8B250116.apk",
+        "icon": " ",
+        "version": "TV版(轻量)"
+      }, 
       {
         "name": "微信赞助打赏",
         "url": " ",
