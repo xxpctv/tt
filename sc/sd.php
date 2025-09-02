@@ -14,6 +14,18 @@
     "name": "软件更新9.2",
     "list": [
       {
+        "name": "小飞电视2.8.0",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/小飞电视直播v2.8.0.apk",
+        "icon": " ",
+        "version": "TV版(推荐)"
+      },
+      {
+        "name": "凤凰TV",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/fenghuangTV.apk",
+        "icon": " ",
+        "version": "TV版(推荐)"
+      },
+      {
         "name": "应用管家v1.6.4",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.6.4.apk",
         "icon": " ",
@@ -36,29 +48,6 @@
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/IDM+下载器12.3.apk",
         "icon": " ",
         "version": "安卓版"
-      },
-      {
-        "name": "微信赞助打赏",
-        "url": " ",
-        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
-        "version": "感谢支持"
-      }
-    ]
-  },
-  {
-    "name": "电视直播软件",
-    "list": [
-      {
-        "name": "小飞电视2.8.0",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/小飞电视直播v2.8.0.apk",
-        "icon": " ",
-        "version": "TV版(推荐)"
-      },
-      {
-        "name": "凤凰TV",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/fenghuangTV.apk",
-        "icon": " ",
-        "version": "TV版(推荐)"
       },
       {
         "name": "微信赞助打赏",
