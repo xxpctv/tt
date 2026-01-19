@@ -27,7 +27,7 @@ const aggConfig = {
   platformList: [
      { name: '七猫短剧', id: '七猫' }, { name: '锦鲤短剧', id: '锦鲤' }, { name: '番茄短剧', id: '番茄' }, 
      { name: '西饭短剧', id: '西饭' }, { name: '软鸭短剧', id: '软鸭' }, { name: '围观短剧', id: '围观' },
-     { name: '甜圈短剧', id: '甜圈' }, { name: '星芽短剧', id: '星芽' }, { name: '百度短剧', id: '百度' }
+     { name: '星芽短剧', id: '星芽' }, { name: '甜圈短剧', id: '甜圈' }, { name: '百度短剧', id: '百度' }
   ],
   search: { limit: 30, timeout: 6000 }
 };
