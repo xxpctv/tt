@@ -1,7 +1,11 @@
 {
   "classes": [
     {
-      "type_name": "Ajeossi 2025",
+      "type_name": "2026热门",
+      "type_id": "2026年热门歌曲"
+    },
+    {
+      "type_name": "2025热门",
       "type_id": "2025年热门歌曲"
     },
 	{
