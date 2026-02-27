@@ -6,11 +6,7 @@
 
 {"name":"🔒私藏.电影","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/scMOV.txt"},
 
-{"name":"🔒私藏.综合","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/scZH.txt"},
-
 {"name":"🔒私藏.直播","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/sczb.txt"},
-
-{"name":"📡央视.直播","url":"https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt"},
 
 {"name":"🇨🇳航拍中国","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/hpzg.txt"},
 
