@@ -8,8 +8,6 @@
 
 {"name":"🔒私藏.直播","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/sczb.txt"},
 
-{"name":"🛰电视.直播","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/yszb.png"},
-
 {"name":"🎬老影视","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/ldy.txt"},
 
 {"name":"🎦历年春晚","url":"https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/chunwan.txt"}
