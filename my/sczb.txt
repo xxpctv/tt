@@ -95,7 +95,18 @@ Big3专场,https://live.ottiptv.cc/huya/30847442
 英雄联盟,http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.flv?wsAuth=2195aecdcc2af09636f7a9bda35cb7a7&token=cpn-androidmpro-0-288016-e9416291174176ee25f8bd3a2a584d653bdaf9d5d79b1e87&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 和平精英,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-
+🇨🇳中国.阅兵,#genre#
+2025-9-3阅兵,http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
+阅兵装备详解,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bc3d97bc5b9e4f037001991f54f4f9_258.mp4
+习主席2025年93阅兵完整版,https://vd3.bdstatic.com/mda-ri2b90is4f6p4shy/cae_h264/1756888200825139529/mda-ri2b90is4f6p4shy.mp4
+2025年93阅兵全过程(时长01:44:58),https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
+2025年93大阅兵完整版(时长01:30:09),https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
+2015年抗战胜利70周年阅兵(时长02:01:34),https://vodcnd11.rsfcxq.com/20250902/tLKkH9fN/index.m3u8
+2019年国庆70周年大阅兵(时长02:51:19),https://vodcnd11.rsfcxq.com/20250902/BM9AcAeq/index.m3u8
+2009年国庆60周年大阅兵(时长02:41:26),https://vodcnd11.rsfcxq.com/20250902/VPoOzOa4/index.m3u8
+1999年国庆50周年大阅兵(时长01:16:22),https://vodcnd11.rsfcxq.com/20250902/nmbxS9bN/index.m3u8
+1984年国庆35周年大阅兵(时长01:39:56),https://vodcnd11.rsfcxq.com/20250902/zc4ZGGYY/index.m3u8
+正义必胜晚会,http://jx.999315.xyz/yzzy/20250905/21018_6395ac11/index.m3u8
 🇨🇳中国.重庆,#genre#
 
 重庆【渝中区】第1段,https://vd3.bdstatic.com/mda-qceieg6kaxjfq92t/1080p/cae_h264/1710516288629317771/mda-qceieg6kaxjfq92t.mp4
