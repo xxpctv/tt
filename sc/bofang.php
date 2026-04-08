@@ -33,6 +33,18 @@
         "version": "手机版"
       },
       {
+        "name": "搜狗输入法.支持扫码",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/搜狗输入法.支持扫码输入.apk",
+        "icon": " ",
+        "version": "安卓版"
+      },
+	  {
+        "name": "夏杰语音TV4.5.3.2",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/夏杰语音TV4.5.3.2.apk",
+        "icon": " ",
+        "version": "安卓版"
+      },
+	  {
         "name": "IDM+下载器12.3",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/IDM+下载器12.3.apk",
         "icon": " ",
