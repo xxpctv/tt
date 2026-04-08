@@ -6,102 +6,82 @@
         "name": "微信赞助打赏",
         "url": " ",
         "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
-        "version": "感谢支持"
+        "version": "感谢支持！"
       }
     ]
   },
-  {
-    "name": "软件更新26.4.8",
+   {
+    "name": "初始设置-电视端",
     "list": [
-      
       {
-        "name": "应用管家v1.8.3公签版",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.8.3公签版.apk",
-        "icon": " ",
-        "version": "含网盘资源"
-      },
-      {
-        "name": "影视仓TV版6.1.9",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓TV版6.1.9.apk",
-        "icon": " ",
-        "version": "TV版"
-      },
-      {
-        "name": "影视仓手机版3.2.8",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版3.2.8.apk",
-        "icon": " ",
-        "version": "手机版"
-      },
-      {
-        "name": "搜狗输入法.支持扫码",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/搜狗输入法.支持扫码输入.apk",
-        "icon": " ",
-        "version": "安卓版"
-      },
-	  {
-        "name": "夏杰语音TV4.5.3.2",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/夏杰语音TV4.5.3.2.apk",
-        "icon": " ",
-        "version": "安卓版"
-      },
-	  {
-        "name": "IDM+下载器12.3",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/IDM+下载器12.3.apk",
-        "icon": " ",
-        "version": "安卓版"
+        "name": "电视端",
+        "url": " ",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/shezi.png",
+        "version": ""
       },
       {
         "name": "微信赞助打赏",
         "url": " ",
         "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
-        "version": "感谢支持"
+        "version": "感谢支持！"
       }
     ]
   },
   {
-    "name": "常用工具",
+    "name": "解锁-播放问题",
     "list": [
       {
-        "name": "甲壳虫ADB助手",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/壳助手1.7.4.9.apk",
-        "icon": " ",
-        "version": "手机版"
+        "name": "解锁播放错误.电视端",
+        "url": " ",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/bofangchuow.png",
+        "version": ""
       },
       {
-        "name": "八爪鱼遥控TV版",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/八爪鱼遥控TV版.apk",
-        "icon": " ",
-        "version": "TV版"
+        "name": "解锁播放错误.手机端",
+        "url": " ",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/bofangshouji.png",
+        "version": ""
       },
       {
-        "name": "八爪鱼遥控手机版",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/八爪鱼遥控手机版.apk",
-        "icon": " ",
-        "version": "手机版"
+        "name": "开启关闭弹幕",
+        "url": " ",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/danmu.png",
+        "version": ""
       },
       {
-        "name": "当贝桌面",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/当贝桌面.apk",
-        "icon": " ",
-        "version": "TV版"
-      },
-      {
-        "name": "小白文件管理器V2.8",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/小白文件管理器_2.8.0（TV版）.apk",
-        "icon": " ",
-        "version": "TV版"
-      },
-      {
-        "name": "小米电视助手",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/小米电视助手.apk",
-        "icon": " ",
-        "version": "手机版版"
+        "name": "终级解决",
+        "url": " ",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/congzhiAPP.png",
+        "version": ""
       },
       {
         "name": "微信赞助打赏",
         "url": " ",
         "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
-        "version": "感谢支持"
+        "version": "感谢支持！"
+      }
+    ]
+  },
+  {
+    "name": "添加与切换-资源线路",
+    "list": [
+      {
+        "name": "添加.线路",
+        "url": " ",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/xianlu.png",
+        "version": ""
+      },
+      {
+        "name": "切换.线路",
+        "url": " ",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/xianluqiehuan.png",
+        "version": ""
+      },
+      {
+        "name": "微信赞助打赏",
+        "url": " ",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
+        "version": "感谢支持！"
       }
     ]
   }
