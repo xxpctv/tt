@@ -27,7 +27,7 @@
         "version": "TV版"
       },
       {
-        "name": "影视仓手机版3.2.51",
+        "name": "影视仓手机版2.0.51",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版2.0.51（短视频）.apk",
         "icon": " ",
         "version": "手机版"
