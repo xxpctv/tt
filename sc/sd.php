@@ -11,7 +11,7 @@
     ]
   },
   {
-    "name": "软件更新26.4.8",
+    "name": "软件更新26.5.4",
     "list": [
       
       {
@@ -27,8 +27,14 @@
         "version": "TV版"
       },
       {
-        "name": "影视仓手机版3.2.8",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版3.2.8.apk",
+        "name": "影视仓手机版3.2.51",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版2.0.51（短视频）.apk",
+        "icon": " ",
+        "version": "手机版"
+      },
+	  {
+        "name": "影视仓手机版3.2.71",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版3.2.7.1（精简）.apk",
         "icon": " ",
         "version": "手机版"
       },
@@ -45,8 +51,8 @@
         "version": "安卓版"
       },
 	  {
-        "name": "IDM+下载器12.3",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/IDM+下载器12.3.apk",
+        "name": "IDM+下载器18.2",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/1DM18.2.apk",
         "icon": " ",
         "version": "安卓版"
       },
