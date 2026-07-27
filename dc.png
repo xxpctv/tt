@@ -1,0 +1,48 @@
+{
+  "urls": [
+    {
+      "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/01.bmp",
+      "name": "大师¹"
+    },
+    {
+      "url": "https://tv.ajeo.top/01.bmp",
+      "name": "大师²"
+    },
+    {
+      "url": "http://rihou.cc:88/demo.php",
+      "name": "日后"
+    },
+    {
+      "url": "https://9763.kstore.vip/aowu.json",
+      "name": "嗷呜"
+    },
+    {
+      "url": "https://9877.kstore.space/one.json",
+      "name": "潇洒"
+    },
+    {
+      "url": "https://17264.kstore.space/豆包.jpg",
+      "name": "豆包"
+    },
+    {
+      "url": "https://9280.kstore.vip/newwex.json",
+      "name": "王二小"
+    },
+    {
+      "url": "http://www.饭太硬.net/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg",
+      "name": "裤佬"
+    },
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/api.json",
+      "name": "东篱"
+    },
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/refs/heads/main/天神IY.png",
+      "name": "天神"
+    }
+  ]
+}
