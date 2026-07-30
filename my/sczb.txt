@@ -505,12 +505,12 @@ ipanda成都园区,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
 上田城跡公園,https://ucv.co.jp/video/202304/mm0410-5.mp4
 
 🇨🇳航拍中国.1,#genre#
-航拍中国┃新疆,https://mv.shaxyd.com/api/v2/vip/normal/272733/index.m3u8
-航拍中国┃海南,https://mv.shaxyd.com/api/v2/vip/normal/272734/index.m3u8
-航拍中国┃黑龙江,https://mv.shaxyd.com/api/v2/vip/normal/272735/index.m3u8
-航拍中国┃陕西,https://mv.shaxyd.com/api/v2/vip/normal/272736/index.m3u8
-航拍中国┃江西,https://mv.shaxyd.com/api/v2/vip/normal/272737/index.m3u8
-航拍中国┃上海,https://mv.shaxyd.com/api/v2/vip/normal/272738/index.m3u8
+航拍中国┃新疆,https://mv.shaxyd.com/api/v2/dsdy/dsdy_C-rjnIm16F8IRucoMiRbFuin2w7VBhiOeNN17g3EqOk/index.m3u8
+航拍中国┃海南,https://mv.shaxyd.com/api/v2/dsdy/dsdy_C-rjnIm16F8IRucoMiRbFhjsibb9C6T8JR9ojmpkMv4/index.m3u8
+航拍中国┃黑龙江,https://mv.shaxyd.com/api/v2/dsdy/dsdy_C-rjnIm16F8IRucoMiRbFsDPF3CtjJQTH_S4rosZC5Q/index.m3u8
+航拍中国┃陕西,https://mv.shaxyd.com/api/v2/dsdy/dsdy_C-rjnIm16F8IRucoMiRbFhcKFSw8Gp8ihBg9J4g-2p0/index.m3u8
+航拍中国┃江西,https://mv.shaxyd.com/api/v2/dsdy/dsdy_C-rjnIm16F8IRucoMiRbFnWFTcXT-81YwgljhO3nxJk/index.m3u8
+航拍中国┃上海,https://mv.shaxyd.com/api/v2/dsdy/dsdy_C-rjnIm16F8IRucoMiRbFlPdL4GUXnq5vl0MAJpOWc0/index.m3u8
 
 🇨🇳航拍中国.2,#genre#
 第二季┃合集,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
