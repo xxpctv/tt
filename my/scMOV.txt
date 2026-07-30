@@ -508,16 +508,14 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 第四季第22集,https://play.hhuus.com/play/5eVKwvXa/index.m3u8
 第四季第26集完结,https://play.hhuus.com/play/Ddwvo08b/index.m3u8
 🎬经典动作片,#genre#
-【史密斯夫妇】1920x856美国.安吉丽娜·朱莉-2005,https://vip.ffzy-play6.com/20221017/12_d7a41d49/index.m3u8
-【古墓丽影.源起之战】1920x800美国.安吉丽娜·朱莉-2001,https://vip.ffzy-play6.com/20221019/75_bbf0a39d/index.m3u8
-【古墓丽影2】1920x820美国.安吉丽娜·朱莉-2003,https://vip.ffzy-play6.com/20221019/76_c309109b/index.m3u8
-备用线路【特工绍特】1920x800美国.安吉丽娜·朱莉-2010,https://vv.jisuzyv.com/play/wdLBqAWa/index.m3u8
-备用线路【特工绍特】1920x800美国.安吉丽娜·朱莉-2010,https://vv.jisuzyv.com/play/xe7JGnGd/index.m3u8
-
-勋哥线路【生死狙击】1920x800-马克·沃尔伯格-2007,http://wuhanf4.tpddns.cn:8096/emby/videos/24547/main.m3u8?DeviceId=e1fe4372-c37f-4665-b866-f1581d374991&MediaSourceId=451f141b2fad3d5fd696e2d335e4fb50&PlaySessionId=55ee5c2963fb4a109fe5ab717cff7595&api_key=51986d692215496d994ed7b15c84923b&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=6196000&AudioBitrate=384000&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=m4s,ts&MinSegments=1&BreakOnNonKeyFrames=False&SubtitleStreamIndexes=-1&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&TranscodeReasons=ContainerBitrateExceedsLimit
-勋哥线路【二十二英里】1920x1080-沃尔伯格-2018,http://wuhanf4.tpddns.cn:8096/emby/videos/24484/main.m3u8?DeviceId=e1fe4372-c37f-4665-b866-f1581d374991&MediaSourceId=64a18db3c06943963074913d3954e778&StartTimeTicks=35629840&PlaySessionId=f0d71b4b2a334ff3a4d33c7e78882d3d&api_key=51986d692215496d994ed7b15c84923b&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=6616000&AudioBitrate=384000&AudioStreamIndex=1&SubtitleStreamIndex=5&SubtitleMethod=Encode&TranscodingMaxAudioChannels=2&SegmentContainer=m4s,ts&MinSegments=1&BreakOnNonKeyFrames=False&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&TranscodeReasons=SubtitleCodecNotSupported,DirectPlayError&allowVideoStreamCopy=false
-勋哥线路【承包商】1920x1080-克里斯·派恩-2022,http://wuhanf4.tpddns.cn:8096/emby/videos/24487/main.m3u8?DeviceId=e1fe4372-c37f-4665-b866-f1581d374991&MediaSourceId=77f699fb06b9ba345c320ff1e6a03571&PlaySessionId=4bbc9ba29ba94b858f2e0008ea6e9aaa&api_key=51986d692215496d994ed7b15c84923b&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=6616000&AudioBitrate=384000&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=m4s,ts&MinSegments=1&BreakOnNonKeyFrames=False&SubtitleStreamIndexes=2,3,4,5,6,7&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&TranscodeReasons=ContainerBitrateExceedsLimit,DirectPlayError&allowVideoStreamCopy=false
-勋哥线路【兵临城下】1280x720-Thomas.朗·普尔曼-2001,http://wuhanf4.tpddns.cn:8096/emby/videos/24561/main.m3u8?DeviceId=e1fe4372-c37f-4665-b866-f1581d374991&MediaSourceId=4d6188c37e65c7450ee3784baafc4228&StartTimeTicks=30416427530&PlaySessionId=dcc4f3948f8d4e3dbe86c45a92a80281&api_key=51986d692215496d994ed7b15c84923b&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=6616000&AudioBitrate=384000&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=m4s,ts&MinSegments=1&BreakOnNonKeyFrames=False&SubtitleStreamIndexes=-1&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&TranscodeReasons=AudioCodecNotSupported
+【史密斯夫妇】1920x856美国.安吉丽娜·朱莉-2005,https://mv.shaxyd.com/api/v2/vip/normal/322608/index.m3u8
+【古墓丽影.源起之战】1920x800美国.安吉丽娜·朱莉-2001,https://vip.dytt-film.com/20250207/5423_7cc5ca26/index.m3u8
+【古墓丽影2】1920x820美国.安吉丽娜·朱莉-2003,https://vip.dytt-film.com/20250128/3321_3cfbdf46/index.m3u8
+【特工绍特】1920x800美国.安吉丽娜·朱莉-2010,https://vip.dytt-live.com/20250417/4253_6a182a16/index.m3u8
+【生死狙击】1920x800-马克·沃尔伯格-2007,https://vod2.maowushi.com/jqp/drcm6ZPb/index.m3u8
+【二十二英里】1920x1080-沃尔伯格-2018,https://vip1.lz-cdn1.com/20221113/18314_8b099636/index.m3u8
+【承包商】1920x1080-克里斯·派恩-2022,https://vip.dytt-live.com/20250605/8698_47bd8ac1/index.m3u8
+【兵临城下】1280x720-Thomas.朗·普尔曼-2001,https://vod2.maowushi.com/20230718/8E2Hms7r/index.m3u8
 【杀手:代号47】1920x1080-美国.蒂莫西·奥利芬特-2007,https://tjdownload.pan.wo.cn/openapi/download?fid=afkIG_HHEnU1OMkGquQ1P9rssbqUXxHqNHcqZtnEJdA7B7gBYKsvmGsd6y70l0YNkxJMoWitAPlvc4W0iMadxjFSvFLg==
 【赶尽杀绝】1920x824-克里夫·欧文（Clive Owen）-2007,https://leshiyuncdn.36s.top/20231216/PiPmNYD9/hls/index.m3u8
 【怒火攻心1】1920x1080-杰森·斯达森-2006,https://tjdownload.pan.wo.cn/openapi/download?fid=gqnwo_feLfY2i/Bi9woVUee%2BEGczQxIbjXNwp4dARLJc0t7JuWnPyOKodroptT9/yCwy17UXTgPKkkThhr2j/1QWjLIQ==
