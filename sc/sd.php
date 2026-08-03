@@ -11,32 +11,38 @@
     ]
   },
   {
-    "name": "软件更新26.5.4",
+    "name": "软件更新26.8.2",
     "list": [
       
       {
-        "name": "应用管家v1.8.3公签版",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.8.3公签版.apk",
+        "name": "应用管家v1.8.6公签版",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.8.6公签版.apk",
         "icon": " ",
         "version": "含网盘资源"
-      },
+      },     
       {
+        "name": "OK影视TV版5.1.6",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视电视版5.1.6.apk",
+        "icon": " ",
+        "version": "TV版"
+      },
+	  {
+        "name": "OK影视手机版5.56-32",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.56-32位.apk",
+        "icon": " ",
+        "version": "手机版32位"
+      },
+	  {
+        "name": "OK影视手机版5.56-64",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.56-64位.apk",
+        "icon": " ",
+        "version": "手机版64位"
+      },
+	  {
         "name": "影视仓TV版6.1.9",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓TV版6.1.9.apk",
         "icon": " ",
         "version": "TV版"
-      },
-      {
-        "name": "影视仓手机版2.0.51",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版2.0.51（短视频）.apk",
-        "icon": " ",
-        "version": "手机版"
-      },
-	  {
-        "name": "影视仓手机版3.2.71",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓手机版3.2.7.1（精简）.apk",
-        "icon": " ",
-        "version": "手机版"
       },
       {
         "name": "搜狗输入法.支持扫码",
