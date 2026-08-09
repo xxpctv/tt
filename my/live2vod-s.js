@@ -413,9 +413,12 @@ function play(flag, id, vipFlags) {
 //   3. 冷启动兜底: 遍历所有"未缓存"的分类调 getCateData() 填充缓存,
 //      用 SEARCH_TIMEOUT 短超时 (5s), 某个源挂掉时快速跳过不影响整体搜索;
 //      已缓存 (含失败后置空的 []) 不会重试, 避免每次搜索都重试挂掉的源
-//   4. 去重: 按"播放地址"去重 —— 同名不同地址都保留 (方便用户挑选线路),
-//      地址相同的才去重 (无论频道名相同与否, 同一地址只返回一条)
-//   5. 多关键词 AND: keyword 以空格分隔时, 要求每个词都命中
+//   4. 去重: 按"名称+播放地址"组合去重
+//      - 名称完全相同 且 链接完全相同 -> 去重 (完全重复的条目)
+//      - 名称相同 但 链接不同 -> 保留 (不同线路, 让用户挑选)
+//      - 名称不同 但 链接相同 -> 保留 (同链接但命名不同, 搜索命中不同关键词都能搜到)
+//   5. 连续关键字匹配: 把用户输入作为一个整体 (含空格) 做大小写不敏感子串匹配,
+//      只要频道名/分组名"包含这段连续字符"就算命中, 不再按空格拆分做 AND 导致结果太少
 //   6. 命中具体频道时, 把该频道的名称作为 vod_name 返回 (而不是分组名),
 //      并把 vod_play_url 裁剪为只含命中的那一条线路, 方便用户直接点播
 function search(keyword, quick) {
@@ -423,17 +426,23 @@ function search(keyword, quick) {
     if (!kw) {
         return JSON.stringify({ list: [] });
     }
-    // 多关键词 AND 匹配: 空格分隔, 每个词都要包含
-    let kws = kw.toLowerCase().split(/\s+/).filter(k => k.length > 0);
+    // 连续关键字匹配: 把用户输入作为一个整体 (含空格、中文、数字) 做
+    // 大小写不敏感子串匹配. 只要频道名/分组名里"包含这段连续字符"
+    // 就算命中; 不再按空格拆分做 AND, 避免"中央 电视台"搜不到
+    // "中央电视台" (名称里没空格) 这种实际是连续子串的情况.
+    let kwLower = kw.toLowerCase();
+    let kwCompact = kwLower.replace(/\s+/g, '');
 
-    // 检查一段文本是否包含所有关键词 (AND)
-    function matchAll(text) {
+    function matchContinuous(text) {
         if (!text) return false;
         let t = text.toLowerCase();
-        for (const k of kws) {
-            if (t.indexOf(k) < 0) return false;
-        }
-        return true;
+        // 两种都尝试:
+        // 1) 原始空格原样连续子串匹配 (用户输的空格在名称里也有空格相连)
+        // 2) 压缩空格后匹配 (用户输了空格, 但名称里实际连续无空格)
+        if (t.indexOf(kwLower) >= 0) return true;
+        let tCompact = t.replace(/\s+/g, '');
+        if (tCompact.indexOf(kwCompact) >= 0) return true;
+        return false;
     }
 
     // 冷启动兜底: 遍历所有"未缓存"的分类填充缓存 (用较短超时).
@@ -450,9 +459,15 @@ function search(keyword, quick) {
     }
 
     let results = [];
-    // 按播放地址去重: 同地址只保留一条 (不管频道名是否相同);
-    // 同名不同地址都保留, 方便用户在多条线路间挑选
-    let seenUrls = new Set();
+    // 按"名称||播放地址"组合去重:
+    //   - 名称完全相同 且 地址相同 -> 去重 (完全重复的条目)
+    //   - 名称相同 但 地址不同 -> 保留 (不同线路, 让用户挑选)
+    //   - 名称不同 但 地址相同 -> 保留 (同一链接命名不同, 搜索不同关键词都能搜到)
+    let seenPairs = new Set();
+
+    function dedupeKey(name, url) {
+        return (name || '') + '\x1f' + (url || '');
+    }
 
     for (const typeId in cates) {
         let list = cates[typeId];
@@ -468,20 +483,21 @@ function search(keyword, quick) {
             for (const ep of episodes) {
                 let parts = ep.split('$');
                 let epName = parts[0] || '';
-                if (matchAll(epName)) {
+                if (matchContinuous(epName)) {
                     hitEpisodes.push(ep);
                 }
             }
 
             if (hitEpisodes.length > 0) {
                 // 命中了具体频道: 每个命中频道作为独立结果返回
-                // 去重 key 用播放地址, 同地址只留一条; 同名不同地址都保留
+                // 去重 key = 频道名 || 播放地址, 保证名称相同+地址相同才去重
                 for (const ep of hitEpisodes) {
                     let parts = ep.split('$');
                     let epName = parts[0];
                     let epUrl = parts[1] || '';
-                    if (!seenUrls.has(epUrl)) {
-                        seenUrls.add(epUrl);
+                    let key = dedupeKey(epName, epUrl);
+                    if (!seenPairs.has(key)) {
+                        seenPairs.add(key);
                         // vod_id 追加频道序号 ($$$epIndex), 让 detail 能定位到具体频道
                         // 而非整个分组; 同时同分组内不同频道的 vod_id 各不相同,
                         // 避免被盒子按 id 去重导致同名不同地址只显示一个
@@ -496,12 +512,12 @@ function search(keyword, quick) {
                         });
                     }
                 }
-            } else if (matchAll(groupName)) {
+            } else if (matchContinuous(groupName)) {
                 // 没命中具体频道, 但分组名命中了: 返回整个分组
-                // 分组级去重 key 用完整 vod_play_url (所有线路地址的组合),
-                // 地址组合完全相同才去重
-                if (!seenUrls.has(playUrl)) {
-                    seenUrls.add(playUrl);
+                // 分组级去重 key = 分组名 || 完整 playUrl 组合
+                let key = dedupeKey(groupName, playUrl);
+                if (!seenPairs.has(key)) {
+                    seenPairs.add(key);
                     results.push({
                         vod_id:       vod.vod_id,
                         vod_name:     groupName,
