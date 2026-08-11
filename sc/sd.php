@@ -11,7 +11,7 @@
     ]
   },
   {
-    "name": "软件更新26.8.2",
+    "name": "软件更新26.8.11",
     "list": [
       
       {
@@ -27,14 +27,14 @@
         "version": "TV版"
       },
 	  {
-        "name": "OK影视手机版5.56-32",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.56-32位.apk",
+        "name": "OK影视手机版5.61-32",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.61-32位.apk",
         "icon": " ",
         "version": "手机版32位"
       },
 	  {
-        "name": "OK影视手机版5.56-64",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.56-64位.apk",
+        "name": "OK影视手机版5.61-64",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.61-64位.apk",
         "icon": " ",
         "version": "手机版64位"
       },
