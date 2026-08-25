@@ -11,7 +11,7 @@
 }
 """
 
-import re,sys,uuid,urllib.parse
+import re,sys,uuid
 from base.spider import Spider
 sys.path.append('..')
 
@@ -34,6 +34,11 @@ class Spider(Spider):
             else:
                 self.host = host
             self.local_uuid = str(uuid.uuid4())
+            self.headers = {
+                'User-Agent': "Dart/2.19 (dart:io)",
+                'Accept-Encoding': "gzip",
+                'appto-local-uuid': self.local_uuid
+            }
             response = self.fetch(f'{self.host}/apptov5/v1/config/get?p=android&__platform=android', headers=self.headers).json()
             config = response['data']
             self.config = config
@@ -81,13 +86,30 @@ class Spider(Spider):
         return {'list': videos}
 
     def searchContent(self, key, quick, pg='1'):
-        url = f"{self.host}/apptov5/v1/search/lists?wd={urllib.parse.quote(key)}&page={pg}&type=&__platform=android"
-        response = self.fetch(url, headers=self.headers).json()
-        data = response['data']['data']
-        for i in data:
-            if i.get('vod_pic','').startswith('mac://'):
-                i['vod_pic'] = i['vod_pic'].replace('mac://', 'http://', 1)
-        return {'list': data, 'page': pg, 'total': response['data']['total']}
+        try:
+            url = f"{self.host}/apptov5/v1/search/lists?wd={key}&page={pg}&type=&__platform=android"
+            response = self.fetch(url, headers=self.headers).json()
+            print(f'搜索接口响应: {response}')
+            # 兼容不同响应结构
+            data_block = response.get('data', {})
+            if isinstance(data_block, dict):
+                data = data_block.get('data', data_block.get('list', []))
+                total = data_block.get('total', len(data))
+            elif isinstance(data_block, list):
+                data = data_block
+                total = len(data)
+            else:
+                data = []
+                total = 0
+            for i in data:
+                if i.get('vod_pic','').startswith('mac://'):
+                    i['vod_pic'] = i['vod_pic'].replace('mac://', 'http://', 1)
+            return {'list': data, 'page': pg, 'total': total}
+        except Exception as e:
+            print(f'搜索异常: {e}')
+            import traceback
+            traceback.print_exc()
+            return {'list': [], 'page': pg, 'total': 0}
 
     def playerContent(self, flag, id, vipflags):
         default_ua = 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1'
@@ -151,7 +173,7 @@ class Spider(Spider):
         vod_list = []
         for i in data['sections']:
             for j in i['items']:
-                vod_pic = j.get('vod_pic')
+                vod_pic = j.get('vod_pic', '')
                 if vod_pic.startswith('mac://'):
                     vod_pic = vod_pic.replace('mac://', 'http://', 1)
                 vod_list.append({
