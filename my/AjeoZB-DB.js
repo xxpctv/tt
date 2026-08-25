@@ -11,16 +11,20 @@ var processedHosts = new Set();
 
 var LIVS_SOURCES = [
   {
+    "name": "咪咕TV",
+    "url": "http://zo.gt.tc/o/i/央视卫视js.txt"
+  },
+  {
     "name": "刚哥TV",
     "url": "https://gitee.com/yuan301/tv/raw/master/A/z_v.png"
   },
   {
-    "name": "玉山TV",
-    "url": "https://www.liaobagua.com/tv/tv.php?a=play"
+    "name": "涛涛TV",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"
   },
   {
-    "name": "咪咕TV",
-    "url": "http://zo.gt.tc/o/i/央视卫视js.txt"
+    "name": "玉山TV",
+    "url": "https://www.liaobagua.com/tv/tv.php?a=play"
   },
   {
     "name": "裤佬TV",
@@ -35,28 +39,16 @@ var LIVS_SOURCES = [
     "url": "https://ytv1.ccwu.cc/output/live.m3u"
   },
   {
-    "name": "涛涛TV",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"
-  },
-  {
     "name": "华视TV",
-    "url": "https://445569.pages.dev/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
   },
   {
     "name": "日后TV",
     "url": "http://rihou.cc:555/gggg.nzk"
   },
   {
-    "name": "TV直播（电视家）",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/haiyan.txt"
-  },
-  {
     "name": "豆包TV",
     "url": "http://wangziduoqing.com/yuan/zb.txt"
-  },
-  {
-    "name": "TV直播(易发)",
-    "url": "https://gh-proxy.com/https://github.com/fafa002/yf2025/raw/main/yiyifafa.txt"
   },
   {
     "name": "俄罗斯TV",
