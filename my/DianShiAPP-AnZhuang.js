@@ -9,6 +9,11 @@ var vodSourceConfigs = {};
 var globalHostHeaders = {};
 var processedHosts = new Set();
 
+// req 超时 (毫秒). TVBox/CatVod 的 req 支持 timeout 选项 (基于 okhttp call.timeout).
+// 防止源挂掉时长时间阻塞搜索; 不支持该选项的引擎会忽略, 无副作用.
+var REQ_TIMEOUT = 8000;     // 常规访问超时
+var SEARCH_TIMEOUT = 5000;  // 搜索冷启动用更短超时, 保证搜索快速响应, 挂掉的源快速跳过
+
 var LIVS_SOURCES = [
   {
     "name": "📚️电视安装教程",
@@ -245,19 +250,19 @@ function category(categoryId, page, filter, extend) {
     });
 }
 
-function getCategoryData(categoryId) {
+function getCategoryData(categoryId, timeout) {
     var imageUrl = picUrl;
     var urlPart = categoryId.split('$')[1];
     var namePart = categoryId.split('$')[0];
-    
+
     if (!categories[categoryId]) {
         categories[categoryId] = [];
-        
+
         var requestHeaders = getHeadersForUrl(urlPart);
         if (sourceHeaders[categoryId] && Object.keys(sourceHeaders[categoryId]).length > 0) {
             requestHeaders = Object.assign({}, requestHeaders, sourceHeaders[categoryId]);
         }
-        
+
         if (urlPart.indexOf('|') > 0) {
             var paramsStr = decodeURIComponent(urlPart.split('|')[1]);
             urlPart = urlPart.split('|')[0];
@@ -271,13 +276,17 @@ function getCategoryData(categoryId) {
                 }
             }
         }
-        
+
         try {
             var response = req(urlPart, {
                 'method': 'GET',
-                'headers': requestHeaders
+                'headers': requestHeaders,
+                'timeout': timeout || REQ_TIMEOUT
             });
             var responseContent = response.content.trim();
+            // trim() 会去掉末尾换行, 导致 parseM3u 正则匹配不到最后一条频道
+            // (parseM3u 正则要求每条 URL 后都有 \n), 这里补一个换行兜底
+            responseContent += '\n';
             var parsedContent = '';
             
             if (responseContent.indexOf('#EXTM3U') >= 0) {
@@ -442,14 +451,39 @@ function detail(detailId) {
     var parts = detailId.split('$$$');
     var categoryId = parts[0];
     var index = parseInt(parts[1]);
-    
+
     if (!categories[categoryId] || !categories[categoryId][index]) {
         return JSON.stringify({ 'list': [] });
     }
-    
+
     var detailData = categories[categoryId][index];
     var itemId = categoryId.split('$')[0];
-    
+
+    // 搜索结果: vod_id 带频道序号 (parts[2]), 只返回该序号的单条频道,
+    // 避免播放整个分组的第一条线路. 手动构造新对象, 不修改缓存里的原 vod.
+    if (parts.length >= 3 && detailData) {
+        var epIndex = parseInt(parts[2]);
+        var episodes = detailData.vod_play_url.split('#');
+        var ep = episodes[epIndex];
+        if (ep) {
+            var v = {
+                'vod_id':         detailId,
+                'vod_name':       ep.split('$')[0],
+                'vod_pic':        detailData.vod_pic || picUrl,
+                'vod_remarks':    detailData.vod_remarks || '',
+                'type_name':      detailData.type_name || '',
+                'vod_year':       detailData.vod_year || '',
+                'vod_area':       detailData.vod_area || '',
+                'vod_actor':      detailData.vod_actor || '',
+                'vod_director':   detailData.vod_director || '',
+                'vod_content':    detailData.vod_content || '',
+                'vod_play_from':  detailData.vod_play_from,
+                'vod_play_url':   ep
+            };
+            return JSON.stringify({ 'list': [v] });
+        }
+    }
+
     if (itemId.indexOf('!!') >= 0) {
         itemId = itemId.replace('!!', '');
         var urls = detailData.vod_play_url.split('#');
@@ -507,8 +541,135 @@ function play(playId, playUrl, param) {
     });
 }
 
+// 搜索: 对已接入的 M3U/JSON 源做本地关键字搜索
+//   实现思路:
+//   1. 大小写不敏感: keyword 和被搜文本都 toLowerCase() 后做子串匹配
+//   2. 双层匹配: 既匹配 vod_name (分组名), 也匹配 vod_play_url 里的每个频道名
+//      (专属直播的点播粒度是"分组", 一个分组=一集影片, 组内多频道=多播放线路,
+//       所以只搜 vod_name 会漏掉组内的具体频道名, 比如 "CCTV-1" 在 "央视" 分组里)
+//   3. 冷启动兜底: 遍历所有"未缓存"的分类调 getCategoryData() 填充缓存,
+//      用 SEARCH_TIMEOUT 短超时 (5s), 某个源挂掉时快速跳过不影响整体搜索;
+//      已缓存 (含失败后置空的 []) 不会重试, 避免每次搜索都重试挂掉的源
+//   4. 去重: 按"名称+播放地址"组合去重
+//      - 名称完全相同 且 链接完全相同 -> 去重 (完全重复的条目)
+//      - 名称相同 但 链接不同 -> 保留 (不同线路, 让用户挑选)
+//      - 名称不同 但 链接相同 -> 保留 (同链接但命名不同, 搜索命中不同关键词都能搜到)
+//   5. 连续关键字匹配: 把用户输入作为一个整体 (含空格) 做大小写不敏感子串匹配,
+//      只要频道名/分组名"包含这段连续字符"就算命中, 不再按空格拆分做 AND 导致结果太少
+//   6. 命中具体频道时, 把该频道的名称作为 vod_name 返回 (而不是分组名),
+//      并把 vod_play_url 裁剪为只含命中的那一条线路, 方便用户直接点播
 function search(keyword, param) {
-    return JSON.stringify({ 'list': [] });
+    var kw = (keyword || '').trim();
+    if (!kw) {
+        return JSON.stringify({ 'list': [] });
+    }
+    // 连续关键字匹配: 把用户输入作为一个整体 (含空格、中文、数字) 做
+    // 大小写不敏感子串匹配. 只要频道名/分组名里"包含这段连续字符"
+    // 就算命中; 不再按空格拆分做 AND, 避免"中央 电视台"搜不到
+    // "中央电视台" (名称里没空格) 这种实际是连续子串的情况.
+    var kwLower = kw.toLowerCase();
+    var kwCompact = kwLower.replace(/\s+/g, '');
+
+    function matchContinuous(text) {
+        if (!text) return false;
+        var t = text.toLowerCase();
+        if (t.indexOf(kwLower) >= 0) return true;
+        var tCompact = t.replace(/\s+/g, '');
+        if (tCompact.indexOf(kwCompact) >= 0) return true;
+        return false;
+    }
+
+    // 冷启动兜底: 遍历所有"未缓存"的分类填充缓存 (用较短超时).
+    // 某个源挂掉/超时会抛异常被 catch 跳过, 该分类本次搜不到, 不影响其它分类.
+    // 已缓存 (含失败后置空的 []) 不会重试, 避免每次搜索都重试挂掉的源.
+    for (var i = 0; i < classes.length; i++) {
+        var typeId = classes[i].type_id;
+        if (!categories[typeId]) {
+            try {
+                getCategoryData(typeId, SEARCH_TIMEOUT);
+            } catch (e) {
+                // 单个分类失败 (超时/网络错误) 不影响整体搜索
+            }
+        }
+    }
+
+    var results = [];
+    // 按"名称||播放地址"组合去重:
+    //   - 名称完全相同 且 地址相同 -> 去重 (完全重复的条目)
+    //   - 名称相同 但 地址不同 -> 保留 (不同线路, 让用户挑选)
+    //   - 名称不同 但 地址相同 -> 保留 (同一链接命名不同, 搜索不同关键词都能搜到)
+    var seenPairs = new Set();
+
+    function dedupeKey(name, url) {
+        return (name || '') + '\x1f' + (url || '');
+    }
+
+    for (var categoryId in categories) {
+        var list = categories[categoryId];
+        if (!Array.isArray(list)) continue;
+
+        for (var j = 0; j < list.length; j++) {
+            var vod = list[j];
+            var groupName = vod.vod_name || '';
+            var playUrl = vod.vod_play_url || '';
+
+            // 优先匹配 vod_play_url 里的每个频道名 (粒度更精确)
+            // vod_play_url 格式: "频道名1$地址1#频道名2$地址2#..."
+            var episodes = playUrl.split('#');
+            var hitEpisodes = [];
+            for (var k = 0; k < episodes.length; k++) {
+                var epSeg = episodes[k].split('$');
+                var epName = epSeg[0] || '';
+                if (matchContinuous(epName)) {
+                    hitEpisodes.push(episodes[k]);
+                }
+            }
+
+            if (hitEpisodes.length > 0) {
+                // 命中了具体频道: 每个命中频道作为独立结果返回
+                // 去重 key = 频道名 || 播放地址, 保证名称相同+地址相同才去重
+                for (var m = 0; m < hitEpisodes.length; m++) {
+                    var ep = hitEpisodes[m];
+                    var epParts = ep.split('$');
+                    var epName = epParts[0];
+                    var epUrl = epParts[1] || '';
+                    var key = dedupeKey(epName, epUrl);
+                    if (!seenPairs.has(key)) {
+                        seenPairs.add(key);
+                        // vod_id 追加频道序号 ($$$epIndex), 让 detail 能定位到具体频道
+                        // 而非整个分组; 同时同分组内不同频道的 vod_id 各不相同,
+                        // 避免被盒子按 id 去重导致同名不同地址只显示一个
+                        var epIndex = episodes.indexOf(ep);
+                        results.push({
+                            'vod_id':        vod.vod_id + '$$$' + epIndex,
+                            'vod_name':      epName,
+                            'vod_pic':       vod.vod_pic || picUrl,
+                            'vod_remarks':   '直播',
+                            'vod_play_from': vod.vod_play_from,
+                            'vod_play_url':  ep
+                        });
+                    }
+                }
+            } else if (matchContinuous(groupName)) {
+                // 没命中具体频道, 但分组名命中了: 返回整个分组
+                // 分组级去重 key = 分组名 || 完整 playUrl 组合
+                var gkey = dedupeKey(groupName, playUrl);
+                if (!seenPairs.has(gkey)) {
+                    seenPairs.add(gkey);
+                    results.push({
+                        'vod_id':        vod.vod_id,
+                        'vod_name':      groupName,
+                        'vod_pic':       vod.vod_pic || picUrl,
+                        'vod_remarks':   '直播',
+                        'vod_play_from': vod.vod_play_from,
+                        'vod_play_url':  vod.vod_play_url
+                    });
+                }
+            }
+        }
+    }
+
+    return JSON.stringify({ 'list': results });
 }
 
 __JS_SPIDER__ = {
