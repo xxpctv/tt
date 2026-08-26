@@ -11,36 +11,70 @@
     ]
   },
   {
-    "name": "软件更新26.8.11",
+    "name": "电视安装APP教程",
     "list": [
-      
       {
-        "name": "应用管家v1.8.6公签版",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.8.6公签版.apk",
+        "name": "电视安装APP视频",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/dd/raw/安装电视App教程.mp4",
+        "icon": " ",
+        "version": "通用电视"
+      },
+      {
+        "name": "微信赞助打赏",
+        "url": " ",
+        "icon": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/Aj.png",
+        "version": "感谢支持"
+      }
+    ]
+  },
+  {
+    "name": "软件更新26.8.26",
+    "list": [
+      {
+        "name": "应用管家v1.9.07公签版",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.9.07公签版.apk",
         "icon": " ",
         "version": "含网盘资源"
-      },     
-      {
-        "name": "OK影视TV版5.1.6",
-        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视电视版5.1.6.apk",
-        "icon": " ",
-        "version": "TV版"
       },
 	  {
+        "name": "应用管家v1.9.07海信版",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/应用管家v1.9.07海信版.apk",
+        "icon": " ",
+        "version": "含网盘资源"
+      },
+      {
+        "name": "OK影视TV版32位5.1.6",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视TV版32位5.1.6-v7a.apk",
+        "icon": " ",
+        "version": "TV版32位"
+      },
+	  {
+        "name": "OK影视TV版64位5.1.6",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视TV版64位5.1.6-v8a.apk",
+        "icon": " ",
+        "version": "TV版64位"
+      },
+      {
         "name": "OK影视手机版5.61-32",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.61-32位.apk",
         "icon": " ",
         "version": "手机版32位"
       },
-	  {
+      {
         "name": "OK影视手机版5.61-64",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.61-64位.apk",
         "icon": " ",
         "version": "手机版64位"
       },
-	  {
+      {
         "name": "影视仓TV版6.1.9",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/影视仓TV版6.1.9.apk",
+        "icon": " ",
+        "version": "TV版"
+      },
+	  {
+        "name": "跨屏输入TV.支持扫码",
+        "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/电视跨屏输入TVKeyboard-v1.0.2.apk",
         "icon": " ",
         "version": "TV版"
       },
@@ -50,13 +84,13 @@
         "icon": " ",
         "version": "安卓版"
       },
-	  {
+      {
         "name": "夏杰语音TV4.5.3.2",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/夏杰语音TV4.5.3.2.apk",
         "icon": " ",
         "version": "安卓版"
       },
-	  {
+      {
         "name": "IDM+下载器18.2",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/1DM18.2.apk",
         "icon": " ",
