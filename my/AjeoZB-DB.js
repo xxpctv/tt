@@ -15,50 +15,56 @@ var REQ_TIMEOUT = 8000;     // 常规访问超时
 var SEARCH_TIMEOUT = 5000;  // 搜索冷启动用更短超时, 保证搜索快速响应, 挂掉的源快速跳过
 
 var LIVS_SOURCES = [
-  {
-    "name": "咪咕TV",
-    "url": "http://zo.gt.tc/o/i/央视卫视js.txt"
-  },
-  {
-    "name": "刚哥TV",
-    "url": "https://gitee.com/yuan301/tv/raw/master/A/z_v.png"
-  },
-  {
-    "name": "涛涛TV",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"
-  },
-  {
-    "name": "玉山TV",
-    "url": "https://www.liaobagua.com/tv/tv.php?a=play"
-  },
-  {
-    "name": "裤佬TV",
-    "url": "https://live.445569.xyz/live.m3u"
-  },
-  {
-    "name": "宫殿TV",
-    "url": "https://gongdian.top/tv/iptv"
-  },
-  {
-    "name": "YTV",
-    "url": "https://ytv1.ccwu.cc/output/live.m3u"
-  },
-  {
-    "name": "华视TV",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
-  },
-  {
-    "name": "日后TV",
-    "url": "http://rihou.cc:555/gggg.nzk"
-  },
-  {
-    "name": "豆包TV",
-    "url": "http://wangziduoqing.com/yuan/zb.txt"
-  },
-  {
-    "name": "俄罗斯TV",
-    "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
-  }
+    {
+      "name": "咪咕TV",
+      "url": "http://zo.gt.tc/o/i/央视卫视js.txt"
+    },
+	{
+      "name": "YTV",
+      "url": "https://ytv1.ccwu.cc/output/live.m3u"
+    },
+    {
+      "name": "刚哥TV",
+      "url": "https://gitee.com/yuan301/tv/raw/master/A/z_v.png"
+    },
+    {
+      "name": "裤佬体育",
+      "url": "https://live.445569.xyz/live.m3u"
+    },
+    {
+      "name": "华视港台",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
+    },
+    {
+      "name": "日后TV",
+      "url": "http://rihou.cc:555/gggg.nzk"
+    },
+    {
+      "name": "豆包TV",
+      "url": "http://wangziduoqing.com/yuan/zb.txt"
+    },
+    {
+      "name": "俄罗斯TV",
+      "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
+    },
+	{
+      "name": "玉山TV",
+      "url": "https://www.liaobagua.com/tv/tv.php?a=play"
+    },
+	{
+      "name": "涛涛TV",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"
+    },
+    {
+      "name": "关注直播（大师）",
+      "type": 0,
+      "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/sczb.txt"
+    },
+    {
+      "name": "私藏音乐（大师）",
+      "type": 0,
+      "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/scMV.txt"
+    }
 ];
 
 function init(inputData) {
