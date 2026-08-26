@@ -51,10 +51,6 @@ var LIVS_SOURCES = [
       "name": "玉山TV",
       "url": "https://www.liaobagua.com/tv/tv.php?a=play"
     },
-	{
-      "name": "涛涛TV",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"
-    },
     {
       "name": "关注直播（大师）",
       "type": 0,
