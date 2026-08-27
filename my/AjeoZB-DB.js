@@ -15,10 +15,6 @@ var REQ_TIMEOUT = 8000;     // 常规访问超时
 var SEARCH_TIMEOUT = 5000;  // 搜索冷启动用更短超时, 保证搜索快速响应, 挂掉的源快速跳过
 
 var LIVS_SOURCES = [
-    {
-      "name": "咪咕TV",
-      "url": "http://zo.gt.tc/o/i/央视卫视js.txt"
-    },
 	{
       "name": "YTV",
       "url": "https://ytv1.ccwu.cc/output/live.m3u"
@@ -48,8 +44,8 @@ var LIVS_SOURCES = [
       "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
     },
 	{
-      "name": "玉山TV",
-      "url": "https://www.liaobagua.com/tv/tv.php?a=play"
+      "name": "咪咕TV",
+      "url": "http://zo.gt.tc/o/i/央视卫视js.txt"
     },
     {
       "name": "关注直播（大师）",
