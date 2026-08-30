@@ -1,23 +1,12 @@
 /**
  * 央视频 1080P
  * 作者：deepseek
- * 版本：9.0（JAR v9 隐式全屏 · 稳定版）
- * 最后更新：2026-8-30
+ * 版本：1.0
+ * 最后更新：2026-1-2 02:46:31
  * 发布页 https://m.yangshipin.cn/
  * @config
  * debug: true
- * blockList: *.[ico]*
- * allowUserInteraction: true
- *
- * v9 核心改进（稳定可用）：
- * 1. WebView 创建后立即 setAlpha(0) 完全透明（后台默默加载）
- * 2. 显示原生 TextView "加载中..." 作为过渡
- * 3. 跳过 n/d.smali JS 字符串 patch（避免 smali 破坏）
- * 4. 在 action() 里用 setTimeout 5秒后调 Java.wvPlayerVideoReady() 自动 reveal
- *
- * 关键 Bug 修复：
- * 5. setMixedContentMode 0→2 (ALWAYS_ALLOW) 修图片占位符
- * 6. g.smali dispatchKeyEvent 原始已正确：BACK 双击退出/VOL passthrough
+ * blockList: *.[ico|png|jpeg|jpg|gif|webp]*
  */
 
 
@@ -99,27 +88,17 @@ async function detailContent(ids) {
     };
 }
 
-/**
- * 播放入口：调用 WvPlayer 全屏播放器
- * 
- * 【v2.0 修复说明】
- * 1. allowInteraction 改为 true：允许用户触摸/遥控器按键
- *    - 之前 false 会创建全屏触摸层拦截所有手势
- *    - 导致手机端边缘滑动返回无效、电视端遥控器选不到按钮
- *    - 改为 true 后移除触摸层，WebView 直接接收触摸/按键
- * 2. scale 设为 3（填充）：强制全屏裁剪覆盖，避免页面四周留黑边
- *    - 之前 0=默认 在不同设备上表现不一致
- *    - 3=fill 让视频填满整个屏幕，TV 大屏体验更佳
- */
 async function action(pid) {
-    Java.wvPlayerSetAllowInteraction(false);
-    Java.wvPlayerSetScale(0);
+    Java.wvPlayerSetAllowInteraction(false); // 是否允许操作, true为允许.会禁用音量手势
+    Java.wvPlayerSetScale(0); //画面比例: 0=默认, 1=16:9, 2=4:3, 3=填充, 4=原始, 5=裁剪
+    // Java.wvPlayerSetVolume(90); // 初始音量
     Java.wvPlayer({
         url: 'https://yangshipin.cn/tv/home?pid=' + pid,
         headers: {
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36'
         }
     });
+
 }
 
 
