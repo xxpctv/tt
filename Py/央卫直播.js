@@ -1,20 +1,12 @@
 /**
  * 央视频 1080P
  * 作者：deepseek
- * 版本：3.0（JAR v4 完整修复版）
- * 最后更新：2026-8-30
+ * 版本：1.0
+ * 最后更新：2026-1-2 02:46:31
  * 发布页 https://m.yangshipin.cn/
  * @config
  * debug: true
  * blockList: *.[ico|png|jpeg|jpg|gif|webp]*
- * allowUserInteraction: true
- *
- * v4 修复内容（JAR smali 补丁）：
- * 1. 手机左滑返回：onTouch 返回 false → 滑动穿透到 WebView → 触发 WvPlayer 关闭
- * 2. 双击屏幕返回：GestureDetector.onDoubleTap → dismiss() 退出播放
- * 3. 画面按比例全屏：scale 0=默认（不裁剪），替换之前的 scale 3=填充裁剪
- * 4. TV 遥控器方向键：dispatchKeyEvent 除音量键外全部 forward 到 WebView 并 consume
- *    → 方向键不再被系统误判为音量键
  */
 
 
@@ -96,36 +88,17 @@ async function detailContent(ids) {
     };
 }
 
-/**
- * 播放入口：调用 WvPlayer 全屏播放器
- * 
- * 【v2.0 修复说明】
- * 1. allowInteraction 改为 true：允许用户触摸/遥控器按键
- *    - 之前 false 会创建全屏触摸层拦截所有手势
- *    - 导致手机端边缘滑动返回无效、电视端遥控器选不到按钮
- *    - 改为 true 后移除触摸层，WebView 直接接收触摸/按键
- * 2. scale 设为 3（填充）：强制全屏裁剪覆盖，避免页面四周留黑边
- *    - 之前 0=默认 在不同设备上表现不一致
- *    - 3=fill 让视频填满整个屏幕，TV 大屏体验更佳
- */
 async function action(pid) {
-    // ===== 关键：禁用触摸拦截层 =====
-    // false = 创建透明触摸层，GestureDetector 检测双击返回；
-    //         onTouch 返回 false 让滑动事件穿透到 WebView（手机左滑返回）
-    // true  = 无触摸层，WebView 直接接收（无法双击返回）
-    Java.wvPlayerSetAllowInteraction(false);
-    
-    // ===== 画面比例：0=默认（按比例适配全屏，不裁剪）=====
-    // 可选值: 0=默认(推荐), 1=16:9, 2=4:3, 3=填充(裁剪), 4=原始
-    Java.wvPlayerSetScale(0);
-    
-    // ===== 启动全屏 WebView 播放器 =====
+    Java.wvPlayerSetAllowInteraction(false); // 是否允许操作, true为允许.会禁用音量手势
+    Java.wvPlayerSetScale(0); //画面比例: 0=默认, 1=16:9, 2=4:3, 3=填充, 4=原始, 5=裁剪
+    // Java.wvPlayerSetVolume(90); // 初始音量
     Java.wvPlayer({
         url: 'https://yangshipin.cn/tv/home?pid=' + pid,
         headers: {
             'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36'
         }
     });
+
 }
 
 
