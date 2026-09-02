@@ -38,13 +38,13 @@
         "version": "TV版64位"
       },
       {
-        "name": "OK影视手机版5.61",
+        "name": "OK影视手机版5.63",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.63-32位.apk",
         "icon": " ",
         "version": "手机版32位"
       },
       {
-        "name": "OK影视手机版5.61",
+        "name": "OK影视手机版5.63",
         "url": "https://cdn04132025.gitlink.org.cn/api/v1/repos/ajeo/c1/raw/OK影视手机版5.63-64位.apk",
         "icon": " ",
         "version": "手机版64位"
