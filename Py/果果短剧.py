@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# 果果短剧 - 独立可用版
-# 来源: aidaox-20260829.jar csp_GuoGuo（已解密去混淆, 签名/ECDH/解密全链路实测通过）
+# 果果短剧 
 # 兼容: OK影视 / 影视仓（TVBox Python 引擎）
 # 数据: 字节跳动短剧 fqnovel API（无签名列表/搜索, 签名剧集/播放参数）
 # 签名: 作者签名服务器 https://jk.catvod.site/jk/hg (HMAC-SHA256) + ECDH P-256 + AES-GCM 派生播放key
