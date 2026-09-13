@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-# 蜻蜓广播 - 独立可用版
-# 来源: aidaox-20260829.jar csp_QingtingFM（已解密去混淆）
+# 蜻蜓广播 
 # 兼容: OK影视 / 影视仓（TVBox Python 引擎）
 # 接口: https://webbff.qtfm.cn/www (GraphQL) / https://webapi.qtfm.cn/api/pc/radio/{id}
 # 播放: https://lhttp-hw.qtfm.cn/live/{id}/64k.mp3
