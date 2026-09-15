@@ -48,20 +48,56 @@
   "wallpaper": "",
   "sites": [
     {
-      "key": "Douban-肥猫",
       "name": "🏠豆瓣导航",
+      "key": "Douban-嗷呜",
       "type": 3,
-      
-      "api": "csp_Douban",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
+      "api": "csp_DoubanAmns",
+      "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
+      "changeable": 0,
+      "ext": "Douban"
+    },
+    {
+      "key": "果果-肥猫-Ajeo",
+      "name": "🔥果果短剧",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/果果短剧.jar",
+      "api": "csp_Ajeo_GuoGuo",
+      "searchable": 1,
       "filterable": 1,
-      "indexs": 1,
-      "ext": "https://jk.catvod.site/jk/t4/douban.json"
+      "changeable": 0,
+      "ext": {
+        "signHost": "https://jk.catvod.site/jk/hg"
+      }
+    },
+    {
+      "key": "XueLuo-精简",
+      "name": "🥜花生音乐",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/huasheng.jar",
+      "api": "csp_Ajeo_XueLuo",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "央视网页-海豚23修复",
+      "name": "🇨🇳央视直播",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/央视直播.jar",
+      "api": "csp_WvSpider",
+      "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/央视直播.js"
     },
     {
       "key": "公告",
-      "name": "📢公告9.11",
+      "name": "📢公告9.15",
       "type": 3,
       "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/豆瓣1.jar",
       "api": "csp_Notice",
@@ -87,6 +123,16 @@
       "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/sc/sd.php"
     },
     {
+      "name": "⚙️配置中心",
+      "key": "MyConfig-嗷呜",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
+      "api": "csp_AAConfigAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "大师私藏-Ajeo",
       "name": "🔐大师私藏",
       "type": 3,
@@ -94,122 +140,10 @@
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/AjeoSC.js"
     },
     {
-      "key": "果果-肥猫",
-      "name": "🔥果果短剧",
-      "type": 3,
-      
-      "api": "csp_GuoGuo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "genre": "shortdrama",
-      "ext": {
-        "quality": "720p",
-        "signHost": "https://jk.catvod.site/jk/hg"
-      }
-    },
-    {
-      "name": "🔥短剧推荐",
-      "key": "Hgdh-嗷呜",
-      "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
-      "api": "csp_HgdhAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama",
-      "ext": "Hgdh"
-    },
-    {
-      "name": "🧒漫剧热榜",
-      "key": "MjHggg-嗷呜",
-      "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
-      "api": "csp_HgggAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "comic_series"
-    },
-    {
-      "name": "😈短剧热榜",
-      "key": "DjHggg-嗷呜",
-      "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
-      "api": "csp_HgggAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "short_play"
-    },
-    {
-      "key": "综合设置-肥猫",
-      "name": "⚙️综合.配置",
-      "type": 3,
-      
-      "api": "csp_PanSettings",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "name": "⚙️配置中心",
-      "key": "MyConfig-嗷呜",
-      "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
-      "api": "csp_AAConfigAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "央视网页-海豚23修复",
-      "name": "🇨🇳央视直播",
-      "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/央视直播.jar",
-      "api": "csp_WvSpider",
-      "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/央视直播.js"
-    },
-    {
-      "key": "XueLuo-精简",
-      "name": "❄️雪咯音乐",
-      "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/xueluo.jar",
-      "api": "csp_XueLuo",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "汽水音乐-肥猫",
-      "name": "🎧汽水音乐",
-      "type": 3,
-      
-      "api": "csp_QiShui",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "filterable": 1
-    },
-    {
-      "key": "初心音乐-肥猫",
+      "key": "初心音乐-肥猫PJ",
       "name": "🎧初心音乐",
       "type": 3,
-      
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
       "api": "csp_ChuXin",
       "searchable": 1,
       "quickSearch": 1,
@@ -221,15 +155,14 @@
       }
     },
     {
-      "key": "呦呦DJ-肥猫",
-      "name": "🎧呦呦.音乐",
+      "key": "汽水音乐-汤先生",
+      "name": "🎧汽水音乐",
       "type": 3,
-      
-      "api": "csp_Djuu",
-      "style": {
-        "type": "list"
-      },
-      "filterable": 1
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/汽水音乐.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "电视直播转点播-Ajeo",
@@ -256,65 +189,11 @@
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/星梦Asmr.py"
     },
     {
-      "key": "聚合直播-肥猫",
-      "name": "🛰肥猫直播",
-      "type": 3,
-      
-      "api": "csp_ALLLive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.78
-      }
-    },
-    {
       "key": "裤佬聚合-裤佬",
       "name": "🛰裤佬直播",
       "type": 3,
       "searchable": 0,
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/聚合直播.py"
-    },
-    {
-      "key": "蜻蜓FM-肥猫",
-      "name": "📻蜻蜓广播",
-      "type": 3,
-      
-      "api": "csp_QingtingFM",
-      "style": {
-        "type": "list"
-      },
-      "filterable": 1
-    },
-    {
-      "key": "凤凰FM-肥猫",
-      "name": "📻凤凰广播",
-      "type": 3,
-      
-      "api": "csp_FenghuangFM",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "filterable": 0
-    },
-    {
-      "key": "糖豆-肥猫",
-      "name": "💃糖豆健身",
-      "type": 3,
-      
-      "api": "csp_TangDou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      },
-      "filterable": 1
     },
     {
       "key": "裤佬体育-裤佬",
@@ -332,7 +211,7 @@
       "name": "⚽🏀瓜子体育",
       "key": "GuaziLive-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_GuaziLiveAmns",
       "searchable": 0,
       "quickSearch": 0,
@@ -343,11 +222,26 @@
       "name": "⚽🏀咖啡体育",
       "key": "KafLive-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_KafLiveAmns",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "聚合直播-肥猫PJ",
+      "name": "🛰肥猫直播",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_ALLLive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.78
+      }
     },
     {
       "key": "kf-海豚23",
@@ -356,11 +250,32 @@
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/咖啡直播.py"
     },
     {
-      "key": "急救教学-肥猫",
+      "key": "蜻蜓FM-肥猫py",
+      "name": "📻蜻蜓广播",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/蜻蜓广播.py",
+      "style": {
+        "type": "list"
+      },
+      "filterable": 1
+    },
+    {
+      "key": "凤凰FM-肥猫py",
+      "name": "📻凤凰广播",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/凤凰广播.py",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "filterable": 0
+    },
+    {
+      "key": "急救教学-肥猫py",
       "name": "🚑急救教学",
       "type": 3,
-      
-      "api": "csp_FirstAid",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/急救知识.py",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -371,11 +286,10 @@
       }
     },
     {
-      "key": "养生堂-肥猫",
+      "key": "养生堂-肥猫py",
       "name": "🚬养生知识",
       "type": 3,
-      
-      "api": "csp_Yst",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/养生知识.py",
       "searchable": 1,
       "style": {
         "type": "rect",
@@ -389,14 +303,6 @@
       "type": 3,
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/腾爱优b站.js",
       "changeable": 0
-    },
-    {
-      "key": "旺旺影视-集多",
-      "name": "👉旺旺蓝光²ᴷ",
-      "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/旺旺xbpq.jar",
-      "api": "csp_XBPQ",
-      "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/旺旺影视.json"
     },
     {
       "key": "裤佬V5影视-裤佬",
@@ -425,33 +331,31 @@
       "key": "裤佬独家免扫⁴ᴷ",
       "name": "👉独家免扫⁴ᴷ",
       "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/独家免扫.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_AppV6",
       "searchable": 1,
       "playerType": 2,
       "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihj867l82g53532j62i92kljhj5llh498k24796l57j55ji0ji2g22i501jl541j9j4i68i5j602744l10413k457hl80l91j5l44139j23g64h27k08l5509h202gl84338hi17082hkj5746g298j640i002jk1265h745j289303h6i6j6j15jgkg15485h8g935hk83g9g7j661l4i557jl56h6l0h40i5j9hkiig7066523l2h24gj9k1083g6l2gihh2j5hhgkgij04j8900jhg4l6731hkhij7kk2i594536563674gki85li59jhk79067964197h5k7k2641h03l45074jkkklhik123407146l1i0jk90k1hgl151076ig7i4gi0858h62j37lh8l4hl519ghi7g04h2h900jlj7ll333i736549624gjk8k508g9499gj3jj7050jjhgh4i57326j83301i0kkl88040ih52gj8j0gk0h4g5g7lh561k2gk6k7k56h01598ji23g27k3i17878j92k2gj1l5ih8h0jj73k94g9hl5g7h229i10g099k09l958h3hk18l72h1j43gg7177g4h7ll8987644383606klgh9h4ll42h7293k694kl20j539g6jl17ig655461138jgj7306i1296k3i03586k6l32j5hlik4051187741218271j8j4g3i1h6719877l10k1ijl220i8hlil3j3g129ll3k2i5164lkg12k253kk1h8j5l0gki49jg25hlii704l5ih74439hlj9jih5ki53242ijgh6359i8i5j4h2j2i4581l244j4ij728490hk0k34542916i2lig57836gg7kji3l160234i24hik5g18h790488748j680k5i0l885lj66kjk78j2i57i5021g283ik9g38g62259h1lgi811ihki506k5934g7h737hg9360lll98l4j8i049903l1354lg00019g0934h005h8jjkl60j91k7j74i96h8h26hk59i653209lgj07g1g298k48jllgh00l4i742gi72l27038157gji9j32gh0k5672167k2588h31967l3867g50k503ik403781ki72j47hh4363l0708k4g961k4hl8g4j35ilk143h3424010i165lj612h50k68l61ghl9h80kh874k14ggk2ilg018hi5l1g34262196lkl45ih981jkl42271l4232k93hk8ih3g814i6h63h0g64l300i42il1g0454921j12h4844ii714ih71lg172326009812833h62kj8009kijk5hhg763031235l45h78614l7h9k579h6lj290i98851gll70024834hgj2lg5hk3l905i346gij11kl5j9i7h5j5k12hl061l488k061564g398i2150h9j343901865h7567g874i1gghl5ihg8il8hh0650h6308l2i5053997g8g12g16l3l7h5lhlji71i1i23h0ljl1h14688h7g13987h548h33k34hi6h2i63h424jhl1kik26kl3h60662846j6j0749l8kh95018kl1971j5j5gjk9hg70542391j77hjj65l127627h6h8h0hi003i2hih6h0k9k878lj858k30iljgik0l9248jk25l4h701l6gllhkhi54g24g926jgj884266514056805k2h15hh442i3170ilik20h88i561k0682k04459i154i03ikglg6220i4jii1g32067il925g450k0i1241l3il2jjl6k186gjj53h611il59k650i4kjhi87i798hg6h01g306ig104145ig9h68i092ghhh59jig99j12383792452h44206glk62g67gj204hk874l5li8646g65i9085244i092g70ig9h8657kg0413466ii87k9i32hglh24hi2li7174735i520ik608ilg71292838j5k1h39271ghg5288g930lg6h75626l71h8h5g011k9l9lgk691i04166h7996g452kij4l4l72881k6kl5701jl707hi415j8h3k67576966g2k94k03k0lj31995h2j26hi69jhjji162625l50j7790093hli0jjkh1ll804i3lhh40lk4k240kh48k0k16l544hg033k594gh0l93682l86h35i1i36klhgjg90lkl54746i2k63481h37hilj3ikig52h0j80k5gj6h879lk6g8ll6k616966h59h42l24h824ljj77g6l03kg260i80h2g2k123251j22jg36k5j14781i6197929il9j03k16h4l1i78693g45k64j0jl0k58hj8493h76gj2202470ig12lh2llj2l5k5541k4h506i3hij81lg9i037jgk22i2l3j12j6l394h51ii2ll0022j292h8036767i835k47071jl9illl2gli06524g66984902j6j1h5g788019hl4712032977h41l0k36073ig880g2jgklh26k736180591639h4k2gjk9gl2071h685923kl5363l5lj0ll91901g12kk29hll4280h9h51870j721516j6g66i379g203932726h42g927h19733k237492l8j0jh148gl95048l5524j4j0l2445130153i802169102i14g586h8g64j2lk28492169li3292877837108k7i9557h3jk31il2lklg494lgl4j91jig614216ki68i2j140l1jg03lk16lljg039h21kj313h8jk79h99j2g89j327i7h9052h9hj71721jg927340956k6jl4i7k0430"
     },
     {
-      "key": "瓜子影视-肥猫",
-      "name": "👉瓜子蓝光²ᴷ",
+      "key": "瓜子子-汤先生",
+      "name": "👉¹瓜子蓝光²ᴷ",
       "type": 3,
-      
-      "api": "csp_Gz360",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/guazi新.py",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
-      "key": "荐片-肥猫",
-      "name": "👉荐片蓝光²ᴷ",
+      "key": "新瓜子-汤先生",
+      "name": "👉²瓜子蓝光²ᴷ",
       "type": 3,
-      
-      "api": "csp_JianPian",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/新瓜子.py",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "裤佬荐片JS-裤佬",
@@ -461,16 +365,126 @@
       "changeable": 1
     },
     {
+      "key": "荐片-肥猫py",
+      "name": "👉荐片蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/荐片.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "麦田-肥猫py",
+      "name": "👉麦田蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/麦田.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "http://172.247.227.203:25321/mtys.php"
+    },
+    {
       "key": "hstv超清快-Web鱼壳",
       "name": "🐬华数蓝光²ᴷ",
       "type": 3,
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/华数TV.py"
     },
     {
+      "key": "开端影视",
+      "name": "🐬开端蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/开端影视.py"
+    },
+    {
+      "key": "飞流视频",
+      "name": "🐬飞流蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/飞流视频.py"
+    },
+    {
+      "key": "华谊影视-海豚63",
+      "name": "🐬华谊蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/华谊影视.py"
+    },
+    {
+      "key": "VIP兔-海豚63",
+      "name": "🐬VIP兔蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/VIP兔.py"
+    },
+    {
+      "key": "枫叶4K-海豚63",
+      "name": "🐬枫叶4K蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/枫叶4K.py"
+    },
+    {
+      "key": "枫叶影院js-海豚63",
+      "name": "🐬枫叶js蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/枫叶影院.js",
+      "changeable": 0
+    },
+    {
+      "key": "高清点播-海豚63",
+      "name": "🐬点播蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/高清点播.py"
+    },
+    {
+      "key": "青牛影视-海豚63",
+      "name": "🐬青牛蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/青牛影视.py"
+    },
+    {
+      "key": "追影-海豚63",
+      "name": "🐬追影蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/追影.py"
+    },
+    {
+      "key": "宅男影视-海豚63",
+      "name": "🐬宅男蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/宅男影视.py"
+    },
+    {
+      "key": "xhvm-海豚63",
+      "name": "🐬骚火蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/骚火影视.py"
+    },
+    {
+      "key": "果果短剧-海豚63",
+      "name": "🐬天涯蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/天涯短剧.py"
+    },
+    {
+      "key": "rb-海豚63",
+      "name": "🐬热播蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/热播APP.py"
+    },
+    {
       "key": "首映网-海豚23",
       "name": "🐬首映蓝光²ᴷ",
       "type": 3,
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/首映.py"
+    },
+    {
+      "key": "韩小圈-海豚63",
+      "name": "🐬韩圈蓝光²ᴷ",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/韩小圈.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "多多影视-海豚23",
@@ -504,22 +518,10 @@
       "ext": "http://43.248.117.123:4680"
     },
     {
-      "key": "FreeOK超清快-Web鱼壳",
-      "name": "🐬Free蓝光²ᴷ",
-      "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/FreeOK.py"
-    },
-    {
       "key": "GZ-Web鱼壳",
       "name": "🐬瓜子蓝光²ᴷ",
       "type": 3,
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/瓜子APP.py"
-    },
-    {
-      "key": "高清点播-海豚23",
-      "name": "🐬点播蓝光²ᴷ",
-      "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/高清点播.py"
     },
     {
       "key": "蝶卡影视",
@@ -569,72 +571,6 @@
       "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/分享双人.js"
     },
     {
-      "key": "AppV7Mtq-肥猫",
-      "name": "👉蒙太奇蓝光²ᴷ",
-      "type": 3,
-      
-      "api": "csp_AppV7",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AIBOX1/cXJzdHV2d3h5ent8fX5/gJSHXACxiaOhlDsHGFhMei4MEO1e3nRxCEr8q5GCgfXwVYHj6oNkRDj02YjY8BA2EWzGuOB5FjRh+WdQC88BMDsNfVKbJczluPIC3Wc/1QrvNDTjx58Y0w2PXmAFxJN0kqS+ZjqT9oUvdP1vEhbDZY3A1RHUkitnXMm4os940SYU2G58AdfWxy0ekBsg2yOxjw=="
-    },
-    {
-      "key": "华谊-肥猫",
-      "name": "👉优选华谊⁴ᴷ",
-      "type": 3,
-      
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "华谊",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-        "publicIv": "ed5fdsgucxumegqa",
-        "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.muyue.tool",
-        "host": "",
-        "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-        "version": "1.0.0.4",
-        "decrypt": "1"
-      }
-    },
-    {
-      "key": "麦田-肥猫",
-      "name": "👉麦田蓝光²ᴷ",
-      "type": 3,
-      
-      "api": "csp_AppV6",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "http://172.247.227.203:25321/mtys.php"
-    },
-    {
-      "key": "天堂-肥猫",
-      "name": "👉天堂蓝光²ᴷ",
-      "type": 3,
-      
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "电影天堂",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.dytiantang.one",
-        "host": "",
-        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-        "version": "3.0.0.7",
-        "decrypt": "0"
-      }
-    },
-    {
       "key": "腾讯备-豆包",
       "name": "🦐腾讯⁴ᴷ",
       "type": 3,
@@ -670,122 +606,10 @@
       "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/茫茫.png"
     },
     {
-      "key": "4KVM-汤先生",
-      "name": "🎬4KVM蓝光²ᴷ",
-      "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/4KVM.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "韩小圈-汤先生",
-      "name": "🎬韩圈蓝光²ᴷ",
-      "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/韩小圈.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "麒麟-汤先生",
-      "name": "🎬麒麟蓝光²ᴷ",
-      "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/麒麟影视.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "阳光-有广-汤先生",
-      "name": "🎬阳光蓝光²ᴷ",
-      "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/阳光.py",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "枫叶-肥猫",
-      "name": "🎬枫叶蓝光²ᴷ",
-      "type": 3,
-      
-      "api": "csp_FengYe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.vip1949.com/"
-    },
-    {
-      "key": "怀桑-肥猫",
-      "name": "🎬怀桑蓝光²ᴷ",
-      "type": 3,
-      
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://jk.catvod.site/jk/t4/mqxhqj.txt",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "playname": "怀桑",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "糯米-肥猫",
-      "name": "🎬糯米蓝光²ᴷ",
-      "type": 3,
-      
-      "api": "csp_Wwys",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://vip.wwgz.cn:5200"
-    },
-    {
-      "key": "热播影视-肥猫",
-      "name": "🎬热播蓝光²ᴷ",
-      "type": 3,
-      
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
-      "key": "剧圈99-肥猫",
-      "name": "🎬剧圈蓝光²ᴷ",
-      "type": 3,
-      
-      "api": "csp_App99",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://124.221.3.182:19987/app/bn",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.2.0",
-        "name": "剧圈圈",
-        "package": "com.qingtangxiaozhuan.xyz",
-        "buildNumber": "2002",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
       "name": "🎬杜北蓝光²ᴷ",
       "key": "Dubk-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_DubkAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -796,20 +620,11 @@
       "name": "🎬韩剧蓝光²ᴷ",
       "key": "Hxq-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_HxqAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-    },
-    {
-      "key": "骚火影视-肥猫",
-      "name": "🎬骚火蓝光²ᴷ",
-      "type": 3,
-      
-      "api": "csp_SaoHuo",
-      "searchable": 1,
-      "ext": "https://shdy5.us"
     },
     {
       "key": "爱看剧-天神",
@@ -833,22 +648,10 @@
       }
     },
     {
-      "key": "YunZhenXiang-琉芸",
-      "name": "🎬帧享蓝光²ᴷ",
-      "type": 3,
-      "jar": "https://pan.szfx.top/down.php/160c67492b103594de3ddc27888e62ea.jar",
-      "api": "csp_YunZhenXiang",
-      "searchable": 1,
-      "ext": {
-        "index_url": "https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json",
-        "key_api": "https://www.tangsan.fun/zx.php"
-      }
-    },
-    {
       "name": "📦①线秒播",
       "key": "AppV7Fz-嗷呜棠溪",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -859,7 +662,7 @@
       "name": "📦②线秒播",
       "key": "AppV7Xy-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -870,7 +673,7 @@
       "name": "📦③线秒播",
       "key": "AppV7Zjdr-嗷呜青阳",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -881,7 +684,7 @@
       "name": "📦④线秒播",
       "key": "AppV7Xyz-嗷呜南陵",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -892,7 +695,7 @@
       "name": "📦⑤线秒播",
       "key": "AppV7Xnm-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -903,7 +706,7 @@
       "name": "📦⑥线秒播",
       "key": "AppV7Mtq-嗷呜雁塔",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -914,7 +717,7 @@
       "name": "📦⑦线秒播",
       "key": "AppV7Llq-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -925,7 +728,7 @@
       "name": "📦⑧线秒播",
       "key": "AppV7Xsz-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -936,7 +739,7 @@
       "name": "📦⑨线秒播",
       "key": "AppV7Xhr-嗷呜秋浦",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -947,7 +750,7 @@
       "name": "📦特狗秒播",
       "key": "AppV6Tg",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_AppV6Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -979,12 +782,6 @@
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/厂长影视.py"
     },
     {
-      "key": "宅男影视-海豚23",
-      "name": "🐬宅男蓝光²ᴷ",
-      "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/宅男影视.py"
-    },
-    {
       "key": "袋鼠影视-Web鱼壳",
       "name": "🐬袋鼠蓝光²ᴷ",
       "type": 3,
@@ -1009,6 +806,80 @@
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/爱看机器人.py"
     },
     {
+      "key": "AppV7Mtq-肥猫PJ",
+      "name": "🎬蒙太奇蓝光²ᴷ",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_AppV7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AIBOX1/cXJzdHV2d3h5ent8fX5/gJSHXACxiaOhlDsHGFhMei4MEO1e3nRxCEr8q5GCgfXwVYHj6oNkRDj02YjY8BA2EWzGuOB5FjRh+WdQC88BMDsNfVKbJczluPIC3Wc/1QrvNDTjx58Y0w2PXmAFxJN0kqS+ZjqT9oUvdP1vEhbDZY3A1RHUkitnXMm4os940SYU2G58AdfWxy0ekBsg2yOxjw=="
+    },
+    {
+      "key": "天堂-肥猫PJ",
+      "name": "🎬天堂蓝光²ᴷ",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      }
+    },
+    {
+      "key": "糯米-肥猫PJ",
+      "name": "🎬糯米蓝光²ᴷ",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_Wwys",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key": "剧圈99-肥猫PJ",
+      "name": "🎬剧圈蓝光²ᴷ",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_App99",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "DJHub-肥猫PJ",
+      "name": "🎦聚合短剧²",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_DJHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "genre": "shortdrama"
+    },
+    {
       "key": "裤佬聚合短剧-裤佬",
       "name": "🎦聚合短剧¹",
       "type": 3,
@@ -1021,7 +892,7 @@
       "key": "豪堪嗷嗚",
       "name": "🎦豪堪短剧",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_HHkkAmns",
       "searchable": 1,
       "filterable": 1,
@@ -1032,7 +903,7 @@
       "key": "围观嗷嗚",
       "name": "🎦围观短剧",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_WgdjAmns",
       "searchable": 1,
       "filterable": 1,
@@ -1043,7 +914,7 @@
       "key": "拜拜嗷嗚",
       "name": "🎦拜拜短剧",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_BddjAmns",
       "searchable": 1,
       "filterable": 1,
@@ -1054,7 +925,7 @@
       "key": "喵喵嗷嗚",
       "name": "🎦喵喵短剧",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_QmdjAmns",
       "searchable": 1,
       "filterable": 1,
@@ -1065,7 +936,7 @@
       "key": "盒马短剧嗷嗚",
       "name": "🎦盒马短剧",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_HemaAmns",
       "searchable": 1,
       "filterable": 1,
@@ -1129,22 +1000,16 @@
       "genre": "shortdrama"
     },
     {
-      "key": "DJHub-肥猫",
-      "name": "🎦聚合短剧²",
-      "type": 3,
-      
-      "api": "csp_DJHub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "genre": "shortdrama"
-    },
-    {
       "key": "在线短剧-海豚23",
       "name": "🎦在线短剧",
       "type": 3,
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/在线短剧.py"
+    },
+    {
+      "key": "石榴短剧-海豚23",
+      "name": "🎦石榴短剧",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/石榴短剧.py"
     },
     {
       "key": "爱听音乐-裤佬",
@@ -1159,57 +1024,6 @@
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/酷我音乐.py"
     },
     {
-      "key": "酷我音乐-肥猫",
-      "name": "🎧酷我音乐",
-      "type": 3,
-      
-      "api": "csp_KuWo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "filterable": 1
-    },
-    {
-      "key": "酷酷-肥猫",
-      "name": "🎧酷酷音乐",
-      "type": 3,
-      
-      "api": "csp_KuKuMusic",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "oval",
-        "ratio": 1
-      }
-    },
-    {
-      "key": "酷狗音乐-肥猫",
-      "name": "🎧酷狗音乐",
-      "type": 3,
-      
-      "api": "csp_Kugou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "filterable": 1
-    },
-    {
-      "key": "索尼音乐-裤佬",
-      "name": "🎧索尼音乐",
-      "type": 4,
-      "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335669707739136?token=banye666"
-    },
-    {
       "key": "IY音乐台-天神",
       "name": "🎧爱上音乐",
       "type": 3,
@@ -1222,17 +1036,6 @@
         "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png",
         "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/iyyy.png"
       }
-    },
-    {
-      "key": "轮回DJ-肥猫",
-      "name": "🎧轮回音乐",
-      "type": 3,
-      
-      "api": "csp_Djlh",
-      "style": {
-        "type": "list"
-      },
-      "filterable": 1
     },
     {
       "key": "drpy_js_DJ音乐",
@@ -1260,76 +1063,6 @@
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/千千音乐.py"
     },
     {
-      "key": "飞卢听书-肥猫",
-      "name": "📖飞卢听书",
-      "type": 3,
-      
-      "api": "csp_FeiLu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 0.7
-      },
-      "filterable": 1
-    },
-    {
-      "key": "六月有声-肥猫",
-      "name": "📖六月听书",
-      "type": 3,
-      
-      "api": "csp_TingBook",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": "https://app.365ting.com",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "堇夏有声-肥猫",
-      "name": "📖堇夏听书",
-      "type": 3,
-      
-      "api": "csp_TingBookJinXia",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": "https://m.ting15.com",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "世界听书-肥猫",
-      "name": "📖世界听书",
-      "type": 3,
-      
-      "api": "csp_TingShijie",
-      "searchable": 1,
-      "style": {
-        "type": "list"
-      },
-      "filterable": 1
-    },
-    {
-      "key": "悦听吧-肥猫",
-      "name": "📖悦吧听书",
-      "type": 3,
-      
-      "api": "csp_YueTingBa",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "ytb-Web鱼壳",
       "name": "📖悦听吧书",
       "type": 3,
@@ -1354,20 +1087,10 @@
       }
     },
     {
-      "name": "📖嗷嗚听书",
-      "key": "TSaowu-嗷呜",
-      "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
-      "api": "csp_TSaowuAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "name": "📖富强听书",
       "key": "TSty-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_TStyAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -1377,7 +1100,7 @@
       "name": "📖文明听书",
       "key": "TStzg-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_TStzgAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -1403,40 +1126,71 @@
       "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/博看听书.js"
     },
     {
-      "key": "legado_novel-肥猫",
-      "name": "📚整合看书",
+      "key": "飞卢听书-肥猫PJ",
+      "name": "📖飞卢听书",
       "type": 3,
-      
-      "api": "csp_LegadoSpider",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_FeiLu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jk.catvod.site/jk/t4/legado_sources.json",
+      "changeable": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.33
+        "ratio": 0.7
+      },
+      "filterable": 1
+    },
+    {
+      "key": "六月有声-肥猫PJ",
+      "name": "📖六月听书",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_TingBook",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://app.365ting.com",
+      "style": {
+        "type": "list"
       }
     },
     {
-      "key": "阅读助手-肥猫",
-      "name": "📚猫猫看书",
+      "key": "堇夏有声-肥猫py",
+      "name": "📖堇夏听书",
       "type": 3,
-      
-      "api": "csp_ReaderHelper",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/堇夏听书.py",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": "https://m.ting15.com",
       "style": {
-        "type": "rect",
-        "ratio": 1.33
+        "type": "list"
       }
     },
     {
-      "key": "MiFun-Web鱼壳",
-      "name": "🐬MiFun动漫",
+      "key": "世界听书-肥猫py",
+      "name": "📖世界听书",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/MiFun动漫.py"
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/世界听书.py",
+      "searchable": 1,
+      "style": {
+        "type": "list"
+      },
+      "filterable": 1
+    },
+    {
+      "key": "易听书网-海豚63",
+      "name": "📖易听书网",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/易听书网.py"
+    },
+    {
+      "key": "听书网456-海豚63",
+      "name": "📖听书网456",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/听书网456.py"
     },
     {
       "key": "动漫巴士-Web鱼壳",
@@ -1454,17 +1208,17 @@
       "name": "🧒囧途动漫",
       "key": "DMcyc-嗷呜",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png;md5;08c0d2859e15f94294b697869f4ef899",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
       "api": "csp_DMcycAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
     },
     {
-      "key": "曼波动漫-肥猫",
+      "key": "曼波动漫-肥猫PJ",
       "name": "🧒曼波动漫",
       "type": 3,
-      
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
       "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
@@ -1476,65 +1230,14 @@
       "filterable": 1
     },
     {
-      "key": "魔都-肥猫",
+      "key": "魔都-肥猫py",
       "name": "🧒魔都动漫",
       "type": 3,
-      
-      "api": "csp_MoDu",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/魔都动漫.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1
-    },
-    {
-      "key": "喵呜-肥猫",
-      "name": "🧒喵呜动漫",
-      "type": 3,
-      
-      "api": "csp_MiaoWu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "兔小贝-肥猫",
-      "name": "🧒兔小贝",
-      "type": 3,
-      
-      "api": "csp_TuXiaoBei",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      },
-      "filterable": 1
-    },
-    {
-      "key": "童趣-肥猫",
-      "name": "🧒童趣",
-      "type": 3,
-      
-      "api": "csp_TongQu",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      },
-      "filterable": 1
-    },
-    {
-      "key": "贝乐虎-肥猫",
-      "name": "🧒贝乐虎",
-      "type": 3,
-      
-      "api": "csp_BeiLeHu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0
     },
     {
       "key": "裤佬央视PY-裤佬",
@@ -1569,229 +1272,111 @@
       "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/my/戏曲大全.js"
     },
     {
-      "key": "蜡笔-肥猫",
-      "name": "☁️蜡笔云盘",
+      "key": "初心音乐-肥猫py",
+      "name": "🎧初心音乐",
       "type": 3,
-      
-      "api": "csp_FishCloud",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://feimo.fun",
-          "http://fmao.site",
-          "http://fmao.shop",
-          "http://xiaocgege.shop",
-          "https://feimao666.fun"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "指南-肥猫",
-      "name": "☁️指南云盘",
-      "type": 3,
-      
-      "api": "csp_KZN",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "木偶-肥猫",
-      "name": "☁️木偶云盘",
-      "type": 3,
-      
-      "api": "csp_FishCloud",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://123.666291.xyz",
-          "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
-        ],
-        "classes": [
-          {
-            "id": "1",
-            "name": "电影"
-          },
-          {
-            "id": "2",
-            "name": "剧集"
-          },
-          {
-            "id": "3",
-            "name": "动漫"
-          },
-          {
-            "id": "4",
-            "name": "综艺"
-          },
-          {
-            "id": "5",
-            "name": "短剧"
-          },
-          {
-            "id": "26",
-            "name": "高分精选"
-          }
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "至臻-肥猫",
-      "name": "☁️至臻云盘",
-      "type": 3,
-      
-      "api": "csp_FishCloud",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.mihdr.top",
-          "https://www.miqk.cc",
-          "https://zhizhenpan.com",
-          "https://zhizhen8.click",
-          "https://www.zhizhen8.click"
-        ],
-        "classes": [
-          {
-            "id": "1",
-            "name": "电影"
-          },
-          {
-            "id": "2",
-            "name": "剧集"
-          },
-          {
-            "id": "3",
-            "name": "动漫"
-          },
-          {
-            "id": "4",
-            "name": "综艺"
-          },
-          {
-            "id": "5",
-            "name": "短剧"
-          },
-          {
-            "id": "25",
-            "name": "臻彩视觉"
-          },
-          {
-            "id": "26",
-            "name": "高分精选"
-          }
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "剧透-肥猫",
-      "name": "☁️剧透云盘",
-      "type": 3,
-      
-      "api": "csp_AiNewJuTou",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": {
-        "site": [
-          "https://1.star2.cn"
-        ]
-      },
       "style": {
-        "type": "list",
+        "type": "rect",
         "ratio": 1
       }
     },
     {
-      "key": "玩偶-肥猫",
-      "name": "☁️玩偶云盘",
+      "key": "酷我音乐-肥猫PJ",
+      "name": "🎧酷我音乐",
       "type": 3,
-      
-      "api": "csp_Wogg",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_KuWo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://wogg.xxooo.cf",
-          "https://woggpan.888484.xyz",
-          "https://wogg.333232.xyz",
-          "http://woggpan.xxooo.cf",
-          "https://www.wogg.one"
-        ],
-        "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
-      },
-      "timeout": 60
-    },
-    {
-      "key": "人人-肥猫",
-      "name": "☁️人人云盘",
-      "type": 3,
-      
-      "api": "csp_RenRen",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
-    {
-      "key": "即刻-肥猫",
-      "name": "☁️即刻云盘",
-      "type": 3,
-      
-      "api": "csp_Jike",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
+      "changeable": 0,
       "style": {
-        "type": "list"
+        "type": "rect",
+        "ratio": 1
       },
-      "timeout": 60
+      "filterable": 1
     },
     {
-      "key": "移动4K-肥猫",
-      "name": "☁️移动云盘",
+      "key": "酷酷-肥猫PJ",
+      "name": "🎧酷酷音乐",
       "type": 3,
-      
-      "api": "csp_YiDong4K",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "最全短剧-肥猫",
-      "name": "☁️短剧云盘",
-      "type": 3,
-      
-      "api": "csp_Kan90",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_KuKuMusic",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "genre": "shortdrama",
-      "ext": {
-        "sites": "https://20.90kan.cc"
+      "style": {
+        "type": "oval",
+        "ratio": 1
+      }
+    },
+    {
+      "key": "酷狗音乐-肥猫PJ",
+      "name": "🎧酷狗音乐",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_Kugou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
       },
-      "timeout": 60
+      "filterable": 1
+    },
+    {
+      "key": "轮回DJ-肥猫PJ",
+      "name": "🎧轮回音乐",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_Djlh",
+      "style": {
+        "type": "list"
+      },
+      "filterable": 1
+    },
+    {
+      "key": "兔小贝-肥猫py",
+      "name": "🧒兔小贝",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/兔小贝.py",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      },
+      "filterable": 1
+    },
+    {
+      "key": "童趣-肥猫PJ",
+      "name": "🧒童趣",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_TongQu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      },
+      "filterable": 1
+    },
+    {
+      "key": "贝乐虎-肥猫py",
+      "name": "🧒贝乐虎",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/贝乐虎.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0
     },
     {
       "key": "csp_IkanBot-集多",
@@ -2374,21 +1959,6 @@
       ]
     },
     {
-      "key": "小姐姐-肥猫",
-      "name": "💃小姐姐",
-      "type": 3,
-      
-      "api": "csp_Xjj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "proxy": true,
-        "socks5": ""
-      }
-    },
-    {
       "key": "ASMR吧-Web鱼壳",
       "name": "🐬ASMR吧",
       "type": 3,
@@ -2412,10 +1982,308 @@
       "filterable": 1
     },
     {
-      "key": "Local-肥猫",
+      "key": "糖豆-肥猫PJ",
+      "name": "💃糖豆健身",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_TangDou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 2
+      },
+      "filterable": 1
+    },
+    {
+      "key": "legado_novel-肥猫PJ",
+      "name": "📚整合看书",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_LegadoSpider",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jk.catvod.site/jk/t4/legado_sources.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "阅读助手-肥猫PJ",
+      "name": "📚猫猫看书",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_ReaderHelper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "name": "🔥短剧推荐",
+      "key": "Hgdh-嗷呜",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
+      "api": "csp_HgdhAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "shortdrama",
+      "ext": "Hgdh"
+    },
+    {
+      "name": "🧒漫剧热榜",
+      "key": "MjHggg-嗷呜",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
+      "api": "csp_HgggAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "comic_series"
+    },
+    {
+      "name": "😈短剧热榜",
+      "key": "DjHggg-嗷呜",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-独立版.jar",
+      "api": "csp_HgggAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "short_play"
+    },
+    {
+      "key": "指南-肥猫PJ",
+      "name": "☁️指南云盘",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_KZN",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "木偶-肥猫PJ",
+      "name": "☁️木偶云盘",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_FishCloud",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://123.666291.xyz",
+          "https://666.666291.xyz",
+          "https://www.muou.site",
+          "https://www.muou.asia"
+        ],
+        "classes": [
+          {
+            "id": "1",
+            "name": "电影"
+          },
+          {
+            "id": "2",
+            "name": "剧集"
+          },
+          {
+            "id": "3",
+            "name": "动漫"
+          },
+          {
+            "id": "4",
+            "name": "综艺"
+          },
+          {
+            "id": "5",
+            "name": "短剧"
+          },
+          {
+            "id": "26",
+            "name": "高分精选"
+          }
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "至臻-肥猫PJ",
+      "name": "☁️至臻云盘",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_FishCloud",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://mihdr.top",
+          "https://www.mihdr.top",
+          "https://www.miqk.cc",
+          "https://zhizhenpan.com",
+          "https://zhizhen8.click",
+          "https://www.zhizhen8.click"
+        ],
+        "classes": [
+          {
+            "id": "1",
+            "name": "电影"
+          },
+          {
+            "id": "2",
+            "name": "剧集"
+          },
+          {
+            "id": "3",
+            "name": "动漫"
+          },
+          {
+            "id": "4",
+            "name": "综艺"
+          },
+          {
+            "id": "5",
+            "name": "短剧"
+          },
+          {
+            "id": "25",
+            "name": "臻彩视觉"
+          },
+          {
+            "id": "26",
+            "name": "高分精选"
+          }
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "剧透-肥猫PJ",
+      "name": "☁️剧透云盘",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_AiNewJuTou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "site": [
+          "https://1.star2.cn"
+        ]
+      },
+      "style": {
+        "type": "list",
+        "ratio": 1
+      }
+    },
+    {
+      "key": "玩偶-肥猫PJ",
+      "name": "☁️玩偶云盘",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://wogg.xxooo.cf",
+          "https://woggpan.888484.xyz",
+          "https://wogg.333232.xyz",
+          "http://woggpan.xxooo.cf",
+          "https://www.wogg.one"
+        ],
+        "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "人人-肥猫PJ",
+      "name": "☁️人人云盘",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_RenRen",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "即刻-肥猫PJ",
+      "name": "☁️即刻云盘",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_Jike",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "移动4K-肥猫PJ",
+      "name": "☁️移动云盘",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_YiDong4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "最全短剧-肥猫PJ",
+      "name": "☁️短剧云盘",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_Kan90",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "genre": "shortdrama",
+      "ext": {
+        "sites": "https://20.90kan.cc"
+      },
+      "timeout": 60
+    },
+    {
+      "key": "小姐姐-肥猫PJ",
+      "name": "💃小姐姐",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_Xjj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "proxy": true,
+        "socks5": ""
+      }
+    },
+    {
+      "key": "Local-肥猫PJ",
       "name": "📁本地.文件",
       "type": 3,
-      
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
@@ -2427,10 +2295,10 @@
       }
     },
     {
-      "key": "ResMgr-肥猫",
+      "key": "ResMgr-肥猫PJ",
       "name": "📦资源.配置",
       "type": 3,
-      
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
       "api": "csp_ResMgr",
       "searchable": 0,
       "quickSearch": 0,
@@ -2443,10 +2311,10 @@
       }
     },
     {
-      "key": "BinMarket-肥猫",
+      "key": "BinMarket-肥猫PJ",
       "name": "🛠️环境.配置",
       "type": 3,
-      
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
       "api": "csp_BinMarket",
       "searchable": 0,
       "changeable": 0,
@@ -2459,10 +2327,10 @@
       }
     },
     {
-      "key": "WpLib-肥猫",
+      "key": "WpLib-肥猫PJ",
       "name": "🖼️图库.配置",
       "type": 3,
-      
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
       "api": "csp_WpLib",
       "searchable": 0,
       "indexs": 0,
@@ -2474,10 +2342,10 @@
       }
     },
     {
-      "key": "Market-肥猫",
+      "key": "Market-肥猫PJ",
       "name": "🛒APP市场",
       "type": 3,
-      
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
@@ -2497,6 +2365,20 @@
             "url": "https://pan.quark.cn/s/ee4ea23f4eaf"
           }
         ]
+      }
+    },
+    {
+      "key": "综合设置-肥猫PJ",
+      "name": "⚙️综合.配置",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_PanSettings",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       }
     }
   ],
