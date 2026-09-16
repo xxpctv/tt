@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-豪堪短剧 HHkk 独立版（从 aowu.jar 逆向还原，不依赖原 jar / 作者服务器）
+豪堪短剧 
 协议：百度好看短剧（sv.baidu.com）四接口全链路实测 200
   - 首页/分类/搜索: POST /haokan/ui-feed/playletShelfFeed (osbranch=a0 [+tag_id/+search_word])
   - 详情:          POST /haokan/ui-video/playlet/rec/detail (playlet_id=vid=剧集id)
