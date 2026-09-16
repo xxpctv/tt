@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-拜拜短剧 Bddj 独立版（从 aowu.jar 逆向还原，不依赖原 jar / 作者服务器）
+拜拜短剧 
 协议：百度短剧（mbd.baidu.com / sv.baidu.com）全链路黑盒实测
   - 首页/分类: POST /feedapi/v1/videoserver/playlets/list  (query: service=bdbox)
     body: data={"data":{kind,names,flow_tabid,from,page,pd,channel_video_landing,
