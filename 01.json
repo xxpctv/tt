@@ -48,28 +48,16 @@
   "wallpaper": "",
   "sites": [
     {
-      "name": "🏠豆瓣导航",
-      "key": "Douban-嗷呜",
-      "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu_Douban.py",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "Douban"
-    },
- {
-      "name": "🏠豆瓣导航原版",
-      "key": "Douban-嗷呜原版",
-      "type": 3,
-	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-业务版.jar",
-      "api": "csp_DoubanAmns",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "Douban"
-    },
+  "key": "Douban-嗷呜独立",
+  "name": "🏠豆瓣导航",
+  "type": 3,
+  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-Douban-独立版.jar",
+  "api": "csp_Ajeo_Douban",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0
+},
+
     {
       "name": "⚙️配置中心",
       "key": "MyConfig-嗷呜",
