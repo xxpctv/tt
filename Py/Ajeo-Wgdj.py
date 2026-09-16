@@ -3,7 +3,6 @@
 围观短剧 
 协议：config(RSA-2048) -> session(ECDH P-256) -> HMAC-SHA256 签名 -> 短剧 API
 兼容：OK影视 / 影视仓（TVBox Python 引擎）
-作者：逆向还原自 aowu 壳内业务 dex 的 Wgdj.smali（协议全链路实测 200）
 """
 import base64
 import hashlib
