@@ -206,7 +206,7 @@
     },
 
     {
-      "key": "豪堪嗷嗚",
+      "key": "豪堪嗷嗚百度短剧系",
       "name": "🎦豪堪短剧",
       "type": 3,
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu_HHkk.py",
@@ -216,8 +216,19 @@
       "changeable": 1
     },
     {
-      "key": "围观嗷嗚",
-      "name": "🎦围观短剧",
+      "key": "围观嗷嗚百度好看系",
+      "name": "🎦围观短剧业务版",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu-业务版.jar",
+      "api": "csp_WgdjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	 {
+      "key": "围观嗷嗚百度好看系",
+      "name": "🎦围观短剧py版",
       "type": 3,
       "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/aowu_Wgdj.py",
       "searchable": 1,
