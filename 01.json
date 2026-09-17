@@ -154,11 +154,11 @@
       "changeable": 0,
       "ext": "AppV6Tg"
     },
-	 {
+    {
       "key": "围观嗷嗚成都分享",
       "name": "🎦九维短剧",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-Wgdj.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-jiuwei.py",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -166,30 +166,29 @@
     },
     {
       "key": "百度嗷嗚老接口无签名",
-      "name": "🎦百度短剧⁰",
-      "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-HHkk.py",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-   
-    {
-      "key": "拜拜嗷嗚同一签名",
       "name": "🎦百度短剧¹",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-Bddj.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-baidu1.py",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-	 {
-      "key": "百度短剧-裤佬同一签名",
+    {
+      "key": "拜拜嗷嗚同一签名",
       "name": "🎦百度短剧²",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/百度短剧.js",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-baidu2.py",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "百度短剧-裤佬同一签名",
+      "name": "🎦百度短剧³",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-baidu3.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -198,17 +197,17 @@
       "key": "喵喵嗷嗚-Ajeo",
       "name": "🎦七猫短剧¹",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-Qmdj.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-qimao.py",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-	{
+    {
       "key": "七猫-裤佬动态签名",
       "name": "🎦七猫短剧²",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/七猫.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-qimao2.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -218,13 +217,13 @@
       "key": "裤佬七星短剧-裤佬",
       "name": "🎦七星短剧",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/七星短剧.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-qixing.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-        {
+    {
       "key": "好看-裤佬",
       "name": "🎦好看短剧",
       "type": 3,
@@ -238,7 +237,7 @@
       "key": "河马-裤佬",
       "name": "🎦河马短剧",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-Hema-agg.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-Hema.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -263,35 +262,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
-    },
-   
-    {
-      "key": "好看短剧-潇洒",
-      "name": "🎦好看短剧",
-      "type": 3,
-      "jar": "https://img.51shazhu.com/autoupload/g1b6f/20260830/WLJG/0X0/08300733.png;md5;afed4807ecb29146776120160cc8b873",
-      "api": "csp_ShortHaokan",
-      "genre": "shortdrama"
-    },
-    {
-      "key": "河马短剧-潇洒",
-      "name": "🎦河马短剧",
-      "type": 3,
-      "jar": "https://img.51shazhu.com/autoupload/g1b6f/20260830/WLJG/0X0/08300733.png;md5;afed4807ecb29146776120160cc8b873",
-      "api": "csp_ShortHema",
-      "genre": "shortdrama"
-    },
-    {
-      "key": "盒马短剧嗷嗚",
-      "name": "🎦盒马短剧",
-      "type": 3,
-      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_HemaAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "genre": "shortdrama"
     },
     {
       "name": "📖富强听书",
