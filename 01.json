@@ -3,17 +3,7 @@
   "warningText": "Ajeossi接口维护，追剧无忧！",
   "wallpaper": "",
   "sites": [
-    {
-      "key": "Douban-嗷呜独立",
-      "name": "🏠豆瓣导航",
-      "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Douban-Ajeo.jar",
-      "api": "csp_Ajeo_Douban",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-	
+
     {
       "name": "⚙️配置中心",
       "key": "MyConfig-嗷呜",
