@@ -55,6 +55,17 @@
       "changeable": 0,
       "ext": "AppV7Fz"
     },
+	{
+      "name": "📦①线秒播",
+      "key": "AppV7Fz-嗷呜棠溪",
+      "type": 3,
+      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Fz"
+    },
     {
       "name": "📦②线秒播",
       "key": "AppV7Xy-嗷呜",
