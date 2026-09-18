@@ -13,6 +13,7 @@
       "quickSearch": 1,
       "changeable": 0
     },
+	
     {
       "name": "⚙️配置中心",
       "key": "MyConfig-嗷呜",
@@ -45,11 +46,10 @@
       "changeable": 0
     },
     {
-      "name": "📦①线秒播",
+      "name": "嗷呜棠溪",
       "key": "AppV7Fz-嗷呜棠溪",
       "type": 3,
-      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/96c38469-df36-433c-b400-74ed5e5a7d7a.png;md5;6b076a8a31e03cbfa5db73e079155629",
-      "api": "csp_AppV7Amns",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-Niuniu.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -188,7 +188,7 @@
       "key": "百度短剧-裤佬同一签名",
       "name": "🎦百度短剧³",
       "type": 3,
-      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-baidu3v6.js",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-baidu3v3.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
