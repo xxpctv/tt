@@ -11,11 +11,9 @@
       "api": "csp_Ajeo_XueLuo",
       "searchable": 0,
       "quickSearch": 0,
-	  "filterable": 0
-
-      }
+      "filterable": 0
     },
-	{
+    {
       "key": "XueLuo-Ajeo3",
       "name": "🥜花生音乐精简修复",
       "type": 3,
