@@ -7,22 +7,7 @@
       "key": "XueLuo-Ajeo",
       "name": "🥜花生音乐",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/ts/huasheng.jar",
-      "api": "csp_Ajeo_XueLuo",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-	{
-      "key": "XueLuo-Ajeo2",
-      "name": "🥜花生音乐精简",
-      "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/huasheng-纯雪咯精简-最终.jar",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/huasheng.jar",
       "api": "csp_Ajeo_XueLuo",
       "searchable": 0,
       "quickSearch": 0,
@@ -35,9 +20,9 @@
     },
 	{
       "key": "XueLuo-Ajeo3",
-      "name": "🥜花生音乐极简",
+      "name": "🥜花生音乐精简修复",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/huasheng-纯雪咯精简-极简备选.jar",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/ts/huasheng-精简修复版.jar",
       "api": "csp_Ajeo_XueLuo",
       "searchable": 0,
       "quickSearch": 0,
