@@ -18,6 +18,21 @@
         "type": "list"
       }
     },
+	{
+      "key": "XueLuo-Ajeo2",
+      "name": "🥜花生音乐精简",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/huasheng-纯雪咯精简-最终.jar",
+      "api": "csp_Ajeo_XueLuo",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
     {
       "key": "小姐姐-肥猫PJ",
       "name": "💃小姐姐",
