@@ -3,7 +3,18 @@
   "warningText": "Ajeossi接口维护，追剧无忧！",
   "wallpaper": "",
   "sites": [
-    
+    {
+      "key": "XueLuo-Ajeo",
+      "name": "🥜花生音乐基线",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/ts/huasheng-slim.jar",
+      "api": "csp_Ajeo_XueLuo",
+      "searchable": 0,
+      "quickSearch": 0,
+	  "filterable": 0
+
+      }
+    },
 	{
       "key": "XueLuo-Ajeo3",
       "name": "🥜花生音乐精简修复",
