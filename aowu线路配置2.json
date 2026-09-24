@@ -7,7 +7,6 @@
       "name": "⚙️配置中心",
       "key": "MyConfig-嗷呜",
       "type": 3,
-
       "api": "csp_AAConfigAmns",
       "searchable": 0,
       "quickSearch": 0,
@@ -17,7 +16,7 @@
       "name": "⚽🏀瓜子体育",
       "key": "GuaziLive-嗷呜",
       "type": 3,
-      "api": "./Py/Ajeo-GuaziLive.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-GuaziLive.py",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -27,86 +26,86 @@
       "name": "⚽🏀咖啡体育",
       "key": "KafLive-嗷呜",
       "type": 3,
-      "api": "./Py/Ajeo-KafLive.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-KafLive.py",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
-	{
-  "name": "①线蓝光²ᴷ",
-  "key": "AppV7Fz嗷呜棠溪",
-  "type": 3,
-  "jar": "./Py/Ajeo_AppV7.jar",
-  "api": "csp_Ajeo_AppV7",
-  "ext": "Fz"
-}
-	{
-  "name": "②线蓝光²ᴷ",
-  "key": "AppV7Xy嗷呜",
-  "type": 3,
-  "jar": "./Py/Ajeo_AppV7.jar",
-  "api": "csp_Ajeo_AppV7",
-  "ext": "Xy"
-}
-	{
-  "name": "③线蓝光²ᴷ",
-  "key": "AppV7Zjdr嗷呜青阳",
-  "type": 3,
-  "jar": "./Py/Ajeo_AppV7.jar",
-  "api": "csp_Ajeo_AppV7",
-  "ext": "Zjdr"
-}
-{
-  "name": "④线蓝光²ᴷ",
-  "key": "AppV7Xyz嗷呜南陵",
-  "type": 3,
-  "jar": "./Py/Ajeo_AppV7.jar",
-  "api": "csp_Ajeo_AppV7",
-  "ext": "Xyz"
-}
-{
-  "name": "⑤线蓝光²ᴷ",
-  "key": "AppV7Xnm嗷呜",
-  "type": 3,
-  "jar": "./Py/Ajeo_AppV7.jar",
-  "api": "csp_Ajeo_AppV7",
-  "ext": "Xnm"
-}
- {
+    {
+      "name": "①线蓝光²ᴷ",
+      "key": "AppV7Fz嗷呜棠溪",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV7",
+      "ext": "Fz"
+    },
+    {
+      "name": "②线蓝光²ᴷ",
+      "key": "AppV7Xy嗷呜",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV7",
+      "ext": "Xy"
+    },
+    {
+      "name": "③线蓝光²ᴷ",
+      "key": "AppV7Zjdr嗷呜青阳",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV7",
+      "ext": "Zjdr"
+    },
+    {
+      "name": "④线蓝光²ᴷ",
+      "key": "AppV7Xyz嗷呜南陵",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV7",
+      "ext": "Xyz"
+    },
+    {
+      "name": "⑤线蓝光²ᴷ",
+      "key": "AppV7Xnm嗷呜",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV7",
+      "ext": "Xnm"
+    },
+    {
       "name": "⑥线蓝光²ᴷ",
       "key": "AppV7Mtq-嗷呜雁塔",
       "type": 3,
-      "jar": "./Py/Ajeo_AppV7.jar",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Mtq"
     },
-	{
+    {
       "name": "⑦蓝光²ᴷ",
       "key": "AppV7Llq-嗷呜",
       "type": 3,
-      "jar": "./Py/Ajeo_AppV7.jar",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Llq"
     },
-	{
+    {
       "name": "⑧线蓝光²ᴷ",
       "key": "AppV7Xsz-嗷呜",
       "type": 3,
-      "jar": "./Py/Ajeo_AppV7.jar",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Xsz"
     },
-	 {
+    {
       "name": "⑨线蓝光²ᴷ",
       "key": "AppV7Xhr-嗷呜秋浦",
       "type": 3,
-      "jar": "./Py/Ajeo_AppV7.jar",
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -116,7 +115,7 @@
       "name": "📦①线秒播",
       "key": "AppV7Fz-嗷呜棠溪",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Fz.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-AppV7Fz.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -126,7 +125,7 @@
       "name": "📦②线秒播",
       "key": "AppV7Xy-嗷呜",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Xy.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-AppV7Xy.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -136,7 +135,7 @@
       "name": "📦③线秒播",
       "key": "AppV7Zjdr-嗷呜青阳",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Zjdr.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-AppV7Zjdr.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -146,7 +145,7 @@
       "name": "📦④线秒播",
       "key": "AppV7Xyz-嗷呜南陵",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Xyz.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-AppV7Xyz.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -156,7 +155,7 @@
       "name": "📦⑤线秒播",
       "key": "AppV7Xnm-嗷呜",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Xnm.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-AppV7Xnm.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -166,7 +165,7 @@
       "name": "📦⑥线秒播",
       "key": "AppV7Mtq-嗷呜雁塔",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Mtq.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-AppV7Mtq.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -176,7 +175,7 @@
       "name": "📦⑦线秒播",
       "key": "AppV7Llq-嗷呜",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Xy.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-AppV7Xy.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -186,7 +185,7 @@
       "name": "📦⑧线秒播",
       "key": "AppV7Xsz-嗷呜",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Xsz.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-AppV7Xsz.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -196,7 +195,7 @@
       "name": "📦⑨线秒播",
       "key": "AppV7Xhr-嗷呜秋浦",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Xhr.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-AppV7Xhr.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -212,7 +211,6 @@
       "changeable": 0,
       "ext": "AppV6Tg"
     },
-
     {
       "name": "📖富强听书无",
       "key": "TSty-嗷呜",
@@ -226,7 +224,7 @@
       "name": "📖文明听书",
       "key": "TStzg-嗷呜",
       "type": 3,
-      "api": "./Py/Ajeo-TStzg.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-TStzg.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -240,12 +238,11 @@
       "quickSearch": 1,
       "changeable": 0
     },
-
     {
       "name": "😈短剧热榜",
       "key": "DjHggg-嗷呜",
       "type": 3,
-      "api": "./Py/Ajeo-Hggg.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-Hggg.py",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -255,7 +252,7 @@
       "key": "小姐姐-肥猫PJ",
       "name": "💃小姐姐",
       "type": 3,
-      "api": "./Py/Ajeo-Xjj.py",
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo-Xjj.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
