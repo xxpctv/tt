@@ -36,7 +36,7 @@
       "key": "AppV7Fz嗷呜棠溪",
       "type": 3,
       "jar": "./Py/Ajeo_AppV7.jar",
-      "api": "csp_Ajeo_AppV7",
+      "api": "csp_Ajeo_AppV7Fz",
       "ext": "Fz"
     },
     {
@@ -44,7 +44,7 @@
       "key": "AppV7Xy嗷呜",
       "type": 3,
       "jar": "./Py/Ajeo_AppV7.jar",
-      "api": "csp_Ajeo_AppV7",
+      "api": "csp_Ajeo_AppV7Xy",
       "ext": "Xy"
     },
     {
@@ -52,7 +52,7 @@
       "key": "AppV7Zjdr嗷呜青阳",
       "type": 3,
       "jar": "./Py/Ajeo_AppV7.jar",
-      "api": "csp_Ajeo_AppV7",
+      "api": "csp_Ajeo_AppV7Zjdr",
       "ext": "Zjdr"
     },
     {
@@ -60,7 +60,7 @@
       "key": "AppV7Xyz嗷呜南陵",
       "type": 3,
       "jar": "./Py/Ajeo_AppV7.jar",
-      "api": "csp_Ajeo_AppV7",
+      "api": "csp_Ajeo_AppV7Xyz",
       "ext": "Xyz"
     },
     {
@@ -68,7 +68,7 @@
       "key": "AppV7Xnm嗷呜",
       "type": 3,
       "jar": "./Py/Ajeo_AppV7.jar",
-      "api": "csp_Ajeo_AppV7",
+      "api": "csp_Ajeo_AppV7Xnm",
       "ext": "Xnm"
     },
     {
@@ -76,6 +76,7 @@
       "key": "AppV7Mtq-嗷呜雁塔",
       "type": 3,
       "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV7Mtq",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -86,6 +87,7 @@
       "key": "AppV7Llq-嗷呜",
       "type": 3,
       "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV7Llq",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -96,6 +98,7 @@
       "key": "AppV7Xsz-嗷呜",
       "type": 3,
       "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV7Xsz",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -106,6 +109,7 @@
       "key": "AppV7Xhr-嗷呜秋浦",
       "type": 3,
       "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV7Xhr",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
