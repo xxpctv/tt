@@ -1,4 +1,5 @@
 {
+  "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
   "logo": "https://d.kstore.dev/download/8043/p2/Ajeo.gif",
   "warningText": "Ajeossi接口维护，追剧无忧！",
   "wallpaper": "",
@@ -7,7 +8,6 @@
       "name": "⚙️配置中心",
       "key": "MyConfig-嗷呜",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_AAConfigAmns",
       "searchable": 0,
       "quickSearch": 0,
@@ -17,38 +17,92 @@
       "name": "📁资源┃中心",
       "key": "MyAll",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_MyAllAmns",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
     {
-      "name": "⚽🏀瓜子体育",
-      "key": "GuaziLive-嗷呜",
+      "name": "💥玩偶┃4K",
+      "key": "woWogg",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
-      "api": "csp_GuaziLiveAmns",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_WoggAmns",
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
-      "ext": "GuaziLive"
+      "ext": "woWogg"
     },
     {
-      "name": "⚽🏀咖啡体育",
-      "key": "KafLive-嗷呜",
+      "name": "💥木偶┃4K",
+      "key": "moWobg",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
-      "api": "csp_KafLiveAmns",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_WobgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "moWobg"
+    },
+    {
+      "name": "⭐秋天┃秒播",
+      "key": "NewGrV2",
+      "type": 3,
+      "api": "csp_NewGrV2Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "NewGrV2"
+    },
+    {
+      "name": "⭐韩剧┃秒播",
+      "key": "Hxq",
+      "type": 3,
+      "api": "csp_HxqAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "⭐瓜子┃秒播",
+      "key": "Guazi",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Guazi"
+    },
+    {
+      "name": "🧩杜北┃快速",
+      "key": "Dubk",
+      "type": 3,
+      "api": "csp_DubkAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "Dubk"
+    },
+    {
+      "name": "🧩伊外┃快速",
+      "key": "YIys",
+      "type": 3,
+      "api": "csp_YIysAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🧩爱看┃采集",
+      "key": "AiBot",
+      "type": 3,
+      "api": "csp_AiBotAmns",
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0
     },
     {
       "name": "①线蓝光²ᴷ",
       "key": "AppV7Fz嗷呜棠溪",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_Ajeo_AppV7Fz",
       "ext": "Fz"
     },
@@ -56,7 +110,6 @@
       "name": "②线蓝光²ᴷ",
       "key": "AppV7Xy嗷呜",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_Ajeo_AppV7Xy",
       "ext": "Xy"
     },
@@ -64,7 +117,6 @@
       "name": "③线蓝光²ᴷ",
       "key": "AppV7Zjdr嗷呜青阳",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_Ajeo_AppV7Zjdr",
       "ext": "Zjdr"
     },
@@ -72,7 +124,6 @@
       "name": "④线蓝光²ᴷ",
       "key": "AppV7Xyz嗷呜南陵",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_Ajeo_AppV7Xyz",
       "ext": "Xyz"
     },
@@ -80,7 +131,6 @@
       "name": "⑤线蓝光²ᴷ",
       "key": "AppV7Xnm嗷呜",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_Ajeo_AppV7Xnm",
       "ext": "Xnm"
     },
@@ -88,7 +138,6 @@
       "name": "⑥线蓝光²ᴷ",
       "key": "AppV7Mtq-嗷呜雁塔",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_Ajeo_AppV7Mtq",
       "searchable": 1,
       "quickSearch": 1,
@@ -99,7 +148,6 @@
       "name": "⑦蓝光²ᴷ",
       "key": "AppV7Llq-嗷呜",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_Ajeo_AppV7Llq",
       "searchable": 1,
       "quickSearch": 1,
@@ -110,7 +158,6 @@
       "name": "⑧线蓝光²ᴷ",
       "key": "AppV7Xsz-嗷呜",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_Ajeo_AppV7Xsz",
       "searchable": 1,
       "quickSearch": 1,
@@ -121,7 +168,6 @@
       "name": "⑨线蓝光²ᴷ",
       "key": "AppV7Xhr-嗷呜秋浦",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_Ajeo_AppV7Xhr",
       "searchable": 1,
       "quickSearch": 1,
@@ -132,7 +178,6 @@
       "name": "🎬嗷嗚┃短剧",
       "key": "DjHggg",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_HgggAmns",
       "searchable": 0,
       "quickSearch": 0,
@@ -140,32 +185,211 @@
       "genre": "shortdrama"
     },
     {
-      "name": "🎬盒马┃短剧",
-      "key": "Hema",
+      "name": "📡Bili┃Live",
+      "key": "Bilive",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
-      "api": "csp_HemaAmns",
+      "api": "csp_BiliveAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "genre": "shortdrama"
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
     },
     {
-      "name": "📦特狗秒播",
-      "key": "AppV6Tg",
+      "name": "📡虎牙┃Live",
+      "key": "HuyaLive",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
-      "api": "csp_AppV6Amns",
+      "api": "csp_HuyaLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV6Tg"
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "name": "🏆瓜子┃体育",
+      "key": "GuaziLive",
+      "type": 3,
+      "api": "csp_GuaziLiveAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "GuaziLive"
+    },
+    {
+      "name": "🏆飞球┃体育",
+      "key": "FeiqLive",
+      "type": 3,
+      "api": "csp_FeiqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🏆88┃体育",
+      "key": "BbkqLive",
+      "type": 3,
+      "api": "csp_BbkqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "BbkqLive"
+    },
+    {
+      "name": "🏆咖啡┃体育",
+      "key": "KafLive",
+      "type": 3,
+      "api": "csp_KafLiveAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "name": "🎉合集┃Bili",
+      "key": "BiliHeji",
+      "type": 3,
+      "api": "csp_BiliAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "home": "1",
+        "json": "https://file.icve.com.cn/file_doc/299/797/4AFC77E563EDEDB37F18BA6458610E16.aowu",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "name": "🎉歌曲┃Bili",
+      "key": "BiliGequ",
+      "type": 3,
+      "api": "csp_BiliAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100843-9aefe070b5.aowu",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "name": "🎉戏曲┃Bili",
+      "key": "BiliXiqu",
+      "type": 3,
+      "api": "csp_BiliAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100913-7601517540.aowu",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "name": "📚少儿┃教育",
+      "key": "BiliSer",
+      "type": 3,
+      "api": "csp_BiliAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "name": "📚小学┃教育",
+      "key": "BiliXxue",
+      "type": 3,
+      "api": "csp_BiliAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "name": "📚初中┃教育",
+      "key": "BiliCzong",
+      "type": 3,
+      "api": "csp_BiliAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "name": "📚高中┃教育",
+      "key": "BiliGzong",
+      "type": 3,
+      "api": "csp_BiliAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "name": "📖富强┃听书",
+      "key": "TSty",
+      "type": 3,
+      "api": "csp_TStyAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "📖文明┃听书",
+      "key": "TStzg",
+      "type": 3,
+      "api": "csp_TStzgAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "name": "🎸酷狗┃音乐",
       "key": "KuGou",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_KuGouAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -176,7 +400,6 @@
       "name": "🎸酷听┃音乐",
       "key": "Kuwo",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
       "api": "csp_KuwoAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -184,58 +407,33 @@
       "genre": "music"
     },
     {
-      "name": "📖嗷嗚┃听书",
-      "key": "TSaowu",
+      "name": "🎸蜻蜓┃电台",
+      "key": "QTfm",
       "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
-      "api": "csp_TSaowuAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "📖富强听书",
-      "key": "TSty-嗷呜",
-      "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
-      "api": "csp_TStyAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "📖文明听书",
-      "key": "TStzg-嗷呜",
-      "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
-      "api": "csp_TStzgAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🧒囧途动漫",
-      "key": "DMcyc-嗷呜",
-      "type": 3,
-      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
-      "api": "csp_DMcycAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-	  {
-      "name": "🔥短剧┃推荐",
-      "key": "Hgdh",
-      "type": 3,
-	  "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/Ajeo_AppV7.jar",
-      "api": "csp_HgdhAmns",
+      "api": "csp_QTfmAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "genre": "shortdrama",
-      "ext": "Hgdh"
+      "genre": "music"
     },
-    
+    {
+      "name": "🔍fish┃盘搜",
+      "key": "PSfish",
+      "type": 3,
+      "api": "csp_PSfishAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "🔍短剧┃盘搜",
+      "key": "PSdju",
+      "type": 3,
+      "api": "csp_PSdjuAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
     {
       "key": "小姐姐-肥猫PJ",
       "name": "💃小姐姐",
