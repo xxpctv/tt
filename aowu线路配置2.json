@@ -13,6 +13,16 @@
       "quickSearch": 0,
       "changeable": 0
     },
+	 {
+      "name": "📁资源┃中心",
+      "key": "MyAll",
+      "type": 3,
+	  "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_MyAllAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
     {
       "name": "⚽🏀瓜子体育",
       "key": "GuaziLive-嗷呜",
@@ -118,96 +128,29 @@
       "changeable": 0,
       "ext": "Xhr"
     },
-    {
-      "name": "📦①线秒播",
-      "key": "AppV7Fz-嗷呜棠溪",
+	  {
+      "name": "🎬嗷嗚┃短剧",
+      "key": "DjHggg",
       "type": 3,
-      "api": "./Py/Ajeo-AppV7Fz.py",
+	  "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_HgggAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "genre": "shortdrama"
+    },
+    {
+      "name": "🎬盒马┃短剧",
+      "key": "Hema",
+      "type": 3,
+	  "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_HemaAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "AppV7Fz"
+      "genre": "shortdrama"
     },
-    {
-      "name": "📦②线秒播",
-      "key": "AppV7Xy-嗷呜",
-      "type": 3,
-      "api": "./Py/Ajeo-AppV7Xy.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xy"
-    },
-    {
-      "name": "📦③线秒播",
-      "key": "AppV7Zjdr-嗷呜青阳",
-      "type": 3,
-      "api": "./Py/Ajeo-AppV7Zjdr.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Zjdr"
-    },
-    {
-      "name": "📦④线秒播",
-      "key": "AppV7Xyz-嗷呜南陵",
-      "type": 3,
-      "api": "./Py/Ajeo-AppV7Xyz.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xyz"
-    },
-    {
-      "name": "📦⑤线秒播",
-      "key": "AppV7Xnm-嗷呜",
-      "type": 3,
-      "api": "./Py/Ajeo-AppV7Xnm.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xnm"
-    },
-    {
-      "name": "📦⑥线秒播",
-      "key": "AppV7Mtq-嗷呜雁塔",
-      "type": 3,
-      "api": "./Py/Ajeo-AppV7Mtq.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Mtq"
-    },
-    {
-      "name": "📦⑦线秒播",
-      "key": "AppV7Llq-嗷呜",
-      "type": 3,
-      "api": "./Py/Ajeo-AppV7Xy.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Llq"
-    },
-    {
-      "name": "📦⑧线秒播",
-      "key": "AppV7Xsz-嗷呜",
-      "type": 3,
-      "api": "./Py/Ajeo-AppV7Xsz.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xsz"
-    },
-    {
-      "name": "📦⑨线秒播",
-      "key": "AppV7Xhr-嗷呜秋浦",
-      "type": 3,
-      "api": "./Py/Ajeo-AppV7Xhr.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Xhr"
-    },
+    
     {
       "name": "📦特狗秒播",
       "key": "AppV6Tg",
@@ -218,6 +161,38 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV6Tg"
+    },
+	 {
+      "name": "🎸酷狗┃音乐",
+      "key": "KuGou",
+      "type": 3,
+	  "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_KuGouAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "music"
+    },
+    {
+      "name": "🎸酷听┃音乐",
+      "key": "Kuwo",
+      "type": 3,
+	  "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_KuwoAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "music"
+    },
+	 {
+      "name": "📖嗷嗚┃听书",
+      "key": "TSaowu",
+      "type": 3,
+	  "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_TSaowuAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "name": "📖富强听书",
@@ -243,6 +218,7 @@
       "name": "🧒囧途动漫",
       "key": "DMcyc-嗷呜",
       "type": 3,
+	   "jar": "./Py/Ajeo_AppV7.jar",
       "api": "csp_DMcycAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -252,6 +228,7 @@
       "name": "😈短剧热榜",
       "key": "DjHggg-嗷呜",
       "type": 3,
+	  "jar": "./Py/Ajeo_AppV7.jar",
       "api": "./Py/Ajeo-Hggg.py",
       "searchable": 0,
       "quickSearch": 0,
