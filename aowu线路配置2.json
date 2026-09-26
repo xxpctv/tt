@@ -206,20 +206,22 @@
       "ext": "AppV7Xhr"
     },
     {
-      "name": "📦特狗秒播无",
+      "name": "📦特狗秒播",
       "key": "AppV6Tg",
       "type": 3,
-      "api": "csp_AppV6Amns",
+	  "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_AppV6Amns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV6Tg"
     },
     {
-      "name": "📖富强听书无",
+      "name": "📖富强听书",
       "key": "TSty-嗷呜",
       "type": 3,
-      "api": "csp_TStyAmns",
+	  "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_TStyAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -228,16 +230,17 @@
       "name": "📖文明听书",
       "key": "TStzg-嗷呜",
       "type": 3,
-      "api": "./Py/Ajeo-TStzg.py",
+	  "jar": "./Py/Ajeo_AppV7.jar",
+      "api": "csp_Ajeo_TStzgAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
     },
     {
-      "name": "🧒囧途动漫无",
+      "name": "🧒囧途动漫",
       "key": "DMcyc-嗷呜",
       "type": 3,
-      "api": "csp_DMcycAmns",
+      "api": "csp_Ajeo_DMcycAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
