@@ -582,7 +582,7 @@ ONLINE_LIVE_SOURCES = [
     {
         "id": "migu_live",
         "name": "❤️咪咕直播",
-        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
         "cover": TV_COVER,
         "remarks": "❤️咪咕直播",
         "type": "m3u",
@@ -592,19 +592,17 @@ ONLINE_LIVE_SOURCES = [
     },
     {
         "id": "gongdian_live",
-        "name": "💛宫殿直播",
-        "url": "https://gongdian.top/tv/iptv",
+        "name": "💛YTV直播",
+        "url": "https://ytv1.ccwu.cc/output/live.m3u",
         "cover": TV_COVER,
-        "remarks": "💛宫殿直播源",
+        "remarks": "💛YTV直播源",
         "type": "m3u",
-        "playerType": 2,
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        "referer": "https://gongdian.top/"
+        "ua": "AptvPlayer-UA"
     },
     {
         "id": "simple_live",
         "name": "💚简单直播",
-        "url": "http://gh-proxy.org/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+        "url": "https://gh-proxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
         "cover": TV_COVER,
         "remarks": "💚简单直播",
         "type": "txt",
@@ -613,20 +611,11 @@ ONLINE_LIVE_SOURCES = [
     {
         "id": "Kimentanm",
         "name": "💙Kimentanm",
-        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
         "cover": TV_COVER,
         "remarks": "💙Kimentanm",
         "type": "m3u",
         "ua": "AptvPlayer-UA"
-    },
-    {
-        "id": "游魂",
-        "name": "💜游魂",
-        "url": "https://www.iyouhun.com/tv/zb",
-        "cover": TV_COVER,
-        "remarks": "💜游魂直播",
-        "type": "txt",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     },
     {
         "id": "rihou",
@@ -640,7 +629,7 @@ ONLINE_LIVE_SOURCES = [
     {
         "id": "易发TV",
         "name": "💛易发TV直播",
-        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
         "cover": TV_COVER,
         "remarks": "易发直播",
         "type": "txt",
@@ -658,7 +647,7 @@ ONLINE_LIVE_SOURCES = [
     {
         "id": "香雨直播",
         "name": "☔香雨TV直播",
-        "url": "https://wget.la/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/%E9%A6%99%E9%9B%A8%E7%9B%B4%E6%92%AD.txt",
+        "url": "https://wget.la/https://raw.githubusercontent.com/ajqubbs/zhiboyuan/main/香雨直播.txt",
         "cover": TV_COVER,
         "remarks": "☔香雨直播",
         "type": "txt",
@@ -667,7 +656,7 @@ ONLINE_LIVE_SOURCES = [
     {
         "id": "三线直播",
         "name": "❤️三线TV",
-        "url": "https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
         "cover": TV_COVER,
         "remarks": "❤️三线直播",
         "type": "m3u",
@@ -676,20 +665,10 @@ ONLINE_LIVE_SOURCES = [
     {
         "id": "suxuang",
         "name": "💚suxuang",
-        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
         "cover": TV_COVER,
         "remarks": "suxuang",
         "type": "m3u",
-        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-    },
-    {
-        "id": "kulao_tv",
-        "name": "👖 裤佬TV直播",
-        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
-        "cover": TV_COVER,
-        "remarks": "裤佬TV直播源",
-        "type": "m3u",
-        "playerType": 2,
         "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
 ]
@@ -749,17 +728,7 @@ DOMAIN_SPECIFIC_HEADERS = {
             }
         }
     ],
-    "gongdian.top": [
-        {
-            "name": "宫殿直播专用",
-            "headers": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                "Accept": "*/*",
-                "Referer": "https://gongdian.top/",
-                "Connection": "keep-alive"
-            }
-        }
-    ],
+   
     "rihou.cc": [
         {
             "name": "日后源专用-Chrome",
