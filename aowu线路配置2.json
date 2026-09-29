@@ -22,7 +22,7 @@
       "name": "🛒APP市场肥猫",
       "type": 3,
       "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
-      "api": "csp_Ajeo_Market",
+      "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
