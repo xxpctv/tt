@@ -3,6 +3,32 @@
   "warningText": "Ajeossi接口维护，追剧无忧！",
   "wallpaper": "",
   "sites": [
+  {
+      "key": "Market-Ajeo2",
+      "name": "🛒APP市场测试",
+      "type": 3,
+      "jar": "https://gitlab.com/jeossi/t/-/raw/main/Py/Ajeo-Market-trim2.jar",
+      "api": "csp_Ajeo_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "filterable": 1,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "categories": [
+          {
+            "name": "壳子",
+            "url": "https://pan.quark.cn/s/7675d475c0fe"
+          },
+          {
+            "name": "本地包",
+            "url": "https://pan.quark.cn/s/ee4ea23f4eaf"
+          }
+        ]
+      }
+    },
     {
       "key": "Market-Ajeo",
       "name": "🛒APP市场ʲᵃʳ",
