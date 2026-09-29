@@ -8,7 +8,7 @@
       "name": "🛒APP市场ʲᵃʳ",
       "type": 3,
       "jar": "https://gitlab.com/jeossi/t/-/raw/main/Py/Ajeo-Market.jar",
-      "api": "csp_Market",
+      "api": "csp_Ajeo_Market",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
