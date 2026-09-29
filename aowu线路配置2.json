@@ -4,6 +4,46 @@
   "wallpaper": "",
   "sites": [
     {
+      "key": "综合设置-肥猫PJ",
+      "name": "⚙️综合.配置",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_PanSettings",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "Market-Ajeo",
+      "name": "🛒APP市场肥猫",
+      "type": 3,
+      "jar": "https://cdn09022024.gitlink.org.cn/api/v1/repos/ajeo/k1/raw/Py/feimao.jar",
+      "api": "csp_Ajeo_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "filterable": 1,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "categories": [
+          {
+            "name": "OK影视壳",
+            "url": "https://pan.quark.cn/s/5c5da2c138b3"
+          },
+          {
+            "name": "工具包",
+            "url": "https://pan.quark.cn/s/afaef4d2c2c1"
+          }
+        ]
+      }
+    },
+    {
       "key": "Market-Ajeo",
       "name": "🛒APP市场ʲᵃʳ",
       "type": 3,
