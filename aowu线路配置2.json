@@ -3,32 +3,6 @@
   "warningText": "Ajeossi接口维护，追剧无忧！",
   "wallpaper": "",
   "sites": [
-  {
-      "key": "Market-Ajeo2",
-      "name": "🛒APP市场测试",
-      "type": 3,
-      "jar": "https://gitlab.com/jeossi/t/-/raw/main/Py/Ajeo-Market-trim5.jar",
-      "api": "csp_Ajeo_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "filterable": 1,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "categories": [
-          {
-            "name": "OK影视壳",
-            "url": "https://pan.quark.cn/s/322eeff3bb86"
-          },
-          {
-            "name": "工具包",
-            "url": "https://pan.quark.cn/s/b3270fe6d3d8"
-          }
-        ]
-      }
-    },
     {
       "key": "Market-Ajeo",
       "name": "🛒APP市场ʲᵃʳ",
