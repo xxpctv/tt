@@ -1,0 +1,87 @@
+{
+    "coverApis": [
+    "http://api.lbbb.cc/api/heisi",
+    "https://api.6045833.xyz/wsmeinv",
+    "https://api.eyabc.cn/api/picture/beauty",
+    "https://api.71xk.com/api/picture/v1",
+    "http://api.lbbb.cc/api/baisi"
+  ],
+  "cards": [
+    {
+      "id": "sv",
+      "name": "📱 短视频",
+      "kind": "shortVideo",
+      "flag": "短视频播放",
+      "episodes": 100,
+      "ratio": 0.75,
+      "cover": "cover",
+      "remarks": "点击播放短视频",
+      "sources": [
+        {"name": "🎬 小姐姐1", "api": "http://av.npcq.cn/pc.php"},
+        {"name": "🎬 小姐姐2", "api": "https://diskgirl.com/get/get2.php"},
+        {"name": "🎬 小姐姐3", "api": "https://www.xiaolufx.net/suiji/video.php?_t="},
+        {"name": "🎬 小姐姐4", "api": "https://www.cunshao.com/666666/api/web.php"},
+        {"name": "🎬 小姐姐5", "api": "http://api.yujn.cn/api/zzxjj.php"},
+        {"name": "🎬 小姐姐6", "api": "https://www.cunshao.com/666666/api/pc.php"},
+        {"name": "🎬 小姐姐7", "api": "https://v.api.aa1.cn/api/api-dy-girl/index.php?aa1=ajdu987hrjfw"},
+        {"name": "🎬 小姐姐8", "api": "https://api.ksse.cn/API/sp/sjxjj2.php"},
+        {"name": "🎬 小姐姐9", "api": "https://api.ksse.cn/API/sp/bs.php"},
+        {"name": "🎬 随机慢摇视频", "api": "https://api.bi71t5.cn/api/my.php"},
+        {"name": "🎬 少妇视频", "api": "http://v.nrzj.vip/video.php?_t=0.9"},
+        {"name": "🎬 高质量小姐姐", "api": "http://api.tinise.cn/api/xjjsp"},
+        {"name": "🎬 抖音小姐姐", "api": "http://api.qemao.com/api/douyin/"},
+        {"name": "🎬 完美身材", "api": "http://api.yujn.cn/api/wmsc.php?type=video"},
+        {"name": "🎬 快手变装", "api": "http://api.yujn.cn/api/ksbianzhuang.php?type=video"},
+        {"name": "🎬 抖音变装", "api": "http://api.yujn.cn/api/bianzhuang.php?"},
+        {"name": "🎬 随机小姐姐", "api": "http://api.yujn.cn/api/xjj.php?type=video"},
+        {"name": "🎬 女大学生", "api": "https://api.yujn.cn/api/nvda.php?type=video"},
+        {"name": "🎬 丝滑舞蹈", "api": "http://api.yujn.cn/api/shwd.php?type=video"},
+        {"name": "🎬 古风类", "api": "http://api.yujn.cn/api/hanfu.php?type=video"}
+      ]
+    },
+    {
+      "id": "gl",
+      "name": "🎨 画廊",
+      "kind": "gallery",
+      "count": 50,
+      "ratio": 0.75,
+      "cover": "cover",
+      "remarks": "点击查看50张",
+      "sources": [
+        {"name": "🎨 图源B", "api": "https://api-v2.cenguigui.cn/api/meizi/"},
+        {"name": "🎨 图源C", "api": "https://api.bi71t5.cn/api/hs.php"},
+        {"name": "🎨 图源D", "api": "http://api.iappht.vip/api/suijixiaojiejietupian"},
+        {"name": "🎨 图源E", "api": "https://sucyan.top/api/tupian/jk.php"},
+        {"name": "🎨 图源F", "api": "https://a.aa.cab/mn2.api"},
+        {"name": "🎨 图源G", "api": "https://a.aa.cab/mn.api"},
+        {"name": "🎨 图源H", "api": "https://a.aa.cab/cos.api"},
+        {"name": "🎨 图源I", "api": "https://api.71xk.com/api/picture/v1"},
+        {"name": "🎨 图源J", "api": "https://api.6045833.xyz/wsbizhi"},
+        {"name": "🎨 图源k", "api": "http://api.lbbb.cc/api/heisi"},
+        {"name": "🎨 图源l", "api": "https://pic.ltywl.top/mn/pe.php"},
+        {"name": "🎨 图源m", "api": "https://api.6045833.xyz/meinv"},
+        {"name": "🎨 图源n", "api": "https://pic.ltywl.top/mn/api.php"},
+        {"name": "👗 丝袜美女", "api": "https://api.6045833.xyz/wsmeinv"},
+        {"name": "🎀 美女图片", "api": "http://ryapi.sbs/API/beauty.php"},
+        {"name": "🖼️ 漫画图库", "api": "https://pic.ltywl.top/mn/pe.php"},
+        {"name": "🤍 白丝系列", "api": "http://api.lbbb.cc/api/baisi"},
+        {"name": "🎇 桌面壁纸", "api": "https://api.xunjinlu.fun/api/img/index.php"},
+        {"name": "🌁 东篱随机壁纸", "api": "https://tu.ltyuanfang.cn/api/fengjing.php"},
+        {"name": "🌅 必应每日一图", "api": "https://bing.img.run/rand.php"}
+      ]
+    },
+    {
+      "id": "radio",
+      "name": "📻 广播",
+      "kind": "media",
+      "flag": "广播",
+      "ratio": 1,
+      "remarks": "央广直播频道",
+      "sources": [
+        {"name": "📢 中国之声", "api": "http://ngcdn001.cnr.cn/live/zgzs/index.m3u8"},
+        {"name": "💰 经济之声", "api": "http://ngcdn002.cnr.cn/live/jjzs/index.m3u8"},
+        {"name": "🎵 音乐之声", "api": "http://ngcdn003.cnr.cn/live/yyzs/index.m3u8"}
+      ]
+    }
+  ]
+}
