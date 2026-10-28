@@ -23,8 +23,8 @@ var LIVS_SOURCES = [
       "juzi_live": true
     },
 	{
-      "name": "捡的",
-      "url": "http://tv.qq163gmail.eu.org/tv.txt"
+      "name": "裤佬直播",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/pyapk/1/refs/heads/main/zby"
     },
     {
       "name": "平台直播",
