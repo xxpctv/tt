@@ -17,6 +17,17 @@ var LIVE_FILTER_TIMEOUT = 2500;  // 直播源加载时探测 host 可用性的�
 var liveHostCache = {};          // 本次会话内 host -> 'alive'/'dead', 避免同 host 重复探测
 
 var LIVS_SOURCES = [
+    {
+      "name": "央卫直播",
+      "type": 3,
+      "api": "./Py/央卫直播live-ysp.py"
+    },
+	 {
+      "key": "咕噜央视-海豚",
+      "name": "📡咕噜央视",
+      "type": 3,
+      "api": "./Py/咕噜央视.py"
+    },
 	{
       "name": "裤佬直播",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/pyapk/1/refs/heads/main/zby"
