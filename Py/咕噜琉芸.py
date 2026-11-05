@@ -19,7 +19,7 @@ except Exception:
 
 BASE = "http://103.45.132.22:19987/app/bn"
 UA = "Dalvik/2.1.0 (Linux; U; Android 11; Pixel 4)"
-DESC_PREFIX = "【琉🔹芸❤广告勿信👉剧情】📢"
+DESC_PREFIX = "【👉剧情】📢"
 
 # ============ 加密后端 (三级降级) ============
 _BACKEND = None
